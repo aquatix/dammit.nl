@@ -3,6 +3,7 @@ Date: 2007-02-18 05:00:01
 Slug: 20070218-blogmarks-for-sunday-18-february-2007
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

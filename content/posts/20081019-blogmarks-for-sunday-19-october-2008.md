@@ -3,6 +3,7 @@ Date: 2008-10-19 05:00:01
 Slug: 20081019-blogmarks-for-sunday-19-october-2008
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

@@ -3,6 +3,7 @@ Date: 2008-12-14 05:00:03
 Slug: 20081214-blogmarks-for-sunday-14-december-2008
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

@@ -3,6 +3,7 @@ Date: 2006-04-30 11:08:04
 Slug: 20060430-blogmarks-for-sunday-30-april-2006
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>The blogmarks of this week:</p><h3><a href="http://www.boingboing.net/2006/04/29/stephen_colbert_kick.html">Stephen Colbert kicks ass at White House press corps dinner</a></h3>

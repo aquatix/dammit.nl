@@ -3,6 +3,7 @@ Date: 2009-01-18 22:33:07
 Slug: 20090118-blogmarks-for-sunday-18-january-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

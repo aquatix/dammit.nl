@@ -3,6 +3,7 @@ Date: 2009-02-01 17:36:14
 Slug: 20090201-blogmarks-for-sunday-01-february-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

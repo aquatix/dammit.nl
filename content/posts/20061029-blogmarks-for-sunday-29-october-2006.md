@@ -3,6 +3,7 @@ Date: 2006-10-29 05:00:01
 Slug: 20061029-blogmarks-for-sunday-29-october-2006
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

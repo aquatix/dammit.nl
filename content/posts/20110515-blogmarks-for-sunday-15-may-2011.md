@@ -3,6 +3,7 @@ Date: 2011-05-15 05:00:11
 Slug: 20110515-blogmarks-for-sunday-15-may-2011
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

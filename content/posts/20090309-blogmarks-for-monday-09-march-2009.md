@@ -3,6 +3,7 @@ Date: 2009-03-09 13:17:32
 Slug: 20090309-blogmarks-for-monday-09-march-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

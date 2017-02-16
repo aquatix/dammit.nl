@@ -3,6 +3,7 @@ Date: 2008-02-10 05:00:01
 Slug: 20080210-blogmarks-for-sunday-10-february-2008
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

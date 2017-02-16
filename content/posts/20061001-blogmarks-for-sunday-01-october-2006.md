@@ -3,6 +3,7 @@ Date: 2006-10-01 05:00:01
 Slug: 20061001-blogmarks-for-sunday-01-october-2006
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

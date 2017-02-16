@@ -3,6 +3,7 @@ Date: 2007-04-01 05:00:02
 Slug: 20070401-blogmarks-for-sunday-01-april-2007
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

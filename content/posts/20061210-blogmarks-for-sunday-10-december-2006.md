@@ -3,6 +3,7 @@ Date: 2006-12-10 12:00:33
 Slug: 20061210-blogmarks-for-sunday-10-december-2006
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

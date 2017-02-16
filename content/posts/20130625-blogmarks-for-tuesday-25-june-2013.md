@@ -3,6 +3,7 @@ Date: 2013-06-25 12:32:45
 Slug: 20130625-blogmarks-for-tuesday-25-june-2013
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

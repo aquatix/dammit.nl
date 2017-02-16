@@ -3,6 +3,7 @@ Date: 2007-03-04 05:00:01
 Slug: 20070304-blogmarks-for-sunday-04-march-2007
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

@@ -3,6 +3,7 @@ Date: 2008-10-26 05:00:01
 Slug: 20081026-blogmarks-for-sunday-26-october-2008
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

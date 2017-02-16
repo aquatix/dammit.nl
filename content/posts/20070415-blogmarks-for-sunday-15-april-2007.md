@@ -3,6 +3,7 @@ Date: 2007-04-15 05:00:01
 Slug: 20070415-blogmarks-for-sunday-15-april-2007
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

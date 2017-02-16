@@ -3,6 +3,7 @@ Date: 2008-12-28 05:00:03
 Slug: 20081228-blogmarks-for-sunday-28-december-2008
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

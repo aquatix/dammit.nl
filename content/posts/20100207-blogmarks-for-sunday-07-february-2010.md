@@ -3,6 +3,7 @@ Date: 2010-02-07 05:00:02
 Slug: 20100207-blogmarks-for-sunday-07-february-2010
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

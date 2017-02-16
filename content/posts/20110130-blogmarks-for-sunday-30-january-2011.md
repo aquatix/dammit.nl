@@ -3,6 +3,7 @@ Date: 2011-01-30 13:54:14
 Slug: 20110130-blogmarks-for-sunday-30-january-2011
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

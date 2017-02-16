@@ -3,6 +3,7 @@ Date: 2009-07-26 05:00:02
 Slug: 20090726-blogmarks-for-sunday-26-july-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

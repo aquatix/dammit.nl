@@ -3,6 +3,7 @@ Date: 2008-09-21 05:00:02
 Slug: 20080921-blogmarks-for-sunday-21-september-2008
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

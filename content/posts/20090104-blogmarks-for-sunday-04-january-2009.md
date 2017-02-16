@@ -3,6 +3,7 @@ Date: 2009-01-04 12:48:43
 Slug: 20090104-blogmarks-for-sunday-04-january-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

@@ -3,6 +3,7 @@ Date: 2011-02-06 05:00:01
 Slug: 20110206-blogmarks-for-sunday-06-february-2011
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

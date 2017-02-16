@@ -3,6 +3,7 @@ Date: 2009-04-19 05:00:01
 Slug: 20090419-blogmarks-for-sunday-19-april-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

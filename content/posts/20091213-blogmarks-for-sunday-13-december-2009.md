@@ -3,6 +3,7 @@ Date: 2009-12-13 05:00:02
 Slug: 20091213-blogmarks-for-sunday-13-december-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

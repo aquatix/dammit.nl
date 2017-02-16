@@ -3,6 +3,7 @@ Date: 2006-12-25 13:17:22
 Slug: 20061225-blogmarks-for-monday-25-december-2006
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

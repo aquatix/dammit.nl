@@ -3,6 +3,7 @@ Date: 2009-11-08 05:00:02
 Slug: 20091108-blogmarks-for-sunday-08-november-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

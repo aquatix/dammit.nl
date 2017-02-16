@@ -3,6 +3,7 @@ Date: 2007-11-11 05:00:01
 Slug: 20071111-blogmarks-for-sunday-11-november-2007
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

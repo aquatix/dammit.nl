@@ -3,6 +3,7 @@ Date: 2009-02-23 00:20:49
 Slug: 20090223-blogmarks-for-monday-23-february-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

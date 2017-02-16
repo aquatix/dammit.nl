@@ -3,6 +3,7 @@ Date: 2010-01-24 05:00:02
 Slug: 20100124-blogmarks-for-sunday-24-january-2010
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

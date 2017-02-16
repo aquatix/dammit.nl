@@ -3,6 +3,7 @@ Date: 2008-05-11 05:00:01
 Slug: 20080511-blogmarks-for-sunday-11-may-2008
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

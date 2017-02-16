@@ -3,6 +3,7 @@ Date: 2009-02-15 23:34:06
 Slug: 20090215-blogmarks-for-sunday-15-february-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

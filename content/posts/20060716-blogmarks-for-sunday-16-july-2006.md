@@ -3,6 +3,7 @@ Date: 2006-07-16 05:00:01
 Slug: 20060716-blogmarks-for-sunday-16-july-2006
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

@@ -3,6 +3,7 @@ Date: 2007-06-17 05:00:01
 Slug: 20070617-blogmarks-for-sunday-17-june-2007
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

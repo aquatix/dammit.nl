@@ -3,6 +3,7 @@ Date: 2009-05-17 05:00:01
 Slug: 20090517-blogmarks-for-sunday-17-may-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

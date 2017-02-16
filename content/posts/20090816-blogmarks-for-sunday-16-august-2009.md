@@ -3,6 +3,7 @@ Date: 2009-08-16 05:00:02
 Slug: 20090816-blogmarks-for-sunday-16-august-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

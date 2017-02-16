@@ -3,6 +3,7 @@ Date: 2011-02-20 05:00:02
 Slug: 20110220-blogmarks-for-sunday-20-february-2011
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

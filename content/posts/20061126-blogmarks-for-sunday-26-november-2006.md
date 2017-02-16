@@ -3,6 +3,7 @@ Date: 2006-11-26 11:46:16
 Slug: 20061126-blogmarks-for-sunday-26-november-2006
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

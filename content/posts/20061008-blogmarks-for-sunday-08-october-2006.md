@@ -3,6 +3,7 @@ Date: 2006-10-08 05:00:02
 Slug: 20061008-blogmarks-for-sunday-08-october-2006
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

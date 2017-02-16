@@ -3,6 +3,7 @@ Date: 2009-05-24 05:00:01
 Slug: 20090524-blogmarks-for-sunday-24-may-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

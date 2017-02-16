@@ -3,6 +3,7 @@ Date: 2011-04-24 05:00:04
 Slug: 20110424-blogmarks-for-sunday-24-april-2011
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

@@ -3,6 +3,7 @@ Date: 2006-06-04 05:00:01
 Slug: 20060604-blogmarks-for-sunday-04-june-2006
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

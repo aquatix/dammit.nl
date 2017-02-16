@@ -3,6 +3,7 @@ Date: 2008-03-16 05:00:02
 Slug: 20080316-blogmarks-for-sunday-16-march-2008
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

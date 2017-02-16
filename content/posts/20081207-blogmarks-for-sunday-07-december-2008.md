@@ -3,6 +3,7 @@ Date: 2008-12-07 05:00:02
 Slug: 20081207-blogmarks-for-sunday-07-december-2008
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

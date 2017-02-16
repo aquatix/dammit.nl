@@ -3,6 +3,7 @@ Date: 2011-04-03 05:00:03
 Slug: 20110403-blogmarks-for-sunday-03-april-2011
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

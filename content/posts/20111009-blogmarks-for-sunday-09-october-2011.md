@@ -3,6 +3,7 @@ Date: 2011-10-09 05:00:37
 Slug: 20111009-blogmarks-for-sunday-09-october-2011
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

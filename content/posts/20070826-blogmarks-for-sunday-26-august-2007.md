@@ -3,6 +3,7 @@ Date: 2007-08-26 05:00:02
 Slug: 20070826-blogmarks-for-sunday-26-august-2007
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

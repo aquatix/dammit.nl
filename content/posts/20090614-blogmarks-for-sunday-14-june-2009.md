@@ -3,6 +3,7 @@ Date: 2009-06-14 05:00:01
 Slug: 20090614-blogmarks-for-sunday-14-june-2009
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

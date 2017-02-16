@@ -3,6 +3,7 @@ Date: 2008-04-20 05:00:02
 Slug: 20080420-blogmarks-for-sunday-20-april-2008
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

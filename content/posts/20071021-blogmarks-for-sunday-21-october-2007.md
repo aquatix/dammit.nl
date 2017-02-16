@@ -3,6 +3,7 @@ Date: 2007-10-21 05:00:03
 Slug: 20071021-blogmarks-for-sunday-21-october-2007
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>

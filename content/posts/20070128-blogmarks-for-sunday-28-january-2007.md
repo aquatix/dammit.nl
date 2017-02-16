@@ -3,6 +3,7 @@ Date: 2007-01-28 05:00:02
 Slug: 20070128-blogmarks-for-sunday-28-january-2007
 Location: Server
 Authors: Michiel Scholten
+Category: blogmarks
 Tags: blogmarks
 
 <p>Interesting links of this week:</p>
