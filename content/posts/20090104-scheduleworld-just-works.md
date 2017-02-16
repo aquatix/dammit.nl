@@ -1,0 +1,15 @@
+Title: ScheduleWorld just works
+Date: 2009-01-04 16:37:58
+Slug: 20090104-scheduleworld-just-works
+Location: Home
+Authors: Michiel Scholten
+
+<p>For years I've been wanting to synchronise my Sony Ericsson m600i smartphone with pc software. This would both provide a backup and a comfortable way of editing my agenda, contacts, todo's and whatmore, just like I did before with my Palm devices. I already had tried the <a href="http://www.funambol.com/">Funambol</a> <a href="http://en.wikipedia.org/wiki/SyncML">SyncML</a> software on my own home server, but that didn't work out quite well, messing up data. <a href="http://scheduleworld.com/">ScheduleWorld</a> had the same issues back then, as it was/is just a tweaked version of Funambol. So I stuck with having my phone as stand-alone agenda (which is quite fine with me, having it always on me) and as one of the almost-a-dozen contact stores I have on my various devices and programs.</p>
+
+<p>Fast forward to a few weeks back. I started playing around with Google Calendar and quite liking it in the meanwhile. Also, Evolution has now build-in synchronisation with it, and it's <a href="https://addons.mozilla.org/en-US/thunderbird/addon/4631">really easy to synchronise</a> with <a href="http://www.mozilla.org/projects/calendar/lightning/">Mozilla's Lightning</a> too. However, I'm wary of giving Google even more of my data, alongside my search history and the (rss/atom) feeds I read in Google Reader, so before I started contemplating buying an <a href="http://code.google.com/android/">Android</a> phone (as I'm quite liking the looks of <a href="http://www.engadget.com/2008/12/02/nokia-unveils-flagship-n97-phone/">the upcoming Nokia N97</a> - <a href="http://www.engadget.com/2008/12/02/nokia-n97-hands-on/">more pics</a>), I decided to give the renewed ScheduleWorld a spin. Aside from having an interesting new frontend (using all kinds of javascript-y web2.0 stuff and looking at Google Calendar really well), it now seems to not mess up my data anymore. So I can finally see and edit my agenda on my workstation, laptop, phone and even comfortably on the web. It even syncs the notes on my phone.</p>
+
+<p>The phone does SyncML from itself (with instructions on the ScheduleWorld site it's a breeze), but Evolution has to be helped a bit by installing <a href="http://www.estamos.de/projects/SyncML/">syncevolution</a>. On Debian-like systems (so on Ubuntu too), you can install it by adding the following repository to your /etc/apt/sources.list and installing the syncevolution package:</p>
+
+<pre>deb http://www.estamos.de/download/apt stable main</pre>
+
+<p>[<a href="http://www.estamos.de/projects/SyncML/Installation.html">More information</a>]. It can also be installed on Nokia's Internet Tablets, which I'm going to try later to complete my usage, for example with <a href="http://www.pimlico-project.org/">the Pimlico suite</a>. Getting your config to work with ScheduleWorld <a href="http://www.estamos.de/projects/SyncML/GettingStarted.html">is described here in detail</a>. I'm happily keeping my data in sync again :)</p>

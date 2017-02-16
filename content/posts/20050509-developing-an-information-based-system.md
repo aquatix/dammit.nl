@@ -1,0 +1,11 @@
+Title: Developing an information based system
+Date: 2005-05-09 14:54:29
+Slug: 20050509-developing-an-information-based-system
+Location: Home
+Authors: Michiel Scholten
+
+<p>I've been busy lately; the obligatory working days, doing some examinations [late in the evening... what's the use of that?], visiting family and working on <a href="/page/html/overload/">my overload project</a>. I've been working off and on that application since the 17th of March, and it's getting a bit mature, at least for the engine part. I've almost finished the "new user subscribe" functionality, and then I'll finish the "manage feeds" handling. I've been using that kind of functionality right on the database until now, but as I want it to be actually used by others, it would be nice to have a decent <acronym title="User Interface">UI</acronym> ;) Hang on a few more hours for a new snapshot on aquariusoft's live <a href="/overload/">overload</a>.</p>
+
+<p>Yesterday the application passed the 10000 items landmark, so I was wondering how I could use the stored information to open up information in a usable way. Of course there's the standard Search and the e-mailboxes like hierarchy, but I was wondering how I could organize the information better, and eliminate <a href="http://www.ok-cancel.com/archives/article/2005/05/how-do-you-spell-rss.html">the echo in blogosphere</a> [<a href="http://www.ok-cancel.com/comic/86.html">see comic too</a>]. <a href="http://developers.technorati.com/wiki/attentionxml">attention.xml</a> seems interesting, so when I finish the basic functionality, I'll look into those semantic solutions and will try to add them to <a href="/overload/">the overload reader</a>.</p>
+
+<p>"overload" has been proven to be a well-chosen name, as I tend to spend quite a lot of time reading items in it, so I'll try and making that task easier ["new items of today" view, filters for "items of last 24 hours/last 7 days" etc], as I don't want spending 50% of my days just reading information, not learning all that much new stuff. Of course I could just delete a whole bunch of feeds from my list, but I'd rather keep them [as I don't read the whole lot of them _every_ day anyway]. Any ideas on better representing the information in an easier way? Or any ideas for <a href="/overload/">overload</a> in general?</p>

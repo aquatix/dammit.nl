@@ -1,0 +1,12 @@
+Title: Scary stuff
+Date: 2004-06-05 18:18:05
+Modified: 2004-06-06 17:30:00
+Slug: 20040605-scary-stuff
+Location: Work
+Authors: Michiel Scholten
+
+<p>After a week in which a mother killed her own three children to be able to keep them near her after her death [she killed herself by jumping in front of a train; she wanted some peace after a fight with her ex-husband lasting for years], someone <a href="http://news.yahoo.com/news?tmpl=story&amp;u=/nm/20040604/wl_nm/colombia_baby_dc_1">stealing a baby from the mother's womb</a> and <a href="http://news.yahoo.com/news?tmpl=story&amp;u=/ap/20040605/ap_on_re_us/bulldozer_rampage_15">a man in Granby, Colorado, America going on a rampage</a> [read: destroys town] with an armor-plated bulldozer because of losing some bitter battles with the local authorities [<a href="http://nu.nl/news.jsp?n=334593&amp;c=119">Dutch version</a>] there appeared an alarming piece [at least for windows users] about the <a href="http://slashdot.org/article.pl?sid=04/06/04/1835233">Korgo Virus for Win2k/XP recording keystrokes and such</a>. Another neat virus/trojan that's installed for free and without the user noticing it, not by the very nice remote installer program called Internet Explorer, but by the <acronym title="Remote Procedure Call">RPC</acronym> services of Windows. Yay for Microsoft.</p>
+
+<p>The Windows part isn't that scary [at least not to me, because I'm getting too used of those exploits appearing literally weekly and am using <a href="http://www.debian.org/">Debian GNU/Linux</a> myself], but the Dutch mother had me. I thought mothers couldn't kill their own children. I was wrong. I guess she did it out of love, because she wouldn't leave them in the big bad world all alone, or she didn't want their daddy to have them or something. Sad. Sad for those grantparents too; they wanted to visit the family for celebrating the anniversary of the oldest boy, which turned 9 last Saturday - the day it happened - only to find the three little boys dead. Must have been quite a scary for the friend of the mother too: she discovered the last cry for help of the mother in an SMS message on her cellphone the morning after. Ouch.</p>
+
+<p>BTW, I think it's a shitty way to kill yourself; jumping for a train [or from a high building or something] just gives to much waste to clean up and it scares people [think of those poor train drivers].</p>

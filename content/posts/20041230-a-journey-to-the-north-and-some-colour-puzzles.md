@@ -1,0 +1,9 @@
+Title: A journey to the north and some colour puzzles
+Date: 2004-12-30 00:07:24
+Slug: 20041230-a-journey-to-the-north-and-some-colour-puzzles
+Location: Home
+Authors: Michiel Scholten
+
+<p>Christmas was nice [except for the <a href="http://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake">terrible event in Asia</a>, may they be blessed with lots of tourists spending their money to rebuild the places]. We had presents on Christmas eve, more delicious food on Christmas day and went on a journey to the North of the Netherlands on Boxing day, because that's where my gf's dad lives. We had some nice weather until we had crossed the Afsluitdijk [large dike in Holland], where we encountered a frozen land with lots of fog. A nice view, except for the massive traffic jam we got stuck in. And that was only because of stupid people watching the wrecks on the other side where a large accident had happened. Stupid, stupid sheep. Ah well.</p>
+<p>We had some more presents, even more nice food and went to sleep quite early on an improvised bed [even that sleeps nicely when shared with your gf ;)]. The journey back was by train because the cars where needed by gf's brother to go to work and her father to go on a trip to Berlin. So, we went on a trip from about the most North-Eastern place in the Netherlands you can go by train to one of the most Western points :) And that by passing the big water in the middle of our country via the South. Quite a beautiful trip: lots of fog, frozen fields and trees and the sun trying to peep trough the haze.</p>
+<p>When returned home, we immediately went out organizing stuff for our new apartment and newly formed household. So, the last few days where characterized by stripping the rooms, looking for nice wallpaper, colour combinations and electrical gadgets and thinkering with necessary evil like assurances. We totally love our new home :)</p>

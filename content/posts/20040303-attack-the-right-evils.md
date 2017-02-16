@@ -1,0 +1,17 @@
+Title: Attack the right evils
+Date: 2004-03-03 20:47:20
+Slug: 20040303-attack-the-right-evils
+Location: Home
+Authors: Michiel Scholten
+
+<p>And when I'm at the subject of videogames; in the same interview he says the following:</p>
+<p>"You want to look at something that's screwing up kids' lives, drugs are a horrendously horrible, horrible problem. They're a very real problem that we haven't been able to deal with. You can go to a store and stop selling video games, so it's: "We did something! These kids aren't playing video games!" But now they're spending their money on drugs or something. We have these horrible, horrible problems in society that we just don't seem to be able to get traction on and so we look for other scapegoats."</p>
+
+<p>And, about my newest game addiction:</p>
+
+<p>Q: "What are your thoughts on <a href="http://www.mame.net/">MAME</a>? Does it bother you that you can surf the Net and get pretty much any one of your old arcade games up and running for free on your home PC?"</p>
+<p>"It's interesting. It's similar and different from the Napsterization of music. I guess it's similar in the sense that you have this huge body of material that is now available essentially free to run on your PC. They have software that emulates virtually any system ever made from Atari 2600 to arcade games to even some of the later Nintendo systems. You have all these games being provided free to people. Game designers are obviously not getting any royalties, although they probably never got royalties anyway.</p>
+<p>The one thing that makes that different is that all these platforms are pretty much dead -- they weren't really economically viable, and, in fact, a lot of these games were in danger of becoming extinct. In some ways, this amazing underground community that has, through all kinds of volunteer efforts -- if you had to pay people to do all of this stuff it would cost hundreds of millions of dollars to do this -- people have done it just for the love of the old games, so, in a sense, they've done a tremendous public service in preserving the old games to be played and enjoyed today. You also look at the number of Internet games pretty much just ripping off the old games and calling it something different, you know, changing a few things around and pretending it's an all-new, original game and they're not paying for the rights to those games either. Nobody really lost any revenue due to the whole thing, so there really isn't a victim.</p>
+<p>In my mind, I see it as a wonderful thing that these games are out there being enjoyed. As a creative person, and I think even musicians would agree with this, your No. 1 objective is not to make money, your No. 1 objective is to get people to enjoy your creative product. To listen to your song, to play your game, whatever. That's why you're in it. If you wanted to make money, you'd be out selling real estate or something. It's a wonderful, wonderful thing to have this way for people to enjoy works of art and have great access to it. To have things that have been forgotten and out of print and in the dumpster revived and enjoyed by people. I'm amazed that people cared enough to do it."</p>
+
+<p>Wow, this turned out a rather large piece of text. Ah well, then my blog is finally getting some flesh around it's blue bones ;) BTW, all this is from <a href="http://www.salon.com/tech/feature/2004/03/02/eugene_jarvis/">the interview found here</a>.</p>

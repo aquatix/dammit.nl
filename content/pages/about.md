@@ -1,0 +1,72 @@
+Title: About
+Authors: Michiel Scholten
+Date: 2005-10-02
+Modified: 2014-04-09
+
+<!--
+	2005-10-02
+	0.3.05
+-->
+
+<h2>Forever beta</h2>
+<p>Ok, I've convinced myself I need to have a weblog^Wrantbox too. So what you are looking at is a site being the place to put my frustrations on :) Poluting the web since 2003-12-20!</p>
+<p>NB: if things seem a little fscked up, it's just me playing around. I try to do most weird hacks first on a try-out site, but sometimes I'm hacking right along at this live site. Keeps life interesting :)</p>
+
+
+<h2>"dammIT" ?</h2>
+<p>"Damn it" is an often heard phrase when working with computers. Well, at least, I use it a lot when I myself or the software I use do stupid things ;) <acronym title="Information Technology">IT</acronym> speaks for itself; my hobby, study and work is all about computers and related stuff: mostly <acronym title="Operating System">OS</acronym>'es, various software and web development. So, "dammIT" kinda wraps up my life :) (Well, not quite, I seem to have a real life too, including my lovely girlfriend^H^H^H^H^H^H^H^H^H^H<a href="http://inekemichiel.nl">wife</a>, and I'll write about all aspects in my life. Luckily, I do stupid things in the real world too.)</p>
+<p>Call it a lame name, I don't care.</p>
+
+
+<h2>Why this weblog?</h2>
+<p>Yeah, why? Well basically to have some place to write down my frustrations. But also for thinking out loud (which I hope will happen more often than me being frustrated), and sharing some <a href="/m">niceties</a> I found on the web with anybody who cares reading this weblog. So, since the 20th of December of the year 2003 you can read about me. Oh rejoice :)</p>
+
+<h3>Whoami</h3>
+<p>I'm a (backend) developer with a big media company in the Netherlands. You can find <a href="http://diginaut.net">more information about me on diginaut.net</a>.</p>
+
+<p>/me has been a student <a href="http://www.cs.vu.nl/">Computer Science</a> at the <a href="http://www.vu.nl/">Vrije Universiteit</a> in Amsterdam and working with the Royal Dutch Navy, where I did my Master research project too. <a href="http://www.cs.vu.nl/~mbscholt/">My homepage at the VU</a> contains some information about me, but is getting really dated (last update early 2004...). <a href="http://aquariusoft.org/">aquariusoft.org</a> is home to my projects. You can also find links to other sites, like <a href="http://aquariusoft.org/photos">my gallery</a> there.</p>
+
+<h3>You seem to be a Dutchie. Why do you pretend to write English?</h3>
+<p>Mainly because of the exercise I get through it. I like reading other weblogs, preferably in a language I understand, which boils down to Dutch and English. As most content I consume nowadays is in English, I choose to write in that language too. And now I get a reader or three extra ;)</p>
+
+
+<h2>This weblog</h2>
+<p>I started this website before software like Wordpress became usable (or even existed) and also because I liked to write such a content management system. Maybe I'll find versions of the code from the time period between 2003 and 2006, but I started version control in 2006 so the <a href="https://github.com/aquatix/dammit">dammIT sourcecode</a> that <a href="">I published on Github for everyone to see</a> starts its history there.</p>
+
+<h3>Bugs, issues, features?</h3>
+<p>As the <a href="https://github.com/aquatix/dammit">source is open</a> and I like to hear your suggestions, you <a href="https://github.com/aquatix/dammit/issues">can file tickets</a> with your findings. If you happen to use my code, I'm even more interested in your opinion :)</p>
+
+<h3 id="browser">Browser stuff</h3>
+<p>People who develop for the web know how hard it can be to Do It Right&trade;. Browsers (like <acronym title="Internet Exploder">IE</acronym>) don't play nice with <acronym title="Cascading Style Sheets">CSS</acronym>, you just can't get that colour right or the database speaks another tongue <acronym title="Structured Query Language (database language)">SQL</acronym> than you do. I've been through all of it and more, but I managed to make this piece standards compliant and viewable by Any Browser&trade; you like, even lynx and screenreaders. I'm quite proud :)</p>
+
+<h3>Rights stuff</h3>
+<p>Contents are &copy; 2003-2014 <i>dammit at aquariusoft.org</i>, but are licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>, except for quotes and art from others, which are property of the respective creators of course.</p>
+<p>Powered by Blood, Sweat, Wine and the occassional Whisky&trade;</p>
+
+
+<h2>Contact</h2>
+<p>E-mail about contents, design or something else about this weblog can be send to <i>dammit at aquariusoft.org</i>.</p>
+
+
+<h2>Plugs</h2>
+<!--
+<div id="whitebox">
+	<a href="http://counter.li.org/"><img src="images/317356.gif" alt="Counted at Li.org" title="Counted as Linux user #317356"/></a>
+	<a href="http://www.morphix.org/"><img src="images/morphix_logo.gif" alt="Morphix logo" title="Official Morphix fan"/></a>
+</div>
+-->
+
+<div class="embeddedobject">
+
+<div style="width: 49%; float: left">
+<!--<div class="content-image"><div><a href="http://counter.li.org/"><img title="Counted as Linux user #317356" src="/images/logos/317356.png" alt="Counted at Li.org" /></a></div></div>-->
+<div class="content-image"><div><a href="https://linuxcounter.net/user/317356.html"><img title="Counted as Linux user #317356" src="https://linuxcounter.net/cert/317356.png" alt="Counted at LinuxCounter.net" /></a></div></div>
+<div class="content-image"><div><a href="http://soleus.nu/"><img src="/images/content/soleus.png" alt="Soleus VPS Community logo" title="Soleus VPS Community" /></a></div></div>
+</div>
+<div style="width: 49%; float: left;">
+<div class="content-image"><div><a href="http://morphix.org/"><img title="Official Morphix fan" src="/images/logos/morphix_logo.gif" alt="Morphix logo" /></a></div></div>
+</div>
+<div class="content-image"><div><a href="http://steamcommunity.com/id/aquariusoft"><img title="My Steam Profile and status" src="http://steamprofile.com/steam/profile/steamprofile/aquariusoft.png" alt="My Steam Status" /></a></div></div>
+<br style="clear: both;" />
+
+</div>
