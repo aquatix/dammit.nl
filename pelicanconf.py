@@ -26,8 +26,14 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
+SOCIAL = (
+    ('<i class="fa-li fa fa-twitter"></i> Twitter', 'https://twitter.com/michielscholten'),
+    ('<i class="fa-li fa fa-github"></i> Github', 'https://github.com/aquatix'),
+)
+
+#GITHUB_URL = 'https://github.com/aquatix'
 
 DEFAULT_PAGINATION = False
 
@@ -35,3 +41,6 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 THEME = '../../github/w3-personal-blog'
+
+DISPLAY_PAGES_ON_MENU = True
+#DEFAULT_PAGINATION = 10
