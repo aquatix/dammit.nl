@@ -3,6 +3,7 @@ Date: 2004-09-12 23:40:21
 Slug: 20040912-party-induced-comas-considered-healthy
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Finished my breakfast at about 3PM today after about 12 hours of sleep. That twelve hours compensated for the about 2.5 hours of sleep I got the night before, at Alex' place, after a night of drinking beer, wandering around looking for a train [missing the last one home], wandering over to a pub, having a good time again, going back to Alex' place to watch <em>I, robot</em> while being barely awake and falling asleep at the couch. Coffee really helped with getting me started again [read: not yet awake then]. I wasn't quite awake while getting to work by train, metro and foot too, and only after three Red Bulls, the Prodigy and lunch I was starting to actually getting some work done again. Ah well, it wasn't a bad day. A quite fun one even, making fun with coworkers.</p>
 

@@ -4,7 +4,7 @@ Slug: 20080608-blogmarks-for-sunday-08-june-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.youtube.com/watch?v=zKAW96N-Vms">YouTube - BANNED Adam and Eve, the gay version</a></h3>

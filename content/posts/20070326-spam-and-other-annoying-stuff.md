@@ -3,6 +3,7 @@ Date: 2007-03-26 09:57:18
 Slug: 20070326-spam-and-other-annoying-stuff
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>And I'm at the exactly 6000 spam messages again in my email spam folder, counting from the first of January this year. That'd be... well, about 70,59 messages per day. Thank the gods for Spamassassin...</p>
 

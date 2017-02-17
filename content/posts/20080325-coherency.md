@@ -3,6 +3,7 @@ Date: 2008-03-25 09:37:29
 Slug: 20080325-coherency
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>*grin*, how coherent was <a href="http://aquariusoft.org/~mbscholt/index.php?rantid=668">that</a>? :) I guess that intartubes thingee is melting my brain or something.</p>
 

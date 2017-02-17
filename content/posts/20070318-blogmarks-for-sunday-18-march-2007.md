@@ -4,7 +4,7 @@ Slug: 20070318-blogmarks-for-sunday-18-march-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://blog.rightbrainnetworks.com/2007/01/28/who-killed-the-webmaster/">Who Killed the Webmaster?</a></h3>

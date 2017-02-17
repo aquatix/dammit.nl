@@ -3,6 +3,7 @@ Date: 2008-12-31 18:35:33
 Slug: 20081231-frozen-world
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <div class="content-image"><div><a href="http://aquariusoft.org/gallery/v/photographs/photolog/IMG_5807.html"><img src="http://aquariusoft.org/gallery/d/5778-2/IMG_5807" alt="Ice block" title="Crystal" /></a></div></div>
 <br style="clear: both;" />

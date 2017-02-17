@@ -3,6 +3,7 @@ Date: 2005-08-01 14:32:55
 Slug: 20050801-windows-userfriendly-gui
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <blockquote><p class="quote">The nice thing about Windows is - It does not just crash, it displays a dialog box and lets you press 'OK' first.</p></blockquote>
 

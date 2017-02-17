@@ -3,6 +3,7 @@ Date: 2004-01-24 10:50:38
 Slug: 20040124-downs-and-ups
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Whee! Finished coding the <acronym title="HTTP client">httpc</acronym> and <acronym title="HTTP daemon aka server">httpd</acronym> yesterday. Some extensive testing of the daemon has been done already, but I should make it a little more solid. You can let it hang by sending just the request "blah" to it, without linefeeds ;)</p>
 <p>Anyway, when finally using your TCP implementation, all nasty bugs begin to surface. We spend a whole lot of time searching for the source of a particular one, because it didn't always manifest and it was really lowlevel...</p>

@@ -3,6 +3,7 @@ Date: 2006-06-21 13:51:39
 Slug: 20060621-brain-dump-326-integrating-various-kinds-of-contacts-into-one
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>So I'm carying a PalmOS pda and a cellphone with contacts. On my workstations I have <a href="http://www.mozilla.com/thunderbird/">Thunderbird</a> with its address book, <a href="http://jpilot.org/">JPilot</a> for synchronising my pda with, <a href="http://gaim.sf.net/">Gaim</a> for IM'ing friends and the SIP based <a href="http://www.gnomemeeting.org/">Ekiga</a> for Voice over IP [I won't talk about Skype, as they seem to not care about any other platform than windows anyway]. That's quite some varying places to keep contact information, and this way I have to search for all my correspondence with a certain person [about a certain subject] in all kinds of places. OK, <a href="http://beaglewiki.org/">Beagle</a> may be a help on my workstations, but it isn't nearly as exact as I'd want it to be.</p>
 

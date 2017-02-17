@@ -4,7 +4,7 @@ Slug: 20071209-blogmarks-for-sunday-09-december-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.smashingmagazine.com/2007/11/26/monday-inspiration-user-experience-of-the-future/">User Experience Of The Future</a></h3>

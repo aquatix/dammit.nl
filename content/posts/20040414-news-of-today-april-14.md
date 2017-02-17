@@ -3,6 +3,7 @@ Date: 2004-04-14 23:15:04
 Slug: 20040414-news-of-today-april-14
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>First of all [text borrowed from <a href="http://www.debian.org/">Debian.org</a>]: protest against <a href="http://webshop.ffii.org/">software patents</a> in Europe.</p>
 <p>Most software will become <a

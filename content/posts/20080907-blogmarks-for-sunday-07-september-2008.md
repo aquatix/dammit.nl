@@ -4,7 +4,7 @@ Slug: 20080907-blogmarks-for-sunday-07-september-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.crosscut.com/politics-government/17341">About Sarah Palin: an e-mail from Wasilla</a></h3>

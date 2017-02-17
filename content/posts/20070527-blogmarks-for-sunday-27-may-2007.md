@@ -4,7 +4,7 @@ Slug: 20070527-blogmarks-for-sunday-27-may-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.revfad.com/flip.html">Flip your text upside down</a></h3>

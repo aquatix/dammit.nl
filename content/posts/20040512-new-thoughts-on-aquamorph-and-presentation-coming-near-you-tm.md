@@ -3,6 +3,7 @@ Date: 2004-05-12 00:34:01
 Slug: 20040512-new-thoughts-on-aquamorph-and-presentation-coming-near-you-tm
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I just updated <a href="/?section=linux&amp;page=aquamorph">the aquamorph page</a> with new thoughts and some general information. I want to do some work on it again, because I like it's concept and the previous release is becoming - well - ancient. I think that if I find time to do some testing next week, I can release a new version at the end of that same week. However, exams are drawing near [they are the week after next week...], so maybe it gets delayed. Again.</p>
 

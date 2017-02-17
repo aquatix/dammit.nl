@@ -4,7 +4,7 @@ Slug: 20061217-blogmarks-for-sunday-17-december-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.boingboing.net/2006/12/15/pirates_of_the_carib.html">Pirates of the Caribbean: behind the ILM digital effects</a></h3>

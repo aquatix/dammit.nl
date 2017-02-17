@@ -4,7 +4,7 @@ Slug: 20061008-blogmarks-for-sunday-08-october-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.gnu.org/philosophy/no-word-attachments.html">We Can Put an End to Word Attachments</a></h3>

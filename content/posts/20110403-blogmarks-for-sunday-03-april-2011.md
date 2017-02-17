@@ -4,7 +4,7 @@ Slug: 20110403-blogmarks-for-sunday-03-april-2011
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://livlily.blogspot.com/2011/03/batman-tv-series-19921995-storyboards.html">Batman (TV Series 1992â€“1995) - Storyboards</a></h3>

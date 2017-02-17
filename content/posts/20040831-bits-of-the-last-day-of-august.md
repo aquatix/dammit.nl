@@ -3,6 +3,7 @@ Date: 2004-08-31 16:05:04
 Slug: 20040831-bits-of-the-last-day-of-august
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>It still rains. Not continuously, but it's still wet outside. Damn, ye $WEATHERDEITY! Oh no, now the sun tries to shine. Heh, it just failed.</p>
 <p>August should have been the hottest month of the year. Instead it became <a href="http://nu.nl/news.jsp?n=389893&amp;c=74">the wettest August in 50 years</a> [Dutch link]. And I am currently enjoying my last week off. A well, good weather for hacking or working.</p>

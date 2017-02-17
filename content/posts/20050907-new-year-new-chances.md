@@ -3,6 +3,7 @@ Date: 2005-09-07 12:09:34
 Slug: 20050907-new-year-new-chances
 Location: VU - Computer Lab
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>So I'm sitting here in a computer lab [windows...] at the Vrije Universiteit, enrolling on a new course: Advanced Topics in Software Design. Sounds kinda interesting, but it will be lots of work. Thank Light we're doing it in a group of three :)</p>
 

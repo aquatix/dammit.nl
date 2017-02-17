@@ -4,7 +4,7 @@ Slug: 20091206-blogmarks-for-sunday-06-december-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://creativenerds.co.uk/freebies/50-best-free-fonts-from-2009/">50 Best Free Fonts From 2009</a></h3>

@@ -3,6 +3,7 @@ Date: 2005-10-10 14:12:54
 Slug: 20051010-firefly-character
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I really love the series [got the DVD box here sitting next to me], so when I discovered there was a quiz of it, I took it [thanks <a href="http://galaxycow.com/blogs/vermyndax/archive/2005/10/05/2345.aspx">Vermyndax</a>!]. I don't know how accurate this is, but here's the result of the test:</p>
 

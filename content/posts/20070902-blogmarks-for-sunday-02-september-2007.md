@@ -4,7 +4,7 @@ Slug: 20070902-blogmarks-for-sunday-02-september-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://shiflett.org/articles/the-truth-about-sessions">The Truth about Sessions</a></h3>

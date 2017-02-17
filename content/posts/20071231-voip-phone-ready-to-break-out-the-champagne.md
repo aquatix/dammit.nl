@@ -3,6 +3,7 @@ Date: 2007-12-31 10:38:30
 Slug: 20071231-voip-phone-ready-to-break-out-the-champagne
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>But I think it'll have to wait a few more hours:</p>
 

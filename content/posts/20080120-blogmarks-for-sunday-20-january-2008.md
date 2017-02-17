@@ -4,7 +4,7 @@ Slug: 20080120-blogmarks-for-sunday-20-january-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.backscatterer.org/?target=backscatter">Backscatterer - or why you shouldn't send `rejected' mails</a></h3>

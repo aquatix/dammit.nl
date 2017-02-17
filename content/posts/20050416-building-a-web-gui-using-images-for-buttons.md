@@ -3,6 +3,7 @@ Date: 2005-04-16 17:27:29
 Slug: 20050416-building-a-web-gui-using-images-for-buttons
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I'm building a feedreader -- as you may have noticed -- and am considering using some graphical buttons instead of text links. I'm rather fond of text links, as they are light, clean etc etc, but a good icon can be way more explaining while taking less screen estate.</p>
 

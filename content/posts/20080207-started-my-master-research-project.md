@@ -3,6 +3,7 @@ Date: 2008-02-07 13:33:52
 Slug: 20080207-started-my-master-research-project
 Location: Vrije Universiteit - Linux lab
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>If you missed me for a few days [right...], I've been on my new working place, the office of a department of the Dutch navy that designs, integrates and implements the various devices on board of a ship. Internet use is limited, so communication with the outside world has slowed down a little. Didn't help I was quite tired at the end of the days also, partly because of a coding spree I held in the night from Sunday to Monday :)</p>
 

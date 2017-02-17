@@ -3,6 +3,7 @@ Date: 2008-09-18 13:04:11
 Slug: 20080918-beautiful-perfect-supreme-chunk-of-paper
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I started this piece as a blogmark, but decided to make a decent post out of it. The BBC has an <a href="http://news.bbc.co.uk/2/hi/uk_news/magazine/7619303.stm">interesting piece on the case for books in an era which sees e-book readers coming into play</a>:</p>
 

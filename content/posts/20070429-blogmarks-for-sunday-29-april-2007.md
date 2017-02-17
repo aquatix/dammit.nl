@@ -4,7 +4,7 @@ Slug: 20070429-blogmarks-for-sunday-29-april-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.style.org/unladenswallow/">Estimating the Airspeed Velocity of an Unladen Swallow</a></h3>

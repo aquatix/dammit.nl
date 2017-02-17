@@ -4,6 +4,7 @@ Modified: 2004-11-04 23:33:09
 Slug: 20041104-i-ve-lost-faith-in-the-world
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p><a href="http://www.alextreme.org/drupal/?q=node/view/279">Alex describes exactly how I felt yesterday</a> [and still feel now]. I couldn't have said it better. Problem with "America voted for another 4 years, then they deserve him for another 4 years" is that we have to suffer it for another 4 years too... As to speak with <a href="http://www.electoral-vote.com/">the Votemaster</a>:</p>
 

@@ -4,6 +4,7 @@ Modified: 2004-04-19 17:44:30
 Slug: 20040419-antivirus-spam-by-isps
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>When will <acronym title="Internet Service Provider">ISP</acronym>s finally realize that the replies with "you've send an e-mail that contains a virus to one of our addresses" [in this case Netsky.Q] are futile? Those viruses contain made up From: addresses, so you don't even know who send it at all. I don't want to be spammed by those antivirus software systems. I don't even run Windows, so I can't even be infected, how hard I try. [Well, I don't try that hard, but you get the point].</p>
 <p>This reaction is to an e-mail I just got from <a href="http://www.hetnet.nl/">a Dutch ISP</a> [I've got more of those e-mails lately, but those where from ISPs unknown to me]. I forwarded it to their info and abuse addresses, because I want it to be out of this world one and for all.</p>

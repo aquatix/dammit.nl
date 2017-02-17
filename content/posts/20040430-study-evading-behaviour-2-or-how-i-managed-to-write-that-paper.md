@@ -3,6 +3,7 @@ Date: 2004-04-30 10:56:39
 Slug: 20040430-study-evading-behaviour-2-or-how-i-managed-to-write-that-paper
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>It's now Thursday evening. Finally, <a href="index.php?rantid=107">that paper</a> is done. Typed frantically yesterday to get a nice piece which was of submit quality, and I must say, it's quite nice. I'll post it later this week, because the subject [Digital Rights Management and Fair Use by design, and freedom of content/speech] is something that concerns us all. And the paper reflects my views on these matters quite well :)</p>
 

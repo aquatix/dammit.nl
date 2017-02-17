@@ -4,7 +4,7 @@ Slug: 20070114-blogmarks-for-sunday-14-january-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.robweir.com/blog/2007/01/broken-windows-and-ghost-of-keynes.html">Broken Windows and the Ghost of Keynes</a></h3>

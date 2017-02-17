@@ -4,7 +4,7 @@ Slug: 20081109-blogmarks-for-sunday-09-november-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.boston.com/bigpicture/2008/11/the_next_president_of_the_unit.html">Nice photo's: The next President of the United States</a></h3>

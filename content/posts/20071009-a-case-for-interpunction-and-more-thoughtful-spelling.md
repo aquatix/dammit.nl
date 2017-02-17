@@ -3,6 +3,7 @@ Date: 2007-10-09 11:05:00
 Slug: 20071009-a-case-for-interpunction-and-more-thoughtful-spelling
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <blockquote><p>A panda walks into a caf&eacute;. He orders a sandwich, eats it, then draws a gun and proceeds to fire it at the other patrons.</p>
 

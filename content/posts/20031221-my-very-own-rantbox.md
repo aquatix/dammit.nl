@@ -4,6 +4,7 @@ Modified: 2003-12-22 00:15:00
 Slug: 20031221-my-very-own-rantbox
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Actually started implementing this box. First "rant": my changelog to this site for this day:</p>
 <ul>

@@ -3,6 +3,7 @@ Date: 2004-08-11 00:15:36
 Slug: 20040811-the-problem-with-information
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Ever since I was a kid I read lots; hundreds of books before even turning twelve. The Commodore 64 and our 386 wheren't that great sources of written information. They where great fun [spell: great games], but computers got me reading when I started to learn myself Delphi. You can say much about it, but Delphi's help system is great. So, it was my first lengthy read on a computer; and in English too.</p>
 <p>Then internet came along. At first we had a 56k dial-in connection. We had it several years, so if I wanted to do lengthy research I had to do it in the evening [lower costs] or at school [even slower, but at least it was free]. At a moment we decided to get a flat-fee adsl connection; wow, fast, always-on internet! And what a wealth of websites! I started to crawl programming sites, designed the second version of my personal website [first was programmed offline] and started to gather a list of sites I visited regularly. My hotmail address [from before microsoft took over] had long since overflown and Outlook Express [sic] was helping me archiving my old mail. Then we reorganized our network, I got myself a server and a mailserver of my own and I started reading more English written newssites. Then I came across blogs and learned about RSS feeds. Then I was lost :)</p>

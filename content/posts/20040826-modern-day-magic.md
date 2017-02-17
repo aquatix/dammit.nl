@@ -3,6 +3,7 @@ Date: 2004-08-26 23:03:12
 Slug: 20040826-modern-day-magic
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Not so long ago I went fixing two computers. I generally don't want to fix other peoples windows computers anymore, but those where the pc's of the grandparents of my girlfriend, so I was glad to help them. While I was exploring the systems, installing things, updating stuff and nuking some spyware, I found grandpa in awe with my doings. I don't take this lightly, because he is a smart person [was a math teacher in highschool and is a sophisticated person in general], maybe smarter then I am, and not devoid of technical savvy himself. So when he went speaking admiring about my fast actions I started thinking about the subject. This man has used computers far longer than I exist, has a fast analytical brain, but lacks some kind of skills that I seem to have. It's like my dad; he introduced me to the world of computers [Commodore64, great machine, beats every pc in boot time], so has been using computers far longer than I have. He even uses industrial computers at his work and programs them. Still, his typing speed is abysmal and he has problems following my movements across the screen when I'm doing the exact same tasks as he was just doing, explaining [new] some stuff.</p>
 

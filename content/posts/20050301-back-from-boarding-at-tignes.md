@@ -3,6 +3,7 @@ Date: 2005-03-01 20:41:13
 Slug: 20050301-back-from-boarding-at-tignes
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>OK, you can tell I was quite exhausted when I rushed to get the previous posting online, writing frantically on my Sony Cli&eacute; palmtop while dinner was being served. "Polse" ain't an English word, and as you may have guessed I was just referring to wrist guards. They saved my precious limbs.</p>
 <p>Anyway, snowboarding is way cool. I'm afraid of heights, so it was a real test for me to do certain manoevers [like boarding with my face downhill and boarding too fast downhill :)], but I managed to finish a blue piste thanks to the patience of one of my colleages, who learned me more that Monday than I did on snowboard school Saturday. Thanks Jeroen :)</p>

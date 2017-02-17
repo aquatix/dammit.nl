@@ -4,7 +4,7 @@ Slug: 20080106-blogmarks-for-sunday-06-january-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://thedailywtf.com/Articles/Could-You-Explain-Programming-Please.aspx">Could You Explain Programming Please - The Daily WTF</a></h3>

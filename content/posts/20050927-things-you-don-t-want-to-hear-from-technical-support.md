@@ -3,6 +3,7 @@ Date: 2005-09-27 14:46:16
 Slug: 20050927-things-you-don-t-want-to-hear-from-technical-support
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <ul>
 <li>"Do you have a sledgehammer or a brick handy?"</li>

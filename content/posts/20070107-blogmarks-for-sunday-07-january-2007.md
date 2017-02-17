@@ -4,7 +4,7 @@ Slug: 20070107-blogmarks-for-sunday-07-january-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.chipx86.com/blog/?p=197">Subverting Subversion</a></h3>

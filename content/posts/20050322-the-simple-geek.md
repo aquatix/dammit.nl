@@ -3,6 +3,7 @@ Date: 2005-03-22 13:30:43
 Slug: 20050322-the-simple-geek
 Location: Vrije Universiteit
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>OK, time for a new quiz: The True Geek Test. Result? The Simple Geek</p>
 

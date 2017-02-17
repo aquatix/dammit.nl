@@ -4,7 +4,7 @@ Slug: 20070218-blogmarks-for-sunday-18-february-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.computer.org/portal/site/itpro/menuitem.1be818ec0dbc9388a84840898bcd45f3/index.jsp?">Are You Prepared for Daylight Saving Time 2007?</a></h3>

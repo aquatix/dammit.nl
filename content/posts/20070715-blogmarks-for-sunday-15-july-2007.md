@@ -4,7 +4,7 @@ Slug: 20070715-blogmarks-for-sunday-15-july-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.huffingtonpost.com/margaret-heffernan-/why-does-microsoft-hate-i_b_52992.html">Why Does Microsoft Hate Its Customers?</a></h3>

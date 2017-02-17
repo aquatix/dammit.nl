@@ -3,6 +3,7 @@ Date: 2009-09-25 11:34:49
 Slug: 20090925-you-know-you-ve-been-neglecting-your-weblog
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>... when you think you have forgotten to announce you are getting married, then find out you actually already did. I really should be here more :)</p>
 

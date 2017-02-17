@@ -4,7 +4,7 @@ Slug: 20061001-blogmarks-for-sunday-01-october-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.boingboing.net/2006/09/28/john_ks_animation_fo.html">John K's animation for Weird Al's video</a></h3>

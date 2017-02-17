@@ -4,7 +4,7 @@ Slug: 20070923-blogmarks-for-sunday-23-september-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.extreme.outervision.com/PSUEngine">eXtreme Power Supply Calculator Lite v2.5</a></h3>

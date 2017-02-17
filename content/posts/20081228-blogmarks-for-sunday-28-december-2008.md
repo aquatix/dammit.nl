@@ -4,7 +4,7 @@ Slug: 20081228-blogmarks-for-sunday-28-december-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.underconsideration.com/brandnew/archives/brand_new_best_worst_2008.php">Brand New: Best &amp; Worst 2008 </a></h3>

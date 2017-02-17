@@ -3,6 +3,7 @@ Date: 2008-10-25 17:49:31
 Slug: 20081025-rip-home-server
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I just bought a nice new, quiet Zalman 15mm thin cooling for her, cleaned her from dust, even cleaned the partitions of her hdd before powering down, but suddenly <a href="http://aquariusoft.org/~mbscholt/index.php?rantid=310">luna, my trusty home server/media box</a> doesn't want to boot anymore. Worse, she doesn't even <acronym title="POwer-up Self Test">POST</acronym> anymore. No VGA signal, no beep, no lights on a keyboard, just putting electricity on her guts, but staying dead otherwise.</p>
 

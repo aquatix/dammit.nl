@@ -4,7 +4,7 @@ Slug: 20081116-blogmarks-for-sunday-16-november-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.brighthand.com/default.asp?newsID=14572">T-Mobile G1 Update Squashes Huge Bug</a></h3>

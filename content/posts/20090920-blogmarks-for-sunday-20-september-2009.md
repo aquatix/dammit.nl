@@ -4,7 +4,7 @@ Slug: 20090920-blogmarks-for-sunday-20-september-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.comicsalliance.com/2009/09/14/the-21-awesomest-superhero-mods-for-my-little-pony/">The 21 Awesomest Superhero Mods for My Little Pony</a></h3>

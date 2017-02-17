@@ -3,6 +3,7 @@ Date: 2009-08-11 00:28:25
 Slug: 20090811-closing-old-chapters
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Lately I've been working hard on finishing the last parts of my study. Half an hour ago, I submitted the final version of my thesis, but I'm too tired to be proud just yet. I guess that will come tomorrow when I print it, bind it and bring it to my parents later this week, only to discover they will like the pretty print and graphs (<3 LaTeX) but don't know what the hell I'm writing about in... is that English or something?</p>
 

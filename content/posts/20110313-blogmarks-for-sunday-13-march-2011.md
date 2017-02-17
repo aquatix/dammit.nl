@@ -4,7 +4,7 @@ Slug: 20110313-blogmarks-for-sunday-13-march-2011
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.informationisbeautiful.net/2011/vintage-infoporn-no-1/">Vintage InfoPorn</a></h3>

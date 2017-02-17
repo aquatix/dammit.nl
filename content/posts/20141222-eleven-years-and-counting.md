@@ -3,6 +3,7 @@ Date: 2014-12-22 11:39:18
 Slug: 20141222-eleven-years-and-counting
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 Yesterday this weblog [turned eleven](http://dammit.nl/p/5). I haven't always been that faithful to it, having times I didn't post for months (my inspiration apparently comes in waves).
 

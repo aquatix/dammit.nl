@@ -4,7 +4,7 @@ Slug: 20071216-blogmarks-for-sunday-16-december-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.m-peoplephotography.com/">Rodolphe Simeon: The M-People</a></h3>

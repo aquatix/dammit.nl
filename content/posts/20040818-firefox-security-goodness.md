@@ -3,6 +3,7 @@ Date: 2004-08-18 15:19:46
 Slug: 20040818-firefox-security-goodness
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>There are now a couple of security spoofs out there for <a href="http://www.mozilla.org/products/firefox/">Mozilla Firefox</a>. Unlike IE there is an easy way to catch them that is not often mentioned.</p>
 <p>Simply type in about:config into the address bar, then search for and change these settings to <em>true</em>:</p>

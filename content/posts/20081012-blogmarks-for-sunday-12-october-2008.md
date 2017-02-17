@@ -4,7 +4,7 @@ Slug: 20081012-blogmarks-for-sunday-12-october-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://blog.makezine.com/archive/2008/10/dream_captcha_stops_spamm.html">Dream captcha - stops spammy nightmares?</a></h3>

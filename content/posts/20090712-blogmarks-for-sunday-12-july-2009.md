@@ -4,7 +4,7 @@ Slug: 20090712-blogmarks-for-sunday-12-july-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.cgsecurity.org/wiki/TestDisk">TestDisk - FS recovery</a></h3>

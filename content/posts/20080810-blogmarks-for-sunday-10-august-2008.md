@@ -4,7 +4,7 @@ Slug: 20080810-blogmarks-for-sunday-10-august-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.worthalaugh.com/?s=senior">Memorable Senior Moment</a></h3>

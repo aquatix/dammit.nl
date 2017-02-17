@@ -4,6 +4,7 @@ Modified: 2006-05-08 11:07:43
 Slug: 20060508-gizmo-instead-of-skype
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>After reinstalling my laptop from scratch with a Debian netinstall cd [<a href="http://aquariusoft.org/~mbscholt/index.php?rantid=386">the old harddrive died on me :(</a>], I installed the <a href="http://www.gizmoproject.com/">Gizmo <acronym title="Voice Over IP">VOIP</acronym> client</a>. I think it's better than <a href="http://www.skype.com/">Skype</a>; it uses the ALSA sound system, native GTK2 [so it actually looks good], and is based on the open standard SIP. Too bad it's not Open Source. However, <a href="http://www.gnomemeeting.org/">the Ekiga VOIP client</a> [formerly known as Gnome Meeting] is. And that one even supports webcams :)</p>
 

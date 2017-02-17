@@ -3,6 +3,7 @@ Date: 2005-07-03 08:47:14
 Slug: 20050703-been-quiet-will-be-for-another-week
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I've been rather quiet for some time now, due to the warm weather, a lack of interest [my feedreader is becoming rather full of unread items] and a need of a break. That break is coming now: we're leaving on vacation in another hour. Just me, my beautiful GF and a tent in the <a href="http://en.wikipedia.org/wiki/Ardennes">Ardennes</a> in Belgium. Really nice surroundings, if I believe everyone that's been there. So I do ;)</p>
 

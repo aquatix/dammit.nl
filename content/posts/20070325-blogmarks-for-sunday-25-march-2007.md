@@ -4,7 +4,7 @@ Slug: 20070325-blogmarks-for-sunday-25-march-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://lurgy.wordpress.com/2007/03/13/a-better-music-player-for-gnome-12/">Improving music playback in GNOME</a></h3>

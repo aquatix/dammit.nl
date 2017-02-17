@@ -3,6 +3,7 @@ Date: 2008-10-02 09:46:22
 Slug: 20081002-autumn-storm-take-2
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Birds in mid-flight suspended<br />
 Sudden autumn ghust<br />

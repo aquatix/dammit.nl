@@ -3,6 +3,7 @@ Date: 2005-08-19 11:17:23
 Slug: 20050819-some-wise-words
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>No, not my own wise words, but I think they are worth reading. First, a piece about top posting [be it in e-mail, newsgroup postings or wherever]:</p>
 <blockquote><p class="quote">A: Maybe because some people are too annoyed by top-posting.<br />

@@ -4,7 +4,7 @@ Slug: 20080518-blogmarks-for-sunday-18-may-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.datamancer.net/">Datamancer - Steampunk artist</a></h3>

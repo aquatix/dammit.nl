@@ -3,6 +3,7 @@ Date: 2006-01-16 17:49:05
 Slug: 20060116-palm-software-i-use-and-or-can-recommend
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>As I've been using a PalmOS based pda for quite some years now, I've assembled a standard set of programs I use and like. I thought I should put them down for others to share. So, let's get started:</p>
 

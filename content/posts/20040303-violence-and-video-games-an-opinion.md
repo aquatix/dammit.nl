@@ -3,6 +3,7 @@ Date: 2004-03-03 20:14:04
 Slug: 20040303-violence-and-video-games-an-opinion
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I was reading an <a href="http://www.salon.com/tech/feature/2004/03/02/eugene_jarvis/index.html
 ">interview with Eugene Jarvis</a> [the creator of legendary arcade video games Defender and Robotron - BTW, you got to view an advertisement for some seconds to read the whole article], and he's got an opinion about the "relation" between violence of youth and videogames: on <a href="http://www.salon.com/tech/feature/2004/03/02/eugene_jarvis/index2.html">this page</a> he says:</p>

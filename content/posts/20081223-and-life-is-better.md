@@ -3,6 +3,7 @@ Date: 2008-12-23 01:01:25
 Slug: 20081223-and-life-is-better
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Today I've been thinkering around with the code and layout of this weblog, and eliminated some elements that cause the content to jump around quite a bit. The text should look a lot better aligned this way, easier on the eye and such. Now to actually get text in here ;) Ah, the weekly blogmark postings have been given a slightly less dark font, so you can skip them more easily if you like (I hope). I also thinkered around quite a bit with the admin back-end, so hopefully that will induce me to write more.</p>
 

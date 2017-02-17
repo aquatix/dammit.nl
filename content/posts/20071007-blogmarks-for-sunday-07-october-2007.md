@@ -4,7 +4,7 @@ Slug: 20071007-blogmarks-for-sunday-07-october-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.brighthand.com/default.asp?newsID=13376">Third-Generation Nokia Internet Tablet Getting Close?</a></h3>

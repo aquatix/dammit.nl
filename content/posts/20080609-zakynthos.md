@@ -3,6 +3,7 @@ Date: 2008-06-09 14:56:04
 Slug: 20080609-zakynthos
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>We came back from the Greek island of <a href="http://en.wikipedia.org/wiki/Zakynthos">Zakynthos</a> last week, and as expected I made a lot of pictures. Here is a small selection; an album will be up later. Mouse over for texts, click for larger versions.</p>
 

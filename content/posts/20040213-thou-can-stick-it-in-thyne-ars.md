@@ -3,6 +3,7 @@ Date: 2004-02-13 19:44:23
 Slug: 20040213-thou-can-stick-it-in-thyne-ars
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Well, I'm totally pissed of by the e-mail I got a few days back from the supervisor of the Computer Networks assignment. We worked 2 times 5 months 3 days in the week on it, and all we got was a lousy e-mail stating something like "sorry, you didn't make the basic test. please try again next year". Sjeez.</p>
 <p>With us are about 70 percent of everyone that worked on it this year, so maybe we could make a nice riot out of it.</p>

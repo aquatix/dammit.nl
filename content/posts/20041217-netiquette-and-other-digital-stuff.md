@@ -3,6 +3,7 @@ Date: 2004-12-17 12:32:41
 Slug: 20041217-netiquette-and-other-digital-stuff
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Just got a chain mail from 2 [!] of my coworkers. They are from the Graphics department, less computer savvy than I may be, but is it so freaking difficult to tell a normal story from a <a href="http://en.wikipedia.org/wiki/Hoax">hoax</a>? There are <a href="http://hoaxbusters.ciac.org/">lots of</a> <a href="http://www.nonprofit.net/hoax/">pages</a> that debunk them. Even antivirus software writers <a href="http://www.symantec.com/avcenter/hoax.html">have their own pages about hoaxes</a>.</p>
 <p>Not only is it sad that those people don't check the story [about AOL and Microsoft [sic!] being the two largest internet companies in the world and Bill Gates offering you 245 dollar when sending this "digital trail" along so they can assure Internet Exploder stays the nr 1 browser. I mean, WTF, that even ain't a logical story!], but I get send whole addressbooks worth of e-mail addresses. Both mails where about 300KiB large [yeah, Outlook markup too], with _loads_ of e-mail addresses in it, the relevant message all the way down to the bottom. People don't even grasp the simple <a href="http://en.wikipedia.org/wiki/Netiquette">netiquette</a> about how to format e-mails! It ain't rocket science you know...</p>

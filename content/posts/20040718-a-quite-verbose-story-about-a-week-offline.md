@@ -3,6 +3,7 @@ Date: 2004-07-18 23:02:49
 Slug: 20040718-a-quite-verbose-story-about-a-week-offline
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>While they had some defunct wifi access points in the hotel [I'm glad they wheren't operational], I had a very nice week off with my girlfriend in a hotel in the woods of the piece of nature called the Veluwe. I couldn't resist taking my pda [with the story it carried all books I wanted to read], and took the little folding keyboard with it. Here's my transcription of a week doing, well, lots of relaxing things :)</p>
 

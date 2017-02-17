@@ -3,6 +3,7 @@ Date: 2007-03-22 13:19:16
 Slug: 20070322-sticker-for-uppity-bloggers-is-there-any-other-kind
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <div class="content-image"><div><img src="http://aquariusoft.org/~mbscholt/images/content/bloggersticker.gif" alt="How's my blogging? Call 1-888-STFU-LOL" title="How's my blogging? Call 1-888-STFU-LOL" /></div></div>
 <br style="clear: both;" />

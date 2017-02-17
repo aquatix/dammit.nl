@@ -4,7 +4,7 @@ Slug: 20100131-blogmarks-for-sunday-31-january-2010
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.cracked.com/article_18406_a-day-in-america-according-to-baffled-foreigner.html">A Day in America According to a (Baffled) Foreigner</a></h3>

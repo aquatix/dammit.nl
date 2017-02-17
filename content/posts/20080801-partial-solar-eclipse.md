@@ -3,6 +3,7 @@ Date: 2008-08-01 12:06:56
 Slug: 20080801-partial-solar-eclipse
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <div class="content-image"><div><a href="http://aquariusoft.org/gallery/v/photographs/photolog/IMG_4981.html"><img src="http://aquariusoft.org/gallery/d/5473-2/IMG_4981" alt="Partial solar eclipse" title="Partial solar eclipse" /></a></div></div>
 <br style="clear: both;" />

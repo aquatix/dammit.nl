@@ -3,6 +3,7 @@ Date: 2007-09-05 17:32:59
 Slug: 20070905-on-mobile-platforms
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>So Palm <a href="http://www.engadget.com/2007/09/04/palm-kills-the-foleo-dead/">killed</a> <a href="http://hardware.slashdot.org/article.pl?sid=07/09/04/2210238">their</a> <a href="http://www.brighthand.com/default.asp?newsID=13312">Foleo</a> before it was even launched. Too bad, as I thought it was a nice little laptop.</p>
 

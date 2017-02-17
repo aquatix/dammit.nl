@@ -3,6 +3,7 @@ Date: 2005-05-22 23:57:00
 Slug: 20050522-visiting-my-first-niece-and-updating-overload
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>It was a family day today: first we went visiting my gf's brother and his girlfriend, the fresh parents of <a href="/~mbscholt/index.php?rantid=273">Anne</a>. I made some pictures, but I won't tire you with to much footage of this sweet child [sweet as in: "she made no noice as she was sleeping all the time" ;)]</p>
 

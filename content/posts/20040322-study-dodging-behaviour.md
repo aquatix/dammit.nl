@@ -3,6 +3,7 @@ Date: 2004-03-22 16:24:22
 Slug: 20040322-study-dodging-behaviour
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Yay, finally on tracks with <a href="/?section=linux&amp;page=aquamorph">aquamorph</a> again. Last update was somewhere September last year... So now 351 packages are waiting to be updated =)</p>
 <p>Lots have changed in the meantime, so I hope it'll still boot nicely when I've found some time to actually make it an iso. Ah well, we'll see.</p>

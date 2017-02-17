@@ -4,6 +4,7 @@ Modified: 2004-09-02 22:07:30
 Slug: 20040902-us-acting-like-china-and-paper-documents-suck
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>There have been quite a <a href="http://www.boingboing.net/2004/09/01/rncnyc_daily_riot_nr.html">few</a> <a href="http://www.boingboing.net/2004/09/01/rncnyc_report_from_j.html">protests</a> against Bush in New York lately. The <a href="http://www.boingboing.net/2004/09/02/rncnyc_axis_of_eve_p.html">Axis of Eve Panty Flash Protest</a> I like the best, but there are lots of others, like the bicycle rider protest. Lots of people where arrested, over 1500 as I heard. Now doesn't that seem a large number? I hope the US will not imitate China in it's political censuring system.</p>
 

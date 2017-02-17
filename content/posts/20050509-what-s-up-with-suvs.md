@@ -3,6 +3,7 @@ Date: 2005-05-09 14:20:28
 Slug: 20050509-what-s-up-with-suvs
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Just a random blurp: I kinda like those <acronym title="Sport Utility Vehicle">SUV</acronym>s; they are spacy, powerful and sort of cool. However, there's no real use of them, safe for some people who like/have to be driving off-road and want a roomy car at that. However, here in The Netherlands, only a certain kind of people tend to drive in them.</p>
 

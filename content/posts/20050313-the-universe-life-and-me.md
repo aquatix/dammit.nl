@@ -3,6 +3,7 @@ Date: 2005-03-13 23:26:20
 Slug: 20050313-the-universe-life-and-me
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Life is just being life, with it's endless stream of classes, days of work and projects to work on. Family to visit, parties to celebrate [housewarming party was great!] and nights to sleep^W hack on my websites and other things. So, I've not been posting that much, but life is more interesting than it appears to be. For example all those calculus and lambda calculus classes, where I sometimes wonder where the hell they are talking about and sometimes start jawning and wondering why I failed them the previous year. Nah, that's not interesting, that's default.</p>
 

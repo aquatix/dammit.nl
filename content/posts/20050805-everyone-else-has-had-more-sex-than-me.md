@@ -3,6 +3,7 @@ Date: 2005-08-05 11:55:01
 Slug: 20050805-everyone-else-has-had-more-sex-than-me
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>A thing that has amused me since last week is <a href="http://www.albinoblacksheep.com/flash/bunny.php">this great animation and song</a> [Flash alert, but worth the loading]. There's also <a href="http://www.trunkmonkey.com/content/view/57/59/">a page with the Flash version and the songtext</a> and <a href="http://www.madman.com.au/tism/bunny/">one with two versions [original and radio edit] as Quicktime .mov</a>. The radio edit is worth watching too.</p>
 

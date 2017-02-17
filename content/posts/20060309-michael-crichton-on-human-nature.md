@@ -3,6 +3,7 @@ Date: 2006-03-09 12:37:39
 Slug: 20060309-michael-crichton-on-human-nature
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <blockquote><p class="quote">What makes you think human beings are sentient and aware? There's no evidence for it. Human beings never think for themselves, they find it too uncomfortable. For the most part, members of our species simply repeat what they are told -- and become upset if they are exposed to any different view.</p>
 

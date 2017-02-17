@@ -3,6 +3,7 @@ Date: 2008-05-07 17:06:57
 Slug: 20080507-observations-412
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Today is a beautiful day. It's warm and sunny, the woman are pretty
 in their summer clothes and statistics class only tool 23 minutes.

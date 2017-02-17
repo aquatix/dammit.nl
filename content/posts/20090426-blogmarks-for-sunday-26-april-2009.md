@@ -4,7 +4,7 @@ Slug: 20090426-blogmarks-for-sunday-26-april-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://video.google.com/videoplay?docid=-5930393724587911462">[Flash video] Motion tracking USB Missiles</a></h3>

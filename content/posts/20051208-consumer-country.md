@@ -3,6 +3,7 @@ Date: 2005-12-08 11:21:44
 Slug: 20051208-consumer-country
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Source: <a href="http://yro.slashdot.org/comments.pl?sid=170501&amp;cid=14206945">this Slashdot posting from jsse</a> in the topic about <a href="http://yro.slashdot.org/yro/05/12/08/0020238.shtml?tid=141&amp;tid=17">Music should be heard but not understood</a></p>
 

@@ -4,6 +4,7 @@ Modified: 2004-08-13 15:48:30
 Slug: 20040812-going-webbased
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Lately I've seen myself following a trend of putting more and more work in online tools. I've had an online linkdump for ages now, but since <a href="http://www.sitebar.org/">Sitebar</a> integrated in Firefox it's serious. Furthermore, I switched from various standalone <acronym title="RDF Site Summary">RSS</acronym> aggregators to <a href="http://www.bloglines.org/">Bloglines</a>, a free online service.</p>
 <p>Besides these two key services, I've got a <a href="http://www.gmail.com/">GMail</a> account [still gladly using my own mailserver besides], an <a href="http://www.orkut.com/">Orkut</a> account [OK, I'm not seriously using that one], I use a small script written by myself to read some mailings online, I'm designing various CMS'es for my sites [this blog, my <a href="/">aquariusoft.org</a> site] and I'm using various other ones [like the one on <a href="http://www.morphix.org/">morphix.org</a>.</p>

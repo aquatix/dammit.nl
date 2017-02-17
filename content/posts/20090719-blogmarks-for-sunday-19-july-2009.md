@@ -4,7 +4,7 @@ Slug: 20090719-blogmarks-for-sunday-19-july-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.marco.org/143265621">Serious doubts (on Apple Appstore)</a></h3>

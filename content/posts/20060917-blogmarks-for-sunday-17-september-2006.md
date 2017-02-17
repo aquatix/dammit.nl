@@ -4,7 +4,7 @@ Slug: 20060917-blogmarks-for-sunday-17-september-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.nu.nl/news/825734/50/%27Ambtenaren_saboteren_ICT_voor_miljoenen_euro%27s%27.html">[Dutch] 'Ambtenaren saboteren ICT voor miljoenen euro's'</a></h3>

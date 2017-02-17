@@ -4,7 +4,7 @@ Slug: 20061105-blogmarks-for-sunday-05-november-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.boingboing.net/2006/11/03/timeline_of_words_us.html">Timeline of words used in Presidential speeches (1776 - 2006)</a></h3>

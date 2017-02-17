@@ -3,6 +3,7 @@ Date: 2005-11-26 20:24:54
 Slug: 20051126-morphest-2005-first-evening-with-the-crew
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>It has just started, but the first evening with the whole crew is awesome. We are eating pancakes <a href="http://alextreme.org/">Alex</a> is baking [he's a lot slower cooking than we with us ten can eat :P], and discussing stuff, hacking kernels, trying to get livecd's to work at laptops [why do laptops have to be such a pain the ass?]. Interesting stuff.</p>
 

@@ -3,6 +3,7 @@ Date: 2006-08-29 22:44:02
 Slug: 20060829-corfu-a-not-too-lazy-tale
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I finally came around to editing the notes I took while on vacation at Corfu, that nice green Greek island. I hope you'll enjoy this read ;) At least I can heartily recommend visiting this sweet little island.</p>
 

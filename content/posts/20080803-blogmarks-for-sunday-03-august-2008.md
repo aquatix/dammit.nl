@@ -4,7 +4,7 @@ Slug: 20080803-blogmarks-for-sunday-03-august-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://ubuntuforums.org/showthread.php?t=863049">Calling All Linux Experts</a></h3>

@@ -3,6 +3,7 @@ Date: 2008-01-07 12:40:19
 Slug: 20080107-sooo-another-year-has-come-and-gone
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>And suddenly, it was 2008. A leap year, nicely round numbers (at least for a geek like me, I guess), a year in which I'll finally finish my higher education. Also finally, I'm under contract again, getting some dough to pay bills, food and gadgets from. Feels quite good, I can say :)</p>
 

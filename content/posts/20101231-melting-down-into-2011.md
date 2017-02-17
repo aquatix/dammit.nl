@@ -3,6 +3,7 @@ Date: 2010-12-31 09:58:50
 Slug: 20101231-melting-down-into-2011
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>The snow now is rapidly melting and turning into fog, which suits me just fine. We had a white christmas (and a whole lot of other white days), and the ice on the roads kinda took the magic from it.</p>
 

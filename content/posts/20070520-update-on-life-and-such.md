@@ -3,6 +3,7 @@ Date: 2007-05-20 14:03:07
 Slug: 20070520-update-on-life-and-such
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I've not been posting much lately, but I've been quite busy. No real excuse, I know, but it's the best I have ;)</p>
 

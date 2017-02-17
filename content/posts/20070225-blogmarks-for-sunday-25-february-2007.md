@@ -4,7 +4,7 @@ Slug: 20070225-blogmarks-for-sunday-25-february-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.brighthand.com/default.asp?newsID=12811">Microsoft, Meet Common Sense</a></h3>

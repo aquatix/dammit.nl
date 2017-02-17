@@ -3,6 +3,7 @@ Date: 2005-11-01 12:57:29
 Slug: 20051101-updating-windows
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I booted my laptop into windows today for checking some things in the work-administration-tool thingee of my work [which beautifully only works right in <acronym title="Internet Exploder">IE</acronym>], and saw the little yellow shield with the exclamation mark sitting next to the clock. It turned out to be downloading new updates in the background, so I let it do its job while I updated the virus scanner. After denying the latter the right to reboot the computer after having updated itself, I went back to the windows updates. The window listed nine critical updates [new this month, as I updated it last time too], from which one is an update of the "Malicious Software Removal Tool", one could cause a denial of service of the Network Manager and no less than seven [!] where patches for vulnerabilies that could be used to *take over my complete workstation*</p>
 

@@ -4,7 +4,7 @@ Slug: 20071125-blogmarks-for-sunday-25-november-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://techno.org/electronic-music-guide/music.swf">[Flash] Really nice info-map of electronic music</a></h3>

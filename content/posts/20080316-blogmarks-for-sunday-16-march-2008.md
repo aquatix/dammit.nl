@@ -4,7 +4,7 @@ Slug: 20080316-blogmarks-for-sunday-16-march-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.rousette.org.uk/blog/archives/aeropress/">Aeropress</a></h3>

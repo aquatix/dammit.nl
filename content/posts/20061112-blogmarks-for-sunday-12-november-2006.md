@@ -4,7 +4,7 @@ Slug: 20061112-blogmarks-for-sunday-12-november-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.boingboing.net/2006/11/08/creative_commons_boa.html">Creative Commons board-member's literary mystery novel</a></h3>

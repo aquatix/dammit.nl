@@ -4,7 +4,7 @@ Slug: 20080330-blogmarks-for-sunday-30-march-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.randsinrepose.com/archives/2008/03/06/i_dont_multitask.html">I Don't Multitask</a></h3>

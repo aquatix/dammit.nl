@@ -3,6 +3,7 @@ Date: 2006-11-22 15:42:50
 Slug: 20061122-life-s-little-gripes
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I just voted. I voted a left-wing party because, well, maybe they suck a little less in governing our country than the half-baked right-ish government we got after that <a href="http://news.bbc.co.uk/1/hi/world/europe/1971423.stm">Pim Fortuyn adventure</a>. But maybe they do better in the opposition like they are used to. Who knows? I wonder whether we'll find out, or whether that Wouter Bos figure is going to be our next minister-president. *Shiver*</p>
 

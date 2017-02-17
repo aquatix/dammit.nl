@@ -4,7 +4,7 @@ Slug: 20090913-blogmarks-for-sunday-13-september-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://gawno.com/2009/05/78-photography-rules/">78 Photography Rules for Complete Idiots</a></h3>

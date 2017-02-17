@@ -3,6 +3,7 @@ Date: 2006-09-30 16:35:52
 Slug: 20060930-indecent-imagery
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p><a href="http://nodwick.humor.gamespy.com/ffn/">Full Frontal Nerdity</a> has a nice comic about "A few things in entertainment we'd like to see made into felonies for committing to film", mostly regarding the use of "science", applied by people who don't have a clue:</p>
 

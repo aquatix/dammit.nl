@@ -4,6 +4,7 @@ Modified: 2005-02-10 23:59:01
 Slug: 20050210-terrorism-and-our-loss-of-freedom
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I just read <a href="http://www.alextreme.org/drupal/?q=node/view/324">The Netherlands is going mad...</a> by <a href="http://www.alextreme.org/">alextreme</a>, where he talks about our great minister Donner pushing some really restricting and fairly stupid acts through the parliament. It's all about having control over internet publications, mandatory identification and other <em>emergency</em> control acts. I don't know, but are the terrorists succeeding in their acts and actually frightening our leaders? An act wherein they start terrorising their own people, kinda like the US government is doing?</p>
 

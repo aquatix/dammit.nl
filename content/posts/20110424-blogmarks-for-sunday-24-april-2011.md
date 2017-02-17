@@ -4,7 +4,7 @@ Slug: 20110424-blogmarks-for-sunday-24-april-2011
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.eclipsecolorthemes.org/">Eclipse Color Themes</a></h3>

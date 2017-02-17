@@ -3,6 +3,7 @@ Date: 2009-07-21 12:37:14
 Slug: 20090721-the-last-mile
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Currently I'm hard at work (well apart from writing this quick posting) to create a presentation of my Master research project. This will also be the defense, so I'm making myself a tad nervous for it (yeah yeah, it's just talking in front of a bunch of people about a subject you've been working on for a while, get a grip). But anyway, eating a lot of energy nonetheless.</p>
 

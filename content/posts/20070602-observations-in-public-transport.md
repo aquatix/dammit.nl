@@ -3,6 +3,7 @@ Date: 2007-06-02 18:44:06
 Slug: 20070602-observations-in-public-transport
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>The other day, I was sitting in a metro racing in the general direction of my university. The girl sitting opposite me was chewing bubble gum. In itself, that's far from special, but do people realise they really don't look intelligent when chewing that material loudly with an open mouth? Not that they'd particularly care I guess...</p>
 

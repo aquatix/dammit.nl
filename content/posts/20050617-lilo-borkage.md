@@ -3,6 +3,7 @@ Date: 2005-06-17 11:43:02
 Slug: 20050617-lilo-borkage
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>OK, I managed to modify my kernel configuration without updating LILO [by forgetting to do a simple 'lilo' at the root prompt]. Result? An unbootable GNU/Linux installation. Go me. Thank Light I have always a copy of the <a href="/page/linux/aquamorph/">aquamorph livecd</a> laying around, so I went trying to update the bootrecord from that booted cd.</p>
 

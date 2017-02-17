@@ -4,7 +4,7 @@ Slug: 20090412-blogmarks-for-sunday-12-april-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://basangpanaginip.blogspot.com/2006/07/worlds-most-photorealistic-vector-art.html">The World's Most Photorealistic Vector Art (not all safe for work)</a></h3>

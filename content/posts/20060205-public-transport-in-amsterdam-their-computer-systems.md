@@ -3,6 +3,7 @@ Date: 2006-02-05 13:59:09
 Slug: 20060205-public-transport-in-amsterdam-their-computer-systems
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Gotta love public transport running windows...</p>
 

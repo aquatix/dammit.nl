@@ -4,7 +4,7 @@ Slug: 20111009-blogmarks-for-sunday-09-october-2011
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://wp.smashingmagazine.com/2011/09/21/interacting-with-the-wordpress-database/">WordPress Essentials: Interacting With The WordPress Database</a></h3>

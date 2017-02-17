@@ -3,6 +3,7 @@ Date: 2004-12-16 22:32:03
 Slug: 20041216-aibo-electronics-made-cute
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I've never thought I would one day think about a hunk of plastic as "cute". But today at work we had some distraction from our normal business by means of an <a href="http://www.aibo.com/">AIBO</a>. A real one, from Sony. It was fun interacting with the little robot, which is quite sophisticated; it knows from which direction sounds come [stereo microphones in it's ears] so it will look at you when you are talking, it shows emotions through it's colourful led arrays and makes cute and sometimes weird noises. You don't even have to interact with it; the doggy will just look around for it's ball or bone and pursuit it, cuddle it's bone, or give the ball a little kick. Just <a href="/gallery/aibo">take a look at some pictures I made</a> from little aibo. I've taken them with the integrated camera of my Sony Clie pda [it's a Sony world], so they're only 640x480, but give a nice impression.</p>
 

@@ -3,6 +3,7 @@ Date: 2008-09-14 12:52:22
 Slug: 20080914-hi-my-name-is
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>When I saw <a href="http://buranen.info/?p=283">burner's post of device names</a>, I thought I'd make it a meme :) Or at least, add my own list:</p>
 

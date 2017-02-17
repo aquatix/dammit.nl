@@ -3,6 +3,7 @@ Date: 2005-05-23 00:41:08
 Slug: 20050523-new-overload-snapshot-online
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>OK, I just updated the <a href="/overload/">live version of overload</a>. It now has a better support for UTF8, new artwork [shamelessly ripped from the default Gnome iconset], the option to add feeds [only works in the html version yet], search and read saved items [only in <acronym title="eXtensible User-interface Language">XUL</acronym> rich client yet].</p>
 

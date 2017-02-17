@@ -3,6 +3,7 @@ Date: 2006-03-10 12:03:55
 Slug: 20060310-ideas-and-projects
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Currently testing a new version of my <a href="http://aquariusoft.org/page/linux/aquamorph/">aquamorph</a> livecd, which is close to being done. In my last post of yesterday I forgot to tell I had been working on it that day too, so it wasn't a completely wasted Thursday ;)</p>
 

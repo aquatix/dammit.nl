@@ -3,6 +3,7 @@ Date: 2005-11-26 16:54:56
 Slug: 20051126-morphest-2005-an-impression
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>OK, we're having fun here in a room stuffed [no: *stuffed*] with equipment and our new Morphix Morphest 2005 shirts. Take a look at <a href="http://www.flickr.com/groups/morphest05/pool/">our Flickr Morphest 2005 page</a>. I'm currently uploading some new ones, and it'll be uploaded the rest of Morphest. Enjoy :)</p>
 

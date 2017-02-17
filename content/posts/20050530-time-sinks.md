@@ -3,6 +3,7 @@ Date: 2005-05-30 21:05:26
 Slug: 20050530-time-sinks
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p><a href="http://www.ok-cancel.com/archives/article/2005/05/the-biggest-time-sink-thread-ever.html">The Biggest Time Sink Thread Ever</a> describes some of my days. Too true...</p>
 

@@ -3,6 +3,7 @@ Date: 2005-01-25 11:18:24
 Slug: 20050125-our-nation-s-future-educated-people
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I've been making a point of our country cutting student support over and over again for some time now, but I just read <a href="http://www.alextreme.org/drupal/?q=node/view/318">Alextreme's Studypoints and Logic Factories</a> and that reminded me of it. He words my feelings about it in a nice way:</p>
 

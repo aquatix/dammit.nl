@@ -4,6 +4,7 @@ Modified: 2006-05-06 10:19:17
 Slug: 20060505-yesterday
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Geek's day out</p>
 

@@ -3,6 +3,7 @@ Date: 2005-02-08 08:49:53
 Slug: 20050208-good-morning
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Or at least I hope it's going to be. Finishing off some loose ends of a project I'm doing, which is going to be tested later this day. Oh rejoice :) It's quite stressfull tho', and my hands and shoulders hurt. Bleh.</p>
 

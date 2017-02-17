@@ -3,6 +3,7 @@ Date: 2013-03-30 11:39:41
 Slug: 20130330-springtime-at-least-inside
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <div class="content-image"><a href="https://www.flickr.com/photos/aquatix/8603010000/in/set-72157633124281250/"><img src="https://farm9.staticflickr.com/8530/8603010000_29b2c5492c_h.jpg" alt="Daffodil" /></a></div>
 

@@ -4,7 +4,7 @@ Slug: 20081130-blogmarks-for-sunday-30-november-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.nrcnext.nl/geldenwerk/mijnwerk/article2075846.ece/Hoe_dwing_je_al_als_gezagdrager_respect_af">[Dutch] Hoe dwing je al als gezagdrager respect af?</a></h3>

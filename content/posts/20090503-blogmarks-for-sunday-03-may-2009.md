@@ -4,7 +4,7 @@ Slug: 20090503-blogmarks-for-sunday-03-may-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9132061">Old-school programming techniques you probably don't miss</a></h3>

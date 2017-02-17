@@ -3,6 +3,7 @@ Date: 2008-02-29 12:29:47
 Slug: 20080229-a-more-personal-weblog
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>My girlfriend mentioned a little while ago that she likes <a href="http://galaxycow.com/blogs/vermyndax/">vermyndax' weblog</a> better, because he posts personal stuff between the more technical parts. Darn you Verm for stealing my GF's attention like that ;) She has a point though.</p>
 

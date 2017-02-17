@@ -3,6 +3,7 @@ Date: 2008-03-04 16:17:57
 Slug: 20080304-spring-day
 Location: Vrije Universiteit - Linux lab
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Today I went to my university for a talk about a practical I'm working on [some program that has multiple computers in a cluster calculate on a certain problem], and which I've been pulling my hairs out over, as it wouldn't stop deadlocking and doing other wondrously erratic things. The joy of voodoo programming ;)</p>
 

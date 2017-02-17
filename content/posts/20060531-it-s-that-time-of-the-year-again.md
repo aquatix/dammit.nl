@@ -3,6 +3,7 @@ Date: 2006-05-31 06:43:03
 Slug: 20060531-it-s-that-time-of-the-year-again
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Exam time! Four of them in under two weeks. In the meanwhile a homework assignment, some classes with at the end of the month June a fifth exam. Keeps you out of the pub ;)</p>
 

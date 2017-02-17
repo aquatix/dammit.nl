@@ -4,7 +4,7 @@ Slug: 20061225-blogmarks-for-monday-25-december-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.rousette.org.uk/blog/archives/human-nature/">Human nature</a></h3>

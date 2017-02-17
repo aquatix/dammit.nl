@@ -4,7 +4,7 @@ Slug: 20060827-blogmarks-for-sunday-27-august-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.barwap.com/blog/?article=00189">Create photograph mosaics with commuter2</a></h3>

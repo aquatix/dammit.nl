@@ -4,7 +4,7 @@ Slug: 20070211-blogmarks-for-sunday-11-february-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://daringfireball.net/2007/02/lies_damned_lies_and_bill_gates">Lies, Damned Lies, and Bill Gates</a></h3>

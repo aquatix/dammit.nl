@@ -3,6 +3,7 @@ Date: 2005-01-28 12:38:11
 Slug: 20050128-licensing-your-content-creative-commons
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I've just relicensed <a href="/~mbscholt/">dammIT</a> from the <a href="http://creativecommons.org/licenses/by-nc-sa/1.0/">Attribution-NonCommercial-ShareAlike 1.0</a> to the <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Attribution-NonCommercial-ShareAlike 2.0</a> license and added meta tags to the source, so it can be automatically recognized by applications.</p>
 

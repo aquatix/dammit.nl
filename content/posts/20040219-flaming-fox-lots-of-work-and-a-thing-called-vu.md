@@ -3,6 +3,7 @@ Date: 2004-02-19 19:31:04
 Slug: 20040219-flaming-fox-lots-of-work-and-a-thing-called-vu
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>When you keep a rantbox, you should rant from time to time. So here I am again ;) . However, I'll switch to blog-mode, because my life isn't that annoying at the moment. Bummer.</p>
 <p>First I would like to put my most used program in the spotlights: <a href="http://texturizer.net/firefox/index.html">Mozilla Firefox</a>. This is the latest version [0.8] of the rebuild of the <acronym title="Graphical User Interface">GUI</acronym> of <a href="http://www.mozilla.org">Mozilla</a> and is the new name of the browser formerly called Mozilla Firebird [people may remember it was first called Phoenix]. Try it all focks; it now has a nice installer [or download the .zip if you want to play it safe] and is working even smoother then ever. It has build in tabbed browsing, pop-up blocker and lots of other nice features I'm forgetting to mention because I'm too used to them :) . Lets just say that it feels so much more finished then <acronym title="Internet Explorer">IE</acronym> and having a nicer [more integrated] <acronym title="Graphical User Interface">GUI</acronym> than <a href="http://www.opera.com">Opera</a>, but that's just my taste.</p>

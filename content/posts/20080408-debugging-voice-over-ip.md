@@ -3,6 +3,7 @@ Date: 2008-04-08 10:40:25
 Slug: 20080408-debugging-voice-over-ip
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Yesterday our provider [Speedlinq, or Telfort Internet or GreenISP or whatever they want to call themselves nowadays] switched to another VoIP platform for ADSL connections. They sent a letter with a cd-rom for changing the settings in VoIP-enabled ADSL modems, but we have a VoIP phone, with SIP routed through to it. No problem, <a href="http://www.speedlinq.nl/html/beterbellen/anderemodem.html">their help site had settings</a>. Except that they didn't work and did not map well on the configuration fields of our SIP phone - an E-Tech.</p>
 

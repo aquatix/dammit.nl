@@ -4,7 +4,7 @@ Slug: 20070513-blogmarks-for-sunday-13-may-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://tapas.affenbande.org/wordpress/?page_id=70">Pidgin LaTeX</a></h3>

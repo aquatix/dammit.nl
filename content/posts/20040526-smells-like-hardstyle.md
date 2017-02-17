@@ -3,6 +3,7 @@ Date: 2004-05-26 21:55:13
 Slug: 20040526-smells-like-hardstyle
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Ah, the joys of ID&amp;T radio... They have hardstyle night on Wednesdays, and that's exactly what I was in need for :) Yeah, as you can guess, not everything went right today. I hadn't studied enough material to do something useful on the ITI exam, but the Operating Systems exam was doable. I quite enjoyed it actually. Almost everybody did apparently, because after about 50 minutes three quarter of the people had already left the room smiling. [That's for a three hour exam]. Funny stuff. Gotta love the way <a href="http://www.cs.vu.nl/~ast/">Tanenbaum</a> writes =)</p>
 <p>So I'm freed of the tirrany of study for three weeks or so [I'm planning to continu studying for the next exams, which are due after those three weeks], and now I'm facing some serious work schedule. But I already told that, so I'm just going to enjoy it [I hope, it's a six day/week schedule after all].</p>

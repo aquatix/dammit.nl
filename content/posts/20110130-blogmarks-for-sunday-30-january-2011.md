@@ -4,7 +4,7 @@ Slug: 20110130-blogmarks-for-sunday-30-january-2011
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.youtube.com/watch?v=gdSHeKfZG7c">[Youtube] French kids given old tech and asked what they think it is</a></h3>

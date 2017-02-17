@@ -3,6 +3,7 @@ Date: 2004-02-09 00:28:29
 Slug: 20040209-looking-beyond-our-electrical-stars
 Location: Home, easy chair, laptop
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>... you can see things far more brilliant. This thought occurred to me while walking back home after parking our car in the garage, looking up to a windy but clear sky. I spended this afternoon with my girlfriend, continuing a nice weekend that started Friday after my last classes.</p>
 <p>Friday I brought my laptop to the university so we could play some serious games :) Arcade games on mame more precisely. I somehow won too one time :)</p>

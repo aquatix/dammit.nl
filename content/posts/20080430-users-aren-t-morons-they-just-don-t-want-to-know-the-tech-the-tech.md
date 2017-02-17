@@ -3,6 +3,7 @@ Date: 2008-04-30 17:14:24
 Slug: 20080430-users-aren-t-morons-they-just-don-t-want-to-know-the-tech-the-tech
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Through pidgin's developers mailing list, I found this insightful comment by Eric Lippert on software users:</p>
 

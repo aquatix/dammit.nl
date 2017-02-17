@@ -3,6 +3,7 @@ Date: 2006-03-09 23:05:35
 Slug: 20060309-blocking-your-mind-by-having-to-do-certain-tasks
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>OK, the title may sound weird, but picture the following: you have a certain task which involves doing things you don't really like [say, booting windows, messing around with a Visual Basic script]; it is for your work, it has to be done etc etc. But because you don't quite like it, you start looking around for other things to do [classical procrastination], and end up browsing, reading comics etc.</p>
 

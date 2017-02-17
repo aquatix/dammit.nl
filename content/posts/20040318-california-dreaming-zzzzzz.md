@@ -3,6 +3,7 @@ Date: 2004-03-18 20:45:37
 Slug: 20040318-california-dreaming-zzzzzz
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I'm so sleepy right now. It's weird: I was kind of awake and then sleep hit me in the middle of my math classes [maybe coincidence] and never left me since. But I have an assigment to finish [yeah, that little C++ course program. Why am I doing those classes in the wrong order :|]. Maybe I should go to bed now [scary thought] and get up early tomorrow [like, 10AM?] and finish it then. I'll see.</p>
 <p>When I was listening to a dance station [ID&amp;T for the ones that know it], I heard a cover of an old song of the Mammas and the Pappas: California Dreaming now done by Royal Gigolos. It's kind of a weird remix, but not quite. It has the catch of the original tho' and I kind of like it. Whatever, just a thought.</p>

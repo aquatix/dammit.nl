@@ -3,6 +3,7 @@ Date: 2014-08-10 12:43:33
 Slug: 20140810-website-framework-database-driven-or-flat-files
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 To counterweigh my professional life in which I (thankfully) build nice things in Python/Django, I have hobby projects in which I can thinker with whatever I want to build. Python is still my preferred language, but Django is not a necessity.
 

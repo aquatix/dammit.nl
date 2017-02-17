@@ -4,7 +4,7 @@ Slug: 20080413-blogmarks-for-sunday-13-april-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.youtube.com/watch?v=GBDBRg3HJqA">Optimus Maximus: at long last, we bring one home to test!</a></h3>

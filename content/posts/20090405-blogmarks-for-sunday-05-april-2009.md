@@ -4,7 +4,7 @@ Slug: 20090405-blogmarks-for-sunday-05-april-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://whatthemovie.com/beta/movies/view/17456">Bonds!</a></h3>

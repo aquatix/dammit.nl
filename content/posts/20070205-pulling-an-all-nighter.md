@@ -3,6 +3,7 @@ Date: 2007-02-05 05:06:55
 Slug: 20070205-pulling-an-all-nighter
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Deadlines are fun. I love the sound they make when they fly past me. However, I'm currently wrapping up a Parallel Programming project I would have loved to finish in time. I'm not done with the Java RMI part though, so I'm polishing the measurement results and documents about the C MPI part a bit more. Not that it'll help me much, but still ;)</p>
 

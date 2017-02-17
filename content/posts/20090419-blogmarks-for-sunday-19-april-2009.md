@@ -4,7 +4,7 @@ Slug: 20090419-blogmarks-for-sunday-19-april-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://news.cnet.com/2300-11386_3-10000718.html">Long Now image - Photos: The 10,000 Year Clock</a></h3>

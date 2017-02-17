@@ -4,6 +4,7 @@ Modified: 2004-06-29 21:50:00
 Slug: 20040629-sixties-geek
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Hm, I don't know what to think of it, but obviously I'm:</p>
 <p><a href="http://spacefem.com/geektime/"><img src="images/gk-60.jpg" alt="Sixties geek"/></a></p>

@@ -4,7 +4,7 @@ Slug: 20071021-blogmarks-for-sunday-21-october-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.instantbird.com/">Instantbird - XUL-based IM client using libpurple</a></h3>

@@ -3,6 +3,7 @@ Date: 2006-05-09 09:54:29
 Slug: 20060509-not-too-distant-future-product-placement
 Location: Vrije Universiteit - Boring class
 Authors: Michiel Scholten
+Tags: olddammit
 
 <div class="content-image"><div><img src="/~mbscholt/images/content/rl_comics_20060508_1653.png" alt="Not-too-distant-future product placement" title="Not-too-distant-future product placement" /></div></div>
 <br style="clear: both;" />

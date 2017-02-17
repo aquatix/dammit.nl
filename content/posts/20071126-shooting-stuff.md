@@ -3,6 +3,7 @@ Date: 2007-11-26 12:00:12
 Slug: 20071126-shooting-stuff
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>So, just over a week ago, I received my <a href="http://www.dpreview.com/reviews/canoneos400d/">Canon EOS 400D</a> with nice <a href="http://www.the-digital-picture.com/Reviews/Canon-EF-S-17-85mm-f-4-5.6-IS-USM-Lens-Review.aspx">EFS 17-85mm lense</a> [and a nice flash of course]. I've been shooting random stuff with it since then, and really like the camera. I also really like the sound the mirror makes when you take a picture. How did I ever manage without a dSLR? :)</p>
 

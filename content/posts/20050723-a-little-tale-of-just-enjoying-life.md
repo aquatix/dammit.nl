@@ -3,6 +3,7 @@ Date: 2005-07-23 21:12:34
 Slug: 20050723-a-little-tale-of-just-enjoying-life
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Here it is, finally. I wanted to post it together with a shitload of nice pictures we took, but decided in the end to just post it :) It reminds me a bit of the <a href="index.php?rantid=150">'A quite verbose story about a week offline' post</a> of a year ago, and is mainly intended for my own future reference, but here is the diary-like posting of our little vacation we took the first week of this month. Written on my Sony Clie TH55 pda btw [just _had_ to take it with me, along with the foldable wireless keyboard I bought for it].</p>
 

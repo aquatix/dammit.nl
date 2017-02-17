@@ -4,7 +4,7 @@ Slug: 20070826-blogmarks-for-sunday-26-august-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://blog.thedebianuser.org/?p=216">You install it once</a></h3>

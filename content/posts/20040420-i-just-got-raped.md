@@ -4,6 +4,7 @@ Modified: 2004-04-21 00:31:45
 Slug: 20040420-i-just-got-raped
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>While sleeping in Breedster, I got raped by a girl - Pink Babe. Talking about a weird game :)</p>
 <blockquote><p class="quote">

@@ -3,6 +3,7 @@ Date: 2009-02-23 10:46:59
 Slug: 20090223-an-interesting-trip-to-work
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>This morning I had a not-so-uneventful road trip to work. Just after leaving the gas station and getting on the highway, I was amused by a BMW passing me by with its bonnet almost entirely unlocked. There surely is a reason for that second lock after all. Not long thereafter -- at a part of the highway that reduces the speed from 120 to 100km/h -- everyone seemed to be braking and reducing their speed to about 50 instead, me included. As I noticed there wasn't someone directly behind me, I decided to turn on my alarm lights as extra warning.</p>
 

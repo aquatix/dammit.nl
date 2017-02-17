@@ -4,7 +4,7 @@ Slug: 20110206-blogmarks-for-sunday-06-february-2011
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.googleartproject.com/">Art Project, powered by Google</a></h3>

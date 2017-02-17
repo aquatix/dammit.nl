@@ -4,7 +4,7 @@ Slug: 20100103-blogmarks-for-sunday-03-january-2010
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.youtube.com/watch?v=9AFf0ysgNiM">[YouTube] It Could Be Worse</a></h3>

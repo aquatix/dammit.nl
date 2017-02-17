@@ -3,6 +3,7 @@ Date: 2006-03-02 21:26:53
 Slug: 20060302-a-rebel-geek-and-his-ideas-for-an-open-company
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>After capitalizing the title right [I hope], I wanted to share a little anecdote with you. A guy of the same year of my Computer Science study has a traineeship where he's profiling a large information system. He could choose between writing his application in Java or .NET with C#, and his mentor gave the advice to do it in C# as "that's new, and you'll need to learn it anyway".</p>
 <p>Now I think his subject is very interesting, but the stance of his tutor brought out the rebel in me. It may be 'wise' from a carrier perspective where big companies use .NET for all their applications and more, but I think we -- as academic, larger thinking computer scientists -- should create awareness of alternatives for microsoft's platform to prevent vendor lock-in. He posed that ".NET will be available for Unix too", but as you know, that's only because of <a href="http://tirania.org/blog/">Miguel de Icaza</a>'s efforts on <a href="http://www.mono-project.com/">Mono</a>. A project that's silently ignored by microsoft itself, while Redmond claims it's an open platform. It's bad enough that so much workstations at our department are windows machines, and that when a student encounters a Linux [or Minix] machine, he or she stares at it in amazement, then turns and leaves the room. Of course that leaves us in a quiet room, but it's not the way an academic Computer Science student should [re]act.</p>

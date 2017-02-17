@@ -4,7 +4,7 @@ Slug: 20061120-blogmarks-for-monday-20-november-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.boingboing.net/2006/11/17/uk_rfid_passports_cr.html">Boing Boing: UK RFID passports cracked</a></h3>

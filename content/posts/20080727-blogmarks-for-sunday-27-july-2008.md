@@ -4,7 +4,7 @@ Slug: 20080727-blogmarks-for-sunday-27-july-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://blog.sesse.net/blog/tech/2008-07-25-02-32_os_x_porn.html">OS X porn</a></h3>

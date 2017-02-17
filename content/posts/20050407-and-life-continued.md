@@ -3,6 +3,7 @@ Date: 2005-04-07 14:15:34
 Slug: 20050407-and-life-continued
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Well, there I am again. And no, quitting all things electronical seems not to be an option for me. A life without gadgets just ain't complete for me I guess.</p>
 

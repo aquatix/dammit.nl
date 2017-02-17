@@ -4,7 +4,7 @@ Slug: 20090830-blogmarks-for-sunday-30-august-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://news.bbc.co.uk/2/hi/technology/8221235.stm">Programming, meet music</a></h3>

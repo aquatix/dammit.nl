@@ -4,7 +4,7 @@ Slug: 20070401-blogmarks-for-sunday-01-april-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://wiki.debian.org/DebianHistory?action=AttachFile">History of Debian</a></h3>

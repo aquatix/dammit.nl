@@ -4,7 +4,7 @@ Slug: 20060723-blogmarks-for-sunday-23-july-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://nl.wikipedia.org/wiki/Engelse_ziekte_%28taal%29">[Dutch] Engelse Ziekte in de Nederlandse taal</a></h3>

@@ -4,6 +4,7 @@ Modified: 2006-06-09 09:35:26
 Slug: 20060608-what-s-up-with-all-those-orange-ornaments
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Is there some international thing going on or something?</p>
 

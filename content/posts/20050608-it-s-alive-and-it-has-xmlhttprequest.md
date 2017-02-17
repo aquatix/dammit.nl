@@ -3,6 +3,7 @@ Date: 2005-06-08 17:03:55
 Slug: 20050608-it-s-alive-and-it-has-xmlhttprequest
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I've been working on <a href="https://aquariusoft.org/overload/">the overload RSS reader</a> a bit the last few days, and put a brandnew snapshot online. It's a great deal faster [calculating of the number of unread items was a tad slow, taking 6 seconds for my 69 feeds and 17000 items total and 5000 unread, now 0.09 seconds]. And... it has <a href="http://jibbering.com/2002/4/httprequest.html">XMLHttpRequest</a>, which some of you may know as <a href="http://en.wikipedia.org/wiki/AJAX"><acronym title="Asynchronous JavaScript and XML">AJAX</acronym></a>.</p>
 

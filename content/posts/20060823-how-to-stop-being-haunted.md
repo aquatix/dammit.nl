@@ -3,6 +3,7 @@ Date: 2006-08-23 23:32:37
 Slug: 20060823-how-to-stop-being-haunted
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>As <a href="http://aquariusoft.org/~mbscholt/index.php?rantid=444">I posted earlier on</a>, being haunted by unfinished projects and uninteresting courses at University isn't great fun exactly. Now this is general knowledge, but how does this lazy procrastinating programming and randomly surfing geek do something about it? Of course, "getting a grip" on the situation and myself is a start, by targetting the important projects [courses] first, finish the darn things without letting myself getting distracted. Now <a href="http://aquariusoft.org/~mbscholt/index.php?rantid=106">that's not easy, being a N.A.D.D. suffering person</a> :) This would mean prioritising the projects, discarding the non-essential ones [hm, not easy ;)], finishing these important ones and doing the same with courses at the University, naturally. The latter means actually study for uninteresting courses! *gasp*</p>
 

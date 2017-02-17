@@ -3,6 +3,7 @@ Date: 2006-12-16 17:49:31
 Slug: 20061216-the-little-angel-on-the-top-of-the-christmas-tree
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>One particular Christmas season a long time ago, Santa was getting ready for his annual trip but there were problems everywhere. Four of his elves got sick, and the trainee elves did not produce the toys as fast as the regular ones so Santa was beginning to feel the pressure of being behind schedule. Then Mrs. Claus told Santa that her Mom was coming to visit; this stressed Santa even more.</p>
 

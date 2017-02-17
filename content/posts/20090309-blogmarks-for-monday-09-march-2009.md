@@ -4,7 +4,7 @@ Slug: 20090309-blogmarks-for-monday-09-march-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://huopio.fi/simo/blog/2009/03/rfid-calling-cards-for-osx-and-skype.html"> RFID "calling cards" for OSX and Skype </a></h3>

@@ -4,7 +4,7 @@ Slug: 20080324-blogmarks-for-monday-24-march-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://diveintomark.org/archives/2008/03/18/translation-from-ms-speak-to-english-of-selected-portions-of-joel-spolskys-martin-headsets">Translation From MS-Speak to English of Selected Portions of Joel Spolsky's "Martian Headsets" [dive into mark]</a></h3>

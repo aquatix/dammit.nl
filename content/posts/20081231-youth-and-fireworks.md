@@ -3,6 +3,7 @@ Date: 2008-12-31 17:53:31
 Slug: 20081231-youth-and-fireworks
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Is it just me or do those kids have too much to spend on fireworks? Of course they're free to spend their money on whatever they want, but to have more noise and light shows two days before it's actually the end of the year is a bit overdone in my opinion :)</p>
 

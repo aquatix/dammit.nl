@@ -4,7 +4,7 @@ Slug: 20081221-blogmarks-for-sunday-21-december-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://home.hccnet.nl/h.g.muller/max-src2.html">Micro-Max: chess application in 1200 characters</a></h3>

@@ -3,6 +3,7 @@ Date: 2007-02-23 12:32:13
 Slug: 20070223-linux-and-fosdem
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I'm leaving in a few hours to the nice city of Brussels [just south of Amsterdam, but in the country Belgium ;)], to attend <a href="http://www.fosdem.org/2007/">FOSDEM 2007</a> with some other geeks. Looks like it's going to be quite some fun, completely geeking out, sharing ideas and listening to talks on our favourite projects and subjects. It starts off with some <a href="http://www.fosdem.org/2007/beerevent">Beer Event</a> this evening already, and considering the high quality of Belgian beer, that could work out very well ;)</p>
 <p>The only downside is that there just are <a href="http://www.fosdem.org/2007/schedule/days">too damn many talks to choose between</a>... [Ah, and maybe the early scheduling of the first talks on Sunday ;)]</p>

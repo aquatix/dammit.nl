@@ -3,6 +3,7 @@ Date: 2007-03-23 12:18:49
 Slug: 20070323-lightweight-soda-drink-bottles
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <ol>
 <li>Open closet door</li>

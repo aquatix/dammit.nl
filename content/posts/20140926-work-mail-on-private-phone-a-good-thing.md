@@ -3,6 +3,7 @@ Date: 2014-09-26 21:16:48
 Slug: 20140926-work-mail-on-private-phone-a-good-thing
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 Work mail, every working person has it. I have it. Thankfully not lots and lots of messages per day, but it's still a part of my everyday routine. We each got a company-provided laptop with email (and Lync - the old Microsoft Communicator - for phone and instant messaging), which I installed Linux upon with Mozilla Thunderbird and [Exquilla](https://exquilla.zendesk.com/home) which talks to Outlook Web Access. This works fine, but of course only if I'm at my laptop and only if on the right virtual desktop.
 

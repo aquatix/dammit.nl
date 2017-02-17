@@ -4,7 +4,7 @@ Slug: 20060903-blogmarks-for-sunday-03-september-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.youtube.com/watch?v=YhuiDjiBigs&amp;eurl=http%3A%2F%2Fforum%2Elowyat%2Enet%2Findex%2Ephp%3Fshowtopic%3D328503">Japanese Algorithm Dance!</a></h3>

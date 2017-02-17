@@ -4,7 +4,7 @@ Slug: 20090927-blogmarks-for-sunday-27-september-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://ijustmadelove.com/">I Just Made Love</a></h3>

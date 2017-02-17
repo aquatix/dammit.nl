@@ -4,6 +4,7 @@ Modified: 2007-07-30 13:27:04
 Slug: 20070730-spam-getlive-and-other-crap
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I just reached the 15000 spam messages for this year in my spam folder. That's about 15007/211 = 71.12 messages a day. Fun, fun. Thanks the Light for SpamAssassin.</p>
 

@@ -4,6 +4,7 @@ Modified: 2005-02-09 10:18:50
 Slug: 20050209-lesson-learned-don-t-fuck-up-your-forward-file
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>OK, I'm feeling really stupid. I managed to change my exim .forward file [which filters my e-mail neatly into a lot of mail folders] in such a way that it doesn't deliver e-mail _at all_. Ouch. Such a stupid typo. Well, two of them. I hope these messages are still drifting somewhere in the mail subsystem and get delivered after all, because there are some very important ones among them. Gah.</p>
 

@@ -4,7 +4,7 @@ Slug: 20070729-blogmarks-for-sunday-29-july-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://apcmag.com/6735/interview_con_kolivas">Why I quit: kernel developer Con Kolivas</a></h3>

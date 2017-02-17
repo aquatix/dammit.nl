@@ -4,7 +4,7 @@ Slug: 20091227-blogmarks-for-sunday-27-december-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://albinoraven7.blogspot.com/2009/12/marios-closet.html">Mario's Closet</a></h3>

@@ -3,6 +3,7 @@ Date: 2014-04-20 14:23:52
 Slug: 20140420-planet-mobile
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 Sixteen years ago I had a pda. Not one of those nifty Palm devices or expensive Psion's. No, a regular organizer; a little
 electronic device with a whopping 128KB of storage which you could fold shut like a litte book. Opened, it provided a nice little

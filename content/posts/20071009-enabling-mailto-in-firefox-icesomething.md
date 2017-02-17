@@ -3,6 +3,7 @@ Date: 2007-10-09 17:29:24
 Slug: 20071009-enabling-mailto-in-firefox-icesomething
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>As simple as adding a new setting in your about:config :-</p>
 

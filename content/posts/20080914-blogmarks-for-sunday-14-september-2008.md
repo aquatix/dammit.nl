@@ -4,7 +4,7 @@ Slug: 20080914-blogmarks-for-sunday-14-september-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://news.bbc.co.uk/2/hi/technology/7610534.stm">Japan tops world broadband study</a></h3>

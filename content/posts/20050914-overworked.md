@@ -3,6 +3,7 @@ Date: 2005-09-14 12:09:10
 Slug: 20050914-overworked
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Gah, I'm getting stressed. I already worked two days straight at about twelve hours a day, had to get up even earlier today to get to my classes, got a text message that somebody from my group-of-three didn't come [sleeping issues too :)], then stumbled into an assignment that was being done this class. In groups. I was the only member of my group present as the other didn't show up too. An assigment about design space, issues and problems. Like what we have been doing for two days straight at work. Raahhh. Headache.</p>
 

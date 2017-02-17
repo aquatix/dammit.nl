@@ -4,7 +4,7 @@ Slug: 20100124-blogmarks-for-sunday-24-january-2010
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://gizmodo.com/5454587/#infographics#milkywaytransitauthority">We Are Just a Tiny Station in the Milky Way Subway Map - Milky way transit authority</a></h3>

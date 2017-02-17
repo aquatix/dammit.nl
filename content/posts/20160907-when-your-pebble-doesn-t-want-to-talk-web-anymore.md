@@ -3,6 +3,7 @@ Date: 2016-09-07 09:49:22
 Slug: 20160907-when-your-pebble-doesn-t-want-to-talk-web-anymore
 Location: Train
 Authors: Michiel Scholten
+Tags: olddammit
 
 A few weeks ago I started noticing an odd problem: my Pebble Time Steel didn't want to update its various apps anymore. The watchface showed stale weather data, the public transports apps didn't want to tap into the latest departure times and so on. This of course annoyed me a bit, especially because I couldn't really find someone else with the same issue.
 

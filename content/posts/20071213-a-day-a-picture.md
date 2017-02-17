@@ -3,6 +3,7 @@ Date: 2007-12-13 11:51:35
 Slug: 20071213-a-day-a-picture
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Today I started an experiment, encouraged by <a href="http://basvandijk.eu/">Bas</a>, to shoot a picture of some random subject a day, and post it on a weblog. I started by creating a <a href="http://aquariusoft.org/gallery/v/photographs/pic-a-day/">gallery album for it</a>, and I'll try to set up some kind of photolog in the near future [being it a Wordpress weblog, or an addition to this self-written weblog software]. Here is the first one in hopefully a long series:</p>
 

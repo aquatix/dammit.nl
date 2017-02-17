@@ -4,7 +4,7 @@ Slug: 20080511-blogmarks-for-sunday-11-may-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html">Does Visual Studio Rot the Mind?</a></h3>

@@ -4,6 +4,7 @@ Modified: 2017-01-21 16:05:00
 Slug: 20160406-how-to-fix-secure-settings-on-android-devices-with-supersu-systemless-root
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 Edit at 2017-01-21: see the comments about better ways, especially [comment 6](//dammit.nl/p/962#comment592).
 

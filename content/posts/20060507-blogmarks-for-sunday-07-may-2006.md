@@ -4,7 +4,7 @@ Slug: 20060507-blogmarks-for-sunday-07-may-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://youtube.com/watch?v=DReSzXRK9F8">Real life frogger</a></h3>

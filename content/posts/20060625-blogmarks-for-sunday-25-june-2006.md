@@ -4,7 +4,7 @@ Slug: 20060625-blogmarks-for-sunday-25-june-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.eff.org/Net_culture/Folklore/Humor/borg_windows.skit">The Borg defeated by Microsoft</a></h3>

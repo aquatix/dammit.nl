@@ -3,6 +3,7 @@ Date: 2012-08-24 15:43:24
 Slug: 20120824-doing-nice-things-with-your-ssh-config-file
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>If you are running a unix-like machine, like a Linux workstation, or BSD or Apple Mac, you might be acquainted with the ~/.ssh directory. SSH stores known hosts in their, as well as your public and private SSH keys and more important stuff. 
 

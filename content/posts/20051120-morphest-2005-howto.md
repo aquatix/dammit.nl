@@ -3,6 +3,7 @@ Date: 2005-11-20 17:55:08
 Slug: 20051120-morphest-2005-howto
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>The email I just sent out to the participants:</p>
 

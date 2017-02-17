@@ -3,6 +3,7 @@ Date: 2005-05-09 14:54:29
 Slug: 20050509-developing-an-information-based-system
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I've been busy lately; the obligatory working days, doing some examinations [late in the evening... what's the use of that?], visiting family and working on <a href="/page/html/overload/">my overload project</a>. I've been working off and on that application since the 17th of March, and it's getting a bit mature, at least for the engine part. I've almost finished the "new user subscribe" functionality, and then I'll finish the "manage feeds" handling. I've been using that kind of functionality right on the database until now, but as I want it to be actually used by others, it would be nice to have a decent <acronym title="User Interface">UI</acronym> ;) Hang on a few more hours for a new snapshot on aquariusoft's live <a href="/overload/">overload</a>.</p>
 

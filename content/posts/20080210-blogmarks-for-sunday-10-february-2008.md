@@ -4,7 +4,7 @@ Slug: 20080210-blogmarks-for-sunday-10-february-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.starfleet-museum.org/notes1.htm">The Starfleet Museum - Starship Design Notes, Part 1</a></h3>

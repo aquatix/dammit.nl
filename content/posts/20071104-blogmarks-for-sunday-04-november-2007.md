@@ -4,7 +4,7 @@ Slug: 20071104-blogmarks-for-sunday-04-november-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://blog.whatfettle.com/2007/10/31/the_web_is_agreement/">The Web is Agreement</a></h3>

@@ -4,7 +4,7 @@ Slug: 20081207-blogmarks-for-sunday-07-december-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://bergie.iki.fi/blog/with_nokia_you-re_not_just_a_consumer/">With Nokia you're not just a consumer</a></h3>

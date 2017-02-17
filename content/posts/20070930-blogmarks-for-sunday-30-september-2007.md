@@ -4,7 +4,7 @@ Slug: 20070930-blogmarks-for-sunday-30-september-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://news.ycombinator.com/item?id=60357">Paul Graham is so good, Arc is Blub for him.Paul Graham is so good, he does just...</a></h3>

@@ -4,7 +4,7 @@ Slug: 20090802-blogmarks-for-sunday-02-august-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.nrc.nl/opinie/article2316305.ece/Beleefdheid_is_de_meeste_Nederlanders_totaal_vreemd">[Dutch] Beleefdheid is de meeste Nederlanders totaal vreemd</a></h3>

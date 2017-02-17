@@ -4,7 +4,7 @@ Slug: 20080420-blogmarks-for-sunday-20-april-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://thedailywtf.com/Articles/Oklahoma-Leaks-Tens-of-Thousands-of-Social-Security-Numbers,-Other-Sensitive-Data.aspx">Oklahoma Leaks Tens of Thousands of Social Security Numbers, Other Sensitive Data</a></h3>

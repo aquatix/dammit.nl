@@ -3,6 +3,7 @@ Date: 2008-12-29 23:10:21
 Slug: 20081229-obligatory-end-of-year-statistics
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I did some digging in the logs of this weblog and dumped some page view listings per day. With some <a href="">gnuplot</a> magic, that's easily turned into a simple graph. So here is the development of the number of page views over the years of dammIT:</p>
 

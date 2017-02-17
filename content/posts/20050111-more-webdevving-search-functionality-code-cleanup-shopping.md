@@ -3,6 +3,7 @@ Date: 2005-01-11 13:54:53
 Slug: 20050111-more-webdevving-search-functionality-code-cleanup-shopping
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>OK, I'm slacking I guess, but instead of studying I've added some search functionality to this weblog [see top of the bar on the right], and cleaned up a lot of code. Maybe I should opensource this little site; at least the code is readable now :) For a small ChangeLog <a href="index.php?page=plan">see the .plan page</a></p>
 

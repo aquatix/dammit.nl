@@ -4,7 +4,7 @@ Slug: 20091101-blogmarks-for-sunday-01-november-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://ngm.nationalgeographic.com/visions-of-earth/visions-earth-2009?image=2">Apes are just like people, or are people just like apes?</a></h3>

@@ -3,6 +3,7 @@ Date: 2005-04-11 12:27:19
 Slug: 20050411-klm-plane-send-back-because-us-wouldn-t-let-it-pass
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>U.S. authorities refused to allow a KLM Royal Dutch Airlines 747 to fly over the United States yesterday, <a href="http://www.cnn.com/2005/US/04/10/klm.flight/">as you can read on this CNN page</a> [or <a href="http://news.google.com/news?hl=en&amp;ned=us&amp;ie=UTF-8&amp;q=us+klm+denied&amp;btnG=Search+News">find more about it at Google's News</a>]. The aircraft was on it's way to Mexico.</p>
 

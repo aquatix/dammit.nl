@@ -4,7 +4,7 @@ Slug: 20071014-blogmarks-for-sunday-14-october-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.boingboing.net/2007/10/11/steampunks-guide-to.html">Steampunk's Guide to Surviving the Apocalypse</a></h3>

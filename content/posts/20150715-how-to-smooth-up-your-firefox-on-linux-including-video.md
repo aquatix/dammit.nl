@@ -3,6 +3,7 @@ Date: 2015-07-15 15:31:05
 Slug: 20150715-how-to-smooth-up-your-firefox-on-linux-including-video
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 After having one of our Hangouts videocalls, I started looking into why the browser plugin takes so much CPU-time (and makes the laptop hot and breezy in the process). Is stumbled upon the article [How to tell if you're using hardware acceleration](https://blog.mozilla.org/joe/2010/11/10/how-to-tell-if-youre-using-hardware-acceleration/) and dove into my own `about:support` page in Firefox. Lo and behold, the information behind 'GPU Accelerated Windows' told me it did no hardware acceleration (it showed the 0/1). OK, so how to fix?
 

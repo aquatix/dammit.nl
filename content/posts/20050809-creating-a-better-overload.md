@@ -4,6 +4,7 @@ Modified: 2005-08-10 22:31:53
 Slug: 20050809-creating-a-better-overload
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>I've been programming at the <a href="/page/html/overload/">overload feedreader</a> [or should I say channel reader? Nah, feedreader sounds better...] the last few days. Mostly behind-the-screens work, but I've put in some small changes in the frontend for good measure too. Take a look at it:</p>
 <p><a href="http://aquariusoft.org/gallery/v/screenies/overload/20050809_revamped_overload.png.html"><img src="http://aquariusoft.org/~mbscholt/images/content/20050809_revamped_overload_cropped.png" alt="Revamped overload screenshot" /></a></p>

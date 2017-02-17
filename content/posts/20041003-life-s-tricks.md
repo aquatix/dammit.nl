@@ -3,6 +3,7 @@ Date: 2004-10-03 17:22:23
 Slug: 20041003-life-s-tricks
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Life is fun. Even pessimists know life can be fun, if only for having a great girlfriend and being able to having good times with her. But life can play it's tricks upon us.</p> 
 <p>Enter the younger brother of my gf and his own girlfriend. They are both 19 years old and quite fond of each other. She had finally decided what study she wanted to do and had just started her first year following it's classes. Last week they had something to tell us. She is pregnant. Completely unplanned [little bit in conflict with her study too...], and having a huge impact on their lifes. We where baffled. Thankfully their respective parents wheren't angry [or at least not for long], and started helping with finding solutions immediately, because they already had decided to keep it.</p>

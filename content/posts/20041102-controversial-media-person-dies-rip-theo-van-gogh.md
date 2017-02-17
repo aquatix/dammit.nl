@@ -4,6 +4,7 @@ Modified: 2004-11-02 17:18:29
 Slug: 20041102-controversial-media-person-dies-rip-theo-van-gogh
 Location: Work
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p><a href="http://nu.nl/news.jsp?n=435082&amp;c=13">Theo van Gogh is dead</a> [dutch link]. He was quite controversial with his bold positions, but I liked the way he put things in a different daylight. He was stabbed to dead today by a [for now] unknown person. Another interesting person dies...</p>
 

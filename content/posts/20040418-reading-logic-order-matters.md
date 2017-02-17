@@ -3,6 +3,7 @@ Date: 2004-04-18 23:28:54
 Slug: 20040418-reading-logic-order-matters
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>Reversed the order comments where sorted at: now it's chronological and that's far more logical ;)</p>
 <p>Now that I'm at that point: top posting in an email or usenet message seems to be considered not done. I was a little confused when I saw the strong reactions someone got when he did just that, because I do it most of the time too. I send the original message [email] along as a reminder, but someone stated that, as he wrote the original message, he didn't need that reminder. And when you react on a message, it's logical you do it in chronological order, so someone reading your message doesn't get confused the hell out of him because of reactions on something he didn't even read yet.</p>

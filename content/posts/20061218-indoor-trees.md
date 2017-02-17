@@ -3,6 +3,7 @@ Date: 2006-12-18 11:59:27
 Slug: 20061218-indoor-trees
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>To comply with the weird tradition of putting an almost dead tree in your home, we brought in an <em>Abies nordmanniana</em>, also known as a Nordmann Fir [or "nice looking Christmas tree" for those who don't care].</p>
 

@@ -3,6 +3,7 @@ Date: 2008-02-29 14:18:16
 Slug: 20080229-annoying-car-drivers
 Location: Home
 Authors: Michiel Scholten
+Tags: olddammit
 
 <p>On my way back from work earlier this week, I was driving on the 80km regional road from the city I work in [completely in the north] to the bigger city connected to a real highway. It's a really boring road, almost arrow straight, constructed alongside a canal. Max speed is 80 kilometers per hour, because it can be a dangerous road at times [it seems quite a lot of serious accidents happened there in the past], so everyone generally is driving 80km/h straight. Not this evening. I drove in some long snake of cars and tried to figure out why we only drove about 70km/h. Sometimes we would all speed up to the regular 80, then suddenly everyone needed to break and we would drive 60 for a while, then climbing back to 70, 75km/h. Mind you, at 80km/h it's a 35+ minute drive, and this was just plain annoying, part because of the sudden slow downs.</p>
 

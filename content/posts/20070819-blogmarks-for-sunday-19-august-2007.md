@@ -4,7 +4,7 @@ Slug: 20070819-blogmarks-for-sunday-19-august-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: olddammit, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://developers.slashdot.org/comments.pl?sid=272217&amp;cid=20257709">Microsoft Opens Up Windows Live ID</a></h3>
