@@ -3,7 +3,7 @@ Date: 2010-05-15 14:01:31
 Slug: 20100515-windows-only-bios-updaters-and-me
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>So I have this nice shiny light laptop (the Samsung X360). It came with Microsoft Vista pre-installed, but I never even booted it; I wiped it and installed Ubuntu on it immediately. It's working quite fine, except for some minor issues with its screen's backlight being a bit quirky (it needs a <code>i915.modeset=0</code> part behind its kernel line in Grub's config).</p>
 

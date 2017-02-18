@@ -3,7 +3,7 @@ Date: 2008-03-26 11:02:57
 Slug: 20080326-apt-get-and-installing-recommends-by-default
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Now for a geeky post.</p>
 

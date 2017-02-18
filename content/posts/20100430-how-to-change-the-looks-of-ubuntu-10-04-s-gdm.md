@@ -3,7 +3,7 @@ Date: 2010-04-30 14:01:31
 Slug: 20100430-how-to-change-the-looks-of-ubuntu-10-04-s-gdm
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Ubuntu's GDM still does not have a settings window where you can change looks to your liking. However, there are some tricks to still be able to do just that.</p>
 

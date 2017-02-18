@@ -3,7 +3,7 @@ Date: 2007-03-27 15:19:41
 Slug: 20070327-when-the-birds-awake
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>It was 6:10AM when my alarm clock gently started humming a tune from the radio. It was still dark [thanks, DST...], but I heard some birds already singing their morning songs. Groggily I stuffed some sandwiches in my mouth while getting some suitable day-clothes on, hoping they would match, as I kept the lights off to keep the GF asleep. After getting my hair in something not looking too much like some dead animal and stuffing an energy drink in my backpack [already anticipating the moment I would pop it open], I jumped on my bike. Well, shove on it, more likely, but whatev'. Being glad the sun had dawned so I could see the road ahead in nice technicolour instead of monochromatic yellow, I started off in the general direction of the railway station. There was a bird sitting sleepily at every other lightpost, and I wondered whether they had some set-up to do their morning droppings on unsuspecting cyclists. Didn't get any empirical evidence, luckily.</p>
 <p>The station was quite crowded, and so was the train. Not being accustomed to it, I walked all the way to an extreme end of it and found a less occupied car. I whipped out my Palm pda and started reading some pdf'ed exams from previous years.</p>

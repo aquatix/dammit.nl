@@ -4,7 +4,7 @@ Slug: 20090329-blogmarks-for-sunday-29-march-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://mywiki.wooledge.org/FtpMustDie">Ftp Must Die</a></h3>

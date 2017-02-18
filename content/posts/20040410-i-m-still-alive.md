@@ -3,7 +3,7 @@ Date: 2004-04-10 00:51:10
 Slug: 20040410-i-m-still-alive
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Yeah, I'm still around. Went to the dentist [everything fine, just a checkup], bought a usb bluetooth dongle on the way back home, so now I'm able to connect my pda via bluetooth with my computer [in this case my linux laptop]. I install the BlueZ packages and even got an internet connection working for my pda; my laptop functions as gateway. Neat. Even neater is that it still works one story up/down, so now I'm able to surf with my Clie on the couch. Yay =) Got to install some chat progs :P</p>
 <p>Mental note: find PalmOS bluetooth sniffer for finding bluetooth enabled devices while being bored in train. Maybe I can hijack someones connection and get the latest feeds while being somewhere between Uitgeest and Amsterdam. How evil :P</p>

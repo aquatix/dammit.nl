@@ -4,7 +4,7 @@ Slug: 20090705-blogmarks-for-sunday-05-july-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://news.nationalgeographic.com/news/2009/06/photogalleries/hitlers-stealth-fighter-plane-pictures/index.html">"Hitler's Stealth Fighter" Reborn</a></h3>

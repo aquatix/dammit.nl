@@ -4,7 +4,7 @@ Slug: 20090614-blogmarks-for-sunday-14-june-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://weblogs3.nrc.nl/commentaar/2009/06/13/nederland-individuen-en-minderheden/">[Dutch] Nederland, individuen en minderheden</a></h3>

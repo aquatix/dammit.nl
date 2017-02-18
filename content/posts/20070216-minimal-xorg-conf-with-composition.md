@@ -3,7 +3,7 @@ Date: 2007-02-16 20:36:39
 Slug: 20070216-minimal-xorg-conf-with-composition
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I really like Xfce 4.4's compositor [giving me nice shadows, transparent windows et al], and I wanted to clean up, so I requested <a href="http://aquariusoft.org/~mbscholt/files/xorg.conf.mephisto.20070216">Mephisto's really minimal xorg.conf</a> [which he uses with X.org 7.2 and an nvidia 9746 driver]. I added some modules that wheren't automatically loaded by my X.org 7.1, and some stuff to get composition. This is the result:</p>
 

@@ -4,7 +4,7 @@ Slug: 20080706-blogmarks-for-sunday-06-july-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://nedmartin.org/amused/communist-mario">A Case in Communism: The Super Mario Story</a></h3>

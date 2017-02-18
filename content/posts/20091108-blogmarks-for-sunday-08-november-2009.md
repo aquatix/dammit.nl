@@ -4,7 +4,7 @@ Slug: 20091108-blogmarks-for-sunday-08-november-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://arvindn.livejournal.com/57651.html">The calculus of Caffeine consumption</a></h3>

@@ -4,7 +4,7 @@ Modified: 2004-06-06 17:30:00
 Slug: 20040605-scary-stuff
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>After a week in which a mother killed her own three children to be able to keep them near her after her death [she killed herself by jumping in front of a train; she wanted some peace after a fight with her ex-husband lasting for years], someone <a href="http://news.yahoo.com/news?tmpl=story&amp;u=/nm/20040604/wl_nm/colombia_baby_dc_1">stealing a baby from the mother's womb</a> and <a href="http://news.yahoo.com/news?tmpl=story&amp;u=/ap/20040605/ap_on_re_us/bulldozer_rampage_15">a man in Granby, Colorado, America going on a rampage</a> [read: destroys town] with an armor-plated bulldozer because of losing some bitter battles with the local authorities [<a href="http://nu.nl/news.jsp?n=334593&amp;c=119">Dutch version</a>] there appeared an alarming piece [at least for windows users] about the <a href="http://slashdot.org/article.pl?sid=04/06/04/1835233">Korgo Virus for Win2k/XP recording keystrokes and such</a>. Another neat virus/trojan that's installed for free and without the user noticing it, not by the very nice remote installer program called Internet Explorer, but by the <acronym title="Remote Procedure Call">RPC</acronym> services of Windows. Yay for Microsoft.</p>
 

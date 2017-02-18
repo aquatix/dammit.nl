@@ -4,7 +4,7 @@ Slug: 20080713-blogmarks-for-sunday-13-july-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://lifehacker.com/398333/snacks-that-heal-what-ails-you">Snacks that heal what ails you</a></h3>

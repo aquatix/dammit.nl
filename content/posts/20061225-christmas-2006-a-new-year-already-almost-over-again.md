@@ -3,7 +3,7 @@ Date: 2006-12-25 13:30:52
 Slug: 20061225-christmas-2006-a-new-year-already-almost-over-again
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>... and time flies. While enjoying the company of close ones and the food and drinks they serve, I can't help but contemplating a bit about another year gone by. Did I accomplish the things I wanted to do? Did I live up to the expectations of the people around me? I'm doing my best and jotting down some new and old goals for the next year.</p>
 

@@ -3,7 +3,7 @@ Date: 2006-02-24 13:16:47
 Slug: 20060224-still-alive-job-on-hold-in-favour-of-study-still-stressing
 Location: Vrije Universiteit - Someplace with wifi
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>So here I am, sitting in the cafetaria of my university [next to a dude with a 17" Powerbook], eating my way through a free 45 minutes. I decided some weeks ago to stop working 2 days per week [they asked me if it was possible for me to even do 3 days/week before that], as I want to finally get my piece of Bachelor paper, and - shortly after that, if possible - my Master diploma. I figured I could as well borrow some money from the governmental institution that oversees all students' business. Besides, the GF is going to be a pharmacist in about 6 months from now ;)</p>
 

@@ -4,7 +4,7 @@ Slug: 20130625-blogmarks-for-tuesday-25-june-2013
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <ul class="blogmarks"><li><a href="http://www.huffingtonpost.com/2013/06/24/thirdhand-smoke-dna-damage-cells_n_3474797.html">Thirdhand Smoke Spurs DNA Damage, Study Finds</a> We know firsthand smoke is bad, and we know secondhand smoke is also bad. But now, researchers have found that thirdhand smoke -- the surface-clinging residue left over from secondhand smoke -- can also cause damage to our DNA.</li>

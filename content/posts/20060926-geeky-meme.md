@@ -3,7 +3,7 @@ Date: 2006-09-26 09:50:39
 Slug: 20060926-geeky-meme
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Currently, a <a href="http://www.grep.be/blog/2006/09/25/#command_frequency">command frequency meme</a> seems to propagate through Planet Debian, and I thought I'd run that one-liner as well. Some interesting results yielded:</p>
 

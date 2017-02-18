@@ -4,7 +4,7 @@ Slug: 20070128-blogmarks-for-sunday-28-january-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.robweir.com/blog/2007/01/linuss-law-applied-to-standards-review.html">Linus's Law Applied to Standards Review</a></h3>

@@ -3,7 +3,7 @@ Date: 2008-11-28 15:46:29
 Slug: 20081128-comparing-the-current-netbook-atom-processor-against-my-aging-pentium-m
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I have a nice and trusty <a href="http://aquariusoft.org/~mbscholt/images/content/acer_tm8000.jpg">15" Acer Travelmate from the 8000 series</a>. It has a 1400x1050 tft, dvd-rom/cd-rewriter, currently 80GB hdd and 1.25GB of RAM. Its keyboard is really nice for typing at long stretches, being curved a bit and having great keys. The machine also sports a 1.5GHz Pentium-M processor on the first Centrino platform. This is a <a href="http://en.wikipedia.org/wiki/Pentium_M#Dothan">Dothan core</a> known as the Pentium-M 715. This machine has been serving me for way over four years already, and I hope to have it around for some more. The original 60GB hdd already is replaced with a new one after it died, and one of the 256MB ram banks has been transferred to my girlfriend's laptop and replaced with a 1GB one.</p>
 

@@ -4,7 +4,7 @@ Slug: 20100110-blogmarks-for-sunday-10-january-2010
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://cibermitanios.com.ar/2008/01/250-animales-que-no-existirian-sin.html">250 animales que no existirÃ­an sin Photoshop</a></h3>

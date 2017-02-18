@@ -3,7 +3,7 @@ Date: 2008-07-02 11:48:15
 Slug: 20080702-we-interrupt-this-broadcast-for-a-public-service-announcement
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>*Gulp*</p>
 

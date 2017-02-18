@@ -3,7 +3,7 @@ Date: 2005-05-30 00:13:42
 Slug: 20050530-slacking-n-hacking
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Did some studying today for an exam I have in about a day now. It's quite boring, but I need to focus as I want to get it's freaking grade...</p>
 

@@ -4,7 +4,7 @@ Modified: 2004-04-22 23:17:30
 Slug: 20040422-nerd-attention-deficiency-disorder-and-other-things-to-swallow
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I keep on posting today :)</p>
 <p>I came along<a href="http://www.randsinrepose.com/archives/2003/07/10/nadd.html">Nerd Attention Deficiency Disorder</a> [short: NADD], which, erm, fits me fairly well. I don't know if that's good or bad, but it enables me to sift through huge amounts of information in a short time. A <a href="http://www.randsinrepose.com/archives/2004/02/15/in_defense_of_nadd.html">follow-up story, In Defense of N.A.D.D.</a> is available too. Good reads.</p>

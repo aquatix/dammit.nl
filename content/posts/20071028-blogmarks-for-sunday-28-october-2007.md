@@ -4,7 +4,7 @@ Slug: 20071028-blogmarks-for-sunday-28-october-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.socialbeats.com/">Social Beats - great jazz</a></h3>

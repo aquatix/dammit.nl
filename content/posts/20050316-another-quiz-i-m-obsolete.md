@@ -3,7 +3,7 @@ Date: 2005-03-16 10:12:04
 Slug: 20050316-another-quiz-i-m-obsolete
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p><img src="/~mbscholt/images/content/1082613096_topfleurde.gif" alt="France Modern (trois fleurs-de-lis)" /></p>
 

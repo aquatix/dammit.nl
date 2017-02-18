@@ -3,7 +3,7 @@ Date: 2008-08-16 10:54:57
 Slug: 20080816-when-the-sun-sets
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <div class="content-image"><div><a href="http://aquariusoft.org/gallery/v/photographs/photolog/IMG_5021.html"><img src="http://aquariusoft.org/gallery/d/5495-2/IMG_5021" alt="Birds in crane and trees" title="Birds in crane and trees" /></a></div></div>
 <br style="clear: both;" />

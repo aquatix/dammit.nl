@@ -3,7 +3,7 @@ Date: 2004-03-25 18:01:36
 Slug: 20040325-life-of-a-palestinian-boy
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p><a href="http://oskuro.net/~jordi/blog/stuff/palestine-2004-03-25-01-58.html">Life of a Palestinian boy</a> is a posting about why Palestinians blow themselfs up. It states the same as I'm stating myself, but he got it online sooner ;)</p>
 <p>It's about Israel suppressing the Palestinians, killing them by dozens with missiles, trashing whole cities with their bulldozers and then act angry because a Palestinian blows herself up because she got nothing left in the world. Acting angry by just firing more missiles, killing innocent people among one Hamas leader or something, trashing another block of dusty homes and building a fricking wall, separating their own nation. Excuse me for the anology, but that wall reminds me sharply of the German wall, build shortly after the fall of the Nazi regime, which [among lots of other kinds of people], killed lots of Jews.</p>

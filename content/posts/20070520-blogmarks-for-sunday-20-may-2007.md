@@ -4,7 +4,7 @@ Slug: 20070520-blogmarks-for-sunday-20-may-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://itre.cis.upenn.edu/~myl/languagelog/archives/004508.html">I'm in your forum... posting in a grammatically accurate manner</a></h3>

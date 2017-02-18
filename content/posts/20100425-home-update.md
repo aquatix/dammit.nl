@@ -3,7 +3,7 @@ Date: 2010-04-25 16:36:13
 Slug: 20100425-home-update
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>As we bought a house last year, we're actively following its process of being built. Photograph-loving people as we are, we <a href="http://aquariusoft.org/photos/home/project_w72/various/">document the timeline graphically</a>.</p>
 

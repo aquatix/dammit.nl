@@ -3,7 +3,7 @@ Date: 2005-02-22 20:06:27
 Slug: 20050222-neat-webbased-applications
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Anybody knows <a href="http://www.gmail.com/">webmail</a> applications, but there exist a whole lot of webbased applications that you can run on your own server/desktop-with-webserver. Of course a whole bunch of <acronym title="Content Management Systems">CMS</acronym>'s, <a href="http://www.punbb.org/">Forums</a>, <a href="/~mbscholt/">weblogs</a> etc, but I want to highlight some more exotic ones.</p>
 

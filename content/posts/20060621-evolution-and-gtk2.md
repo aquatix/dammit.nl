@@ -3,7 +3,7 @@ Date: 2006-06-21 14:09:55
 Slug: 20060621-evolution-and-gtk2
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I wonder why Thunderbird -- which isn't even really native GTK2 -- looks better integrated than Evolution, which is. I see three differently looking scrollbars in one window...</p>
 

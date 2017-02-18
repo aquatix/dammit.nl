@@ -4,7 +4,7 @@ Slug: 20090621-blogmarks-for-sunday-21-june-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://axod.blogspot.com/2009/06/revenue-browser.html">Axod's Hack: Revenue / Browser</a></h3>

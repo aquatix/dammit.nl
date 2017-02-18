@@ -3,7 +3,7 @@ Date: 2004-07-29 22:54:58
 Slug: 20040729-random-tidbits-lots-of-work
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Just discovered <a href="http://linuxgazette.net/issue67/orr.html">cowsay</a> thanks to Vermyndax on #morphix at irc.freenode.org . Together with fortunes you get gems like:</p>
 <pre>

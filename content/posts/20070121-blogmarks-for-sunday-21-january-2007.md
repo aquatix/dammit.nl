@@ -4,7 +4,7 @@ Slug: 20070121-blogmarks-for-sunday-21-january-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.boingboing.net/2007/01/19/how_to_disable_googl.html">How to disable Google personalized search</a></h3>

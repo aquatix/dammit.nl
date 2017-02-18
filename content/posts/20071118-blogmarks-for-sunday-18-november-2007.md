@@ -4,7 +4,7 @@ Slug: 20071118-blogmarks-for-sunday-18-november-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://curious.astro.cornell.edu/question.php?number=134">Are there telescopes that can see the flag and lunar rover on the Moon?</a></h3>

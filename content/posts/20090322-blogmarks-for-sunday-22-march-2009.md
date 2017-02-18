@@ -4,7 +4,7 @@ Slug: 20090322-blogmarks-for-sunday-22-march-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://forums.lfgcomic.com/index.php?showtopic=4278">Flavours of Procrastination</a></h3>

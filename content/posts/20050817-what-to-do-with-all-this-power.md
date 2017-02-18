@@ -3,7 +3,7 @@ Date: 2005-08-17 18:25:45
 Slug: 20050817-what-to-do-with-all-this-power
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>A small follow-up on <a href="http://aquariusoft.org/~mbscholt/index.php?rantid=308">my previous post about my mediacenter project</a> to get an overview for myself and anybody interested.</p>
 

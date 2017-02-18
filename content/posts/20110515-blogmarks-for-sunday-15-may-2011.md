@@ -4,7 +4,7 @@ Slug: 20110515-blogmarks-for-sunday-15-may-2011
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.collegehumor.com/article/6500868/sci-fi-ikea-manuals">Sci-Fi Ikea Manuals</a></h3>

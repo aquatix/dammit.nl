@@ -3,7 +3,7 @@ Date: 2008-04-18 11:16:10
 Slug: 20080418-hackerkey
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Sooo, my <a href="http://hackerkey.com/">hackerkey</a> is:</p>
 

@@ -3,7 +3,7 @@ Date: 2010-12-21 20:02:33
 Slug: 20101221-living-in-interesting-times
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Today this weblog, <a href="http://dammit.nl/">dammIT</a> turned seven years old. Combined with it being nearly the end of 2010, you might say it's a good moment for some reflections of the past year.</p>
 

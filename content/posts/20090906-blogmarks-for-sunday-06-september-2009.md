@@ -4,7 +4,7 @@ Slug: 20090906-blogmarks-for-sunday-06-september-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://home.znet.com/schester/calculations/analysis_of_rate_of_rare_problems.html">Analysis of Rate of Human Problems</a></h3>

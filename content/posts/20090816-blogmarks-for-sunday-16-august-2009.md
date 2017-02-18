@@ -4,7 +4,7 @@ Slug: 20090816-blogmarks-for-sunday-16-august-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.wired.com/geekdad/2009/07/100-things-your-kids-may-never-know-about?npu=1">100 Things Your Kids May Never Know About</a></h3>

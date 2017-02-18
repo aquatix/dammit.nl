@@ -3,7 +3,7 @@ Date: 2005-04-07 16:34:04
 Slug: 20050407-where-s-that-good-ol-analog-time
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I started writing this as comment on <a href="/~mbscholt/?rantid=253#comment142">Vermyndax</a>, but I figured it would be better to post here.</p>
 

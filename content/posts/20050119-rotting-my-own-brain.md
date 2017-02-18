@@ -4,7 +4,7 @@ Modified: 2005-01-19 23:50:37
 Slug: 20050119-rotting-my-own-brain
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I think I'm procrastinating too much [sic]. Being lazy is good [as most programmers know], but I've got no real challenges at the moment, or don't have time for them because of the finals and projects I have to do. I can think of some nice entertaining challenges [like learning <a href="http://python.org/">Python</a> and maybe even <a href="http://www.ruby-lang.org/en/">Ruby</a> and creating some <a href="http://www.rubyonrails.com/">nice tools</a> in it], but I have to restrain myself to finish my finals and those projects first.</p>
 <p>Being bored makes me very creative, so I've come up with some neat new plans, which I'm going to write down fast so I can do them *later*. Sigh...</p>

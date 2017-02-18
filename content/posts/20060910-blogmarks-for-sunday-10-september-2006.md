@@ -4,7 +4,7 @@ Slug: 20060910-blogmarks-for-sunday-10-september-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.silktide.com/tools/sitescore">Sitescore: how well does your website score</a></h3>

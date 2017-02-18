@@ -4,7 +4,7 @@ Slug: 20060611-blogmarks-for-sunday-11-june-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://bluetooth-alsa.sourceforge.net/">Bluetooth-alsa Project</a></h3>

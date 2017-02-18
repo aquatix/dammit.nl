@@ -3,7 +3,7 @@ Date: 2007-09-10 18:23:43
 Slug: 20070910-commercial-vs-open-source-commitment
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>When reading <a href="http://tamspalm.tamoggemon.com/2007/09/08/on-lackadaisical-development/">On Lackadaisical Development</a> over at <a href="http://tamspalm.tamoggemon.com/">Tam's Palm</a>, I stumbled a bit on the phrase "There is a distinct lack of commitment and dedication in comparison to closed source and commercial applications." in the first paragraph. This is only true if the author is short on time, and thinks his product is quite finished as-is. The same goes for a commercial product, where the development team is just directed to another [new] project that'll bring in money if the product is thought mature. Of course, if people offer money for implementing $feature, the company is glad to put a developer on it, if it's going to make more profit that way. That's generally the key: more features so the people keep buying.</p>
 

@@ -3,7 +3,7 @@ Date: 2010-07-03 12:01:33
 Slug: 20100703-we-are-married
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>We interrupt this broadcast for a public service announcement.</p>
 

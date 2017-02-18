@@ -3,7 +3,7 @@ Date: 2009-11-18 19:19:16
 Slug: 20091118-yay-photos-yay
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>The blogmark updates are a clue about me not being dead, but this weblog has been awefully quiet lately. I have been rather busy and have been microblogging my blurps at <a href="http://twitter.com/michielscholten">my twitterfeed</a>, but that isn't a good excuse to neglect dammIT so badly.</p>
 

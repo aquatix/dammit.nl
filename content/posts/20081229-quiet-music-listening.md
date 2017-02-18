@@ -3,7 +3,7 @@ Date: 2008-12-29 15:25:03
 Slug: 20081229-quiet-music-listening
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>When playing a newly-bought audio cd (bought directly from the artist, <a href="http://www.jennifergrassman.com/">Jennifer Grassman</a> - <a href="http://zenfilm.deviantart.com/art/Jennifer-Grassman-Pretty-Girls-106628281">movieclip of one of her beautiful songs</a>), I was annoyed at the amount of noise my DVD-drive made. Turned out the solution was easy:</p>
 

@@ -3,7 +3,7 @@ Date: 2004-09-18 15:11:23
 Slug: 20040918-the-tidbits-of-week-38
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>University and work really have me in a strong grip, so here are some tidbits I gathered last week.</p>
 

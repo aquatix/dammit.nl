@@ -3,7 +3,7 @@ Date: 2009-06-04 07:19:47
 Slug: 20090604-uninspired
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Feeling uninspired lately. Anyone knowing how to get into a nice buzz again? It would surely help to get things done again :)</p>
 

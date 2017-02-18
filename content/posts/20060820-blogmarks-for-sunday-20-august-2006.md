@@ -4,7 +4,7 @@ Slug: 20060820-blogmarks-for-sunday-20-august-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.youtube.com/watch?v=C0K_LZDXp0I">Duck and Cover</a></h3>

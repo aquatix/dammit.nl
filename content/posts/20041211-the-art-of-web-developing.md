@@ -3,7 +3,7 @@ Date: 2004-12-11 20:42:31
 Slug: 20041211-the-art-of-web-developing
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Well, there it is: <a href="http://aquariusoft.org/~mbscholt/">dammIT's new look</a>. Not only has the layout been overhauled, there's been some technical changes too. Just take a look at the <a href="blogmarks.php">blogmarks</a> page for example [sorted by month etc], or the <em>distracted by</em> piece of the right bar. And of course there are the usual non-visible changes too.</p>
 <p>I've been quite busy to get things right [<acronym title="Instant Errors">IE</acronym> made live a lot worse], but now it should look good. Even in lynx if you want. Please let me know what you think of it :)</p>

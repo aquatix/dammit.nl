@@ -4,7 +4,7 @@ Slug: 20080720-blogmarks-for-sunday-20-july-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://news.bbc.co.uk/2/hi/uk_news/7514281.stm">MoD admits loss of secret files</a></h3>

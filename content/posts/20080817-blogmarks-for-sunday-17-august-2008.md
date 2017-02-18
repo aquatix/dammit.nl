@@ -4,7 +4,7 @@ Slug: 20080817-blogmarks-for-sunday-17-august-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://exploreourpla.net/">Explore Our Planet</a></h3>

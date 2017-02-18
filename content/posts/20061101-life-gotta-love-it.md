@@ -3,7 +3,7 @@ Date: 2006-11-01 18:02:46
 Slug: 20061101-life-gotta-love-it
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Today it's cold. Last night it has been storming, and today it's not all that much better. I guess it's nice Halloween weather, whether we celebrate that here or not. It's also storming a bit in my head, as I look for ways to finish projects and wrap up my study. First, I apparently flunked an exam I thought I had in the pocket, so I need to do a re-exam of it in a time I already have other exams to do. Second, I need to narrow down the subject of my Bachelor thesis so I can finally start writing larger pieces of it. Damn <a href="http://www.alextreme.org/drupal/?q=node/473">Alex getting his Master thesis approved</a>, even posting it twice... [congrats dude ;)]. Third, it gets time I start programming at my Parallel Programming Practical assignments, which will slurp quite a lot of time, besides Four, having a nice algebra and discrete maths course frying my brain.</p>
 

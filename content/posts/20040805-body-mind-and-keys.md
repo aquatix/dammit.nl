@@ -3,7 +3,7 @@ Date: 2004-08-05 23:03:47
 Slug: 20040805-body-mind-and-keys
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>What is it with computer "geeks" like me and doing computer stuff for hours and hours and then some? I have to be reminded sometimes to get something to drink or even get breakfast. I've more than once had breakfast at 3PM while being awake since 11AM or even earlier on. It's not that I'm not hungry or thirsty, it's just that I'm ignoring my body's wishes. Or just ignoring my body.</p>
 <p>I even can stay up late [well, very late], with half closed, puffed eyes, powered on sheer will. Just keeping them open hour after hour to be able to code, chat on IRC or just read that <a href="http://www.cryptonomicon.com/main.html">fricking cool book</a>. I think true geeks [as in devoted coders, hackers and such] just are able to disconnect the mind a bit from the body. It's still connected of course, otherwise your fingers couldn't put out characters at a rate far over 200 per minute or absorb huge amounts of information from interesting sources online via your eyes. But it's some kind of trance in which you just don't bother about the physical shell you're living in.</p>

@@ -3,7 +3,7 @@ Date: 2007-08-03 17:57:08
 Slug: 20070803-teh-cut3-1ns-a-wabbit
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>We gots us a wabbit:</p>
 

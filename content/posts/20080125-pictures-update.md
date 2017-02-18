@@ -3,7 +3,7 @@ Date: 2008-01-25 13:48:19
 Slug: 20080125-pictures-update
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I just updated <a href="http://aquariusoft.org/photolog/">my photolog</a> with new pics, and uploaded them to <a href="http://flickr.com/photos/17648144@N00/">my flickr account</a> too.</p>
 

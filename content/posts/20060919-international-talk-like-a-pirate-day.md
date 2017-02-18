@@ -3,7 +3,7 @@ Date: 2006-09-19 10:40:25
 Slug: 20060919-international-talk-like-a-pirate-day
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Avast!</p>
 <blockquote><p class="quote">Every September 19 people around the world celebrate International Talk Like a Pirate Day. It's been marked on all continents -- even Antarctica.</p>

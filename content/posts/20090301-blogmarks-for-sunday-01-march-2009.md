@@ -4,7 +4,7 @@ Slug: 20090301-blogmarks-for-sunday-01-march-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://independentsources.com/2008/11/30/kodak-moments-top-10-poorest-wedding-day-fashion-choices-dressing-like-a-ho-on-your-special-day/"> Kodak Moments: Top 10 Poorest Wedding Day Fashion Choices; Dressing like a ho on your "special" day</a></h3>

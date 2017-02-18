@@ -3,7 +3,7 @@ Date: 2015-09-19 12:07:36
 Slug: 20150919-i-made-a-thing-to-make-your-phone-go-pling-when-your-train-goes-whatever
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 I made a thing: [https://pypi.python.org/pypi/nsapi](https://pypi.python.org/pypi/nsapi).
 

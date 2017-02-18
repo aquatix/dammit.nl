@@ -4,7 +4,7 @@ Slug: 20080928-blogmarks-for-sunday-28-september-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.theregister.co.uk/2008/09/23/tilera_cpu_upgrade/">Tilera gooses 64-core mesh processor</a></h3>

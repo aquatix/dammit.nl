@@ -4,7 +4,7 @@ Slug: 20091115-blogmarks-for-sunday-15-november-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://contexts.org/graphicsociology/2009/11/14/mapping-voter-apathy-by-age/">Mapping voter apathy by age</a></h3>

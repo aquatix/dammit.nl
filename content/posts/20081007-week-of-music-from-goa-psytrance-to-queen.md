@@ -3,7 +3,7 @@ Date: 2008-10-07 10:42:38
 Slug: 20081007-week-of-music-from-goa-psytrance-to-queen
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Last weekend I went to a party in Belgium: seven guys, two cars, 260km trip and a huge anticipation for <a href="http://www.last.fm/music/Infected+Mushroom">Infected Mushroom</a>, <a href="http://www.last.fm/music/Shpongle">Shpongle</a> <a href="http://www.last.fm/event/561428">and more</a>. We where not let down by them :)</p>
 

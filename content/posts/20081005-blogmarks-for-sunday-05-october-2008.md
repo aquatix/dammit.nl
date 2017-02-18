@@ -4,7 +4,7 @@ Slug: 20081005-blogmarks-for-sunday-05-october-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.gnome-look.org/content/show.php?content=75417">Clearlooks Wise Dark</a></h3>

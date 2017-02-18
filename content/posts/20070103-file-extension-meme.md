@@ -3,7 +3,7 @@ Date: 2007-01-03 09:55:49
 Slug: 20070103-file-extension-meme
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>OK, what the hell ;)</p>
 

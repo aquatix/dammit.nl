@@ -3,7 +3,7 @@ Date: 2007-05-20 13:49:42
 Slug: 20070520-forum-spam
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>*sigh* I just deleted several hundreds of spam accounts, and dozens of spam topics on <a href="http://aquariusoft.org/forum/">the aquariusoft.org forum</a>. Tightened the authentication a bit too. Let's hope it'll be ok this way :)</p>
 

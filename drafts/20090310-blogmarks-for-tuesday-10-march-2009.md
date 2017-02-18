@@ -4,7 +4,8 @@ Slug: 20090310-blogmarks-for-tuesday-10-march-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: blogmarks
+Tags: rant, blogmarks
+Status: draft
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://dilidoo.com/2009/02/27/ordinary_girlfrom_the_first_sight_7_pics.html">Ordinary girlâ€¦from the first sight (7 pics)</a></h3>

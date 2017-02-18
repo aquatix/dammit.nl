@@ -3,7 +3,7 @@ Date: 2009-01-04 16:37:58
 Slug: 20090104-scheduleworld-just-works
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>For years I've been wanting to synchronise my Sony Ericsson m600i smartphone with pc software. This would both provide a backup and a comfortable way of editing my agenda, contacts, todo's and whatmore, just like I did before with my Palm devices. I already had tried the <a href="http://www.funambol.com/">Funambol</a> <a href="http://en.wikipedia.org/wiki/SyncML">SyncML</a> software on my own home server, but that didn't work out quite well, messing up data. <a href="http://scheduleworld.com/">ScheduleWorld</a> had the same issues back then, as it was/is just a tweaked version of Funambol. So I stuck with having my phone as stand-alone agenda (which is quite fine with me, having it always on me) and as one of the almost-a-dozen contact stores I have on my various devices and programs.</p>
 

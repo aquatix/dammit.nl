@@ -4,7 +4,7 @@ Slug: 20070916-blogmarks-for-sunday-16-september-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.lifehack.org/articles/lifehack/how-to-raise-the-odds-that-it%e2%80%99s-going-to-be-a-fantastic-day.html">How to raise the odds that it's going to be a fantastic day - lifehack.org</a></h3>

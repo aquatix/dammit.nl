@@ -4,7 +4,7 @@ Slug: 20080622-blogmarks-for-sunday-22-june-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.vimeo.com/1093745">Visualizing the commit history of the Python scripting language project</a></h3>

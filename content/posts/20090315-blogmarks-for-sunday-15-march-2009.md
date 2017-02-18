@@ -4,7 +4,7 @@ Slug: 20090315-blogmarks-for-sunday-15-march-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://smari.yaxic.org/blag/2009/03/06/microsoft-skull-fucks-icelands-economy-contracts-syphilis/">Microsoft Skull-fucks Icelandâ€™s Economy, Contracts Syphilis</a></h3>

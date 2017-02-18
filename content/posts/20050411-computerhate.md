@@ -3,7 +3,7 @@ Date: 2005-04-11 20:41:02
 Slug: 20050411-computerhate
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>You'd almost think I've got the wrong hobbies, because today I hate computers. Or at least I hate failing hardware. I guess everybody hates it, but today it's my turn. I've been spending the better part of the afternoon trying to backup data. Two DVD's succeeded. That's by far not the amount I intended to burn. I'll return to my parents place tomorrow I guess. *sigh*</p>
 

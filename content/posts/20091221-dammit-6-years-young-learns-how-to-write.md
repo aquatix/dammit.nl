@@ -3,7 +3,7 @@ Date: 2009-12-21 14:14:51
 Slug: 20091221-dammit-6-years-young-learns-how-to-write
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>My weblog is now old enough to start learning how to write itself! <a href="http://aquariusoft.org/~mbscholt/index.php?rantid=5">Back in 2003</a> I started a weblog because I was curious to the phenomenon, how it would work out for myself (writing in English, dumping my thoughts online) and just to vent my frustrations with the day-to-day life on.</p>
 

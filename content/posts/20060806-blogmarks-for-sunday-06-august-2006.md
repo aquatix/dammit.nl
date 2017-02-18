@@ -4,7 +4,7 @@ Slug: 20060806-blogmarks-for-sunday-06-august-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.gnucitizen.org/projects/javascript-port-scanner/">JavaScript Port Scanner</a></h3>

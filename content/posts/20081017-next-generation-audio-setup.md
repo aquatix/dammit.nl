@@ -3,7 +3,7 @@ Date: 2008-10-17 17:37:54
 Slug: 20081017-next-generation-audio-setup
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>So, as my current stereo is kinda dead, my mediabox (home server) still is located in my home office upstairs, headphones are bothersome and laptop speakers decidedly are not on-par with hifi stereo, I started thinking about how to get some decent sound back into our living room. So when we went shopping a few days ago, I dragged my girlfriend into our local quality hifi shop, where we were caught almost immediately by an employee, which turned out to have a really decent talk about the smaller-sized hifi equipment in their store. We gravitated a bit to a <a href="http://blog.stereophile.com/stephenmejias/083107compact/">NAD C715</a> stereo receiver with CD player, about which the guy told us quite a bit. It looks quite promising!</p>
 

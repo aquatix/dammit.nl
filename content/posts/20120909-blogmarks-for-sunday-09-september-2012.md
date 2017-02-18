@@ -4,7 +4,7 @@ Slug: 20120909-blogmarks-for-sunday-09-september-2012
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.businessinsider.com/20-facts-that-will-make-you-sound-like-a-whiskey-expert-2012-9?op=1">20 Facts That Will Make You Sound Like A Whiskey Expert</a></h3>

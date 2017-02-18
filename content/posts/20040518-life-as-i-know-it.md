@@ -3,7 +3,7 @@ Date: 2004-05-18 14:28:21
 Slug: 20040518-life-as-i-know-it
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Reading the <a href="http://www2.educ.umu.se/~bjorn/mhonarc-files/obsolete/">discussion about Linux</a> between Andy Tanenbaum and Linus Torvalds while I should study Operating Systems [by the same <a href="http://www.cs.vu.nl/~ast/">AST</a>] and enjoying the cool breeze through my open window, I can't help but liking my life. This sounds rather fluffy, but what's wrong with a life existing of thinkering with computers, lots of software, reading about it, enjoying your surroundings and a drink and having those exams not tomorrow, but in about a week - having some time left?</p>
 <p>Working a little bit more often these weeks and having those exams around the corner keeps me busy, so reading my email and some news and blogs is the only thing I do now. Projects are on hold [well, some thinkering once in a while, but not as many as I would like], but I've got time for Social Life(tm). Scary :) This is the time of year for me with quite a lot of anniversaries and other small parties, so being away from an internet connection happens somewhat more often. And that's good for me ;)</p>

@@ -3,7 +3,7 @@ Date: 2006-11-07 12:10:41
 Slug: 20061107-about-elections
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <blockquote><p>"Democracy must be something more than two wolves and a sheep voting on what to have for dinner."</p><p>-James Bovard</p></blockquote>
 

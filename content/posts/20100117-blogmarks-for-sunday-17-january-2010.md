@@ -4,7 +4,7 @@ Slug: 20100117-blogmarks-for-sunday-17-january-2010
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.inbflat.net/">in Bb 2.0 - a collaborative music/spoken word project</a></h3>

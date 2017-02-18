@@ -3,7 +3,7 @@ Date: 2008-05-05 10:53:28
 Slug: 20080505-ordering-hardware
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>So I ordered some new hardware parts for building a decent workstation a while ago. Today I received the first batch: two 750GB sata hdd's, making a nice grand total of 1.5TB :)</p>
 

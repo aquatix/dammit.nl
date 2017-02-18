@@ -3,7 +3,7 @@ Date: 2014-04-12 17:03:42
 Slug: 20140412-mounting-and-fixing-a-luks-encrypted-linux-installation
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 Lately my work laptop has been acting up a bit after installation of a graphical driver went wonky. As I'm running a beta of
 Ubuntu Gnome on it, I don't blame anything but the flux in which the packages exist for the moment, so I took it in stride

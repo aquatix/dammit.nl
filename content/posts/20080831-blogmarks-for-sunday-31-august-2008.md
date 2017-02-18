@@ -4,7 +4,7 @@ Slug: 20080831-blogmarks-for-sunday-31-august-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://idle.slashdot.org/article.pl?sid=08/08/26/1330247">The Creator of Arnold Schwarzenegger</a></h3>

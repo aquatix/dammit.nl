@@ -3,6 +3,6 @@ Date: 2007-10-23 20:12:38
 Slug: 20071023-totally-ordered-multicasting
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>There, got that out of my System.</p>

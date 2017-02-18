@@ -3,7 +3,7 @@ Date: 2006-09-06 00:12:22
 Slug: 20060906-aquamorph-v0-4-and-there-was-much-rejoice
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>You hear it well, Satan's gone scating: <a href="http://aquariusoft.org/page/linux/aquamorph/">I finally released a new aquamorph</a>! At this moment it's only hosted on this not-too-fast server, so if you can wait half a day, check back tomorrow when I've uploaded it to a faster server :)</p>
 

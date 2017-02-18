@@ -3,7 +3,7 @@ Date: 2008-03-24 11:07:50
 Slug: 20080324-a-new-spring
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>The day this spring began, also was the beginning of a new chapter in my online life: a server in a real datacenter. No more 1MBit connection, which also was a tad flaky because of my ADSL connection's signal being quite weak at 3600+m from the exchange, but 100MBit steady goodness and a nice [and hopefully reliable] virtual server on big real iron. aquariusoft.org from now on is quite a lot faster :)</p>
 

@@ -4,7 +4,7 @@ Slug: 20080427-blogmarks-for-sunday-27-april-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.joemonster.org/article/6796/chinskie_klony_samochodow.html">Serious car cloning</a></h3>

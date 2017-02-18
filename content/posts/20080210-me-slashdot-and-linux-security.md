@@ -4,7 +4,7 @@ Modified: 2008-02-10 23:08:38
 Slug: 20080210-me-slashdot-and-linux-security
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p><a href="http://it.slashdot.org/article.pl?sid=08/02/10/2011257">I made Slashdot</a> with <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=464953">this creepy local root exploit</a>. Hi all!</p>
 

@@ -3,7 +3,7 @@ Date: 2008-11-02 12:21:28
 Slug: 20081102-meme-214-a-london-one
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Apparently it started out as <a href="http://www.jurecuhalev.com/blog/2008/10/29/london-meme/">a London Meme</a>, but as it got passed on by <a href="http://www.barwap.com/blog/2008/oct/29/contagious-meme/">bmsleight to me</a>, and it's fun anyway, I'll post my answer here.</p>
 

@@ -4,7 +4,7 @@ Slug: 20070722-blogmarks-for-sunday-22-july-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.happyfunpundit.com/hfp/archives/000514.html">Top 10 Things I Hate About Star Trek</a></h3>

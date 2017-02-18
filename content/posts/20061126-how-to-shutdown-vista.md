@@ -3,7 +3,7 @@ Date: 2006-11-26 13:00:37
 Slug: 20061126-how-to-shutdown-vista
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p><a href="http://www.joelonsoftware.com/">Joel on Software</a> had a <a href="http://www.joelonsoftware.com/items/2006/11/21.html">nice piece on the new Vista's shutdown choices</a>. It begins with the menu items in the Start menu [sic! ;)]:</p>
 

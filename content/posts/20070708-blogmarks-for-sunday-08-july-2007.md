@@ -4,7 +4,7 @@ Slug: 20070708-blogmarks-for-sunday-08-july-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.time.com/time/magazine/article/0,9171,1570708,00.html">My So-Called Second Life - TIME</a></h3>

@@ -3,7 +3,7 @@ Date: 2004-06-01 23:19:37
 Slug: 20040601-weird-stuff
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Finally some day off yesterday and I manage to b0rk my workstation. Turned out to be a software issue, the first real issue I have with my GNU/Linux install. I updated my Debian sid install and rebooted, only to find my system in a crashed state some seconds later. Damn. Rebooted several times, only to do some fsck's and experience some similar crashes. Enter <a href="/?section=linux&amp;page=aquamorph">aquamorph cd</a>, chrooted to the partition, reinstalled some packages, fiddled around, and deinstalled athcool, because after athcool initializes, fam and other processes crashed. Rebooted again, another fsck and a booting system. I lost some files - mainly X config files - but thank $DEITY for the irregular backups: I made one a week ago. It's running fine again, but I didn't clean my desk and didn't work at whatever site I planned working on. Sigh.</p>
 

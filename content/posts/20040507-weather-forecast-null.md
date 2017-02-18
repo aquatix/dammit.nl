@@ -3,7 +3,7 @@ Date: 2004-05-07 18:24:14
 Slug: 20040507-weather-forecast-null
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>[WeatherNotFoundException in:/system/environment/content/weatherState.java] Cannot retrieve mapping for action /showWeather'</p>
 <p>I guess my system just doesn't buy the current shizzle drizzle as weather. Stupid spring :) I can't disagree with Java's need to have some Sun ;)</p>

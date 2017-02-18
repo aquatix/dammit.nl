@@ -3,7 +3,7 @@ Date: 2007-01-08 14:18:26
 Slug: 20070108-making-your-files-safer
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>When sharing a machine with users you gave an account, you'd better take some precautions for your precious files in general dirs [like /storage or whatever]. To do so, do:</p>
 

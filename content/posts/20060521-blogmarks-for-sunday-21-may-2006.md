@@ -4,7 +4,7 @@ Slug: 20060521-blogmarks-for-sunday-21-may-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.jacobian.org/2006/jan/27/why-django/">Why you should use Django</a></h3>

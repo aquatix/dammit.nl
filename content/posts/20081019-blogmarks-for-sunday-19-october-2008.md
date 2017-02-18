@@ -4,7 +4,7 @@ Slug: 20081019-blogmarks-for-sunday-19-october-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.linux.com/feature/150363">PSPP brings an industry standard statistical tool to Linux</a></h3>

@@ -4,7 +4,7 @@ Modified: 2014-04-06 21:30:41
 Slug: 20140323-fixing-samba-on-ubuntu-14-04-trusty
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 I recently built a new at-home server, which basically is just a self-built NAS. Sharing via NFS worked immediately and other services were set up soon after.
 

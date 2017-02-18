@@ -3,7 +3,7 @@ Date: 2004-05-13 22:40:04
 Slug: 20040513-rhythm-whazdah-and-minix-is-that-edible
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I'm going to have to work seriously about some rhythm in my day-to-day activities. Like sleeping. Sleeping is good, and if you have a good sleeping rhythm, life is good. Just look at my cat. He sleeps the whole day and gets free food and is allowed to play outside when it's nice weather and has a warm home when it's bad. Sometimes I think that modern life maybe's just too complicated.</p>
 <p>But I drift away from my point. Point is, it seems to be extremely difficult for me these days to go to sleep before midnight. Or later. And I'm becoming quite tired, because there's enough to do, and that enough sometimes has to be done early on a day [like those damn presentations... Who's idea was it to let them start at 8:45AM? That's totally bad for my rhythm =) ]. And lots of real work [as in work that brings me cash] and exams are about to become my daily reality, so I'd better wrap myself around a sane and brand new biorhythm.</p>

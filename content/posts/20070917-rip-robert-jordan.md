@@ -3,7 +3,7 @@ Date: 2007-09-17 11:27:16
 Slug: 20070917-rip-robert-jordan
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I'm sad to hear fantasy writer <a href="http://en.wikipedia.org/wiki/Robert_Jordan">Robert Jordan</a> passed away yesterday at the age of 58, from complications from primary <a href="http://en.wikipedia.org/wiki/Amyloidosis" title="Amyloidosis">amyloidosis</a> with <a href="http://en.wikipedia.org/wiki/Cardiomyopathy" title="Cardiomyopathy">cardiomyopathy</a> (<a href="http://en.wikipedia.org/wiki/Cardiac_amyloidosis" title="Cardiac amyloidosis">cardiac amyloidosis</a>). He was the author of the <a href="http://en.wikipedia.org/wiki/The_Wheel_of_Time">The Wheel of Time</a> series, which I greatly enjoyed reading.</p>
 <p>My condolences to his family and friends.</p>

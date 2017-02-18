@@ -4,7 +4,7 @@ Slug: 20090524-blogmarks-for-sunday-24-may-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://vimeo.com/4505537">Galactic Center of Milky Way Rises over Texas Star Party</a></h3>

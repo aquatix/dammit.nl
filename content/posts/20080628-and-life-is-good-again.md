@@ -3,7 +3,7 @@ Date: 2008-06-28 16:52:37
 Slug: 20080628-and-life-is-good-again
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Today I traded the head pillow I had on try-out for a regular, new one, after which we made the bed with shiny new linen and my new, very comfy pillow. Sleep is good :)</p>
 

@@ -4,7 +4,7 @@ Slug: 20080224-blogmarks-for-sunday-24-february-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.nu.nl/news/1446598/122/rss/Den_Dikken_trouwt_Den_Dunnen.html">[Dutch] Den Dikken trouwt Den Dunnen</a></h3>

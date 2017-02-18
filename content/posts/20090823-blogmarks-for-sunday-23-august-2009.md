@@ -4,7 +4,7 @@ Slug: 20090823-blogmarks-for-sunday-23-august-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.mysteriousletters.blogspot.com/">Mysterious Letters</a></h3>

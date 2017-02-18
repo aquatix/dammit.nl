@@ -4,7 +4,7 @@ Modified: 2010-11-09 11:59:36
 Slug: 20101109-out-of-contract
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>My third temporary contract will run out at the end of December, and because this company is currently in the middle of a reorganisation, they don't take on people on a contract for undetermined time.</p>
 

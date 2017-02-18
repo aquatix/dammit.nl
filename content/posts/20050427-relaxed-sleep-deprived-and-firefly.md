@@ -3,7 +3,7 @@ Date: 2005-04-27 15:20:03
 Slug: 20050427-relaxed-sleep-deprived-and-firefly
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>The weekend was fun; lots of relaxing, but not that much sleep [too much fun until too late in the evenings :)]. They had a seriously nice swimming pool complex in the park, so we spent half a day there. The rest was consumed with doing other fun stuff, gaming [the analog way], some sightseeing and relaxing in the bungalow with a view of squirrels, lots of ducks [!] and some interesting birds. Lots of digicam work.</p>
 

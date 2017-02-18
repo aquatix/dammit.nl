@@ -3,7 +3,7 @@ Date: 2005-06-13 14:22:42
 Slug: 20050613-download-your-overload-now
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>It's not yet done [when is a software project done anyways?], not even in 0.1 state as can be seen on the <a href="/page/html/overload/">roadmap</a>, but <a href="/download/html/overload/20050613_snapshot.tar.bz2">here it is</a>, a tarball with the snapshot of today, and a dump of the database tables needed for it.</p>
 

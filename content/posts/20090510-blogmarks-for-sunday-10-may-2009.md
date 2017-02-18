@@ -4,7 +4,7 @@ Slug: 20090510-blogmarks-for-sunday-10-may-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.inc.com/magazine/20090501/why-circuit-city-failed-and-why-bh-thrives.html?partner=fogcreek">Why Circuit City Failed, and Why B&amp;H Thrives</a></h3>

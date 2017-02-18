@@ -4,7 +4,7 @@ Slug: 20071223-blogmarks-for-sunday-23-december-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://slashdot.org/article.pl?sid=07/12/20/1640234">Comparing Browser JavaScript Performance</a></h3>

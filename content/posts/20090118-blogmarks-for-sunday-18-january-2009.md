@@ -4,7 +4,7 @@ Slug: 20090118-blogmarks-for-sunday-18-january-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="https://svn.berlin.ccc.de/projects/airprobe/wiki/tracelog">GSM decoding with Nokia 3310 phone</a></h3>

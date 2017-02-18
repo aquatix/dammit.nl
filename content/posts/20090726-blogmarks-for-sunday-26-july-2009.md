@@ -4,7 +4,7 @@ Slug: 20090726-blogmarks-for-sunday-26-july-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.11points.com/Dating-Sex/11_Sex_Dreams_That_Don't_Mean_What_You_Think_They_Do">11 Sex Dreams That Don't Mean What You Think They Do</a></h3>

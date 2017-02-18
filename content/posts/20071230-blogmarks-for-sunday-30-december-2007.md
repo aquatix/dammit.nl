@@ -4,7 +4,7 @@ Slug: 20071230-blogmarks-for-sunday-30-december-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.opensubtitles.com/en">The biggest open subtitles database</a></h3>

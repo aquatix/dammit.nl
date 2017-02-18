@@ -3,7 +3,7 @@ Date: 2005-08-28 00:50:33
 Slug: 20050828-irc-is-more-fun
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Grab a whisky [Speyside or something], join #morphix at irc.freenode.net and start talking about religion, conspiracies and goverment control. Ah, and history, and Bohemian Rapsody...</p>
 

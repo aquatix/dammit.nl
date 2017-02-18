@@ -4,7 +4,7 @@ Slug: 20070610-blogmarks-for-sunday-10-june-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://antwrp.gsfc.nasa.gov/apod/ap070603.html">APOD: 2007 June 3 - Shuttle Plume Shadow Points to Moon</a></h3>

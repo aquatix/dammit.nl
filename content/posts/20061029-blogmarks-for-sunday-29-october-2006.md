@@ -4,7 +4,7 @@ Slug: 20061029-blogmarks-for-sunday-29-october-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.cnn.com/2006/US/10/27/onion.mars/index.html">Mars rover beginning to hate Mars</a></h3>

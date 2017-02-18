@@ -4,7 +4,7 @@ Modified: 2004-11-23 22:27:57
 Slug: 20041119-procrastination-perfectionism-and-humble-me
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I'm a perfectionist, that's one thing that's sure. I love to create things, and I go to great lengths to do it right. That's one reason many of my projects aren't finished yet. I just haven't declared them good enough to call them that way. But on the other hand I love to procrastinate. I'm addicted to just surfing the web, reading weblogs, news sites, my e-mail, mailing lists and what more, without actually doing anything useful, except posting some comments on a weblog or answering a stray e-mail.</p>
 <p>It's one of the things I hate about myself. I can spend a week behind my computer, soaking up information, without actually getting any results, except for a slightly better tweaked GNU/Linux install and a bunch of trivia in my head and link dump. Those are moments that I slap myself against my head and wish I had done something for my website [<a href="/">aquariusoft.org</a> isn't by far the way I would like it to be, for example], or read some chapters for University. Hell, even structuring my organized chaos a.k.a. my room a bit better would be something.</p>

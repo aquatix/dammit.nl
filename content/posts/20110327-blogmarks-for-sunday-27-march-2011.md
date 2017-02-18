@@ -4,7 +4,7 @@ Slug: 20110327-blogmarks-for-sunday-27-march-2011
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.hongkiat.com/blog/logo-evolution/">Logo Evolution of 25 Famous Brands</a></h3>

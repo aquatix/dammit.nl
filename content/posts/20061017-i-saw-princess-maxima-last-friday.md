@@ -3,7 +3,7 @@ Date: 2006-10-17 23:35:44
 Slug: 20061017-i-saw-princess-maxima-last-friday
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Heading out of the main entrance of <a href="http://www.vu.nl/">my university</a> last Friday the 13th, picking my way through a crowd assembled there, I wondered why they where all craning their necks. Also, the police officers and some officials obviously waiting for somebody made me ask who was being awaited. "Maxima!" was the exited, single-worded answer. Ah :)</p>
 

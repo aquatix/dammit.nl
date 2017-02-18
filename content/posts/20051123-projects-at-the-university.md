@@ -4,7 +4,7 @@ Modified: 2005-11-23 12:52:11
 Slug: 20051123-projects-at-the-university
 Location: Vrije Universiteit, project room
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Being a project leader surely is exhausting with people like <a href="http://roos.b-cool.nl/">Roosje</a>...</p>
 

@@ -4,7 +4,7 @@ Slug: 20070408-blogmarks-for-sunday-08-april-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://plplot.sourceforge.net/">PLplot - a Scientific Plotting Library</a></h3>

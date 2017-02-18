@@ -4,7 +4,7 @@ Slug: 20060924-blogmarks-for-sunday-24-september-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.youtube.com/watch?v=LyHoPS5d08s">Powerbook G4 12''/17" Commercial - Big And Small</a></h3>

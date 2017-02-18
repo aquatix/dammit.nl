@@ -4,7 +4,7 @@ Slug: 20071111-blogmarks-for-sunday-11-november-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.kenrockwell.com/tech/bokeh.htm">Bokeh</a></h3>

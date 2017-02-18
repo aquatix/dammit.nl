@@ -4,7 +4,7 @@ Slug: 20081214-blogmarks-for-sunday-14-december-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.techiesouls.com/2008/11/27/collection-of-50-best-looking-linux-gnomeubuntu-themes-to-download/">50 Best Looking Linux Gnome Themes to Download</a></h3>

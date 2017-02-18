@@ -3,7 +3,7 @@ Date: 2005-01-08 00:31:58
 Slug: 20050108-comment-spam
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Gah, why can't they just leave our weblogs alone? Why do those money hungry morons exist? As you may guess I've been getting some comment spam lately. On my self-build weblog. Which sucks. Bigtime, in my eyes.</p>
 

@@ -3,7 +3,7 @@ Date: 2005-12-21 10:22:03
 Slug: 20051221-still-have-microsoft-have-big-and-hard
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>This is the subject of one of the spam messages I got today. Kinda links that software maker and incompetency rather nicely together, doesn't it? ;) As a sidenote, it's interesting the spammer used a normal mail program to send this crap, The Bat. [You see quite a wildly varying spectrum of mail agents when using the <a href="https://addons.mozilla.org/extensions/moreinfo.php?application=thunderbird&amp;category=Message%20Reading&amp;numpg=10&amp;id=562">Display Mail User Agent Extension</a> in Mozilla Thunderbird].</p>
 

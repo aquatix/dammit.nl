@@ -3,7 +3,7 @@ Date: 2008-02-13 18:14:13
 Slug: 20080213-interesting-day
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Today I woke up with both my servers being down; always a good way to start your day. higgs [my new vserver], turned out to not have booted after a reboot of the real server its located on - a simple 'boot' in the Xen console sufficed. The crew is investigating why some nodes didn't reboot.</p>
 

@@ -4,7 +4,7 @@ Modified: 2005-05-21 07:49:49
 Slug: 20050520-star-wars-iii-nice
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>So I went to the cinema with the GF and enjoyed "Revenge of the Sith". Yeah, I actuall enjoyed the movie. I've seen the new three Star Wars movies [again] in the last 2 weeks and they went from quite bad [movie 1; the acting was quite horrible sometimes] to quite OK [with some good moments], to actually good. It helped that Yar Yar kept his mouth shut, the scenery was impressive as ever and I got the feeling of coming full circle with the old trilogy. For those who didn't yet decide to go: go give it a try :)</p>
 

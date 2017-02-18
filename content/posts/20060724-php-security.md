@@ -4,7 +4,7 @@ Modified: 2006-07-24 11:54:58
 Slug: 20060724-php-security
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>As everybody and his dog can program in PHP nowadays, and -- worse ;) -- does without the proper programmer training in input validation and such things, here are some tips about hardened PHP, modsecurity, putting Apache in a chroot jail etc:</p>
 

@@ -3,7 +3,7 @@ Date: 2006-05-06 10:20:56
 Slug: 20060506-viagra-spam-fun
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>This is one of the more funny spam emails I received in the last few years:</p>
 

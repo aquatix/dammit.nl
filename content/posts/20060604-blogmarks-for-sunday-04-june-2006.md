@@ -4,7 +4,7 @@ Slug: 20060604-blogmarks-for-sunday-04-june-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.flickr.com/photo_zoom.gne?id=151250154&amp;size=o">"Just a few clicks away"</a></h3>

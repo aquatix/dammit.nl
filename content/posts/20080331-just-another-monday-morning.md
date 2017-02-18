@@ -3,7 +3,7 @@ Date: 2008-03-31 08:26:49
 Slug: 20080331-just-another-monday-morning
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Hm, what is with me starting weblog postings and taking a while to finish them? You might find some more posts after this one which I started this weekend/last week.</p>
 

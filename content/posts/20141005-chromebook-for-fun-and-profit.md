@@ -3,7 +3,7 @@ Date: 2014-10-05 12:46:16
 Slug: 20141005-chromebook-for-fun-and-profit
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 I'm thinking about getting me one of those Chromebooks. Preferably a cheap, light, small one (the [11" Samsung](http://www.engadget.com/products/samsung/chromebook/2-11-inch/specs/) for example), which I can almost literally throw into my backpack and take wherever I go.
 

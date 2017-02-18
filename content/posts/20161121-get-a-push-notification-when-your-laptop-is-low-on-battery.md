@@ -3,7 +3,7 @@ Date: 2016-11-21 13:38:06
 Slug: 20161121-get-a-push-notification-when-your-laptop-is-low-on-battery
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 A while ago [I wrote about getting notified on battery low](https://dammit.nl/p/948). It is quite useful when you leave your laptop unattended for a while, to get a notification on your phone and/or smartwatch when that laptop is about to run out of juice. It has saved me a few hard shutdowns (or interrupted tasks because of forced hibernation).
 

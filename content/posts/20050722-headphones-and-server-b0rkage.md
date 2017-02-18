@@ -3,7 +3,7 @@ Date: 2005-07-22 19:54:33
 Slug: 20050722-headphones-and-server-b0rkage
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>OK, so my server was down from about 11PM yesterday to 15PM today [GMT+1 and DST], which was caused by general hardware b0rkage. I don't know why, but the two newest drives in it go berserk now and then. Maybe a leftover from the broken motherboard that used to be in it...</p>
 

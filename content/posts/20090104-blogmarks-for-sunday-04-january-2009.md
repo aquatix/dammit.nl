@@ -4,7 +4,7 @@ Slug: 20090104-blogmarks-for-sunday-04-january-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.bbc.co.uk/blogs/magazinemonitor/2009/01/100_things_we_didnt_know_last.shtml">100 things we didn't know last year</a></h3>

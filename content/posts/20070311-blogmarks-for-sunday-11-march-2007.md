@@ -4,7 +4,7 @@ Slug: 20070311-blogmarks-for-sunday-11-march-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.galaxycow.com/blogs/vermyndax/meditations-on-vista/">Meditations on Vista</a></h3>

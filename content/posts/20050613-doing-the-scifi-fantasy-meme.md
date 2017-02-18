@@ -3,7 +3,7 @@ Date: 2005-06-13 10:28:47
 Slug: 20050613-doing-the-scifi-fantasy-meme
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>So it turns out I'm Wesley Crusher:</p>
 

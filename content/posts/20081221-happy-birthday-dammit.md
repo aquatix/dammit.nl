@@ -3,7 +3,7 @@ Date: 2008-12-21 22:19:33
 Slug: 20081221-happy-birthday-dammit
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Today is the day that I <a href="http://aquariusoft.org/~mbscholt/index.php?rantid=5">started dumping my thoughts online by means of a weblog</a> five years ago, which means the first lustrum party of this kind of web presence of mine. Yes, there are two older posts, but they are both from before the actual first implementation of the software running dammIT. Instead of getting an off-the-shelf solution, I decided to write my own webapp for it. This was partly because no good Free solutions were available back then (Wordpress was very beta if I remember correctly, as was most of the other stuff; only Movable Type was good, but that one was commercial) and of course mainly because I like doing things my own way. The list in the posting ("rant" in dammIT terminology, referring to my thought-dumps on certain aspects of Life) refers to the personal site that was there beforehand by the way. I basically turned some static pages into a weblog, removing unnecessary stuff and implementing a database back-end. It gradually evolved from that point to where it is now.</p>
 

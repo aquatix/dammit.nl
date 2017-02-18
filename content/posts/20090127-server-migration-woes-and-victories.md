@@ -3,7 +3,7 @@ Date: 2009-01-27 17:21:55
 Slug: 20090127-server-migration-woes-and-victories
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Yesterday evening the server hosting aquariusoft.org's services was scheduled for migration to another machine in another data center. As it is a virtual private server (better known as a virtual machine) on a <a href="http://en.wikipedia.org/wiki/Xen">Xen</a> host, this would mean shutting it down, copying the image over the interconnect to the other data center (at a nice rate), configuring the proper Xen and network magic on that machine and booting it online again. However, because of some tweaking of the network settings on the dom0 (the host machine), things went haywire there and the migration was aborted. So, after a downtime of about two hours, aquariusoft.org (and diginaut.net) came up again at the exact same location as it started out, still at the first server of <a href="http://soleus.nu/">our nice hosting club Soleus</a>.</p>
 

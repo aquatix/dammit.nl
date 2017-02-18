@@ -3,7 +3,7 @@ Date: 2009-03-09 11:10:41
 Slug: 20090309-no-x-you-know-means-i-don-t-want-x
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <pre>
 apt-get dist-upgrade

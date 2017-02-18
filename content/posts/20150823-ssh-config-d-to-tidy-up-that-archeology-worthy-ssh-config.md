@@ -3,7 +3,7 @@ Date: 2015-08-23 20:25:10
 Slug: 20150823-ssh-config-d-to-tidy-up-that-archeology-worthy-ssh-config
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 You might be in that same situation as I was until recently: you open up your ssh config file and start scrolling through the long list of nicely aliased private machines, that organically grown list of `work - project A` and the comment-section-divided `work - project B`, `work - misc`, `work - are these still even on?` and `work - I have no clue why these are even in here`.
 

@@ -4,7 +4,7 @@ Slug: 20091129-blogmarks-for-sunday-29-november-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.noupe.com/inspiration/50-amazing-realistic-cg-portraits.html">50 Amazing Realistic CG Portraits</a></h3>

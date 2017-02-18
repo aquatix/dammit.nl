@@ -4,7 +4,7 @@ Slug: 20110213-blogmarks-for-sunday-13-february-2011
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.shrovetuesdayobserved.com/flight.html">If all stories were written like science fiction stories</a></h3>

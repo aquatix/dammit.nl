@@ -4,7 +4,7 @@ Slug: 20061210-blogmarks-for-sunday-10-december-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.kottke.org/06/11/frozen-beer-tricks">Frozen beer tricks (kottke.org)</a></h3>

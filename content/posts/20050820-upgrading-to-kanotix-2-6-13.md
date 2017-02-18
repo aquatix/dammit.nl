@@ -3,7 +3,7 @@ Date: 2005-08-20 16:34:06
 Slug: 20050820-upgrading-to-kanotix-2-6-13
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>While studying for some upcoming re-examinations, I installed <a href="http://kanotix.com/">Kanotix'</a> <a href="http://kanotix.com/files/kernel/">linux kernel 2.6.13</a> on my laptop, and removed Lilo in favour of Grub. The kernel was already running fine at my desktop, but laptops are, well, tricky. At first my Centrino based wifi card wouldn't work [<a href="http://ipw2200.sourceforge.net/">ipw2200 chipset</a>]. Turned out I needed to download the latest firmware from <a href="http://ipw2200.sourceforge.net/">the module's website</a> and unpack it to /usr/lib/hotplug/firmware/ . Besides that, I needed both the ipw2200 .deb and the ieee80211 one from the Kanotix driver package.</p>
 

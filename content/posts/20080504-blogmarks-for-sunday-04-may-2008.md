@@ -4,7 +4,7 @@ Slug: 20080504-blogmarks-for-sunday-04-may-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.youtube.com/watch?v=F3XBwVp7Fjs">YouTube - Star Wars Ewok Gospel</a></h3>

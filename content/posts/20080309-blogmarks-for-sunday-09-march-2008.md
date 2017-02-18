@@ -4,7 +4,7 @@ Slug: 20080309-blogmarks-for-sunday-09-march-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://edin.no-ip.com/html/?q=ssl_apache2_2_virtualhost_debian_automatically_https_forwarding">SSL, Apache2.2, VirtualHost, Debian with automatically HTTPS forwarding</a></h3>

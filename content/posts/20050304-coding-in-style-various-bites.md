@@ -3,7 +3,7 @@ Date: 2005-03-04 16:47:20
 Slug: 20050304-coding-in-style-various-bites
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Thanks to <a href="http://blogs.livecd.net/gandalfar/index.php?blog=5&amp;title=about_netradios&amp;more=1&amp;c=1">Jure</a> I'm currently listening to <a href="http://www.somafm.com/">SomeFM</a>'s Secret Agent soundtrack while programming for a project. I really like their taste and the James Bond quotes they throw in for good measure.</p>
 

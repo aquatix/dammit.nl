@@ -3,7 +3,7 @@ Date: 2005-02-04 14:08:03
 Slug: 20050204-still-busy-and-new-date-for-the-party
 Location: Home [e.g., new apartment]
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>First post from our new home, the apartment I moved in recently. Still busy with the project [damn J2EE...], which I should finish today-ish. Tonight there's a birthday party for both me and my dad, so that's going to be fun :)</p>
 

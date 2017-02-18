@@ -3,7 +3,7 @@ Date: 2005-09-19 15:04:04
 Slug: 20050919-mozilla-thunderbird-extensions
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>OK, everybody knows cool extensions for Mozilla Firefox, but last week I've been browsing to see whether I could make my Thunderbird email client even more nice to work with. And it came out good. So, lets see what I found:</p>
 

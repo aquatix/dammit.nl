@@ -3,7 +3,7 @@ Date: 2008-12-30 11:26:21
 Slug: 20081230-more-statistics-spam-of-the-past-two-years
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>So a few weeks ago I made a graph of the nightly spam-learning events of spamassassin on my Spam folder. I updated it today:</p>
 

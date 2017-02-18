@@ -4,7 +4,7 @@ Slug: 20070603-blogmarks-for-sunday-03-june-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.nu.nl/news/549582/122/'Van_roken_word_je_lelijk'.html">[Dutch] 'Van roken word je lelijk'</a></h3>

@@ -3,7 +3,7 @@ Date: 2008-07-17 17:33:40
 Slug: 20080717-the-time-you-got-television-not-a-television
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>A VW van from the 50's of last century, advertising to get Television. That's right, not <em>a</em> television, or a dozen like a modern day US home has, but the concept in general. Times when the whole neighbourhood poured into your living room when a popular program was on. Wonder where those times have gone, as I barely watch television because of the generally crappy quality of the programs. Oh well, it's not like the Internet is much better ;)</p>
 

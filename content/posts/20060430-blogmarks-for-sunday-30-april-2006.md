@@ -4,7 +4,7 @@ Slug: 20060430-blogmarks-for-sunday-30-april-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>The blogmarks of this week:</p><h3><a href="http://www.boingboing.net/2006/04/29/stephen_colbert_kick.html">Stephen Colbert kicks ass at White House press corps dinner</a></h3>
 <blockquote><p class="quote">Stephen Colbert's routine at last night's White House Press Corps dinner sounds like one of those perfect moments of comedy and commentary</p></blockquote>

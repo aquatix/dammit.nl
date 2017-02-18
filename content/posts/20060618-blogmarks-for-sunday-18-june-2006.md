@@ -4,7 +4,7 @@ Slug: 20060618-blogmarks-for-sunday-18-june-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.newgrounds.com/portal/view/316541">Animator vs Animation</a></h3>

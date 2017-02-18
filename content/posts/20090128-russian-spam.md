@@ -3,7 +3,7 @@ Date: 2009-01-28 12:57:08
 Slug: 20090128-russian-spam
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <blockquote><pre>
 From: ÐŸÐ¸Ñ€Ð¾Ð³Ð¾Ð² Eff Solution 2009 <perfectionismop3@lycos.com>

@@ -3,7 +3,7 @@ Date: 2009-01-04 17:05:56
 Slug: 20090104-things-i-m-going-to-do-in-2009
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Things I want^H^H^H^Ham going to do this year:</p>
 

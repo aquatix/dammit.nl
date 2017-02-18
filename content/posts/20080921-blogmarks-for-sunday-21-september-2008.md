@@ -4,7 +4,7 @@ Slug: 20080921-blogmarks-for-sunday-21-september-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.techeblog.com/index.php/tech-gadget/feature-vending-machine-delivers-freshly-cooked-pizzas-in-90-seconds">Vending Machine Delivers Freshly Cooked Pizzas in 90-Seconds</a></h3>

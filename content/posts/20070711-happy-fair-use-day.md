@@ -3,7 +3,7 @@ Date: 2007-07-11 12:39:23
 Slug: 20070711-happy-fair-use-day
 Location: Vrije Universiteit - Minix lab
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>From today on <a href="http://boingboing.net/">Boing Boing</a>:</p>
 <blockquote><p>Happy fair use day! Go quote something!</p>

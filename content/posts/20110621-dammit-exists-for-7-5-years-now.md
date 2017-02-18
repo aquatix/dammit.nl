@@ -3,7 +3,7 @@ Date: 2011-06-21 20:06:53
 Slug: 20110621-dammit-exists-for-7-5-years-now
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>This weblog has been in existence <a href="http://dammit.nl/p/5">for 7.5 years</a> today, all the while serving me as a focus point of ranting on various aspects of my personal and professional life. These rants (longer and short) are generally musings on things that annoy me, technical subjects of interest to me, announcements and updates about my personal life and random finds. I drop links into the <a href="http://dammit.nl/m">blogmarks</a> overview, hoping you will enjoy them too. I <a href="http://dammit.nl/p/860">post vacation pics</a>, <a href="http://dammit.nl/p/709">announce</a> <a href="http://dammit.nl/p/888">great things</a> and more. Even though <a href="http://dammit.nl/p/825">Twitter has made the update rate a lot slower</a>, I still see it as my go-to place for, well, my brain/heart-internet interface.</p>
 

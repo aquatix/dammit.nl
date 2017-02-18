@@ -3,7 +3,7 @@ Date: 2006-11-22 21:09:50
 Slug: 20061122-voting-gets-you-a-license
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>So, non-voters - if you're out there - be aware you just missed out on your license to whine about the politics, the system, the country, it's quirky inhabitants and just things in general :)</p>
 

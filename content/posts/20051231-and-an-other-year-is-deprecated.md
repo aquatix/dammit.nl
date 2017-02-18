@@ -3,7 +3,7 @@ Date: 2005-12-31 16:56:19
 Slug: 20051231-and-an-other-year-is-deprecated
 Location: Mother-in-law's place
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I'm spending the last hours of 2005 at the place of my GFs mother, where everyone is gathering to eat some of the home-made "oliebollen" [you know, those fried weat balls with raisins and such ;)].</p>
 

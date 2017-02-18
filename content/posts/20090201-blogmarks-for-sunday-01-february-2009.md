@@ -4,7 +4,7 @@ Slug: 20090201-blogmarks-for-sunday-01-february-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.theregister.co.uk/2009/01/30/american_stereotype/">American Stereotype&trade; walks Google's mean Street View</a></h3>

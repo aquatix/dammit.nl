@@ -4,7 +4,7 @@ Slug: 20060702-blogmarks-for-sunday-02-july-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://attu-pics.blogspot.com/2006/06/metro-stations-in-stockholm.html">Metro stations in Stockholm</a></h3>

@@ -3,7 +3,7 @@ Date: 2008-10-08 21:39:34
 Slug: 20081008-queen-still-rocks
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>So yesterday evening we went to see whether those old guys can still rock. Well, they can, and how :) In a completely filled <a href="http://www.ahoy.nl/">Ahoy</a> they started off with a nice intro on the main screen and a new track of the new album with Paul Rodgers. Quickly they rocked the masses with their classics, now and then playing a new song. The jamming sessions where awesome too, with Brian May on the catwalk, or Roger Taylor drumming a great solo on the island at the end of that catwalk, in the middle of the audience. Paul Rodgers performed well as the lead singer, but it was also nice to have the rest perform songs too. The two or three songs by Freddy Mercury where worthy of the goosebumps they generated: Freddy on the big screen singing, the rest of the band playing along live. Awesome and just beautiful.</p>
 

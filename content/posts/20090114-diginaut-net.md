@@ -3,7 +3,7 @@ Date: 2009-01-14 22:54:28
 Slug: 20090114-diginaut-net
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I have been looking for a new domain which would work in parallel with aquariusoft.org. People tend to stumble a bit on that domain's name when getting my email address or url, so I wanted something more fool proof (cue Universe inventing a better fool).</p>
 

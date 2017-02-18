@@ -4,7 +4,7 @@ Slug: 20110220-blogmarks-for-sunday-20-february-2011
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.dangerousminds.net/comments/hundreds_of_tourist_photos_layered_to_create_ghostly_images/">Hundreds of tourist photos layered to create ghostly images</a></h3>

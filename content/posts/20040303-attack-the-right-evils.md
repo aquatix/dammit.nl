@@ -3,7 +3,7 @@ Date: 2004-03-03 20:47:20
 Slug: 20040303-attack-the-right-evils
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>And when I'm at the subject of videogames; in the same interview he says the following:</p>
 <p>"You want to look at something that's screwing up kids' lives, drugs are a horrendously horrible, horrible problem. They're a very real problem that we haven't been able to deal with. You can go to a store and stop selling video games, so it's: "We did something! These kids aren't playing video games!" But now they're spending their money on drugs or something. We have these horrible, horrible problems in society that we just don't seem to be able to get traction on and so we look for other scapegoats."</p>

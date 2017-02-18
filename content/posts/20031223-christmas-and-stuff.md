@@ -3,6 +3,6 @@ Date: 2003-12-23 15:03:15
 Slug: 20031223-christmas-and-stuff
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Like Garfield says:<br/><img src="images/ga031219.gif" alt="Garfields xmas"/></p>

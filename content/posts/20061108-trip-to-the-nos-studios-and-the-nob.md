@@ -3,7 +3,7 @@ Date: 2006-11-08 12:45:30
 Slug: 20061108-trip-to-the-nos-studios-and-the-nob
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Last Thursday I went on a trip to the dutch Mediapark, where most of the TV studios are located. This was initiated by the course ICT in a Social Context, and we where visiting because of two projects. One of them is the CyberNOS project [the <a href="http://www.nos.nl/">NOS</a> is one of our news channels, also doing radio, newspaper and internet coverage]. They integrated all their content collecting people into one unit, which digitised everything, putting it on the central servers. That created the possibility for everyone to access all information [be it video footage, text, audio snippets] from their workstation, even giving them the ability to do some rough editing of the video material for broadcasting. This could be edited further on the video-editing-workstations in the middle of the room, or in some specialised editing rooms. Everything is saved back to the servers. This eliminates the need to get it all on tape and bring it to the studio for processing. Also, the broadcasts themselves are recorded back to the servers [instead of tape], which makes it all accessible again. As they have an archive of 500,000 tapes from their pre-CyberNOS age, you can imagine searching and getting the footage is going to be a lot faster with this new system :)</p>
 

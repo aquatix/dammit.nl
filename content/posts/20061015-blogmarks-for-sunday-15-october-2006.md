@@ -4,7 +4,7 @@ Slug: 20061015-blogmarks-for-sunday-15-october-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://applications.linux.com/article.pl?sid=06/10/03/1859231">How you can digitally sign OpenOffice.org documents</a></h3>

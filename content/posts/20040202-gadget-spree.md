@@ -3,7 +3,7 @@ Date: 2004-02-02 20:19:21
 Slug: 20040202-gadget-spree
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>It's the time of the year again. I'm in love with several gadgets :) First, there is <a href="http://www.hauppauge.com/html/wintvpvr350_datasheet.htm">this TV card I'm going to buy anyway</a> [because it's a kind of birthday present]. And now there's <a href="http://reviews.designtechnica.com/firstlook26.html">a little cellphone</a> I've a crush on. Oh, and <a href="http://cacko.zaurususergroup.com/screenshots.php?menuid=2">there's a nice project</a> helping a <a href="http://www.bargainpda.com/default.asp?newsID=1592">little wonder</a> [wannahave :)] becoming even more cool. Keeps my life a little fun I suppose :)</p>
 <p>I hope it's going to btw, because my study isn't quite helping... I've finally finished the Computer Networks project [submitted the sourcecode last Thursday and the documentation last Saturday, at my birthday of all days. Yeah, it was the deadline ;) ]. Now all hope is focused on the liking of the whole by the assistents. God, let them have merci ;) Then my focus was on assembling <a href="http://www.cs.vu.nl/~mbscholt/schedule.php">my schedule</a> for the next weeks, which turned out to be quite, er, busy. Where did I hear that before... Ah well, keeps me busy.</p>

@@ -3,7 +3,7 @@ Date: 2006-08-25 13:26:47
 Slug: 20060825-wrapping-things-up
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>OK, my two readers are getting a tad tired about this subject I guess, but today I'm making a list of all things, projects, courses etc I've laying around and prioritising them, hoping to mod quite a lot down the level of "todo this year". That's really necessary as I want to wrap up all my courses this year, so I can do a half year internship the year after it and be done with it all.</p>
 

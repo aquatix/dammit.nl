@@ -4,7 +4,7 @@ Slug: 20100207-blogmarks-for-sunday-07-february-2010
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.makeuseof.com/tag/how-to-easily-share-your-wireless-connection-in-ubuntu-9-10/">How To Easily Share Your Wireless Connection in Ubuntu 9.10</a></h3>

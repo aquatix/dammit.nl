@@ -3,7 +3,7 @@ Date: 2006-08-15 14:59:06
 Slug: 20060815-back-and-online-again
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>We just got back from Corfu, and I just got online again after a refreshing period of offlineness. The statistics:</p>
 

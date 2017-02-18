@@ -3,7 +3,7 @@ Date: 2004-09-08 21:30:38
 Slug: 20040908-not-dead-yet-tm
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>For those wondering, the wonderful thing called University has opened it's gates again and is sucking up lots of my precious time. As I'm planning to actually get my bachelor this year [that's about two years late :/ ], I've dived headlong into it. So, I'm not dead, only a bit occupied by looking at a 4x2 grid of beamers showing off a stereoscopic 3D animation at my Computer Graphics classes [that's 16 beamers with 8 computers working in parallel] and by drinking beer at the university pub. I actually got sunburned there [love the terrace, but sitting in the full sun from 1PM until 4:30PM is a bit much for my poor skin apparently].</p>
 

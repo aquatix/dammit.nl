@@ -3,7 +3,7 @@ Date: 2006-10-07 12:25:36
 Slug: 20061007-we-can-put-an-end-to-word-attachments
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p><a href="http://www.gnu.org/philosophy/no-word-attachments.html">Some very good reasons not to use Word and send people Word attachments</a>. It would be nice that people start realising that:</p>
 

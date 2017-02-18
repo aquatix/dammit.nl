@@ -3,7 +3,7 @@ Date: 2007-09-25 15:01:27
 Slug: 20070925-killing-mood
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I'm a bit pissed. When I thought I was done with all my courses, I started adding things up and now I'm missing out on some ECTS points [the credit points you get by successfully passing a course], because the conversion between the old and the new ways of assigning points. So, instead of 180.1 ECTS for 3 years of Bachelor, I suddenly have only 179.3. So I'll have to do some black magic with re-arranging courses in the free-choice space, but then I'm missing out on points for my Master. And that sucks, as I want to start my Masters project Real Soon Now(tm). Meh.</p>
 

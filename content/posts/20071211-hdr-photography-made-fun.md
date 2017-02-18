@@ -3,7 +3,7 @@ Date: 2007-12-11 16:55:11
 Slug: 20071211-hdr-photography-made-fun
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p><a href="http://en.wikipedia.org/wiki/High_dynamic_range_imaging">HDR imaging</a> can result in <a href="http://www.flickr.com/groups/hdr/pool/">really nice pictures</a>. It's also a good way to create versions of your photo's that both highlight the details in the darker parts of the scene, and keep the details in the light parts, like the sky. Just like when you look at it with your own eyes.</p>
 

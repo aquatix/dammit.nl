@@ -4,7 +4,7 @@ Slug: 20061126-blogmarks-for-sunday-26-november-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.boingboing.net/2006/11/20/mario_1up_mushroom_g.html">Boing Boing: Mario 1up mushroom growing kit</a></h3>

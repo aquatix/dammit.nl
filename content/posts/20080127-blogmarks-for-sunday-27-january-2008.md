@@ -4,7 +4,7 @@ Slug: 20080127-blogmarks-for-sunday-27-january-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.mattcutts.com/blog/gmail-feature-suggestion/">What Gmail feature do you want the most?</a></h3>

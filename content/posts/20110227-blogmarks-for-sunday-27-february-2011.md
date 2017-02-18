@@ -4,7 +4,7 @@ Slug: 20110227-blogmarks-for-sunday-27-february-2011
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://grack.com/blog/2011/02/23/ssh-escape-sequences-or-dont-kill-9-that-process/">SSH escape sequences (or "don't kill -9 that process")</a></h3>

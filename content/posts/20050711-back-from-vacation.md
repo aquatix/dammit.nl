@@ -3,7 +3,7 @@ Date: 2005-07-11 11:53:03
 Slug: 20050711-back-from-vacation
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>It was a short one, and generally a bit too wet one [way does it always rain on me?], but altogether quite relaxing. Catching up on me e-mail and newsfeeds now. Didn't have an internet connection somehow, so I plugged the ADSL modem right in my laptop and now it works :/ Gonna hook up the accesspoint again in a few moments.</p>
 

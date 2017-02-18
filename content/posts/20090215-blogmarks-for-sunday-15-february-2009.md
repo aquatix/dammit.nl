@@ -4,7 +4,7 @@ Slug: 20090215-blogmarks-for-sunday-15-february-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://blogs.msdn.com/webmaster/archive/2009/02/12/partnering-to-help-solve-duplicate-content-issues.aspx">Partnering to help solve duplicate content issues</a></h3>

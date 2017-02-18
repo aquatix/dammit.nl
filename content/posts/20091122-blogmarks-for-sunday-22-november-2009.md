@@ -4,7 +4,7 @@ Slug: 20091122-blogmarks-for-sunday-22-november-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.time.com/time/specials/packages/article/0,28804,1934027_1934004_1933998,00.html">The Five Worst Inventions of 2009 - TIME</a></h3>

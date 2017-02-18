@@ -4,7 +4,7 @@ Slug: 20061022-blogmarks-for-sunday-22-october-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://buranen.info/?p=59"> Why I dislike IE7 from an administrator and users point of view</a></h3>

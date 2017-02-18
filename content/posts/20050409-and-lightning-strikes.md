@@ -3,7 +3,7 @@ Date: 2005-04-09 16:16:15
 Slug: 20050409-and-lightning-strikes
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>OK, this must be one of these weeks that things get a life of their own. First, my <a href="/~mbscholt/index.php?rantid=252">April Fool's posting</a> <a href="http://www.galaxycow.com/blogs/vermyndax/archive/2005/04/07/2116.aspx">was taken more seriously</a> then intended, the more because of my <a href="/~mbscholt/index.php?rantid=253">follow-up</a> and the core of truth in the message. <a href="/~mbscholt/index.php?rantid=254">I then continued with a little braindump about my digital life</a> and my wish to spend more time doing "analog" things. That'd be a very nice thing to do, so that's high on my priority list at this moment.</p>
 

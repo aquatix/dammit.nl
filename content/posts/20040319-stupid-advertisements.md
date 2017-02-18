@@ -3,7 +3,7 @@ Date: 2004-03-19 17:30:34
 Slug: 20040319-stupid-advertisements
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>OK, was browsing some hardware sites when an advertisement came along that detected my OS and offered me to test my system [hohum...]. I *had* to try it out, because I already guessed what the outcome would be:</p>
 <p><a href="/images/screenies/linux/20040319_hadtotryitout.png">See for yourself</a> ;)</p>

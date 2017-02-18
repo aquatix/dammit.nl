@@ -3,7 +3,7 @@ Date: 2007-10-23 20:32:29
 Slug: 20071023-on-hardware
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>It's obvious <a href="http://aquariusoft.org/~mbscholt/index.php?rantid=599">I developed a crush</a> on the <a href="http://www.brighthand.com/default.asp?newsID=13426">Nokia N810</a>, and I will definitely get one the moment it shows up in e-shops here in the Netherlands in a few weeks [I heard somewhere it'll appear in a week or two]; I'm already saving up and may just put a Don't Panic sticker on it :)</p>
 

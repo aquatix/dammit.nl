@@ -3,7 +3,7 @@ Date: 2005-11-01 13:07:26
 Slug: 20051101-windows-usability
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>And why does the windows update window suddenly disappear when I click the 'Install' button; why is the 'Configure automatic updates' option in that same window some sort of hyperlink instead of a normal button, why...</p>
 

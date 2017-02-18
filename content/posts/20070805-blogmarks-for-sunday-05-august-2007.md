@@ -4,7 +4,7 @@ Slug: 20070805-blogmarks-for-sunday-05-august-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.thinkgeek.com/gadgets/electronic/8928/">ThinkGeek Bluetooth Retro Handset</a></h3>

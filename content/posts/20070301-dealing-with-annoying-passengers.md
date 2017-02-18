@@ -3,7 +3,7 @@ Date: 2007-03-01 11:31:51
 Slug: 20070301-dealing-with-annoying-passengers
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>If you are sitting next to someone who irritates you on a plane or train follow these instructions:</p>
 

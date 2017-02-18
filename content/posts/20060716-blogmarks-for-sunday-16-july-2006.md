@@ -4,7 +4,7 @@ Slug: 20060716-blogmarks-for-sunday-16-july-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.websiteoptimization.com/services/analyze/index.html">Web Page Analyzer</a></h3>

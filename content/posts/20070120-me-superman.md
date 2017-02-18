@@ -3,7 +3,7 @@ Date: 2007-01-20 11:08:40
 Slug: 20070120-me-superman
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Your results:</p>
 <p>You are <em>Superman</em></p>

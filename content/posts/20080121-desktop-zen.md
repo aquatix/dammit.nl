@@ -3,7 +3,7 @@ Date: 2008-01-21 18:56:28
 Slug: 20080121-desktop-zen
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <div class="content-image"><div><a href="http://aquariusoft.org/gallery/v/photographs/homepics/IMG_2144.JPG.html"><img src="http://aquariusoft.org/gallery/d/4809-2/IMG_2144.JPG" alt="Messy desk" title="Messy desk" /></a></div></div>
 <br style="clear: both;" />

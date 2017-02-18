@@ -3,7 +3,7 @@ Date: 2008-03-06 09:26:04
 Slug: 20080306-the-power-of-linking
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Today I got a curious email on my university's address. I have an old and a bit defunct website on my webspace there, which contains among other things a small photo album and a links page. Today I got an email from an Indonesian-sounding person [attached was a picture of a girl, so I guess that's the sender, Ika Mardianti], kindly asking whether I could add a link to my links page. In return, my site would be linked from her and her friends' site. Sounds quite reasonable, if a bit odd. Then I noticed the url she sent: happyalbum.nl. Yeah, that's a Dutch site. She even sent the title and description for me to add, both in Dutch.</p>
 

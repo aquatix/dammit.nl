@@ -3,7 +3,7 @@ Date: 2005-06-07 17:52:02
 Slug: 20050607-microsoft-gets-hacked
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Well, <a href="http://www.securityfocus.com/elsewhere/41092">their Korean website</a> at least <a href="http://techdirt.com/articles/20050602/1923208_F.shtml">was hacked</a>, after which all login/password info was logged.</p>
 

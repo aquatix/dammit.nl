@@ -4,7 +4,7 @@ Slug: 20091220-blogmarks-for-sunday-20-december-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.dresden-26-gigapixels.com/dresden26GP">Gigapixel-Dresden.de - Large Size Panoramas</a></h3>

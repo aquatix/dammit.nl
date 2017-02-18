@@ -3,7 +3,7 @@ Date: 2004-05-27 21:14:55
 Slug: 20040527-beer-and-pancakes-with-sugar
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>...how's that for a dinner? Tastes quite good actually :)</p>
 <p>Ah, I'm ready for an easy evening. Maybe I could hack somewhat at this site?</p>

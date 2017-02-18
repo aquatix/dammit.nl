@@ -3,7 +3,7 @@ Date: 2007-09-02 14:14:26
 Slug: 20070902-usa-s-national-debt
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Doonesbury had a <a href="http://www.doonesbury.com/strip/dailydose/index.html?uc_full_date=20070902">nice comic on the United States' national debt of $9 trillion [sic!]</a>:</p>
 

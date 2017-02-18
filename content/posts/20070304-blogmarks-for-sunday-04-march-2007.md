@@ -4,7 +4,7 @@ Slug: 20070304-blogmarks-for-sunday-04-march-2007
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://buranen.info/?p=77">"Oh Dell, why must you disappoint me so?" or "Why I won't buy Dell right now"</a></h3>

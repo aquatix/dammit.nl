@@ -3,7 +3,7 @@ Date: 2008-01-24 15:52:36
 Slug: 20080124-debugging-for-fun-and-profit
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Now and then I run into a crashed <a href="http://irssi.org/">irssi</a>. It crashes when the lag becomes way high [stupid adsl modem], or when doing an /upgrade or /quit. I narrowed it down to a Perl script I have that adds !command-style commands to irssi's list of commands for controlling a bot of mine.</p>
 

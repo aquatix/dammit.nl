@@ -4,7 +4,7 @@ Slug: 20090223-blogmarks-for-monday-23-february-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://24ways.org/2007/supersleight-transparent-png-in-ie6">Transparent PNGs in Internet Explorer 6</a></h3>

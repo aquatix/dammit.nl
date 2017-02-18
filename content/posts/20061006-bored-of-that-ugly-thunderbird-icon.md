@@ -4,7 +4,7 @@ Modified: 2006-10-07 14:16:24
 Slug: 20061006-bored-of-that-ugly-thunderbird-icon
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>OK, after finding me <a href="http://moztraybiff.mozdev.org/">a tray icon plugin for the Linux version of Thunderbird</a>, I came to the conclusion that the default icon Debian is shipping with it [the non-branded Mozilla icon], is just ugly. It's a aliased icon [read: jagged edges etc], brown, and doesn't play nice with my <a href="http://tango.freedesktop.org/">Tango icon theme</a>. So I looked where the default icons are stored and simply replaced them by stock Tango icons :)</p>
 

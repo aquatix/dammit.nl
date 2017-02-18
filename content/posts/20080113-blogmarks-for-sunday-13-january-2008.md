@@ -4,7 +4,7 @@ Slug: 20080113-blogmarks-for-sunday-13-january-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://gizmodo.com/343348/confessions-the-meanest-thing-gizmodo-did-at-ces">Confessions: The Meanest Thing Gizmodo Did at CES</a></h3>

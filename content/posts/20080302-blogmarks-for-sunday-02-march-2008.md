@@ -4,7 +4,7 @@ Slug: 20080302-blogmarks-for-sunday-02-march-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.lubixmobile.com/content.php?mode=view&amp;c_idx=c0014">Lubix Mobile stereo bluetooth headset</a></h3>

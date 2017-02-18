@@ -3,7 +3,7 @@ Date: 2006-12-18 12:55:26
 Slug: 20061218-microsoft-exchange-administrator-microsoft-falling
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>See <a href="http://www.galaxycow.com/blogs/vermyndax/2006/12/14/microsoft-falling/">Vermyndax' posting here</a>.</p>
 

@@ -3,7 +3,7 @@ Date: 2004-02-04 00:03:22
 Slug: 20040204-i-feel-like-screaming
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Aaaaaaaaaaaaaaaaaaarrrrggghhhhhhh</p>
 <p>Stupid University thingee, stupid weather, stupid life.</p>

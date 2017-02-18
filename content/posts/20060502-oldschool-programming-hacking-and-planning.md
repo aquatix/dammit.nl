@@ -3,7 +3,7 @@ Date: 2006-05-02 14:54:20
 Slug: 20060502-oldschool-programming-hacking-and-planning
 Location: Vrije Universiteit - Linux lab
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I'm currently sitting in my university's Linux lab writing some oldschool C CGI thingee for hooking up a server serving papers to a website using <a href="http://en.wikipedia.org/wiki/Rpc">SunRPC</a> so you can list the files, upload and download them. Quite fun, I must say.</p>
 

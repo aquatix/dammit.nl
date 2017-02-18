@@ -3,7 +3,7 @@ Date: 2006-08-17 11:56:33
 Slug: 20060817-ideas-for-a-personal-network
 Location: Work
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Some ideas for a modularised set of gadgets that work together in a <em>personal network</em> [e.g., "on the body"]:</p>
 <ul>

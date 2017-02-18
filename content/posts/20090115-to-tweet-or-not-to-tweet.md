@@ -3,7 +3,7 @@ Date: 2009-01-15 20:29:26
 Slug: 20090115-to-tweet-or-not-to-tweet
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p><a href="http://twitter.com/">Twitter</a> is well known by (weblogging?) online people. It's essentially microblogging, meaning that you update it more often than you would do with a weblog. Now I can see people rolling their eyes: "Oh noes, even more crap about what someone is eating currently or how the final product of that lunch sounded like on the fancy toilet of that great new club". Yes, you can use it that way, just like you can blog endlessly about the fibres in your navel. Or you can try keeping it interesting and write comments on an important happening straight when it happens or some enlighted thought you had while brainstorming. That's the new journalism for you.</p>
 

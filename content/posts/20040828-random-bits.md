@@ -3,7 +3,7 @@ Date: 2004-08-28 16:00:41
 Slug: 20040828-random-bits
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>First I want to ask the readers of my humble blog [yeah, you two] if anyone uses the <a href="/~mbscholt/blog_comments.rdf">feed with comments included</a>. I'm asking, because noone gets a notification if someone posted a comment to a post or commented on a comment except for me. I know it's a tad broken because it ignores line feeds, but I'm planning to fix that Real Soon(tm).</p>
 

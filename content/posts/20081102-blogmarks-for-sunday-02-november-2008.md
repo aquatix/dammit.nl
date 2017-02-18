@@ -4,7 +4,7 @@ Slug: 20081102-blogmarks-for-sunday-02-november-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://news.bbc.co.uk/2/hi/uk_news/magazine/7689554.stm">Underwear as outwear</a></h3>

@@ -4,7 +4,7 @@ Slug: 20080203-blogmarks-for-sunday-03-february-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://it.slashdot.org/comments.pl?sid=437640&amp;cid=22255362">Microsoft Launches IT Superhero Comic</a></h3>

@@ -4,7 +4,7 @@ Slug: 20090531-blogmarks-for-sunday-31-may-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://phandroid.com/2009/05/28/google-io-intro-video-wtf/">Google I/O Intro Video (WTF)</a></h3>

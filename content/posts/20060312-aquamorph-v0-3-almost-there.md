@@ -3,7 +3,7 @@ Date: 2006-03-12 15:54:58
 Slug: 20060312-aquamorph-v0-3-almost-there
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I know I've said it before, but the new version of <a href="http://aquariusoft.org/page/linux/aquamorph/">my livecd</a> is almost done. I'm now playing with the package configuration to keep the size down a bit; it turned out to be an .iso of about 420MiB, which I thought was a tad large. I left out some packages and fonts and it's smaller already. Also, I'm thinking about keeping out the Sun Java environment. Anybody has thoughts about that? It saves quite a lot of space :)</p>
 

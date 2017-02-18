@@ -3,7 +3,7 @@ Date: 2004-01-02 16:43:04
 Slug: 20040102-reflections
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>And another year has passed. A year in which I turned the nice age of 21, in which we had to buy a new car because I trashed the previous one on a otherwise very beautiful holidays in Italy at the Garda Lake. Me and my lovely girl where together 5 years [5,5 years at this very moment] and survived that trip brilliantly :) I got home from that same trip with some 512MB of digital photographs taken in that nice country, indicating one of my new hobbies: <a href="http://www.cs.vu.nl/~mbscholt/photo.php">photography</a>.</p>
 

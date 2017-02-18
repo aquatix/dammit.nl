@@ -3,7 +3,7 @@ Date: 2005-06-02 23:09:44
 Slug: 20050602-backing-up-stuff
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Chatting on #morphix with the good ol' <a href="http://morphix.org">Morphix</a> crew, we came along the subject of backing up your cruft [ahum]. Anyway, as I'm lazy and have been running scripts to do so for quite some time already, I thought it nice to share those with the world.</p>
 

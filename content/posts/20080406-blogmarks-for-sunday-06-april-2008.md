@@ -4,7 +4,7 @@ Slug: 20080406-blogmarks-for-sunday-06-april-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.hardsid.com/">HardSID - The SID 6581/8580 synthesizer</a></h3>

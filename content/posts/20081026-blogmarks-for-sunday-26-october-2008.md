@@ -4,7 +4,7 @@ Slug: 20081026-blogmarks-for-sunday-26-october-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://hackaday.com/2008/09/16/how-to-thermite-based-hard-drive-anti-forensic-destruction/">How-to: Thermite hard drive destruction</a></h3>

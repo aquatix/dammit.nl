@@ -4,7 +4,7 @@ Slug: 20090111-blogmarks-for-sunday-11-january-2009
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://mytreo.net/treo-and-palm-news/palm-pre-video-exposes-all-exclusive/">Palm "Pre" video exposes all (exclusive!)</a></h3>

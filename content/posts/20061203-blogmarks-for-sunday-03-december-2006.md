@@ -4,7 +4,7 @@ Slug: 20061203-blogmarks-for-sunday-03-december-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.youtube.com/watch?v=0vdG-FwpulQ">YouTube - The Passenger</a></h3>

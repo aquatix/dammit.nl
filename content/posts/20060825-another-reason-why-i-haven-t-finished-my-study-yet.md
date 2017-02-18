@@ -3,7 +3,7 @@ Date: 2006-08-25 13:10:13
 Slug: 20060825-another-reason-why-i-haven-t-finished-my-study-yet
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>Found this in my mailbox this morning [at the end of my server's log]:</p>
 

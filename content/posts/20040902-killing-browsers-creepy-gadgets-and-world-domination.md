@@ -3,7 +3,7 @@ Date: 2004-09-02 15:05:14
 Slug: 20040902-killing-browsers-creepy-gadgets-and-world-domination
 Location: Home
 Authors: Michiel Scholten
-Tags: olddammit
+Tags: rant
 
 <p>I hate it when my browser goes belly up on me. It shows how dependent I've become on the thing. Thank $DEITY it happens only twice a year or something, but it just happened to me. I only had about 35 tabs open [all very interesting stuff, really], and then I did a Ctrl+Shift+Tab to go back a tab and it just started eating CPU cycles. It's doing it for some minutes now, so my hope on it recovering itself is gone. That's a quick killall firefox-bin then, but that means I loose my opened tabs [all really interesting stuff I wanted to use for this blog, really]. So...</p>
 

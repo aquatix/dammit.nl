@@ -4,7 +4,7 @@ Slug: 20060514-blogmarks-for-sunday-14-may-2006
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://www.desktoplinux.com/news/NS8281593260.html">Group plots Desktop Linux printing improvements</a></h3>

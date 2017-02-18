@@ -4,7 +4,7 @@ Slug: 20081123-blogmarks-for-sunday-23-november-2008
 Location: Server
 Authors: Michiel Scholten
 Category: blogmarks
-Tags: olddammit, blogmarks
+Tags: rant, blogmarks
 
 <p>Interesting links of this week:</p>
 <h3><a href="http://notalwaysright.com/one-annoyed-paranoid/1358">One Annoyed Paranoid</a></h3>
