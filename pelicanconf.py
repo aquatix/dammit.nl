@@ -23,7 +23,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Ryan Rix', 'http://whatthefuck.computer/blog/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
-)
+        )
 
 # Social widget
 #SOCIAL = (('You can add links in your config file', '#'),
@@ -46,4 +46,4 @@ DISPLAY_PAGES_ON_MENU = True
 #DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['assets', 'neighbors', 'summary']
+PLUGINS = ['neighbors', 'summary']
