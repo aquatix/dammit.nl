@@ -1,12 +1,9 @@
 Title: About
 Authors: Michiel Scholten
 Date: 2005-10-02
-Modified: 2014-04-09
+Modified: 2017-02-19
+Summary: About the dammIT weblog, who am I, why do I write
 
-<!--
-	2005-10-02
-	0.3.05
--->
 
 <h2>Forever beta</h2>
 <p>Ok, I've convinced myself I need to have a weblog^Wrantbox too. So what you are looking at is a site being the place to put my frustrations on :) Poluting the web since 2003-12-20!</p>
