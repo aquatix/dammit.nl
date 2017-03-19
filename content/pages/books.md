@@ -193,7 +193,7 @@ Modified: 2017-03-19
 
 <h4 id="queue">Queue</h4>
 <ul>
-    <li>Iain M. Banks - <a href="https://www.goodreads.com/book/show/12013.Excession">Excession</a> (Culture #5)</li>
+    <li>Terry Pratchett, Neil Gaiman - <a href="https://www.goodreads.com/book/show/12067.Good_Omens">Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch </a></li>
     <li>Ursula K. Le Guin - <a href="https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea">A Wizard of Earthsea (Earthsea Cycle #1)</a></li>
     <li>David Mitchell - <a href="https://www.goodreads.com/book/show/49628.Cloud_Atlas">Cloud Atlas</a></li>
     <li>Peter Hamilton - <a href="https://www.goodreads.com/book/show/45248.Misspent_Youth">Misspent Youth</a> (Commonwealth Universe)</li>
@@ -202,6 +202,9 @@ Modified: 2017-03-19
     <li>Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
     <li>Alastair Reynolds - <a href="https://www.goodreads.com/book/show/23013875-slow-bullets">Slow Bullets</a></li>
     <li>David Walton - <a href="https://www.goodreads.com/book/show/22551892-superposition">Superposition</a></li>
+    <li>Greg Egan - <a href="https://www.goodreads.com/book/show/156775.Quarantine">Quarantine</a> (Subjective Cosmology #1)</li>
+    <li>Greg Egan - <a href="https://www.goodreads.com/book/show/156784.Permutation_City">Permutation City</a> (Subjective Cosmology #2)</li>
+    <li>Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distess</a> (Subjective Cosmology #3)</li>
     <li>the Orthogonal trilogy by Greg Egan</li>
     <li>The Final Empire (Mistborn I)</li>
     <li>The Well of Ascension (Mistborn II)</li>
