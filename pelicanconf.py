@@ -51,8 +51,9 @@ SOCIAL = (('Google+', 'http://plus.google.com/u/0/+MichielScholten',
 #RELATIVE_URLS = True
 
 # Put taglist at end of articles, and use the default sharing button implementation.
-CUSTOM_ARTICLE_FOOTERS = ("taglist.html", "sharing.html", )
-CUSTOM_SCRIPTS_ARTICLE = "sharing_scripts.html"
+#CUSTOM_ARTICLE_FOOTERS = ("taglist.html", "sharing.html", )
+CUSTOM_ARTICLE_FOOTERS = ("taglist.html", )
+#CUSTOM_SCRIPTS_ARTICLE = "sharing_scripts.html"
 
 # Default sidebar template. Omit this setting for single column mode without sidebar.
 SIDEBAR = "sidebar.html"
