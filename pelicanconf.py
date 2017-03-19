@@ -7,7 +7,7 @@ SITENAME = u'dammIT'
 SITEURL = ''
 
 # Sub-title that goes underneath site name in jumbotron.
-SITESUBTITLE ='A rantbox'
+SITESUBTITLE = 'A rantbox'
 SITETAG = 'dammIT'
 
 PATH = 'content'
@@ -25,17 +25,23 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Ryan Rix', 'http://whatthefuck.computer/blog/'),
+         ('Vermyndax', 'http://galaxycow.com/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
         )
 
 # Social widget
-#SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
-#SOCIAL = (
-#    ('<i class="fa-li fa fa-twitter"></i> Twitter', 'https://twitter.com/michielscholten'),
-#    ('<i class="fa-li fa fa-github"></i> Github', 'https://github.com/aquatix'),
-#)
+SOCIAL = (('Google+', 'http://plus.google.com/u/0/+MichielScholten',
+           'fa fa-google-plus-square fa-fw fa-lg'),
+          ('Twitter', 'https://twitter.com/michielscholten',
+           'fa fa-twitter-square fa-fw fa-lg'),
+          #('LinkedIn', 'http://linkedin-url',
+          # 'fa fa-linkedin-square fa-fw fa-lg'),
+          #('BitBucket', 'http://bitbucket.org/username',
+          # 'fa fa-bitbucket-square fa-fw fa-lg'),
+          ('GitHub', 'http://github.com/aquatix',
+           'fa fa-github-square fa-fw fa-lg'),
+         )
 
 #GITHUB_URL = 'https://github.com/aquatix'
 
@@ -51,27 +57,14 @@ CUSTOM_SCRIPTS_ARTICLE = "sharing_scripts.html"
 # Default sidebar template. Omit this setting for single column mode without sidebar.
 SIDEBAR = "sidebar.html"
 
-SOCIAL = (('Google+', 'http://plus.google.com/u/0/+MichielScholten',
-       'fa fa-google-plus-square fa-fw fa-lg'),
-      ('Twitter', 'https://twitter.com/michielscholten',
-       'fa fa-twitter-square fa-fw fa-lg'),
-      #('LinkedIn', 'http://linkedin-url',
-      # 'fa fa-linkedin-square fa-fw fa-lg'),
-      #('BitBucket', 'http://bitbucket.org/username',
-      # 'fa fa-bitbucket-square fa-fw fa-lg'),
-      ('GitHub', 'http://github.com/aquatix',
-       'fa fa-github-square fa-fw fa-lg'),
-      )
-
-#THEME = '../../github/w3-personal-blog'
-THEME = '../../others/voidy-bootstrap'
+THEME = '../voidy-bootstrap'
 
 # Extra stylesheets, for bootstrap overrides or additional styling.
-STYLESHEET_FILES = ("pygment.css", "voidybootstrap.css",)
+STYLESHEET_FILES = ("pygment.css", "voidybootstrap.css", "darkblue.css",)
 
 
 DISPLAY_PAGES_ON_MENU = True
-#DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 10
 
-PLUGIN_PATHS = ['../pelican-plugins']
+PLUGIN_PATHS = ['../../others/pelican-plugins']
 PLUGINS = ['neighbors', 'summary']
