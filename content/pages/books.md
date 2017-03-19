@@ -1,15 +1,20 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2016-05-23
+Modified: 2017-03-19
 
-<!--
-Created: 2011-06-06
--->
-
-<p>Books I've read in the past. I might have written something about them, meaning the entries here will link to a corresponding weblog posting. The date denotes the day I <em>started</em> reading. Generally, the date of the next book is when I finished the last :)</p>
+<p>Books I've read in the past. I might have written something about them, meaning the entries here will have a [review] link to a corresponding weblog posting. Otherwise, I try to link them to their page on Goodreads. The date denotes the day I <em>started</em> reading. Generally, the date of the next book is when I finished the last :)</p>
 
 <p>You can <a href="https://www.goodreads.com/review/list/17198769-michiel-scholten">find me on Goodreads</a> too. Maybe become book friends? :)</p>
+
+<h2 id="2017">2017</h2>
+
+<ol>
+    <li><span class="label">20170116</span> Nathan Hill - <a href="https://www.goodreads.com/book/show/28251002-the-nix">The Nix</a></li>
+    <li><span class="label">20170228</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/886066.Matter">Matter</a> (Culture #8)</li>
+</ol>
+
+<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
 <h2 id="2016">2016</h2>
 
@@ -24,11 +29,16 @@ Created: 2011-06-06
     <li><span class="label">20160502</span> Glen Cook - <a href="https://www.goodreads.com/book/show/400878.Sweet_Silver_Blues">Sweet Silver Blues</a> (Garrett Files #1)</li>
     <li><span class="label">20160511</span> Glen Cook - <a href="https://www.goodreads.com/book/show/1037242.Bitter_Gold_Hearts">Bitter Gold Hearts</a> (Garrett Files #2) </li>
     <li><span class="label">20160523</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/129131.The_State_of_the_Art">The State of the Art</a> (Culture #4)</li>
+    <li><span class="label">20160603</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/12013.Excession">Excession</a> (Culture #5)</li>
+    <li><span class="label">20160701</span> Glen Cook - <a href="https://www.goodreads.com/book/show/400892.Cold_Copper_Tears">Cold Copper Tears</a> (Garrett Files #3)</li>
+    <li><span class="label">20160706</span> Glen Cook - <a href="https://www.goodreads.com/book/show/140673.Old_Tin_Sorrows">Old Tin Sorrows</a> (Garrett Files #4)</li>
+    <li><span class="label">20160711</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/12017.Inversions">Inversions</a> (Culture #6)</li>
+    <li><span class="label">20160722</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/12016.Look_to_Windward">Look to Windward</a> (Culture #7)</li>
+    <li><span class="label">20160812</span> Neal Stephenson - <a href="https://www.goodreads.com/book/show/22816087-seveneves">Seveneves</a></li>
+    <li><span class="label">20161014</span> Nathan Hill - <a href="https://www.goodreads.com/book/show/28251002-the-nix">The Nix</a></li>
 
     <!--<li><span class="label">20160</span> - <a href=""></a></li>-->
 </ol>
-
-<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
 <h2 id="2015">2015</h2>
 
@@ -217,6 +227,7 @@ Created: 2011-06-06
     <li>Joe Haldeman - The Forever War </li>
     <li>Philip K. Dick - Ubik</li>
 
+    <li><a href="https://www.goodreads.com/review/list/17198769-michiel-scholten?shelf=to-read">More on my Goodreads profile</a></li>
 </ul>
 
 <p>Suggestions? Please <a href="http://dammit.nl/p/916">leave a comment</a>!</p>
