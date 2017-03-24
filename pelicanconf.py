@@ -43,6 +43,10 @@ SOCIAL = (('Google+', 'http://plus.google.com/u/0/+MichielScholten',
            'fa fa-github-square fa-fw fa-lg'),
          )
 
+OPEN_GRAPH = True
+TWITTER_CARD = True
+TWITTER_USERNAME = 'michielscholten'
+
 #GITHUB_URL = 'https://github.com/aquatix'
 
 #DEFAULT_PAGINATION = False
@@ -57,6 +61,7 @@ CUSTOM_ARTICLE_FOOTERS = ("taglist.html", )
 
 # Default sidebar template. Omit this setting for single column mode without sidebar.
 SIDEBAR = "sidebar.html"
+CUSTOM_SIDEBAR_MIDDLES = ("sb_links.html", )
 
 THEME = '../voidy-bootstrap'
 
