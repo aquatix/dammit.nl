@@ -5,8 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Michiel Scholten'
 SITENAME = u'dammIT'
 SITELOGO = u'<img src="/images/dammit.svg" alt="dammIT" />'
-SITEURL = ''
-#SITEURL = 'https://dammit.nl'
+SITEURL = ''  # Set in publishconf.py
 
 # Sub-title that goes underneath site name in jumbotron.
 SITESUBTITLE = 'A rantbox'
