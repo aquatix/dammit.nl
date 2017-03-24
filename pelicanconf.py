@@ -4,7 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Michiel Scholten'
 SITENAME = u'dammIT'
+SITELOGO = u'<img src="http://dammit.nl/themes/dammit/img/dammit.svg" alt="dammIT" />'
 SITEURL = ''
+#SITEURL = 'https://dammit.nl'
 
 # Sub-title that goes underneath site name in jumbotron.
 SITESUBTITLE = 'A rantbox'
@@ -53,6 +55,8 @@ TWITTER_USERNAME = 'michielscholten'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+CUSTOM_SITE_HEADERS = ("jumbotron_logo.html", )
 
 # Put taglist at end of articles, and use the default sharing button implementation.
 #CUSTOM_ARTICLE_FOOTERS = ("taglist.html", "sharing.html", )
