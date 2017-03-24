@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Michiel Scholten'
 SITENAME = u'dammIT'
-SITELOGO = u'<img src="http://dammit.nl/themes/dammit/img/dammit.svg" alt="dammIT" />'
+SITELOGO = u'<img src="/images/dammit.svg" alt="dammIT" />'
 SITEURL = ''
 #SITEURL = 'https://dammit.nl'
 
@@ -45,6 +45,7 @@ SOCIAL = (('Google+', 'http://plus.google.com/u/0/+MichielScholten',
            'fa fa-github-square fa-fw fa-lg'),
          )
 
+# Social metadata
 OPEN_GRAPH = True
 TWITTER_CARD = True
 TWITTER_USERNAME = 'michielscholten'
@@ -56,6 +57,7 @@ TWITTER_USERNAME = 'michielscholten'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+# Show jumbotron page header with logo instead of plain text sitename
 CUSTOM_SITE_HEADERS = ("jumbotron_logo.html", )
 
 # Put taglist at end of articles, and use the default sharing button implementation.
@@ -78,3 +80,5 @@ DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ['../../others/pelican-plugins']
 PLUGINS = ['neighbors', 'summary']
+
+STATIC_PATHS = ['images']
