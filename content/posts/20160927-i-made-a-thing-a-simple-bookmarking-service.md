@@ -3,7 +3,8 @@ Date: 2016-09-27 13:42:18
 Slug: 20160927-i-made-a-thing-a-simple-bookmarking-service
 Location: Home
 Authors: Michiel Scholten
-Tags: rant
+Category: projects
+Tags: digimarks, web
 
 A while back I started scratching an itch that I had and that wasn't relieved by some existing software or services I could find: a central place to keep track of interesting places on the web I wanted to follow up on, without having them saved as read-later in Pocket (which is an excellent tool, but I'd like to keep it for articles only).
 

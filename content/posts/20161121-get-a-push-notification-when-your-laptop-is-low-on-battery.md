@@ -3,9 +3,10 @@ Date: 2016-11-21 13:38:06
 Slug: 20161121-get-a-push-notification-when-your-laptop-is-low-on-battery
 Location: Work
 Authors: Michiel Scholten
-Tags: rant
+Category: howto
+Tags: howto, mobile, push
 
-A while ago [I wrote about getting notified on battery low](https://dammit.nl/p/948). It is quite useful when you leave your laptop unattended for a while, to get a notification on your phone and/or smartwatch when that laptop is about to run out of juice. It has saved me a few hard shutdowns (or interrupted tasks because of forced hibernation).
+A while ago [I wrote about getting notified on battery low]({filename}20150307-getting-a-push-message-on-your-phone-or-watch-when-your-laptop-battery-is-running-low.md). It is quite useful when you leave your laptop unattended for a while, to get a notification on your phone and/or smartwatch when that laptop is about to run out of juice. It has saved me a few hard shutdowns (or interrupted tasks because of forced hibernation).
 
 The `udev` rule in that article should still work (if your device/battery emits those kinds of events at least), but for me the PushBullet method used there stopped working.
 
