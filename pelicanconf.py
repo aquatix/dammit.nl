@@ -71,6 +71,7 @@ SIDEBAR = "sidebar.html"
 CUSTOM_SIDEBAR_MIDDLES = ("sb_links.html", )
 
 THEME = '../voidy-bootstrap'
+STYLE_COLOUR = '#0c024d'
 
 # Extra stylesheets, for bootstrap overrides or additional styling.
 STYLESHEET_FILES = ("pygment.css", "voidybootstrap.css", "darkblue.css",)
