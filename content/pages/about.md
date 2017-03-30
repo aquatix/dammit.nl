@@ -30,7 +30,7 @@ Summary: About the dammIT weblog, who am I, why do I write
 <h2>This weblog</h2>
 <p>I started this website before software like Wordpress became usable (or even existed) and also because I liked to write such a content management system. Maybe I'll find versions of the code from the time period between 2003 and 2006, but I started version control in 2006 so the <a href="https://github.com/aquatix/dammit">dammIT sourcecode</a> that <a href="">I published on Github for everyone to see</a> starts its history there.</p>
 
-<p>As of <a href="{filename}20170401-new-dammit-live.md">the first of April 2017</a> the codebase has been switched to use <a href="">Pelican</a>, a static site generator, as I have been tired of PHP for a while. <a href="https://github.com/aquatix/dammit.nl">The content now lives in this GitHub repository</a>. The theme is <a href="https://github.com/aquatix/voidy-bootstrap">a fork</a> of <a href="https://github.com/robulouski/voidy-bootstrap">voidy-bootstrap</a> with some enhancements like the blue theme, neighbour articles navigation and <a href="https://posativ.org/isso/">isso</a> commenting support.</p>
+<p>As of <a href="{filename}20170401-dammit-switched-to-pelican.md">the first of April 2017</a> the codebase has been switched to use <a href="">Pelican</a>, a static site generator, as I have been tired of PHP for a while. <a href="https://github.com/aquatix/dammit.nl">The content now lives in this GitHub repository</a>. The theme is <a href="https://github.com/aquatix/voidy-bootstrap">a fork</a> of <a href="https://github.com/robulouski/voidy-bootstrap">voidy-bootstrap</a> with some enhancements like the blue theme, neighbour articles navigation and <a href="https://posativ.org/isso/">isso</a> commenting support.</p>
 
 <h3>Bugs, issues, features?</h3>
 <p>As the <a href="https://github.com/aquatix/voidy-bootstrap">theme source is open</a> and I like to hear your suggestions, you <a href="https://github.com/aquatix/voidy-bootstrap/issues">can file tickets</a> with your findings. If you happen to use my code, I'm even more interested in your opinion :)</p>
@@ -40,7 +40,7 @@ If you find strange things or dead links in my posts that you are able to fix, <
 
 <h3>Rights stuff</h3>
 <p>Contents are &copy; 2003-2017 <i>dammit at aquariusoft.org</i>, but are licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>, except for quotes and art from others, which are property of the respective creators of course.</p>
-<p>Powered by Blood, Sweat, Wine and the occassional Whisky&trade;</p>
+<p>Powered by Blood, Sweat, Wine and the occasional Whisky&trade;</p>
 
 
 <h2>Contact</h2>
