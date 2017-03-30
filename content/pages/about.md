@@ -19,9 +19,9 @@ Summary: About the dammIT weblog, who am I, why do I write
 <p>Yeah, why? Well basically to have some place to write down my frustrations. But also for thinking out loud (which I hope will happen more often than me being frustrated), and sharing some <a href="/m">niceties</a> I found on the web with anybody who cares reading this weblog. So, since the 20th of December of the year 2003 you can read about me. Oh rejoice :)</p>
 
 <h3>Whoami</h3>
-<p>I'm a (backend) developer with a big media company in the Netherlands. You can find <a href="http://diginaut.net">more information about me on diginaut.net</a>.</p>
+<p>I'm a (backend/full stack) developer with a big media company in the Netherlands. You can find <a href="http://diginaut.net">more information about me on diginaut.net</a>.</p>
 
-<p>/me has been a student <a href="http://www.cs.vu.nl/">Computer Science</a> at the <a href="http://www.vu.nl/">Vrije Universiteit</a> in Amsterdam and working with the Royal Dutch Navy, where I did my Master research project too. <a href="http://www.cs.vu.nl/~mbscholt/">My homepage at the VU</a> contains some information about me, but is getting really dated (last update early 2004...). <a href="http://aquariusoft.org/">aquariusoft.org</a> is home to my projects. You can also find links to other sites, like <a href="http://aquariusoft.org/photos">my gallery</a> there.</p>
+<p>/me has been a student <a href="http://www.cs.vu.nl/">Computer Science</a> at the <a href="http://www.vu.nl/">Vrije Universiteit</a> in Amsterdam and working with the Royal Dutch Navy, where I did my Master research project too. <a href="http://aquariusoft.org/">aquariusoft.org</a> is home to my projects. You can also find links to other sites, like <a href="https://shuttereye.org/">my gallery</a> there.</p>
 
 <h3>You seem to be a Dutchie. Why do you pretend to write English?</h3>
 <p>Mainly because of the exercise I get through it. I like reading other weblogs, preferably in a language I understand, which boils down to Dutch and English. As most content I consume nowadays is in English, I choose to write in that language too. And now I get a reader or three extra ;)</p>
@@ -30,14 +30,16 @@ Summary: About the dammIT weblog, who am I, why do I write
 <h2>This weblog</h2>
 <p>I started this website before software like Wordpress became usable (or even existed) and also because I liked to write such a content management system. Maybe I'll find versions of the code from the time period between 2003 and 2006, but I started version control in 2006 so the <a href="https://github.com/aquatix/dammit">dammIT sourcecode</a> that <a href="">I published on Github for everyone to see</a> starts its history there.</p>
 
-<h3>Bugs, issues, features?</h3>
-<p>As the <a href="https://github.com/aquatix/dammit">source is open</a> and I like to hear your suggestions, you <a href="https://github.com/aquatix/dammit/issues">can file tickets</a> with your findings. If you happen to use my code, I'm even more interested in your opinion :)</p>
+<p>As of <a href="{filename}20170401-new-dammit-live.md">the first of April 2017</a> the codebase has been switched to use <a href="">Pelican</a>, a static site generator, as I have been tired of PHP for a while. <a href="https://github.com/aquatix/dammit.nl">The content now lives in this GitHub repository</a>. The theme is <a href="https://github.com/aquatix/voidy-bootstrap">a fork</a> of <a href="https://github.com/robulouski/voidy-bootstrap">voidy-bootstrap</a> with some enhancements like the blue theme, neighbour articles navigation and <a href="https://posativ.org/isso/">isso</a> commenting support.</p>
 
-<h3 id="browser">Browser stuff</h3>
-<p>People who develop for the web know how hard it can be to Do It Right&trade;. Browsers (like <acronym title="Internet Exploder">IE</acronym>) don't play nice with <acronym title="Cascading Style Sheets">CSS</acronym>, you just can't get that colour right or the database speaks another tongue <acronym title="Structured Query Language (database language)">SQL</acronym> than you do. I've been through all of it and more, but I managed to make this piece standards compliant and viewable by Any Browser&trade; you like, even lynx and screenreaders. I'm quite proud :)</p>
+<h3>Bugs, issues, features?</h3>
+<p>As the <a href="https://github.com/aquatix/voidy-bootstrap">theme source is open</a> and I like to hear your suggestions, you <a href="https://github.com/aquatix/voidy-bootstrap/issues">can file tickets</a> with your findings. If you happen to use my code, I'm even more interested in your opinion :)</p>
+
+If you find strange things or dead links in my posts that you are able to fix, <a href="https://github.com/aquatix/dammit.nl">you can file a pull request</a> for the content too :)
+
 
 <h3>Rights stuff</h3>
-<p>Contents are &copy; 2003-2014 <i>dammit at aquariusoft.org</i>, but are licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>, except for quotes and art from others, which are property of the respective creators of course.</p>
+<p>Contents are &copy; 2003-2017 <i>dammit at aquariusoft.org</i>, but are licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>, except for quotes and art from others, which are property of the respective creators of course.</p>
 <p>Powered by Blood, Sweat, Wine and the occassional Whisky&trade;</p>
 
 
