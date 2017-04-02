@@ -21,7 +21,7 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-ISSO_URL = 'https://beta.dammit.nl/isso'
+ISSO_URL = 'https://beta.dammit.nl/comments'
 GOOGLE_ANALYTICS = 'UA-10643901-3'
 
 PIWIK_URL = 'https://aquariusoft.org/r00t/webstats/'
