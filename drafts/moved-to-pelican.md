@@ -3,6 +3,7 @@ Date: 2017-03-26 13:53:41
 Slug: 20170326-moved-to-pelican
 Location: Home
 Authors: Michiel Scholten
+Category: projects
 Tags: rant, meta
 Status: draft
 
