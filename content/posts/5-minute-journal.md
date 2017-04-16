@@ -1,6 +1,6 @@
 Title: 5-minute journal
 Date: 2017-04-12 21:20:00
-Modified:
+Modified: 2017-04-16 20:39:00
 Slug: 5-minute-journal
 Location: Home
 Authors: Michiel Scholten

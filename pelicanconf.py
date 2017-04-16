@@ -74,7 +74,8 @@ THEME = '../voidy-bootstrap'
 STYLE_COLOUR = '#0c024d'
 
 # Extra stylesheets, for bootstrap overrides or additional styling.
-STYLESHEET_FILES = ("pygment.css", "voidybootstrap.css", "darkblue.css",)
+#STYLESHEET_FILES = ("pygment.css", "voidybootstrap.css", "darkblue.css",)
+STYLESHEET_FILES = ("voidybootstrap.css", "darkblue.css", "pygment_native.css",)
 
 
 DISPLAY_PAGES_ON_MENU = True
