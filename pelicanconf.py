@@ -78,6 +78,18 @@ STYLE_COLOUR = '#5C6448'
 #STYLESHEET_FILES = ("voidybootstrap.css", "darkblue.css", "pygment_native.css",)
 STYLESHEET_FILES = ("voidybootstrap.css", "olive.css", "pygment_native.css",)
 
+# Extra Markdown options, https://github.com/getpelican/pelican/issues/1238#issuecomment-32821905
+#MD_EXTENSIONS = ['fenced_code', 'codehilite(css_class=highlight, linenums=True)', 'extra']
+#MD_EXTENSIONS = ['fenced_code', 'codehilite(css_class=highlight, linenums=False)', 'extra']
+MARKDOWN = {
+    'extension_configs': {
+        #'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+}
+HIGHLIGHTJS = True
 
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = 10
