@@ -1,7 +1,9 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2017-03-19
+Modified: 2017-04-21
+Summary: List of books I've read in the past, with notes where applicable.
+
 
 <p>Books I've read in the past. I might have written something about them, meaning the entries here will have a [review] link to a corresponding weblog posting. Otherwise, I try to link them to their page on Goodreads. The date denotes the day I <em>started</em> reading. Generally, the date of the next book is when I finished the last :)</p>
 
@@ -12,6 +14,7 @@ Modified: 2017-03-19
 <ol>
     <li><span class="label">20170116</span> Nathan Hill - <a href="https://www.goodreads.com/book/show/28251002-the-nix">The Nix</a></li>
     <li><span class="label">20170228</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/886066.Matter">Matter</a> (Culture #8)</li>
+    <li><span class="label">20170411</span> Terry Pratchett, Neil Gaiman - <a href="https://www.goodreads.com/book/show/12067.Good_Omens">Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch </a></li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
