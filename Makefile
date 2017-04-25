@@ -7,6 +7,7 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
+PUBLISHBETACONF=$(BASEDIR)/publishbetaconf.py
 
 FTP_HOST=localhost
 FTP_USER=anonymous
@@ -95,6 +96,9 @@ endif
 stopserver:
 	$(BASEDIR)/develop_server.sh stop
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
+
+betapublish:
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHBETACONF) $(PELICANOPTS)
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
