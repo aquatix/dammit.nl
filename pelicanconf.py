@@ -70,6 +70,11 @@ CUSTOM_ARTICLE_FOOTERS = ("taglist.html", )
 SIDEBAR = "sidebar.html"
 CUSTOM_SIDEBAR_MIDDLES = ("sb_links.html", )
 
+# Footer config
+SKIP_COLOPHON = True
+CUSTOM_FOOTER = "footer_customtext.html"
+CUSTOM_FOOTER_TEXT = "&copy; 2003 - 2017 " + AUTHOR + " under a <a href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license</a>"
+
 THEME = '../voidy-bootstrap'
 #STYLE_COLOUR = '#0c024d'
 STYLE_COLOUR = '#5C6448'
