@@ -3,7 +3,9 @@ Date: 2015-03-07 14:43:30
 Slug: 20150307-getting-a-push-message-on-your-phone-or-watch-when-your-laptop-battery-is-running-low
 Location: Home
 Authors: Michiel Scholten
-Tags: rant
+Tags: howto, mobile, notifications
+Category: howto
+related_posts: 20161121-get-a-push-notification-when-your-laptop-is-low-on-battery, 20150919-i-made-a-thing-to-make-your-phone-go-pling-when-your-train-goes-whatever
 
 When your laptop is sitting on a table and you're doing some other stuff in the meanwhile, it might quietly be running out of battery. In that case, you likely want to be nudged to find it a power outlet before it has to shut down or hibernate.
 

@@ -3,7 +3,8 @@ Date: 2015-08-19 08:40:58
 Slug: 20150819-how-to-do-location-based-web-requests-with-tasker-on-android
 Location: Train
 Authors: Michiel Scholten
-Tags: rant
+Tags: rant, howto, mobile
+Category: howto
 
 If you don't know [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) go and check it out now. It's by far the greatest way to automate, well, about everything on your Android device and its surroundings.
 
