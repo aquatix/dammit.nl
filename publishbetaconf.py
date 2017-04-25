@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://dammit.nl'
+SITEURL = 'https://beta.dammit.nl'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -21,7 +21,7 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-ISSO_URL = 'https://dammit.nl/comments'
+ISSO_URL = 'https://beta.dammit.nl/comments'
 GOOGLE_ANALYTICS = 'UA-10643901-3'
 
 PIWIK_URL = 'https://aquariusoft.org/r00t/webstats/'

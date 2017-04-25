@@ -4,7 +4,8 @@ Slug: 20161121-get-a-push-notification-when-your-laptop-is-low-on-battery
 Location: Work
 Authors: Michiel Scholten
 Category: howto
-Tags: howto, mobile, push
+Tags: howto, mobile, notifications
+related_posts: 20150307-getting-a-push-message-on-your-phone-or-watch-when-your-laptop-battery-is-running-low, 20150919-i-made-a-thing-to-make-your-phone-go-pling-when-your-train-goes-whatever
 
 A while ago [I wrote about getting notified on battery low]({filename}20150307-getting-a-push-message-on-your-phone-or-watch-when-your-laptop-battery-is-running-low.md). It is quite useful when you leave your laptop unattended for a while, to get a notification on your phone and/or smartwatch when that laptop is about to run out of juice. It has saved me a few hard shutdowns (or interrupted tasks because of forced hibernation).
 

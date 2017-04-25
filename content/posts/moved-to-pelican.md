@@ -1,11 +1,11 @@
 Title: Moved to Pelican
-Date: 2017-03-26 13:53:41
-Slug: 20170326-moved-to-pelican
+Started: 2017-03-26 13:53:41
+Date: 2017-04-23 20:40:00
+Slug: moved-to-pelican
 Location: Home
 Authors: Michiel Scholten
 Category: projects
 Tags: rant, meta
-Status: draft
 
 This weblog has always been a self-built affair.
 
@@ -15,6 +15,12 @@ There have been [some]({filename}20151221-dammit-12-years-of-rants.md) [attempts
 
 I had been toying with [the difference between DB and flat files based sites]({filename}20140810-website-framework-database-driven-or-flat-files.md) for a while, and already had [a website](https://aquariusoft.org) that was rendered from static files that actually pre-dated this weblog. The flexibility of a database-driven CMS with edit possibilities from any browser and being able to dynamically generate pages based on all kinds of up-to-date info was what made dammIT into what it was in the first place, with a sidebar with blogmarks (links to articles and websites I wanted to share with the world) and more. Being able to have a simple set of flat files under a well-functioning version control system is the upside of the flat-file approach. Especially revision control in combination with being able to easily type (draft) in my favourite text editor are really nice-to-haves.
 
-Apart from that, I got fed up by the constant security vulnerabilities in Wordpress, and the way it is technically designed (or not designed, if you look at those database tables).
+Apart from that, I got fed up by the constant security vulnerabilities in Wordpress, and the way it is technically designed (or not designed, if you look at those database tables). This means that after moving away from my own PHP creation, my Wordpress websites will be next.
 
-Following people from around the webs (including for example [rrix](http://rix.si/blog/2013/06/04/moved-to-pelican/)), I decided to experiment with an export I did from the database of the PHP site, generating Markdown files including metadata in a format that Pelican approves of.
+Following people from around the webs (including for example [rrix](http://rix.si/blog/2013/06/04/moved-to-pelican/)), I decided to experiment with an export I did from the database of the PHP site, generating Markdown files including metadata in a format that Pelican approves of. It worked surprisingly well. Having no comments this way, bothered me somewhat, as I kind of like the interaction that can follow through them. Of course, a lot of spam gets inserted this way, but also some valuable feedback.
+
+Enter [isso](https://posativ.org/isso/docs/), sort of Disqus light, without all the annoying things that such a hosted services comes with (like their own recommendation system). I also exported the comments from my old PHP site and imported them in the isso sqlite database running for this site (a small howto will follow, but [you can get started with this one](http://blog.pythonity.com/how-to-use-isso.html)).
+
+There will likely be some rough edges that still need straightening out, so expect some updates in the near future, but here it is: a freshly built dammIT.
+
+On to more rants.

@@ -4,9 +4,10 @@ Modified: 2017-01-21 16:05:00
 Slug: 20160406-how-to-fix-secure-settings-on-android-devices-with-supersu-systemless-root
 Location: Work
 Authors: Michiel Scholten
-Tags: rant
+Tags: rant, howto, mobile
+Category: howto
 
-Edit at 2017-01-21: see the comments about better ways, especially [comment 6](//dammit.nl/p/962#comment592).
+Edit at 2017-01-21: see the comments about better ways, especially [comment 6]({filename}20160406-how-to-fix-secure-settings-on-android-devices-with-supersu-systemless-root.md#isso-592).
 
 [Secure Settings](http://securesettings.intangibleobject.com/) ([Google Play](https://play.google.com/store/apps/details?id=com.intangibleobject.securesettings.plugin&hl=en)) is a really helpful app to help [Tasker](http://tasker.dinglisch.net/) ([Google Play](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en)) do things automatically on your Android device.
 
