@@ -1,8 +1,7 @@
 Title: Prettifying Gnome
 Started: 2016-02-24
-Date: 2017-03-26 16:17:00
+Date: 2017-04-26 16:17:00
 Slug: prettifying-gnome
-Location: Home
 Authors: Michiel Scholten
 Category: howto
 Tags: linux, desktop, howto
