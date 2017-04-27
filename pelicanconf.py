@@ -25,7 +25,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Ryan Rix', 'http://whatthefuck.computer/blog/'),
+LINKS = (
+         ('Felienne', 'http://www.felienne.com/'),
+         ('Rands in Repose', 'http://randsinrepose.com/'),
+         ('Ryan Rix', 'http://whatthefuck.computer/blog/'),
+         ('Tibo Beijen', 'https://www.tibobeijen.nl/'),
          ('Vermyndax', 'http://galaxycow.com/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
