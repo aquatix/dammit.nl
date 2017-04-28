@@ -17,7 +17,8 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
-IGNORE_FILES = ['.#*', '*blogmarks-for*']
+# Ignore swap files and blogmarks digests
+IGNORE_FILES = ['.#*', '.*.swp', '*blogmarks-for*']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
