@@ -1,6 +1,7 @@
 Title: shuttereye.org, a gallery
 Started: 2017-03-26 16:17:00
 Date: 2017-04-30 20:17:00
+Modified: 2017-05-01 13:37:00
 Slug: shuttereye-gallery
 Location: Home
 Authors: Michiel Scholten
@@ -16,5 +17,7 @@ As I'm digging through my [weblog archives](https://dammit.nl/archives.html) and
 Apart from that, features are still being added to the [underlying software)(https://github.com/aquatix/imagine-gallery), to make it more to my liking. Apparently, PNG images (think screenshots) are currently scaled to JPG's, which is just bad, and something I'm going to fix Real Soon(tm). Another thing is that I would like to create a timeline view, ala Flickr's default (user) view, where images from select Collections are added to, based on their freshness (e.g., latest content first).
 
 A 'how to install this stuff' tutorial also really needs writing, so I can surely put some of my cherished free time to good use.
+
+There's a lot of stuff already there though, like having collections (basically groups of subalbums), protected and hidden collections, configurable album sort options and image sizes (automatic thumbnailing etc), swipe support on mobile devices (and laptops with touch screen and such), keyboard navigation, maximised and full view of images, descriptions, EXIF info, GEO locations (GPS).
 
 Feel free to try it out and let me know what you think!
