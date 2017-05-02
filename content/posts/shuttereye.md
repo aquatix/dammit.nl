@@ -14,10 +14,12 @@ Enter [shuttereye.org](https://shuttereye.org/), a place where I'm hosting image
 
 As I'm digging through my [weblog archives](https://dammit.nl/archives.html) and my old or just downright ancient backups, I'm filling in some holes that were left after moving weblog and gallery platforms a few times and switching domain names. These images are being uploaded to Shuttereye as I come across them, and I create redirects or fix links where needed, so 404's are gradually eliminated and images magically appear in old posts again.
 
-Apart from that, features are still being added to the [underlying software)(https://github.com/aquatix/imagine-gallery), to make it more to my liking. Apparently, PNG images (think screenshots) are currently scaled to JPG's, which is just bad, and something I'm going to fix Real Soon(tm). Another thing is that I would like to create a timeline view, ala Flickr's default (user) view, where images from select Collections are added to, based on their freshness (e.g., latest content first).
+Apart from that, features are still being added to the [underlying software](https://github.com/aquatix/imagine-gallery), to make it more to my liking. Apparently, PNG images (think screenshots) are currently scaled to JPG's, which is just bad, and something I'm going to fix Real Soon(tm). Another thing is that I would like to create a timeline view, ala Flickr's default (user) view, where images from select Collections are added to, based on their freshness (e.g., latest content first).
 
 A 'how to install this stuff' tutorial also really needs writing, so I can surely put some of my cherished free time to good use.
 
 There's a lot of stuff already there though, like having collections (basically groups of subalbums), protected and hidden collections, configurable album sort options and image sizes (automatic thumbnailing etc), swipe support on mobile devices (and laptops with touch screen and such), keyboard navigation, maximised and full view of images, descriptions, EXIF info, GEO locations (GPS).
+
+[![Shuttereye.org home](https://shuttereye.org/images/4c/4c4949c909f37369_2000-2000.jpg)](https://shuttereye.org/various/screenshots/20170502_shuttereye_home.png/view/)
 
 Feel free to try it out and let me know what you think!
