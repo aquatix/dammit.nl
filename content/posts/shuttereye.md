@@ -20,6 +20,6 @@ A 'how to install this stuff' tutorial also really needs writing, so I can surel
 
 There's a lot of stuff already there though, like having collections (basically groups of subalbums), protected and hidden collections, configurable album sort options and image sizes (automatic thumbnailing etc), swipe support on mobile devices (and laptops with touch screen and such), keyboard navigation, maximised and full view of images, descriptions, EXIF info, GEO locations (GPS).
 
-[![Shuttereye.org home](https://shuttereye.org/images/4c/4c4949c909f37369_2000-2000.jpg)](https://shuttereye.org/various/screenshots/20170502_shuttereye_home.png/view/)
+[![Shuttereye.org home](https://shuttereye.org/images/4c/4c4949c909f37369_2000-2000.png)](https://shuttereye.org/various/screenshots/20170502_shuttereye_home.png/view/)
 
 Feel free to try it out and let me know what you think!
