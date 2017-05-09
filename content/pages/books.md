@@ -14,7 +14,8 @@ Summary: List of books I've read in the past, with notes where applicable.
 <ol>
     <li><span class="label">20170116</span> Nathan Hill - <a href="https://www.goodreads.com/book/show/28251002-the-nix">The Nix</a></li>
     <li><span class="label">20170228</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/886066.Matter">Matter</a> (Culture #8)</li>
-    <li><span class="label">20170411</span> Terry Pratchett, Neil Gaiman - <a href="https://www.goodreads.com/book/show/12067.Good_Omens">Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch </a></li>
+    <li><span class="label">20170411</span> Terry Pratchett, Neil Gaiman - <a href="https://www.goodreads.com/book/show/12067.Good_Omens">Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch</a></li>
+    <li><span class="label">20170508</span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/26118426-ninefox-gambit">Ninefox Gambit</a> (The Machineries of Empire #1)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -196,7 +197,6 @@ Summary: List of books I've read in the past, with notes where applicable.
 
 <h4 id="queue">Queue</h4>
 <ul>
-    <li>Terry Pratchett, Neil Gaiman - <a href="https://www.goodreads.com/book/show/12067.Good_Omens">Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch </a></li>
     <li>Ursula K. Le Guin - <a href="https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea">A Wizard of Earthsea (Earthsea Cycle #1)</a></li>
     <li>David Mitchell - <a href="https://www.goodreads.com/book/show/49628.Cloud_Atlas">Cloud Atlas</a></li>
     <li>Peter Hamilton - <a href="https://www.goodreads.com/book/show/45248.Misspent_Youth">Misspent Youth</a> (Commonwealth Universe)</li>
