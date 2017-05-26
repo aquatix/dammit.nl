@@ -16,6 +16,7 @@ Summary: List of books I've read in the past, with notes where applicable.
     <li><span class="label">20170228</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/886066.Matter">Matter</a> (Culture #8)</li>
     <li><span class="label">20170411</span> Terry Pratchett, Neil Gaiman - <a href="https://www.goodreads.com/book/show/12067.Good_Omens">Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch</a></li>
     <li><span class="label">20170508</span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/26118426-ninefox-gambit">Ninefox Gambit</a> (The Machineries of Empire #1)</li>
+    <li><span class="label">20170525</span> Neil Gaiman - <a href="https://www.goodreads.com/book/show/30165203-american-gods">American Gods</a> (American Gods #1)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -40,8 +41,6 @@ Summary: List of books I've read in the past, with notes where applicable.
     <li><span class="label">20160722</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/12016.Look_to_Windward">Look to Windward</a> (Culture #7)</li>
     <li><span class="label">20160812</span> Neal Stephenson - <a href="https://www.goodreads.com/book/show/22816087-seveneves">Seveneves</a></li>
     <li><span class="label">20161014</span> Nathan Hill - <a href="https://www.goodreads.com/book/show/28251002-the-nix">The Nix</a></li>
-
-    <!--<li><span class="label">20160</span> - <a href=""></a></li>-->
 </ol>
 
 <h2 id="2015">2015</h2>
@@ -197,6 +196,8 @@ Summary: List of books I've read in the past, with notes where applicable.
 
 <h4 id="queue">Queue</h4>
 <ul>
+    <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21805681-unlocked">Unlocked: An Oral History of Haden's Syndrome</a> (Lock In #0.5)</li>
+    <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21418013-lock-in">Lock in</a> (Lock In #1)</li>
     <li>Ursula K. Le Guin - <a href="https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea">A Wizard of Earthsea (Earthsea Cycle #1)</a></li>
     <li>David Mitchell - <a href="https://www.goodreads.com/book/show/49628.Cloud_Atlas">Cloud Atlas</a></li>
     <li>Peter Hamilton - <a href="https://www.goodreads.com/book/show/45248.Misspent_Youth">Misspent Youth</a> (Commonwealth Universe)</li>
@@ -207,7 +208,7 @@ Summary: List of books I've read in the past, with notes where applicable.
     <li>David Walton - <a href="https://www.goodreads.com/book/show/22551892-superposition">Superposition</a></li>
     <li>Greg Egan - <a href="https://www.goodreads.com/book/show/156775.Quarantine">Quarantine</a> (Subjective Cosmology #1)</li>
     <li>Greg Egan - <a href="https://www.goodreads.com/book/show/156784.Permutation_City">Permutation City</a> (Subjective Cosmology #2)</li>
-    <li>Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distess</a> (Subjective Cosmology #3)</li>
+    <li>Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
     <li>the Orthogonal trilogy by Greg Egan</li>
     <li>The Final Empire (Mistborn I)</li>
     <li>The Well of Ascension (Mistborn II)</li>
