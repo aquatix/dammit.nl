@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2017-04-21
+Modified: 2017-06-27
 Summary: List of books I've read in the past, with notes where applicable.
 
 
@@ -17,6 +17,7 @@ Summary: List of books I've read in the past, with notes where applicable.
     <li><span class="label">20170411</span> Terry Pratchett, Neil Gaiman - <a href="https://www.goodreads.com/book/show/12067.Good_Omens">Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch</a></li>
     <li><span class="label">20170508</span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/26118426-ninefox-gambit">Ninefox Gambit</a> (The Machineries of Empire #1)</li>
     <li><span class="label">20170525</span> Neil Gaiman - <a href="https://www.goodreads.com/book/show/30165203-american-gods">American Gods</a> (American Gods #1)</li>
+    <li><span class="label">20170620</span> Glen Cook - <a href="https://www.goodreads.com/book/show/499122.Dread_Brass_Shadows">Dread Brass Shadows</a> (Garrett Files #5)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
