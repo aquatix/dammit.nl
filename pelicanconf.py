@@ -66,7 +66,7 @@ TWITTER_USERNAME = 'michielscholten'
 # Show jumbotron page header with logo instead of plain text sitename
 CUSTOM_SITE_HEADERS = ("jumbotron_logo.html", )
 
-CUSTOM_ARTICLE_HEADERS = ("article_header_navigation.html", "article_header_date.html", "article_header_title.html", "article_header_info.html", "article_header_image.html", )
+CUSTOM_ARTICLE_HEADERS = ("article_header_navigation.html", "article_header_date.html", "article_header_title.html", "article_header_info.html", )
 
 # Put taglist at end of articles, and use the default sharing button implementation.
 #CUSTOM_ARTICLE_FOOTERS = ("taglist.html", "sharing.html", )
