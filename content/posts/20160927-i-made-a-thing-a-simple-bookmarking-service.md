@@ -5,6 +5,7 @@ Location: Home
 Authors: Michiel Scholten
 Category: projects
 Tags: digimarks, web
+Image: https://shuttereye.org/images/c0/c046a48b34b6aeb6_2000-2000.png
 
 A while back I started scratching an itch that I had and that wasn't relieved by some existing software or services I could find: a central place to keep track of interesting places on the web I wanted to follow up on, without having them saved as read-later in Pocket (which is an excellent tool, but I'd like to keep it for articles only).
 
