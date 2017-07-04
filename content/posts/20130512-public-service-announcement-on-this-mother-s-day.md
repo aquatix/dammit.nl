@@ -3,7 +3,8 @@ Date: 2013-05-12 12:08:09
 Slug: 20130512-public-service-announcement-on-this-mother-s-day
 Location: Home
 Authors: Michiel Scholten
-Tags: rant
+Tags: family
+Image: https://familiescholten.net/wp-content/uploads/2013/05/IMG_0900_v2.jpg
 
 Before the end of the year I won't be a fulltime geek anymore. I will be a fulltime example for a new member of our society and parttime geek. Though I see possibilities to combine the two without doing too many concessions ;)
 

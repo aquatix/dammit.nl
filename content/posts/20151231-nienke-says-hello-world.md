@@ -3,7 +3,8 @@ Date: 2015-12-31 14:43:44
 Slug: 20151231-nienke-says-hello-world
 Location: Home
 Authors: Michiel Scholten
-Tags: rant
+Tags: family
+Image: https://familiescholten.net/wp-content/uploads/2015/12/wp-1451289526624-768x1027.jpg
 
 In the night of Sunday to Monday, at 4:17, Nienke rushed into this
 world. Where Daan took his time being delivered, I was barely awake
