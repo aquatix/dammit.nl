@@ -6,6 +6,7 @@ Location: Home
 Authors: Michiel Scholten
 Category: projects
 Tags: rant, meta
+Image: https://shuttereye.org/images/07/07270d3381807064_2000-2000.jpg
 
 This weblog has always been a self-built affair.
 
