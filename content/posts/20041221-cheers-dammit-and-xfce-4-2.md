@@ -3,7 +3,7 @@ Date: 2004-12-21 14:03:43
 Slug: 20041221-cheers-dammit-and-xfce-4-2
 Location: Home
 Authors: Michiel Scholten
-Tags: rant
+Tags: rant, meta
 
 <p>Did you know...</p>
 <p>...dammIT--this weblog--has turned one year old today? Lots of things have changed in that year, a lot has stayed the same. Same shit, different day.</p>

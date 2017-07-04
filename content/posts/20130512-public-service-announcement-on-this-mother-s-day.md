@@ -3,6 +3,7 @@ Date: 2013-05-12 12:08:09
 Slug: 20130512-public-service-announcement-on-this-mother-s-day
 Location: Home
 Authors: Michiel Scholten
+Category: family
 Tags: family
 Image: https://familiescholten.net/wp-content/uploads/2013/05/IMG_0900_v2.jpg
 

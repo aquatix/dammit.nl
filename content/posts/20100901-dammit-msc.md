@@ -3,7 +3,7 @@ Date: 2010-09-01 16:41:56
 Slug: 20100901-dammit-msc
 Location: Home
 Authors: Michiel Scholten
-Tags: rant
+Tags: rant, meta
 
 <p>It started last Monday morning when I read this mail from the guys supervising the practical course I had saved for last:</p>
 

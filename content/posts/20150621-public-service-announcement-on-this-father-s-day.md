@@ -3,6 +3,7 @@ Date: 2015-06-21 10:50:12
 Slug: 20150621-public-service-announcement-on-this-father-s-day
 Location: Home
 Authors: Michiel Scholten
+Category: family
 Tags: family
 Image: https://familiescholten.net/wp-content/uploads/2015/06/10wk_echo_project_c.jpg
 
