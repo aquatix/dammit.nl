@@ -26,9 +26,62 @@ Starting off with an enlightening keynote by Armin Ronacher, where we were remin
 
 I moved on to a hands-on session with Django and Celery, as I wanted to see if there were some features I wasn't aware of yet, or pointers to solutions to some minor issues we are having at Sanoma.
 
+Coming away with some remarks about just using chains and groups, as things like chords can act weirdly in certain circumstances (like on RabbitMQ, which surprise surprise is what we use at home), I thought that maybe some small refactoring is in order.
+
+Next up was a talk about how you can know that the mocks you created for a (third party) API are valid. Vuforia (an image matching service) was used as example. `requests-mock` is of course a useful tool here, and the speaker made his mock into a Flask app, which translated requests-mock to something that could be used by their library.
+
+The verifying part is done by running all the tests twice, once against the real service, and once against your mock. This checks if the responses are the same. By scheduling tests with for example Travis CI, you can then find out about (undocumented) changes to the third party service in a timely and targeted fashion (as the failing test points to the exact location), making it a lot more easy to fix your library.
+
+Also, if you ship software, you really should ship it with a verified fake, so people can use that to test their own software; it adds a lot of value to your product.
+
+After the lunch it was time to measure, don't guess. A nice hands-on presentation of how to profile your code, so you can optimise where needed. Premature optimisation is the root of all evil, so knowing where to actually put your efforts is really useful.
+
+A string of tools were introduced, apart from the excellent Jupyter notebook software to experiment with (really, if you don't know it, or never used it, `pip install jupyter` and `jupyter notebook` it). Build into Python itself is timeit (`import timeit`, `timeit.default_timer`, don't use os_time or time_clock, as they will give different results depending on your OS platform). `snakeviz` is a browser based graphical viewer of the output of Python's cProfile module, representing time spent in various parts of the code as concentric circles, making it easy to zoom into troublesome parts. It can be run standalone, or as a module: `python -m snakeviz`, `python -m cProfile -o pi.stats simple_pi.py` for example ([example code](http://www.python-academy.com/download/europython2017/)), or just `snakeviz pi.stats`. Be aware that tool measures itself too of course.
+
+In jupyter, you can load such modules to experiment with interactively:
+
+    load profile_me.py <shift>-<enter>
+    %load_ext snakeviz
+    %snakeviz test()
+
+Same with `timeit`:
+
+    %timeit
+    %%timeit  # multi-line version, where you can add more lines of code to test
+    %timeit?  # to get help of course
 
 
-It's refreshing to see the amount of female attendees. I really hope it's a good sign for the future, as in my opinion we need more of their talent in our field of work.
+The [line profiler](https://github.com/rkern/line_profiler) is another tool that gives information about what lines of code are troublesome:
+
+- `pip install line_profiler`
+- `kernprof (-v)`
+- line-by-line profiling: -l
+- `kernprof -v -l profile-me_use_line_profiler.py`
+- in jupyter: `load_ext line_profiler`
+
+For memory usage, [Pympler](https://pythonhosted.org/Pympler/) can be used. It keeps track of changes in the size of data structures, so you can see where your code balloons, or even where memory is leaking:
+
+    from pympler import tracker
+    t = tracker.SummaryTracker()
+    t.print_diff()
+    big = list(range(10**6))
+    t.print_diff()  # shows how big the datastructure we just created is (as it shows the difference with the previous measurement)
+
+With the Python functools one can create decorators (like in ./measuring/memory_size_pympler.py: measure_memory in the example code linked above). This one creates a decorator the create a measurement of a function, storing it in a variable.
+
+matplotlib is another great library to visualise data.
+
+Finally, there is another memory profiler:
+
+`pip install memory_profiler`, `%load_ext memory_profiler` and then you can do something like:
+
+    %mprun -f use_mem.use_mem use_mem.use_mem(numbers)
+
+So, enough pointers to play with and explore from.
+
+The conference seems well balanced and organised and the participants are generally really social.
+
+It's also refreshing to see the amount of female attendees. I really hope it's a good sign for the future, as in my opinion we need more of their talent in our field of work.
 
 
 ## Day two, Tuesday
