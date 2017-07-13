@@ -1,15 +1,17 @@
 Title: EuroPython 2017, part 1
 Started: 2017-07-11 10:51:00
-Date: 2017-04-30 20:17:00
+Modified: 2017-07-13 10:10:00
+Date: 2017-07-13 10:11:00
 Slug: europython2017-part1
 Location: Rimini, Italy
 Authors: Michiel Scholten
 Category: conferences
 Tags: python, europython, trip, conference
 Image: https://shuttereye.org/images/1c/1c1e0e87cba52524_2000-2000.jpg
-Status: draft
 
 [EuroPython 2017](https://ep2017.europython.eu/en/)
+
+(Needs editing after I get some sleep and more time)
 
 ## Day zero, Sunday
 
@@ -91,7 +93,7 @@ Instead of walking, I decided to make use of the loaner bikes of the hotel, whic
 
 Cooling down, the kickoff of the day was about data visualisation by Dutch visualiser Jan Willem Tulp. This was great to behold, seeing how he made big and complex datasets comprehensible and even beautiful, appealing to laymen too (his animated globe with number of trees was used in a nice demo from a news publication).
 
-[IMAGE]
+[![Star chart](https://shuttereye.org/images/9b/9bb9995b59290b0f_2000-2000.jpg)](https://shuttereye.org/goingout/2017_europython/IMG_20170711_094234.jpg/view/)
 
 [animation]
 
