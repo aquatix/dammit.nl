@@ -91,21 +91,21 @@ It's also refreshing to see the amount of female attendees. I really hope it's a
 
 Instead of walking, I decided to make use of the loaner bikes of the hotel, which was really an improvement.
 
-Cooling down, the kickoff of the day was about data visualisation by Dutch visualiser Jan Willem Tulp. This was great to behold, seeing how he made big and complex datasets comprehensible and even beautiful, appealing to laymen too (his animated globe with number of trees was used in a nice demo from a news publication).
+Cooling down, the [kickoff of the day](https://ep2017.europython.eu/conference/talks/how-to-create-inspiring-data-visualizations] was about data visualisation by Dutch visualiser Jan Willem Tulp. This was great to behold, seeing how he made big and complex datasets comprehensible and even beautiful, appealing to laymen too (his animated globe with number of trees was used in a nice demo from a news publication).
 
 [![Star chart](https://shuttereye.org/images/9b/9bb9995b59290b0f_2000-2000.jpg)](https://shuttereye.org/goingout/2017_europython/IMG_20170711_094234.jpg/view/)
 
 [animation]
 
 
-After enjoying the nice visuals and inspirational talk, I was curious how to use and write decorators to eliminate the need for some classes.
+After enjoying the nice visuals and inspirational talk, I was curious how to [use and write decorators]( https://ep2017.europython.eu/conference/talks/write-more-decorators-and-fewer-classes) to eliminate the need for some classes.
 
 There is a nice talk about why you should stop writing classes: https://www.youtube.com/watch?v=o9pEzgHorH0
 
 Decorators are rather easy to use, not trivial to write, but also not that hard to do, and can be really helpful in making your code more clear.
 
 
-Continuing with a smart use of metaclasses by using abstract base classes (ABCs). Those help with testing behaviour, not structure.
+Continuing with a [smart use of metaclasses by using abstract base classes]( https://ep2017.europython.eu/conference/talks/abstract-base-classes-a-smart-use-of-metaclasses) (ABCs). Those help with testing behaviour, not structure.
 
 When trying to find out if some object is what you need, checking the type (isinstance() and such) is not really the intention, because some object or class can behave like a certain class, but is of course not exactly that implementation/type you are checking. A perfect solution would be something like: `if behaveslike(someobj, ListBehaviour):`
 
