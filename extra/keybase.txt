@@ -52,3 +52,59 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/aquatix
 
 ==================================================================
+
+==================================================================
+https://keybase.io/aquatix
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dammit.nl
+  * I am aquatix (https://keybase.io/aquatix) on keybase.
+  * I have a public key ASARSMeRYxY-9lqD_MsJcLFJhH3xgsQ-kHrRmU8cWKgSSAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010129a9098651561439e788e11d918530de3d7c1db8830e8385a19044ae11d1ce9b0a",
+            "host": "keybase.io",
+            "kid": "01201148c79163163ef65a83fccb0970b149847df182c43e907ad1994f1c58a812480a",
+            "uid": "37a5be9be96e6a98b769a9b85dafd100",
+            "username": "aquatix"
+        },
+        "merkle_root": {
+            "ctime": 1500717653,
+            "hash": "b488f5161d1d69e37cc6096f2febbd2810999c71155b4df34b64f825f1519107aadbc4652f4d3c36ed68396406cba6c317678e7f0bb5fa2bf3b0a20b38304419",
+            "hash_meta": "83529996ce828f72d79747ca14e43eceab8a2979201f23347f174348845c0c90",
+            "seqno": 1271205
+        },
+        "service": {
+            "hostname": "dammit.nl",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.25"
+    },
+    "ctime": 1500717662,
+    "expire_in": 504576000,
+    "prev": "f757ae5c6575a51950ae71bb73f09eb65620b81164c814a75f6f0bbabf13171d",
+    "seqno": 34,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEUjHkWMWPvZag/zLCXCxSYR98YLEPpB60ZlPHFioEkgKp3BheWxvYWTFA0F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMjlhOTA5ODY1MTU2MTQzOWU3ODhlMTFkOTE4NTMwZGUzZDdjMWRiODgzMGU4Mzg1YTE5MDQ0YWUxMWQxY2U5YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTE0OGM3OTE2MzE2M2VmNjVhODNmY2NiMDk3MGIxNDk4NDdkZjE4MmM0M2U5MDdhZDE5OTRmMWM1OGE4MTI0ODBhIiwidWlkIjoiMzdhNWJlOWJlOTZlNmE5OGI3NjlhOWI4NWRhZmQxMDAiLCJ1c2VybmFtZSI6ImFxdWF0aXgifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDA3MTc2NTMsImhhc2giOiJiNDg4ZjUxNjFkMWQ2OWUzN2NjNjA5NmYyZmViYmQyODEwOTk5YzcxMTU1YjRkZjM0YjY0ZjgyNWYxNTE5MTA3YWFkYmM0NjUyZjRkM2MzNmVkNjgzOTY0MDZjYmE2YzMxNzY3OGU3ZjBiYjVmYTJiZjNiMGEyMGIzODMwNDQxOSIsImhhc2hfbWV0YSI6IjgzNTI5OTk2Y2U4MjhmNzJkNzk3NDdjYTE0ZTQzZWNlYWI4YTI5NzkyMDFmMjMzNDdmMTc0MzQ4ODQ1YzBjOTAiLCJzZXFubyI6MTI3MTIwNX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJkYW1taXQubmwiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNSJ9LCJjdGltZSI6MTUwMDcxNzY2MiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJmNzU3YWU1YzY1NzVhNTE5NTBhZTcxYmI3M2YwOWViNjU2MjBiODExNjRjODE0YTc1ZjZmMGJiYWJmMTMxNzFkIiwic2Vxbm8iOjM0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQNpzD4Y5ZlGuG1wDJWmDkE7FC4eR4DKbLEZbEw/Y4ek+FtwCaM6Ap6NhlJ+KfIg6tlHY2F+vxfk3GcrXun7fhAyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCArlO2kSFNGT+Ig/tTrNWrMNvc7cWJrGK25Ay3G1VV0x6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aquatix
+
+==================================================================
