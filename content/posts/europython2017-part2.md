@@ -24,14 +24,9 @@ We kicked off with the keynote ['If Ethics is not None'](https://ep2017.europyth
 Next up the ['Mary had a little lambda' talk](https://ep2017.europython.eu/conference/talks/mary-had-a-little-lambda) was a really fun (re)introduction to lambda calculus. Yes, the calculus, not the lambda functions in Python, but Anjana Vakil continued with implementing the Church Numerals in lambda functions and we did some arithmetic with Python in Church Encoding. Fun and energetic talk, which I would have loved to have at university, instead of the long dry one I got there on the same material. [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) was invented by Alonzo Church, starting in 1932, for 'expressing computation based on function abstraction and application using variable binding and substitution' and is Turing complete.
 
 
-Lee Sheng's talk on ['Teeing up Python: Code Golf'](https://ep2017.europython.eu/conference/talks/teeing-up-python-code-golf) (check out the slides there)
+Lee Sheng's talk on ['Teeing up Python: Code Golf'](https://ep2017.europython.eu/conference/talks/teeing-up-python-code-golf) (check out the slides there) had a lot of good points about writing sane and readable code. For example, try using a default: `to_mail = my_contact.get("address", "UNKNOWN")` instead of checking if a key exists and then getting it from the list.
 
-
-- try using a default: to_mail = my_contact.get("address", "UNKNOWN") (instead of checking if a key exists and then getting it from the list)
-
-
-## Lunch
-
+TODO: some more examples.
 
 
 ## 15:45-16:15 Realtime Distributed Computing At Scale (in pure Python!): Storm And Streamparse
