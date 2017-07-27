@@ -1,6 +1,6 @@
 Title: EuroPython 2017, part 2
 Started: 2017-07-12 10:41:00
-Modified: 2017-07-13 10:47:00
+Modified: 2017-07-26 11:11:00
 Date: 2017-07-14 20:17:00
 Slug: europython2017-part2
 Location: Rimini, Italy
@@ -46,27 +46,9 @@ Alexander Lourenco
 
 
 
-## 16:20-16:50 Infrastructure design patterns with Python, Buildbot, and Linux Containers
+The [Infrastructure design patterns with Python, Buildbot, and Linux Containers](https://ep2017.europython.eu/conference/talks/infrastructure-design-patterns-with-python-buildbot-and-linux-containers) talk was a bit disappointing. It was basically David Liu's hobby project of (ab)using Dask (a distributed task system) for things it is not really intended, like remotely executing random scripts. - buildbot
 
-https://ep2017.europython.eu/conference/talks/infrastructure-design-patterns-with-python-buildbot-and-linux-containers
-
-David Liu
-
-- Dask (distributed task system)
-- buildbot
-
-Abuse all the tools :)
-
-Better could have gone to:
-
-## 16:20-16:50 How to make money with your Python Open-Source Project
-
-https://ep2017.europython.eu/conference/talks/how-to-make-money-with-your-python-open-source-project
-
-Max Tepkeev
-
-(skipped, but would've been better)
-
+I better could have gone to [How to make money with your Python Open-Source Project](https://ep2017.europython.eu/conference/talks/how-to-make-money-with-your-python-open-source-project) by Max Tepkeev, which would have been relevant for my own projects and probably for some of Sanoma's efforts too.
 
 
 
@@ -74,11 +56,9 @@ Max Tepkeev
 ## Day four, Thursday
 
 
-## 10:30-11:15 Type Annotations in Python 3: Whats, whys & wows!
+Kicking off with [Type Annotations in Python 3: Whats, whys & wows!](https://ep2017.europython.eu/conference/talks/type-annotations-in-python-3-whats-whys-wows) by Andreas Dewes, Thursday was in for a good line-up.
 
-https://ep2017.europython.eu/conference/talks/type-annotations-in-python-3-whats-whys-wows
-
-Andreas Dewes
+Executive summary: Python 3.6 is great, start using it. However, in older 3.x versions and also in 2.7, some nifty things can be done with hints about variable types.
 
 - Gradual typing, where you add annotations to code where it makes sense (so you don't have to rewrite your complete codebase)
 - Function annotations were the first step in Python 3.0 in 2006 (PEP 3107)
