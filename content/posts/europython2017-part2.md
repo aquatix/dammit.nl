@@ -12,6 +12,11 @@ Status: draft
 
 [EuroPython 2017](https://ep2017.europython.eu/en/)
 
+Photos of the whole conference are available at [the EuroPython 2017 flickr group](https://www.flickr.com/groups/3845891@N22/) and the [EuroPython 2017 website](https://ep2017.europython.eu/en/europython/photos/).
+
+Videos (lifestream captures for now) are at [](https://www.youtube.com/playlist?list=PL8uoeex94UhEP1C94Fgdn3PdXitS8RtOV), more will go live later at the [EuroPython YouTube Channel](https://www.youtube.com/c/EuroPythonConference)
+
+
 ## Day three, Wednesday
 
 We kicked off with the keynote ['If Ethics is not None'](https://ep2017.europython.eu/conference/talks/if-ethics-is-not-none) by Katharine Jarmul with a lot of food for thought.
@@ -29,20 +34,19 @@ Lee Sheng's talk on ['Teeing up Python: Code Golf'](https://ep2017.europython.eu
 TODO: some more examples.
 
 
-## 15:45-16:15 Realtime Distributed Computing At Scale (in pure Python!): Storm And Streamparse
+An interesting Big Data/distributed computing talk was [Realtime Distributed Computing At Scale (in pure Python!): Storm And Streamparse](https://ep2017.europython.eu/conference/talks/realtime-distributed-computing-at-scale-in-pure-python-storm-and-streamparse) by Alexander Lourenco from Parse.ly.
 
-https://ep2017.europython.eu/conference/talks/realtime-distributed-computing-at-scale-in-pure-python-storm-and-streamparse
-
-Alexander Lourenco
-
-- Parse.ly
-- Storm is a distributed real-time computation system, which simplifies workers and queues.
+Storm is a distributed real-time computation system, which simplifies workers and queues.
 - Streamparse is Pythonic Storm
 - Nimbus and Storm UI
-- Install Storm env from Apache Storm site
-- pip install streamparse
-- sparse quickstart
-- sparse run
+
+You can install the Storm environment from the Apache Storm site.
+
+Streamparse is even easier, just use pip:
+
+    pip install streamparse
+    sparse quickstart
+    sparse run
 
 
 
@@ -73,7 +77,7 @@ Executive summary: Python 3.6 is great, start using it. However, in older 3.x ve
 
 
 
-## 11:20-12:05 Inside Airbnb: Visualizing data that includes geographic locations
+11:20-12:05 Inside Airbnb: Visualizing data that includes geographic locations
 
 https://ep2017.europython.eu/conference/talks/inside-airbnb-visualizing-data-that-includes-geographic-locations
 
@@ -94,7 +98,7 @@ Guillem Duran Ballester
 - https://github.com/dsolanno/BarcelonaRentsStatus
 
 
-## 12:10-12:55 Introduction to Nonparametric Bayesian Models
+12:10-12:55 Introduction to Nonparametric Bayesian Models
 
 https://ep2017.europython.eu/conference/talks/introduction-to-non-parametric-models
 
@@ -103,7 +107,7 @@ Omar Gutiérrez
 Some people just can't present. Seemed like an interesting subject, but could not concentrate on his really quiet rambling talk, instead playing with the Jupyter notebooks from the previous talks
 
 
-## 14:00-14:30 An introduction to PyTorch & Autograd
+14:00-14:30 An introduction to PyTorch & Autograd
 
 https://ep2017.europython.eu/conference/talks/an-introduction-to-pytorch-autograd
 
@@ -121,7 +125,7 @@ Paul O'Grady
 - variables through torch.autograd package
 
 
-## 14:35-15:05 Developing elegant workflows in Python code with Apache Airflow
+14:35-15:05 Developing elegant workflows in Python code with Apache Airflow
 
 https://ep2017.europython.eu/conference/talks/developing-elegant-workflows-in-python-code-with-apache-airflow
 
@@ -140,7 +144,7 @@ Michał Karzyński
 - Introductory Airflow tutorial on speaker's weblog: http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/
 
 
-## 15:45-16:15 Inspect (Or Gadget)
+15:45-16:15 Inspect (Or Gadget)
 
 https://ep2017.europython.eu/conference/talks/inspect-or-gadget
 
@@ -151,7 +155,7 @@ Hugues Lerebours , Renaud Bauvin
 - demo consists of a piece of code that checks if docstrings are up-to-date, also validating against documented types
 
 
-## 16:20-16:50 Fixture factories for faster end-to-end tests
+16:20-16:50 Fixture factories for faster end-to-end tests
 
 https://ep2017.europython.eu/conference/talks/fixture-factories-for-faster-end-to-end-tests
 
@@ -173,15 +177,10 @@ Stephan Jaensch
 
 
 
-# Day five, Friday
-
-## Photos
-
-https://www.flickr.com/groups/3845891@N22/
-https://ep2017.europython.eu/en/europython/photos/
+## Day five, Friday
 
 
-## 10:30-11:15 Finding bugs for free: The magic of static analysis.
+10:30-11:15 Finding bugs for free: The magic of static analysis.
 
 https://ep2017.europython.eu/conference/talks/finding-bugs-for-free-the-magic-of-static-analysis
 
@@ -204,7 +203,7 @@ Mark Shannon
 - CFG splitting
 
 
-## 11:20-12:05 Practical Debugging - Tips, Tricks and Ways to think
+11:20-12:05 Practical Debugging - Tips, Tricks and Ways to think
 
 https://ep2017.europython.eu/conference/talks/practical-debugging-tips-tricks-and-ways-to-think
 
@@ -251,7 +250,7 @@ Michele Simionato
 - slides in 20170714_parallel_programming_slides.txt
 
 
-## 14:35-15:05 Rethinking how we build HTTP APIs
+14:35-15:05 Rethinking how we build HTTP APIs
 
 https://ep2017.europython.eu/conference/talks/rethinking-how-we-build-http-apis
 
@@ -265,19 +264,18 @@ Fergal Walsh
 - wrapt is a nice decorator library
 
 
-## 15:45-16:30 Overcoming Cognitive Bias
+A great talk about the social aspects of technology an in IT specifically was [Overcoming Cognitive Bias](https://ep2017.europython.eu/conference/talks/overcoming-cognitive-bias) by Anna Martelli Ravenscroft (wife of Alex Martelli, writer of Python in a Nutshell; both authored Python Cookbook).
 
-https://ep2017.europython.eu/conference/talks/overcoming-cognitive-bias
-
-Anna Martelli Ravenscroft (wife of Alex Martelli, Python in a Nutshell; both authored Python Cookbook)
+This is a subject that still needs a lot of attention
 
 - if you ask 'are you a programmer?' to a woman at a conference, that's cognitive bias at work
 - really good talk to raise awareness
 - talk on youtube: diversity as a dependency
-- watch the "Despicable machines: how computers can be assholes" talk
+- watch the ["Despicable machines: how computers can be assholes" talk](https://ep2017.europython.eu/conference/talks/despicable-machines-how-computers-can-be-assholes).
 
 
-## Lightning talks
+
+Lightning talks
 
 - bit.ly/talk-to-jupyter
 - run Python with warnings enabled
