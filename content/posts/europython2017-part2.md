@@ -114,17 +114,11 @@ Next up was [Developing elegant workflows in Python code with Apache Airflow](ht
 - Apache Airflow is Open Source, based on Flask, using Celery
 - A flow is a Directed Acyclic Graph (DAG)
 - Operator is a single task, which can be retried automatically, should be idempotent and is a Python task with an execute method
-- xcom is a means of communication between task instances
-  - saved in database as a pickled object
-  - best suited for small objects
+- xcom is a means of communication between task instances; a task is saved in the database as a pickled object; it is best suited for small objects
 - Introductory Airflow tutorial on speaker's weblog: http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/
 
 
-15:45-16:15 Inspect (Or Gadget)
-
-https://ep2017.europython.eu/conference/talks/inspect-or-gadget
-
-Hugues Lerebours , Renaud Bauvin
+[Inspect (Or Gadget)](https://ep2017.europython.eu/conference/talks/inspect-or-gadget) by Hugues Lerebours and Renaud Bauvin
 
 - library: inspect, https://docs.python.org/3/library/inspect.html
 - provides quite some extra functions apart from the already useful Python buildins
@@ -233,7 +227,7 @@ For more information, see this video: [Diversity as a dependency](http://pyvideo
 
 
 
-Lightning talks
+The lightning talks had a few interesting titbits:
 
 - [A way of interacting with Jupyter notebooks](http://bit.ly/talk-to-jupyter).
 - Run Python with warnings enabled. This tells about unclosed files and a lot more things. To do so, run `python3 -Wd -b` or for version 2: `python2 -Wd -t -3`.
