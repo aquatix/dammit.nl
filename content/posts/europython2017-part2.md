@@ -34,6 +34,9 @@ Lee Sheng's talk on ['Teeing up Python: Code Golf'](https://ep2017.europython.eu
 TODO: some more examples.
 
 
+Even te speakers were nerding out [IMG_20170711_092517].
+
+
 An interesting Big Data/distributed computing talk was [Realtime Distributed Computing At Scale (in pure Python!): Storm And Streamparse](https://ep2017.europython.eu/conference/talks/realtime-distributed-computing-at-scale-in-pure-python-storm-and-streamparse) by Alexander Lourenco from Parse.ly.
 
 Storm is a distributed real-time computation system, which simplifies workers and queues.
@@ -55,6 +58,8 @@ The [Infrastructure design patterns with Python, Buildbot, and Linux Containers]
 I better could have gone to [How to make money with your Python Open-Source Project](https://ep2017.europython.eu/conference/talks/how-to-make-money-with-your-python-open-source-project) by Max Tepkeev, which would have been relevant for my own projects and probably for some of Sanoma's efforts too.
 
 
+[IMG_7069]
+
 
 
 ## Day four, Thursday
@@ -67,10 +72,10 @@ Executive summary: Python 3.6 is great, start using it. However, in older 3.x ve
 - Gradual typing, where you add annotations to code where it makes sense (so you don't have to rewrite your complete codebase)
 - Function annotations were the first step in Python 3.0 in 2006 (PEP 3107)
 - In 3.5 Type Hints were introduced (including the theory and such)
-- Python interpreter stores those annotations in __annotations__ and ignores it otherwise
+- Python interpreter stores those annotations in `__annotations__` and ignores it otherwise
 - External tools like mypy and pycharm do the heavy lifting
 - Deliberate choice to do it like this, so it can evolve; eventually we might want to have internal tools
-- We loose Python 2 compatibility though, but then we can use type comments, which are backported to 2.7
+- We loose Python 2 compatibility though, but then we can use _type comments_, which are backported to 2.7
 - Third approach is stub files, ending with .pyi, which mypy will also look at, ignoring the .py file for type checking. This way, we can add only the annotations there. Feels a bit like writing a header file.
 - Check the documentation of the typing module for more info, lots of usecases (new in 3.5)
 - The [slides are on Slideshare](https://www.slideshare.net/japh44/type-annotations-in-python-whats-whys-and-wows).
@@ -88,14 +93,9 @@ Some take-aways:
 - datashader: plotting big data made easy; lots of jupyter notebooks as examples
 - dynamic=True will recalculate the bins that datashader makes, making it nicer to look at when zooming in (with dynspread/datashade)
 - one of the downsides of datashader is that when tweaking, it errors until you get everything right (for example in jupyter)
-- http://geo.holoviews.org/Working_with_Bokeh.html
+- [Working with Bokeh documentation](http://geo.holoviews.org/Working_with_Bokeh.html)
 - integrating openstreetmaps with bokeh should be possible, speaker needs to look into it (but Google Maps is default)
 - [The code of the rent status of Airbnb venues](https://github.com/dsolanno/BarcelonaRentsStatus).
-
-
-[Introduction to Nonparametric Bayesian Models](https://ep2017.europython.eu/conference/talks/introduction-to-non-parametric-models) by Omar Gutiérrez.
-
-Some people just can't present. Seemed like an interesting subject, but could not concentrate on his really quiet rambling talk, instead playing with the Jupyter notebooks from the previous talks. TODO: keep this in?
 
 
 The [An introduction to PyTorch & Autograd](https://ep2017.europython.eu/conference/talks/an-introduction-to-pytorch-autograd) talk from Paul O'Grady provided some tools to do deep learning with Python.
@@ -107,98 +107,63 @@ Tensor (ndarray) operations on the GPU (instead of being constrained to CPUs) ar
 
 Next up was [Developing elegant workflows in Python code with Apache Airflow](https://ep2017.europython.eu/conference/talks/developing-elegant-workflows-in-python-code-with-apache-airflow) where Michał Karzyński talked about creating data flows with Airflow.
 
-- definition of a workflow:
-  - sequence of tasks
-  - started on a schedule or triggered by an event
-  - frequently used to handle big data processing pipelines
-- Apache Airflow is Open Source, based on Flask, using Celery
-- A flow is a Directed Acyclic Graph (DAG)
-- Operator is a single task, which can be retried automatically, should be idempotent and is a Python task with an execute method
-- xcom is a means of communication between task instances; a task is saved in the database as a pickled object; it is best suited for small objects
-- Introductory Airflow tutorial on speaker's weblog: http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/
+The definition of a workflow is a sequence of tasks, started on a schedule or triggered by an event, frequently used to handle big data processing pipelines.
+
+Apache Airflow is Open Source, based on Flask, using Celery.
+
+A flow is a Directed Acyclic Graph (DAG). An Operator is a single task, which can be retried automatically, should be idempotent and is a Python task with an execute method. Airflow uses xcom as a means of communication between task instances; a task is saved in the database as a pickled object; it is best suited for small objects. An introductory Airflow tutorial can be found on the speaker's weblog: [Developing workflows with Apache Airflows](http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/).
 
 
 [Inspect (Or Gadget)](https://ep2017.europython.eu/conference/talks/inspect-or-gadget) by Hugues Lerebours and Renaud Bauvin
 
-- library: inspect, https://docs.python.org/3/library/inspect.html
-- provides quite some extra functions apart from the already useful Python buildins
-- demo consists of a piece of code that checks if docstrings are up-to-date, also validating against documented types
+This talk introduced a really useful library: `[inspect](https://docs.python.org/3/library/inspect.html)` which provides quite some extra functions apart from the already useful Python buildins. The demo consisted of a piece of code that checks if docstrings are up-to-date, also validating against documented types. Good material to check out when needing to do some introspection.
 
 
-16:20-16:50 Fixture factories for faster end-to-end tests
+Another talk about improving your code's quality was [Fixture factories for faster end-to-end tests](https://ep2017.europython.eu/conference/talks/fixture-factories-for-faster-end-to-end-tests) by Stephan Jaensch, speaking about creating better fixtures to improve tests in this age of microservices and other loosely coupled services.
 
-https://ep2017.europython.eu/conference/talks/fixture-factories-for-faster-end-to-end-tests
+When testing such a setup, you want end-to-end integration, replicating production as much as possible (above 'regular' integration tests). This results in slow, most expensive tests. Tools used in such a test setup are `pyramid`, `swagger`, `openapi`, and `sqlalchemy`. Creating it needs lots of db setup on all the components, lots of SQL scripts, and is hard to write, and maintain.
 
-Stephan Jaensch
+Taking inspiration from Django, fixture factories are introduced. They allow you to create fixtures, not only for your service, but for downstream services as well and without code duplication. These fixtures take care of common default values and make sure data is logically correct. They integrate nicely with `pytest`.
 
-- end-to-end integration, replicating production as much as possible (above 'regular' integration tests)
-- slow, most expensive tests
-- pyramid, swagger, openapi, sqlalchemy
-- lots of db setup on all the components, lots of SQL scripts, hard to write, maintain
-- taking inspiration from Django
-- make sure data is logically correct
-- pytest
-- why not use models? No foreing key (FK) checking used in this setup, so cannot use the PK and FK's
-- helps with test repeatability, as it eliminates dependability between tests (order)
-- use fixture factories for faster development and more correct test data
-- convert tests for test isolation and repeatability
-- take advantage of it by executing tests in parallel
-- https://github.com/sjaensch/faster_end_to_end_tests_talk
+Why not use models? No foreign key (FK) checking used in this setup, so cannot use the PK and FK's.
 
+This setup helps with test repeatability, as it eliminates dependability between tests (order). Use fixture factories for faster development and more correct test data; convert tests for test isolation and repeatability, take advantage of it by executing tests in parallel. A downside is that it is potentially slower (as you are not sharing data across tests).
+
+[Slides](https://github.com/sjaensch/faster_end_to_end_tests_talk) (or [PDF](https://ep2017.europython.eu/media/conference/slides/fixture-factories-for-faster-end-to-end-tests.pdf)).
+
+
+[IMG_6966]
 
 
 ## Day five, Friday
 
 
-10:30-11:15 Finding bugs for free: The magic of static analysis.
+Last day started with [Finding bugs for free: The magic of static analysis](https://ep2017.europython.eu/conference/talks/finding-bugs-for-free-the-magic-of-static-analysis) in which Mark Shannon talked about code analysis: finding facts about your code, without running it.
 
-https://ep2017.europython.eu/conference/talks/finding-bugs-for-free-the-magic-of-static-analysis
+When you get to maintain a code base, you want to know where are the bugs, is this expensive to maintain; things you preferably want to get quantified by an automated code review.
 
-Mark Shannon
+What makes for good code analysis? It has to be flexible: can you extend it? Also, accurate: don't waste users time and insightful: find non-trivial things. This can be done for Python, but it's harder than for a statically-typed language, but can be more valuable as well.
 
-- code analysis is finding facts about your code, without running it
-- where are the bugs, is this expensive to maintain
-- automated code review
-- what makes for good code analysis?
-  - flexible: can you extend it?
-  - accurate: don't waste users time
-  - insightful: find non-trivial things
-- this can be done for Python, but it's harder than for a statically-typed language, but can be more valuable as well
-- what makes lgtm flexible?
-  - object-oriented query language
-  - queries can be simple, yet powerful
-  - powerful library is provided
-- abstract syntax tree (in contrast to concrete syntax tree)
-- control flow graph (CFG)
-- CFG splitting
+So, what makes [lgtm](https://lgtm.com/) (automated code reviews service) flexible? It provides an object-oriented query language, in which queries can be simple, yet powerful. Also, a powerful library is provided.
+
+Code is parsed into an abstract syntax tree (in contrast to concrete syntax tree), from which a control flow graph (CFG) is generated. By doing CFG splitting, you can deduct faulty code paths and drill down to bugs.
 
 
-11:20-12:05 Practical Debugging - Tips, Tricks and Ways to think
+Next up was [Practical Debugging - Tips, Tricks and Ways to think](https://ep2017.europython.eu/conference/talks/practical-debugging-tips-tricks-and-ways-to-think) by Radoslav Georgiev, speaking about patterns and how stack traces are your friend.
 
-https://ep2017.europython.eu/conference/talks/practical-debugging-tips-tricks-and-ways-to-think
+He had a set of rules to live by as a developer, starting with the golden rule: if you find a bug, add a test for it (making it reproducible). Keep in mind tostay away from constant regression, and when debugging use ipdb/pdb (better than print of course) (by the way, `launch_ipdb_on_exception` as context manager, saves you a lot of 'cont, <enter>, cont, <enter>'), check tests, check input validation, check algorithms, check the system design and of course check your understanding of the problem space.
 
-Radoslav Georgiev
+Another practical tip was to explain your problem to someone (the well-known rubber duck debugging).
 
-- patterns
-- stack traces are your friend
-- golden rule: if you find a bug, add a test for it (making it reproducible)
-- stay away from constant regression
-- ipdb/pdb (better than print of course)
-- launch_ipdb_on_exception as context manager, saves you a lot of 'cont, <enter>, cont, <enter>'
-- check tests
-- check input validation
-- check algorithms
-- check system design
-- check your understanding of the problem space
-- practical tips:
-  - explain your problem to someone (rubber duck debugging)
-  - parallel debugging:
-    1) ask a question in SO
-    2) open GitHub issue
-    3) ask a co-worker for help
-    4) all of that while you are still debugging
-  - the latter is not really nice, because you are offloading your problem. So, contribute your solutions back to the community by answering issues on SO, writing on GH issues, opening PRs with bugfixes and examples, documentation improvements
-  - do talk on a conference
+He also proposed to do parallel debugging:
+
+1. ask a question in StackOverflow
+2. open GitHub issue
+3. ask a co-worker for help
+4. all of that while you are still debugging
+
+Howevery, I think that's not really a nice thing to do, because you are offloading your problem (possibly generating a lot of noise in the process). So, contribute your solutions back to the community by answering issues on StackOverlfow, writing on GitHub issues, opening PRs with bugfixes and examples, submitting documentation improvements, and... do a talk on a conference :)
+
 - https://github.com/RadoRado/EuroPython2017
 - https://github.com/HackSoftware/
 - hacksoft.io
