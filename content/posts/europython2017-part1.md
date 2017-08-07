@@ -42,7 +42,7 @@ After the lunch it was time to measure, don't guess. A nice hands-on presentatio
 
 A string of tools were introduced, apart from the excellent Jupyter notebook software to experiment with (really, if you don't know it, or never used it, `pip install jupyter` and `jupyter notebook` it). Build into Python itself is timeit (`import timeit`, `timeit.default_timer`, don't use os_time or time_clock, as they will give different results depending on your OS platform). `snakeviz` is a browser based graphical viewer of the output of Python's cProfile module, representing time spent in various parts of the code as concentric circles, making it easy to zoom into troublesome parts. It can be run standalone, or as a module: `python -m snakeviz`, `python -m cProfile -o pi.stats simple_pi.py` for example ([example code](http://www.python-academy.com/download/europython2017/)), or just `snakeviz pi.stats`. Be aware that tool measures itself too of course.
 
-In jupyter, you can load such modules to experiment with interactively:
+In Jupyter, you can load such modules to experiment with interactively:
 
     load profile_me.py <shift>-<enter>
     %load_ext snakeviz
@@ -61,7 +61,7 @@ The [line profiler](https://github.com/rkern/line_profiler) is another tool that
 - `kernprof (-v)`
 - line-by-line profiling: -l
 - `kernprof -v -l profile-me_use_line_profiler.py`
-- in jupyter: `load_ext line_profiler`
+- in Jupyter: `load_ext line_profiler`
 
 For memory usage, [Pympler](https://pythonhosted.org/Pympler/) can be used. It keeps track of changes in the size of data structures, so you can see where your code balloons, or even where memory is leaking:
 

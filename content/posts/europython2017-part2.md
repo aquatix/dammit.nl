@@ -13,9 +13,7 @@ Image: https://shuttereye.org/images/0f/0f1332a16d8f3130_2000-2000.jpg
 [![IMG_20170711_182348](https://shuttereye.org/images/0f/0f1332a16d8f3130_2000-2000.jpg)](https://shuttereye.org/goingout/2017_europython/IMG_20170711_182348.jpg/view/)
 -->
 
-[EuroPython 2017](https://ep2017.europython.eu/en/)
-
-Photos of the whole conference are available at [the EuroPython 2017 flickr group](https://www.flickr.com/groups/3845891@N22/), the [EuroPython 2017 website](https://ep2017.europython.eu/en/europython/photos/), and [my photo gallery](https://shuttereye.org/goingout/2017_europython/).
+Photos of the whole [EuroPython 2017](https://ep2017.europython.eu/en/) conference are available at [the EuroPython 2017 flickr group](https://www.flickr.com/groups/3845891@N22/), the [EuroPython 2017 website](https://ep2017.europython.eu/en/europython/photos/), and [my photo gallery](https://shuttereye.org/goingout/2017_europython/).
 
 Videos (lifestream captures for now) are at [YouTube](https://www.youtube.com/playlist?list=PL8uoeex94UhEP1C94Fgdn3PdXitS8RtOV), more will go live later at the [EuroPython YouTube Channel](https://www.youtube.com/c/EuroPythonConference). Recommended.
 
@@ -68,7 +66,7 @@ Streamparse is even easier, just use pip:
 
 
 
-The [Infrastructure design patterns with Python, Buildbot, and Linux Containers](https://ep2017.europython.eu/conference/talks/infrastructure-design-patterns-with-python-buildbot-and-linux-containers) talk was a bit disappointing. It was basically David Liu's hobby project of (ab)using Dask (a distributed task system) for things it is not really intended, like remotely executing random scripts. - buildbot
+The [Infrastructure design patterns with Python, Buildbot, and Linux Containers](https://ep2017.europython.eu/conference/talks/infrastructure-design-patterns-with-python-buildbot-and-linux-containers) talk was a bit disappointing. It was basically David Liu's hobby project of (ab)using Dask (a distributed task system) and buildbot (normally known to be a continuous integration (CI) framework) for things it is not really intended, like remotely executing random scripts.
 
 I better could have gone to [How to make money with your Python Open-Source Project](https://ep2017.europython.eu/conference/talks/how-to-make-money-with-your-python-open-source-project) by Max Tepkeev, which would have been relevant for my own projects and probably for some of Sanoma's efforts too.
 
@@ -88,12 +86,12 @@ Executive summary: Python 3.6 is great, start using it. However, in older 3.x ve
 - Function annotations were the first step in Python 3.0 in 2006 (PEP 3107)
 - In 3.5 Type Hints were introduced (including the theory and such)
 - Python interpreter stores those annotations in `__annotations__` and ignores it otherwise
-- External tools like mypy and pycharm do the heavy lifting
+- External tools like [_mypy_](http://mypy-lang.org/) and _pycharm_ do the heavy lifting
 - Deliberate choice to do it like this, so it can evolve; eventually we might want to have internal tools
-- We loose Python 2 compatibility though, but then we can use _type comments_, which are backported to 2.7
-- Third approach is stub files, ending with .pyi, which mypy will also look at, ignoring the .py file for type checking. This way, we can add only the annotations there. Feels a bit like writing a header file.
+- We lose Python 2 compatibility though, but then we can use _type comments_, which are backported to 2.7
+- A third approach is stub files, ending with .pyi, which _mypy_ will also look at, ignoring the .py file for type checking. This way, we can add only the annotations there. Feels a bit like writing a header file
 - Check the documentation of the typing module for more info, lots of usecases (new in 3.5)
-- The [slides are on Slideshare](https://www.slideshare.net/japh44/type-annotations-in-python-whats-whys-and-wows).
+- The [slides are on Slideshare](https://www.slideshare.net/japh44/type-annotations-in-python-whats-whys-and-wows)
 
 
 
@@ -101,13 +99,13 @@ Executive summary: Python 3.6 is great, start using it. However, in older 3.x ve
 
 Some take-aways:
 
-- bokeh is a great library to work with Google Maps (take a look at lat & lon, zoom and map_type)
-- shaolin for colour maps
-- shapefiles with shapely (for drawing overlays on the map, for example to colour an area of a town)
+- [bokeh](https://github.com/bokeh/bokeh) is a great library to work with Google Maps (take a look at lat & lon, zoom and map_type)
+- [shaolin](https://github.com/HCsoft-RD/shaolin) for colormaps
+- shapefiles with [shapely](https://github.com/Toblerity/Shapely) (for drawing overlays on the map, for example to colour an area of a town)
 - holoviews and geoviews (matplotlib, bokeh and shapely as backends)
-- datashader: plotting big data made easy; lots of jupyter notebooks as examples
-- dynamic=True will recalculate the bins that datashader makes, making it nicer to look at when zooming in (with dynspread/datashade)
-- one of the downsides of datashader is that when tweaking, it errors until you get everything right (for example in jupyter)
+- [datashader](https://github.com/bokeh/datashader): plotting big data made easy; lots of Jupyter notebooks as examples
+- `dynamic=True` will recalculate the bins that datashader makes, making it nicer to look at when zooming in (with dynspread/datashade)
+- one of the downsides of datashader is that when tweaking, it errors until you get everything right (for example in Jupyter)
 - [Working with Bokeh documentation](http://geo.holoviews.org/Working_with_Bokeh.html)
 - integrating openstreetmaps with bokeh should be possible, speaker needs to look into it (but Google Maps is default)
 - [The code of the rent status of Airbnb venues](https://github.com/dsolanno/BarcelonaRentsStatus).
