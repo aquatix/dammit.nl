@@ -217,4 +217,4 @@ The lightning talks had a few interesting titbits:
 - [Manage GitHub by API instead of as a mere human with dothub](https://github.com/mariocj89/dothub).
 
 
-[![Rimini yacht harbour](https://shuttereye.org/images/5f/5ff8861f3c1c164f_2000-2000.jpg)](https://shuttereye.org/goingout/2017_europython/IMG_7066.jpg/view/)
+[![Rimini yacht harbour](https://shuttereye.org/images/5f/5ff8861f3c1c164f_2000-2000.jpg)](https://shuttereye.org/goingout/2017_europython/IMG_7060.jpg/view/)
