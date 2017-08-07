@@ -13,6 +13,8 @@ Image: https://shuttereye.org/images/1c/1c1e0e87cba52524_2000-2000.jpg
 
 (Needs editing after I get some sleep and more time)
 
+This post also appeared on [the Sanoma Technology weblog](https://medium.com/sanoma-technology-blog/europython-2017-part-1-4067aabc5487).
+
 ## Day zero, Sunday
 
 After a rather pleasant flight on Sunday morning, where out of 80 passengers, I sat next to the only other EuroPython visitor, I took a nicely airconditioned train from Bologna to Rimini. I really hoped that airco was everywhere, otherwise the 33C would seriously hamper my capability of even remembering what was said just five minutes ago.
