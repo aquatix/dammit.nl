@@ -1,47 +1,62 @@
 Title: EuroPython 2017, part 2
 Started: 2017-07-12 10:41:00
-Modified: 2017-07-26 11:11:00
-Date: 2017-07-14 20:17:00
+Modified: 2017-08-07 15:28:00
+Date: 2017-08-07 15:28:00
 Slug: europython2017-part2
 Location: Rimini, Italy
 Authors: Michiel Scholten
 Category: conferences
 Tags: python, europython, trip, conference
-Image: TODO
-Status: draft
+Image: https://shuttereye.org/images/0f/0f1332a16d8f3130_2000-2000.jpg
+
+<!--
+[![IMG_20170711_182348](https://shuttereye.org/images/0f/0f1332a16d8f3130_2000-2000.jpg)](https://shuttereye.org/goingout/2017_europython/IMG_20170711_182348.jpg/view/)
+-->
 
 [EuroPython 2017](https://ep2017.europython.eu/en/)
 
-Photos of the whole conference are available at [the EuroPython 2017 flickr group](https://www.flickr.com/groups/3845891@N22/) and the [EuroPython 2017 website](https://ep2017.europython.eu/en/europython/photos/).
+Photos of the whole conference are available at [the EuroPython 2017 flickr group](https://www.flickr.com/groups/3845891@N22/), the [EuroPython 2017 website](https://ep2017.europython.eu/en/europython/photos/), and [my photo gallery](https://shuttereye.org/goingout/2017_europython/).
 
-Videos (lifestream captures for now) are at [](https://www.youtube.com/playlist?list=PL8uoeex94UhEP1C94Fgdn3PdXitS8RtOV), more will go live later at the [EuroPython YouTube Channel](https://www.youtube.com/c/EuroPythonConference)
+Videos (lifestream captures for now) are at [YouTube](https://www.youtube.com/playlist?list=PL8uoeex94UhEP1C94Fgdn3PdXitS8RtOV), more will go live later at the [EuroPython YouTube Channel](https://www.youtube.com/c/EuroPythonConference). Recommended.
 
 
 ## Day three, Wednesday
 
 We kicked off with the keynote ['If Ethics is not None'](https://ep2017.europython.eu/conference/talks/if-ethics-is-not-none) by Katharine Jarmul with a lot of food for thought.
 
-(photo)
+[![Expert system spoof on 'do you know where your children are?'](https://shuttereye.org/images/47/47594d4d25361f1f_2000-2000.jpg)](https://shuttereye.org/goingout/2017_europython/IMG_20170712_094331.jpg/view/)
 
-[Some good quotes were used](https://dammit.nl/computer-ethics-quotes.html), and the book [Cybernetics or Control and Communication in the Animal and the Machine](https://books.google.nl/books?id=NnM-uISyywAC&pg=PA27&dq=wiener+It+may+very+well+be+a+good+thing+for+humanity&sa=X&redir_esc=y#v=onepage&q=wiener%20It%20may%20very%20well%20be%20a%20good%20thing%20for%20humanity&f=false) by Norbert Wiener seems like a good read.
+[Some good quotes were used](https://dammit.nl/computer-ethics-quotes.html), and the book [Cybernetics or Control and Communication in the Animal and the Machine](https://books.google.nl/books?id=NnM-uISyywAC&pg=PA27&dq=wiener+It+may+very+well+be+a+good+thing+for+humanity&sa=X&redir_esc=y#v=onepage&q=wiener%20It%20may%20very%20well%20be%20a%20good%20thing%20for%20humanity&f=false) by Norbert Wiener seems like a good read. As community, we should take care to keep thinking about the implications of the technology we create, as we should not blindly trust it or its users.
 
 
 Next up the ['Mary had a little lambda' talk](https://ep2017.europython.eu/conference/talks/mary-had-a-little-lambda) was a really fun (re)introduction to lambda calculus. Yes, the calculus, not the lambda functions in Python, but Anjana Vakil continued with implementing the Church Numerals in lambda functions and we did some arithmetic with Python in Church Encoding. Fun and energetic talk, which I would have loved to have at university, instead of the long dry one I got there on the same material. [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) was invented by Alonzo Church, starting in 1932, for 'expressing computation based on function abstraction and application using variable binding and substitution' and is Turing complete.
 
 
-Lee Sheng's talk on ['Teeing up Python: Code Golf'](https://ep2017.europython.eu/conference/talks/teeing-up-python-code-golf) (check out the slides there) had a lot of good points about writing sane and readable code. For example, try using a default: `to_mail = my_contact.get("address", "UNKNOWN")` instead of checking if a key exists and then getting it from the list.
+Lee Sheng's talk on ['Teeing up Python: Code Golf'](https://ep2017.europython.eu/conference/talks/teeing-up-python-code-golf) (check out the slides there) had a lot of good points about writing sane, short and readable code. For example, try using a default: `to_mail = my_contact.get("address", "UNKNOWN")` instead of checking if a key exists and then getting it from the list. See the slides on why this is less strokes (less assignments, lookups and more). Automatically cleaning up resources by using the (well-known, right?) `with open('myfile', 'r') as infile:` and such also make for less error-prone code.
 
-TODO: some more examples.
+A (list) comprehension also safes you some strokes, and can result in better readable code:
+
+    result = []
+    for item in things:
+        if condition(item):
+            result.append(transform(item))
+    # 14 strokes
+
+    result = [ transform(item) for item in things if condition(item) ]
+    # 12 strokes
+
+In [the slides](https://docs.google.com/presentation/d/e/2PACX-1vQ5ymUw7j58oEU0pTsTL-OUNMNrTq_HUE8_Z-tsKgFPo8FwNfK_EgWmUtn0oEG11MCM_259_aMmLdSY/pub?start=false&loop=false&delayms=3000#slide=id.p) ([PDF](https://ep2017.europython.eu/media/conference/slides/teeing-up-python-code-golf.pdf)) are some more tips.
 
 
-Even te speakers were nerding out [IMG_20170711_092517].
+<!--
+Even the speakers were nerding out:
 
+[![TARDIS speaker](https://shuttereye.org/images/7e/7efd3717937e9fad_2000-2000.jpg)](https://shuttereye.org/goingout/2017_europython/IMG_20170711_092517.jpg/view/)
+-->
 
 An interesting Big Data/distributed computing talk was [Realtime Distributed Computing At Scale (in pure Python!): Storm And Streamparse](https://ep2017.europython.eu/conference/talks/realtime-distributed-computing-at-scale-in-pure-python-storm-and-streamparse) by Alexander Lourenco from Parse.ly.
 
-Storm is a distributed real-time computation system, which simplifies workers and queues.
-- Streamparse is Pythonic Storm
-- Nimbus and Storm UI
+Storm is a distributed real-time computation system, which simplifies workers and queues. Streamparse is basically Pythonic Storm; Nimbus and Storm UI are visual frontends.
 
 You can install the Storm environment from the Apache Storm site.
 
@@ -58,7 +73,7 @@ The [Infrastructure design patterns with Python, Buildbot, and Linux Containers]
 I better could have gone to [How to make money with your Python Open-Source Project](https://ep2017.europython.eu/conference/talks/how-to-make-money-with-your-python-open-source-project) by Max Tepkeev, which would have been relevant for my own projects and probably for some of Sanoma's efforts too.
 
 
-[IMG_7069]
+[![Roman bridge](https://shuttereye.org/images/ce/ce5a3519d519279d_2000-2000.jpg)](https://shuttereye.org/goingout/2017_europython/IMG_7069_crop.jpg/view/)
 
 
 
@@ -98,6 +113,9 @@ Some take-aways:
 - [The code of the rent status of Airbnb venues](https://github.com/dsolanno/BarcelonaRentsStatus).
 
 
+[![Conference location artifact](https://shuttereye.org/images/61/613362cc8eb23616_2000-2000.jpg)](https://shuttereye.org/goingout/2017_europython/IMG_20170712_170046.jpg/view/)
+
+
 The [An introduction to PyTorch & Autograd](https://ep2017.europython.eu/conference/talks/an-introduction-to-pytorch-autograd) talk from Paul O'Grady provided some tools to do deep learning with Python.
 
 Tensor (ndarray) operations on the GPU (instead of being constrained to CPUs) are a lot faster.
@@ -114,9 +132,7 @@ Apache Airflow is Open Source, based on Flask, using Celery.
 A flow is a Directed Acyclic Graph (DAG). An Operator is a single task, which can be retried automatically, should be idempotent and is a Python task with an execute method. Airflow uses xcom as a means of communication between task instances; a task is saved in the database as a pickled object; it is best suited for small objects. An introductory Airflow tutorial can be found on the speaker's weblog: [Developing workflows with Apache Airflows](http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/).
 
 
-[Inspect (Or Gadget)](https://ep2017.europython.eu/conference/talks/inspect-or-gadget) by Hugues Lerebours and Renaud Bauvin
-
-This talk introduced a really useful library: `[inspect](https://docs.python.org/3/library/inspect.html)` which provides quite some extra functions apart from the already useful Python buildins. The demo consisted of a piece of code that checks if docstrings are up-to-date, also validating against documented types. Good material to check out when needing to do some introspection.
+[Inspect (Or Gadget)](https://ep2017.europython.eu/conference/talks/inspect-or-gadget) by Hugues Lerebours and Renaud Bauvin introduced a really useful library: [`inspect`](https://docs.python.org/3/library/inspect.html) which provides quite some extra functions apart from the already useful Python buildins. The demo consisted of a piece of code that checks if docstrings are up-to-date, also validating against documented types. Good material to check out when needing to do some introspection.
 
 
 Another talk about improving your code's quality was [Fixture factories for faster end-to-end tests](https://ep2017.europython.eu/conference/talks/fixture-factories-for-faster-end-to-end-tests) by Stephan Jaensch, speaking about creating better fixtures to improve tests in this age of microservices and other loosely coupled services.
@@ -132,7 +148,7 @@ This setup helps with test repeatability, as it eliminates dependability between
 [Slides](https://github.com/sjaensch/faster_end_to_end_tests_talk) (or [PDF](https://ep2017.europython.eu/media/conference/slides/fixture-factories-for-faster-end-to-end-tests.pdf)).
 
 
-[IMG_6966]
+[![Rimini beach at night with the ferris wheel](https://shuttereye.org/images/01/01000b9b07c7898a_2000-2000.jpg)](https://shuttereye.org/goingout/2017_europython/IMG_6966.jpg/view/)
 
 
 ## Day five, Friday
@@ -151,7 +167,7 @@ Code is parsed into an abstract syntax tree (in contrast to concrete syntax tree
 
 Next up was [Practical Debugging - Tips, Tricks and Ways to think](https://ep2017.europython.eu/conference/talks/practical-debugging-tips-tricks-and-ways-to-think) by Radoslav Georgiev, speaking about patterns and how stack traces are your friend.
 
-He had a set of rules to live by as a developer, starting with the golden rule: if you find a bug, add a test for it (making it reproducible). Keep in mind tostay away from constant regression, and when debugging use ipdb/pdb (better than print of course) (by the way, `launch_ipdb_on_exception` as context manager, saves you a lot of 'cont, <enter>, cont, <enter>'), check tests, check input validation, check algorithms, check the system design and of course check your understanding of the problem space.
+He had a set of rules to live by as a developer, starting with the golden rule: if you find a bug, add a test for it (making it reproducible). Keep in mind tostay away from constant regression, and when debugging use ipdb/pdb (better than print of course) (by the way, `launch_ipdb_on_exception` as context manager, saves you a lot of 'cont, enter, cont, enter'), check tests, check input validation, check algorithms, check the system design and of course check your understanding of the problem space.
 
 Another practical tip was to explain your problem to someone (the well-known rubber duck debugging).
 
@@ -162,11 +178,11 @@ He also proposed to do parallel debugging:
 3. ask a co-worker for help
 4. all of that while you are still debugging
 
-Howevery, I think that's not really a nice thing to do, because you are offloading your problem (possibly generating a lot of noise in the process). So, contribute your solutions back to the community by answering issues on StackOverlfow, writing on GitHub issues, opening PRs with bugfixes and examples, submitting documentation improvements, and... do a talk on a conference :)
+However, I think that's not really a nice thing to do, because you are offloading your problem (possibly generating a lot of noise in the process). So, contribute your solutions back to the community by answering issues on StackOverlfow, writing on GitHub issues, opening PRs with bugfixes and examples, submitting documentation improvements, and... do a talk on a conference :)
 
-- https://github.com/RadoRado/EuroPython2017
-- https://github.com/HackSoftware/
-- hacksoft.io
+- [https://github.com/RadoRado/EuroPython2017](https://github.com/RadoRado/EuroPython2017)
+- [https://github.com/HackSoftware/](https://github.com/HackSoftware/)
+- [hacksoft.io](https://hacksoft.io)
 
 
 The 'Magic considered harmful' talk was cancelled, but there is [this recording of a previous version](https://www.youtube.com/watch?v=ZLfDpDG2fcU).
@@ -200,6 +216,7 @@ The lightning talks had a few interesting titbits:
 - http://tinyurl.com/PerceptionMusic
 - ssim for parsing flight schedule strings (in .sir files) to something usable: `pip install ssim`
 - pyjok.es: `pip install pyjokes`
+- [Manage GitHub by API instead of as a mere human with dothub](https://github.com/mariocj89/dothub).
 
-[Manage GitHub by API instead of as a mere human with dothub](https://github.com/mariocj89/dothub).
 
+[![Rimini yacht harbour](https://shuttereye.org/images/5f/5ff8861f3c1c164f_2000-2000.jpg)](https://shuttereye.org/goingout/2017_europython/IMG_7066.jpg/view/)
