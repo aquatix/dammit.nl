@@ -28,8 +28,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (
-         ('Felienne', 'http://www.felienne.com/'),
+LINKS = (('Felienne', 'http://www.felienne.com/'),
          ('Rands in Repose', 'http://randsinrepose.com/'),
          ('Ryan Rix', 'http://whatthefuck.computer/blog/'),
          ('Tibo Beijen', 'https://www.tibobeijen.nl/'),
@@ -66,7 +65,12 @@ TWITTER_USERNAME = 'michielscholten'
 # Show jumbotron page header with logo instead of plain text sitename
 CUSTOM_SITE_HEADERS = ("jumbotron_logo.html", )
 
-CUSTOM_ARTICLE_HEADERS = ("article_header_navigation.html", "article_header_date.html", "article_header_title.html", "article_header_info.html", )
+CUSTOM_ARTICLE_HEADERS = (
+    "article_header_navigation.html",
+    "article_header_date.html",
+    "article_header_title.html",
+    "article_header_info.html",
+)
 
 # Put taglist at end of articles, and use the default sharing button implementation.
 #CUSTOM_ARTICLE_FOOTERS = ("taglist.html", "sharing.html", )
@@ -88,7 +92,7 @@ STYLE_COLOUR = '#5C6448'
 
 # Extra stylesheets, for bootstrap overrides or additional styling.
 #STYLESHEET_FILES = ("voidybootstrap.css", "darkblue.css", "pygment_native.css",)
-STYLESHEET_FILES = ("voidybootstrap.css", "olive.css", "pygment_native.css",)
+STYLESHEET_FILES = ("voidybootstrap.css?20170807", "olive.css?20170807",)
 
 # Extra Markdown options, https://github.com/getpelican/pelican/issues/1238#issuecomment-32821905
 #MD_EXTENSIONS = ['fenced_code', 'codehilite(css_class=highlight, linenums=True)', 'extra']
