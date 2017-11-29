@@ -16,7 +16,7 @@ Also, devices nowadays are perfectly capable to serve for quite a while. Smartph
 
 Lately I had been looking at the newer Kobo e-reader models because of their highres screens and WiFi connectivity (I like that they can sync with [Pocket](https://getpocket.com/)). However, I still enjoy reading books on my Sony PRS-650 that I got at the start of 2011. I even love how it's starting to look nicely beaten up: it's getting used :)
 
-Same goes for the [Acer C720p hacktop]({filename}/20150407-acer-c720p-chromebook-my-new-hacktop.md) - er - Chromebook that I got almost three years ago. I use it quite a lot, throw it in my backpack for some quick hacking while traveling by train or note taking at work, and it still runs fine, even for the modest specs it has. It's not new anymore and has some minor marks of usage, but it's passable for barely used, while I whip it out with pride because it's such an odd but useful little thing.
+Same goes for the [Acer C720p hacktop]({filename}20150407-acer-c720p-chromebook-my-new-hacktop.md) - er - Chromebook that I got almost three years ago. I use it quite a lot, throw it in my backpack for some quick hacking while traveling by train or note taking at work, and it still runs fine, even for the modest specs it has. It's not new anymore and has some minor marks of usage, but it's passable for barely used, while I whip it out with pride because it's such an odd but useful little thing.
 
 My previous 'main' laptop is also still going strong, and serving as a mostly-stationary workstation on which I do most of my work when working from my home office.
 
