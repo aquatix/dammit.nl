@@ -19,6 +19,7 @@ Summary: List of books I've read in the past, with notes where applicable.
     <li><span class="label">20170525</span> Neil Gaiman - <a href="https://www.goodreads.com/book/show/30165203-american-gods">American Gods</a> (American Gods #1)</li>
     <li><span class="label">20170620</span> Glen Cook - <a href="https://www.goodreads.com/book/show/499122.Dread_Brass_Shadows">Dread Brass Shadows</a> (Garrett Files #5)</li>
     <li><span class="label">20170629</span> Adrian Tchaikovsky - <a href="https://www.goodreads.com/book/show/25499718-children-of-time">Children of Time</a></li>
+    <li><span class="label">20171129</span> Liu Cixin - <a href="https://www.goodreads.com/book/show/20518872-the-three-body-problem">The Three-Body Problem</a> (Remembrance of Earth's Past #1)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
