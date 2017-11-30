@@ -23,3 +23,5 @@ My previous 'main' laptop is also still going strong, and serving as a mostly-st
 It's easy to want the latest, greatest and fastest devices, but appreciating the trusty older ones that are still serving just fine (helped by new software) should not be forgotten. Take care of the things that you got, you can always dream of that Next Big Thing.
 
 If you read the above as my way of talking myself out of getting a Chromebook convertible with Android apps support like the [Asus C302CA](https://www.asus.com/us/Laptops/ASUS-Chromebook-Flip-C302CA/) you're... erm... right, but I truly am happy with my trusty gadgets (some might even sniff at them and point at their laptop tank from 2001 and go 'puny laptop', but I really like this era of SSD's).
+
+PS: what the frak Kobo, why did you discontinue the Kobo Glo HD with the excellent 1080x1440 screen and only offer a 768x1024 Aura HD or 6.8" H2O (2) with that previously high resolution? It's 2017...
