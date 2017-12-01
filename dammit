@@ -40,6 +40,11 @@ DAMMITDIR=$( dirname $(readlink -f "$0") )
 
 if [ -z "$1" ]; then
     echo "[!] Provide an ACTION to perform"
+    echo "    Choose from:"
+    echo "    - new <slug>"
+    echo "    - edit <slug>"
+    echo "    - update"
+    echo
     exit
 elif [ "$1" == 'new' ] && [ -z "$2" ]; then
     echo "[!] Please provide a slug (e.g., new-post-subject)"
@@ -76,4 +81,14 @@ elif [ $ACTION == "new" ]; then
     echo "" >> ${BLOGPOSTFILE}
     vim ${BLOGPOSTFILE}
     echo "Do not forget to add it to version control!"
+
+elif [ $ACTION == "edit" ]; then
+    SLUG=$2
+    BLOGPOSTFILE="${DAMMITDIR}/content/posts/${SLUG}.md"
+    if [ ! -f ${BLOGPOSTFILE} ]; then
+        echo "[!] Blogpost ${BLOGPOSTFILE} not found"
+        exit
+    fi
+    vim ${BLOGPOSTFILE}
+    git commit ${BLOGPOSTFILE}
 fi
