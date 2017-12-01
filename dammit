@@ -1,5 +1,43 @@
 #!/bin/bash
 
+CATEGORIES=$'
+conferences,
+family,
+gadgets,
+howto,
+posts (fallback),
+projects,
+thoughts,
+trips'
+
+TAGS=$'communication,
+conference,
+desktop,
+dev,
+digimarks,
+ethics,
+europython,
+family,
+fosdem,
+gadgets,
+howto,
+kids,
+life,
+linux,
+meta,
+mobile,
+notifications,
+photography,
+python,
+rant (fallback),
+tech,
+trip,
+vim,
+web,
+work'
+
+DAMMITDIR=$( dirname $(readlink -f "$0") )
+
 if [ -z "$1" ]; then
     echo "[!] Provide an ACTION to perform"
     exit
@@ -14,5 +52,26 @@ if [ $ACTION == "update" ]; then
     update_dammit
 elif [ $ACTION == "new" ]; then
     SLUG=$2
-    echo "Creating new blogpost with slug $SLUG"
+    BLOGPOSTFILE="${DAMMITDIR}/content/posts/${SLUG}.md"
+    if [ -e ${BLOGPOSTFILE} ]; then
+        echo "[!] A blogpost with this slug already exists!"
+        exit
+    fi
+    echo "Creating new blogpost with slug ${SLUG} in ${BLOGPOSTFILE}"
+
+    STARTED=$( date +'%Y-%m-%d %H:%M:%S' )
+    echo "Title: " >> ${BLOGPOSTFILE}
+    echo "Started: ${STARTED}" >> ${BLOGPOSTFILE}
+    echo "Date: ${STARTED}" >> ${BLOGPOSTFILE}
+    echo "Slug: ${SLUG}" >> ${BLOGPOSTFILE}
+    echo "Location: " >> ${BLOGPOSTFILE}
+    echo "Authors: Michiel Scholten" >> ${BLOGPOSTFILE}
+    echo "Category: " >> ${BLOGPOSTFILE}
+    echo ${CATEGORIES} >> ${BLOGPOSTFILE}
+    echo "Tags: " >> ${BLOGPOSTFILE}
+    echo ${TAGS} >> ${BLOGPOSTFILE}
+    echo "Image: " >> ${BLOGPOSTFILE}
+    echo "" >> ${BLOGPOSTFILE}
+    vim ${BLOGPOSTFILE}
+    echo "Do not forget to add it to version control!"
 fi
