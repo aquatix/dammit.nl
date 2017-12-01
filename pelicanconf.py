@@ -55,6 +55,7 @@ OPEN_GRAPH = True
 TWITTER_CARD = True
 TWITTER_USERNAME = 'michielscholten'
 
+TAGS_URL = 'tags.html'
 #GITHUB_URL = 'https://github.com/aquatix'
 
 #DEFAULT_PAGINATION = False
