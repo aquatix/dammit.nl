@@ -1,0 +1,18 @@
+#!/bin/bash
+
+if [ -z "$1" ]; then
+    echo "[!] Provide an ACTION to perform"
+    exit
+elif [ "$1" == 'new' ] && [ -z "$2" ]; then
+    echo "[!] Please provide a slug (e.g., new-post-subject)"
+    exit
+fi
+
+ACTION=$1
+
+if [ $ACTION == "update" ]; then
+    update_dammit
+elif [ $ACTION == "new" ]; then
+    SLUG=$2
+    echo "Creating new blogpost with slug $SLUG"
+fi
