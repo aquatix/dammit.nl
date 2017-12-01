@@ -43,6 +43,7 @@ if [ -z "$1" ]; then
     echo "    Choose from:"
     echo "    - new <slug>"
     echo "    - edit <slug>"
+    echo "    - drafts"
     echo "    - update"
     echo
     exit
@@ -55,6 +56,9 @@ ACTION=$1
 
 if [ $ACTION == "update" ]; then
     update_dammit
+elif [ $ACTION == "drafts" ]; then
+    cd ${DAMMITDIR}/content/posts
+    grep -r "Status:" | grep -i draft | cut -d. -f1
 elif [ $ACTION == "new" ]; then
     SLUG=$2
     BLOGPOSTFILE="${DAMMITDIR}/content/posts/${SLUG}.md"
@@ -89,6 +93,8 @@ elif [ $ACTION == "edit" ]; then
         echo "[!] Blogpost ${BLOGPOSTFILE} not found"
         exit
     fi
+
+    cd ${DAMMITDIR}
     vim ${BLOGPOSTFILE}
     git commit ${BLOGPOSTFILE}
 fi
