@@ -197,10 +197,10 @@ Summary: List of books I've read in the past, with notes where applicable.
 <p>(Might miss one or two)</p>
 
 
-<h4 id="queue">Queue</h4>
+<h4 id="queue">Queue (no particular order)</h4>
 <ul>
     <li><span class="label"></span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/30691976-raven-stratagem">Raven Stratagem</a> (The Machineries of Empire #2)</li>
-    <li><span class="label">20171129</span> Liu Cixin - <a href="https://www.goodreads.com/book/show/20518872-the-three-body-problem">The Three-Body Problem</a> (Remembrance of Earth's Past #2)</li>
+    <li><span class="label"></span> Liu Cixin - <a href="https://www.goodreads.com/book/show/20518872-the-three-body-problem">The Three-Body Problem</a> (Remembrance of Earth's Past #2)</li>
     <li>Michael Warren Lucas - <a href="https://www.goodreads.com/book/show/34684331-git-commit-murder">Git Commit Murder</a></li>
     <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21805681-unlocked">Unlocked: An Oral History of Haden's Syndrome</a> (Lock In #0.5)</li>
     <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21418013-lock-in">Lock in</a> (Lock In #1)</li>
@@ -243,4 +243,4 @@ Summary: List of books I've read in the past, with notes where applicable.
     <li><a href="https://www.goodreads.com/review/list/17198769-michiel-scholten?shelf=to-read">More on my Goodreads profile</a></li>
 </ul>
 
-<p>Suggestions? Please <a href="{filename}20110607-books.md">leave a comment</a>!</p>
+<p>Suggestions? Please <a href="{filename}../posts/20110607-books.md">leave a comment</a>!</p>
