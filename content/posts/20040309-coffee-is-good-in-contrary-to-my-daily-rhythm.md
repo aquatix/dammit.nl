@@ -3,7 +3,8 @@ Date: 2004-03-09 15:50:11
 Slug: 20040309-coffee-is-good-in-contrary-to-my-daily-rhythm
 Location: Home
 Authors: Michiel Scholten
-Tags: rant
+Category: thoughts
+Tags: meta
 
 <p><a href="http://slashdot.org/article.pl?sid=04/03/08/1440218">Coffee considered a Good Thing(tm)</a>, especially <a href="http://news.bbc.co.uk/1/hi/world/europe/3540729.stm">espresso</a>. But only 3-4 cups a day. Now that's what I drink max, so that's ok with me ;) But they say that I should avoid instant... Too bad.</p>
 <p>In other news: I got an air mail of the <a href="http://www.droa.com/">Domain Registry of America</a> with the Great Offer(tm) of renewing <a href="http://aquariusoft.org/">my domain</a> for only 27 euro a year! That's 13 euro *more* then I have to pay with <a href="http://gandi.net/">my current registerer, Gandi.net</a>, including VAT. Not a bad offer ;) And I have to act Real Soon, because it will expire July 11th! Yeah, like I'm *that* sloppy...</p>
