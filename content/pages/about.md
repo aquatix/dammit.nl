@@ -1,7 +1,7 @@
 Title: About
 Authors: Michiel Scholten
 Date: 2005-10-02
-Modified: 2017-02-19
+Modified: 2017-12-01
 Summary: About the dammIT weblog, who am I, why do I write
 
 
@@ -16,12 +16,12 @@ Summary: About the dammIT weblog, who am I, why do I write
 
 
 <h2>Why this weblog?</h2>
-<p>Yeah, why? Well basically to have some place to write down my frustrations. But also for thinking out loud (which I hope will happen more often than me being frustrated), and sharing some <a href="/m">niceties</a> I found on the web with anybody who cares reading this weblog. So, since the 20th of December of the year 2003 you can read about me. Oh rejoice :)</p>
+<p>Yeah, why? Well basically to have some place to write down my frustrations. But also for thinking out loud (which I hope will happen more often than me being frustrated), and sharing some <a href="/m">niceties</a> I found on the web with anybody who cares reading this weblog. So, since the <a href="{filename}../posts/20031220-darn-trains.md">20th of December of the year 2003</a> you can read about me. Oh rejoice :)</p>
 
 <h3>Whoami</h3>
-<p>I'm a (backend/full stack) developer with a big media company in the Netherlands. You can find <a href="http://diginaut.net">more information about me on diginaut.net</a>.</p>
+<p>I'm a (backend/full stack) developer with a big media company in the Netherlands. You can find <a href="https://diginaut.net">more information about me on diginaut.net</a>.</p>
 
-<p>/me has been a student <a href="http://www.cs.vu.nl/">Computer Science</a> at the <a href="http://www.vu.nl/">Vrije Universiteit</a> in Amsterdam and working with the Royal Dutch Navy, where I did my Master research project too. <a href="http://aquariusoft.org/">aquariusoft.org</a> is home to my projects. You can also find links to other sites, like <a href="https://shuttereye.org/">my gallery</a> there.</p>
+<p>/me has been a student <a href="http://www.cs.vu.nl/">Computer Science</a> at the <a href="http://www.vu.nl/">Vrije Universiteit</a> in Amsterdam and working with the Royal Dutch Navy, where I did my Master research project too. <a href="https://aquariusoft.org/">aquariusoft.org</a> is home to my projects. You can also find links to other sites, like <a href="https://shuttereye.org/">my gallery</a> there.</p>
 
 <h3>You seem to be a Dutchie. Why do you pretend to write English?</h3>
 <p>Mainly because of the exercise I get through it. I like reading other weblogs, preferably in a language I understand, which boils down to Dutch and English. As most content I consume nowadays is in English, I choose to write in that language too. And now I get a reader or three extra ;)</p>
@@ -29,6 +29,8 @@ Summary: About the dammIT weblog, who am I, why do I write
 
 <h2>This weblog</h2>
 <p>I started this website before software like Wordpress became usable (or even existed) and also because I liked to write such a content management system. Maybe I'll find versions of the code from the time period between 2003 and 2006, but I started version control in 2006 so the <a href="https://github.com/aquatix/dammit">dammIT sourcecode</a> that <a href="">I published on Github for everyone to see</a> starts its history there.</p>
+
+<p>In <a href="{filename}../posts/20100913-a-new-domain.md">September 2010 it moved to its own domain</a> and it has been here ever since.</p>
 
 <p>As of <a href="{filename}../posts/moved-to-pelican.md">April 2017</a> the codebase has been switched to use <a href="http://docs.getpelican.com/">Pelican</a>, a static site generator, as I have been tired of PHP for a while. <a href="https://github.com/aquatix/dammit.nl">The content now lives in this GitHub repository</a>. The theme is <a href="https://github.com/aquatix/voidy-bootstrap">a fork</a> of <a href="https://github.com/robulouski/voidy-bootstrap">voidy-bootstrap</a> with some enhancements like the blue theme, neighbour articles navigation and <a href="https://posativ.org/isso/">isso</a> commenting support.</p>
 
