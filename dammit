@@ -57,6 +57,8 @@ elif [ $ACTION == "new" ]; then
         echo "[!] A blogpost with this slug already exists!"
         exit
     fi
+
+    cd ${DAMMITDIR}
     echo "Creating new blogpost with slug ${SLUG} in ${BLOGPOSTFILE}"
 
     STARTED=$( date +'%Y-%m-%d %H:%M:%S' )
