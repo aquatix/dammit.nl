@@ -41,11 +41,10 @@ DAMMITDIR=$( dirname $(readlink -f "$0") )
 if [ -z "$1" ]; then
     echo "[!] Provide an ACTION to perform"
     echo "    Choose from:"
-    echo "    - new <slug>"
-    echo "    - edit <slug>"
-    echo "    - drafts"
-    echo "    - update"
-    echo
+    echo "    - new <slug>       Create a new post with filename <slug>"
+    echo "    - edit <slug>      Continue editing <slug>, git commit after"
+    echo "    - drafts           List all posts currently in draft"
+    echo "    - update           Generate update and upload to server"
     exit
 elif [ "$1" == 'new' ] && [ -z "$2" ]; then
     echo "[!] Please provide a slug (e.g., new-post-subject)"
@@ -58,7 +57,7 @@ if [ $ACTION == "update" ]; then
     update_dammit
 elif [ $ACTION == "drafts" ]; then
     cd ${DAMMITDIR}/content/posts
-    grep -r "Status:" | grep -i draft | cut -d. -f1
+    grep -r "Status:" | grep -i draft | cut -d. -f1 | sort
 elif [ $ACTION == "new" ]; then
     SLUG=$2
     BLOGPOSTFILE="${DAMMITDIR}/content/posts/${SLUG}.md"
