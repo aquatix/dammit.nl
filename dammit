@@ -81,6 +81,7 @@ elif [ $ACTION == "new" ]; then
     echo "Tags: " >> ${BLOGPOSTFILE}
     echo ${TAGS} >> ${BLOGPOSTFILE}
     echo "Image: " >> ${BLOGPOSTFILE}
+    echo "Status: draft" >> ${BLOGPOSTFILE}
     echo "" >> ${BLOGPOSTFILE}
     vim ${BLOGPOSTFILE}
     echo "Do not forget to add it to version control!"
