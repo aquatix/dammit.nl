@@ -12,3 +12,5 @@ Image:
 Status: draft
 
 Do you know that feeling that halfway through the day you start to be less 'fresh'?
+
+This process means that during the day, your focus gradually decreases. This makes morning the best time to do work that needs inspiration, imagination and creativity. Meetings then are generally better done in the afternoon.
