@@ -1,5 +1,5 @@
 Title: vim reloaded
-Started: 2014-11-28, 2015-01-24, 2017-05-19
+Started: 2014-11-28, 2015-01-24, 2017-05-19, 2018-01-05
 Date: 2017-04-26 15:48:00
 Slug: vim-reloaded
 Location: Home
@@ -23,6 +23,11 @@ To get an impression how things look, take a look at this example:
 
 
 
+## fzf
+
+I bound looking through buffers to <kbd>;</kdb>, as I use buffers quite a lot.
+
+Find more tricks to do with fzf and vim in this article: [Fuzzy finding with FZF.vim](http://tilvim.com/2016/01/06/fzf.html).
 
 
 ## ctrl+p
@@ -45,9 +50,9 @@ To get an impression how things look, take a look at this example:
 [![vim with ctrl+p quick lookup](https://shuttereye.org/images/88/88a1a1a18185a8d0_2000-2000.png)](https://shuttereye.org/various/screenshots/20170519_vim_ctrlp.png/view/)
 
 
-## Ctags is missing
+## ctags is missing
 
-You need exuberant-ctags installed, otherwise there will be an error. You can do this with `sudo apt install exuberant-ctagsor` or `brew install ctags`.
+You need exuberant-ctags installed, otherwise there will be an error. You can do this with `sudo apt install exuberant-ctags` or `brew install ctags`.
 
 
 ## Sanity checking of your projects
@@ -61,3 +66,5 @@ My choice for Python and Django is to use pylint and the [pylint-django plugin](
 
 Installing both in the virtualenv of your project will make vim pick up the right modules, so imports get recognised (very useful for imports from modules in your virtualenv, otherwise pylint will get *really* chatty).
 
+
+Another good read is [Vim After 15 Years](https://statico.github.io/vim3.html), in which Ian Langworth describes his own setup. We have some similarities, and of course some differences.
