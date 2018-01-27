@@ -1,13 +1,21 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2017-06-29
+Modified: 2018-01-27
 Summary: List of books I've read in the past, with notes where applicable.
 
 
 <p>Books I've read in the past. I might have written something about them, meaning the entries here will have a [review] link to a corresponding weblog posting. Otherwise, I try to link them to their page on Goodreads. The date denotes the day I <em>started</em> reading. Generally, the date of the next book is when I finished the last :)</p>
 
 <p>You can <a href="https://www.goodreads.com/review/list/17198769-michiel-scholten">find me on Goodreads</a> too. Maybe become book friends? :)</p>
+
+<h2 id="2018">2018</h2>
+
+<ol>
+    <li><span class="label">20180129</span> Liu Cixin - <a href="https://www.goodreads.com/book/show/23168817-the-dark-forest">The Dark Forest</a> (Remembrance of Earth's Past #2)</li>
+</ol>
+
+<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
 <h2 id="2017">2017</h2>
 
@@ -21,8 +29,6 @@ Summary: List of books I've read in the past, with notes where applicable.
     <li><span class="label">20170629</span> Adrian Tchaikovsky - <a href="https://www.goodreads.com/book/show/25499718-children-of-time">Children of Time</a></li>
     <li><span class="label">20171129</span> Liu Cixin - <a href="https://www.goodreads.com/book/show/20518872-the-three-body-problem">The Three-Body Problem</a> (Remembrance of Earth's Past #1)</li>
 </ol>
-
-<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
 <h2 id="2016">2016</h2>
 
