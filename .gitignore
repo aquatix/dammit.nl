@@ -1,4 +1,5 @@
 output
+*.pid
 *.pyc
 *.swp
 tags
