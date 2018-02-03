@@ -1,14 +1,13 @@
 Title: Limited braincycles
 Started: 2017-12-04 07:14:42
-Date: 2017-12-12 09:14:42
-Modified: 2017-12-25 21:31:00
+Date: 2018-02-03 14:24:42
+Updated: 2017-12-25 21:31:00, 2018-02-03
 Slug: limited-braincycles
 Location: Home
 Authors: Michiel Scholten
 Category: thoughts
 Tags: health, kids, life, work
-Image: -coffee- 
-Status: draft
+Image: https://shuttereye.org/images/c1/c1d1b1f070b15808_2000-2000.jpg
 
 Do you know that feeling that halfway through the day you start to be less 'fresh'? Myself, I have the experience of getting a bit slower over the course of the day: in the morning, I can fix the problem I was struggling with the last afternoon in a few minutes, but after lunch, problems seem to get a bit harder to solve.
 
