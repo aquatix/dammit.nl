@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2018-01-28
+Modified: 2018-03-15
 Summary: List of books I've read in the past, with notes where applicable.
 
 
@@ -13,6 +13,7 @@ Summary: List of books I've read in the past, with notes where applicable.
 
 <ol>
     <li><span class="label">20180128</span> Liu Cixin - <a href="https://www.goodreads.com/book/show/23168817-the-dark-forest">The Dark Forest</a> (Remembrance of Earth's Past #2)</li>
+    <li><span class="label">20180314</span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/30691976-raven-stratagem">Raven Stratagem</a> (The Machineries of Empire #2)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -205,8 +206,8 @@ Summary: List of books I've read in the past, with notes where applicable.
 
 <h2 id="queue">Queue (no particular order)</h2>
 <ul>
-    <li><span class="label"></span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/30691976-raven-stratagem">Raven Stratagem</a> (The Machineries of Empire #2)</li>
-    <li><span class="label"></span> Liu Cixin - <a href="https://www.goodreads.com/book/show/20518872-the-three-body-problem">The Three-Body Problem</a> (Remembrance of Earth's Past #2)</li>
+    <li><span class="label"></span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/36373688-revenant-gun">Revenant Gun</a> (The Machineries of Empire #3)</li>
+    <li><span class="label"></span> Liu Cixin - <a href="https://www.goodreads.com/book/show/25451264-death-s-end">Death's End</a> (Remembrance of Earth's Past #3)</li>
     <li>Michael Warren Lucas - <a href="https://www.goodreads.com/book/show/34684331-git-commit-murder">Git Commit Murder</a></li>
     <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21805681-unlocked">Unlocked: An Oral History of Haden's Syndrome</a> (Lock In #0.5)</li>
     <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21418013-lock-in">Lock in</a> (Lock In #1)</li>
