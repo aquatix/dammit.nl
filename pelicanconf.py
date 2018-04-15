@@ -58,7 +58,7 @@ TWITTER_USERNAME = 'michielscholten'
 TAGS_URL = 'tags.html'
 #GITHUB_URL = 'https://github.com/aquatix'
 
-#DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -109,7 +109,7 @@ MARKDOWN = {
 HIGHLIGHTJS = True
 
 DISPLAY_PAGES_ON_MENU = True
-DEFAULT_PAGINATION = 10
+#DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ['../../others/pelican-plugins']
 PLUGINS = ['neighbors', 'summary', 'related_posts']
