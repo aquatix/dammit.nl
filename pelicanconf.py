@@ -109,7 +109,7 @@ MARKDOWN = {
 HIGHLIGHTJS = True
 
 DISPLAY_PAGES_ON_MENU = True
-#DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ['../../others/pelican-plugins']
 PLUGINS = ['neighbors', 'summary', 'related_posts']
