@@ -6,12 +6,12 @@ Location: Home
 Authors: Michiel Scholten
 Category: projects
 Tags: dev, notifications, python, tech
-Image: 
-Status: draft
 
-Because it's Friday, I was bitten by a filled-up volume on my VPS again, because [Prometheus](https://prometheus.io/) somehow is randomly crashing my VPS, and because I like thinkering, I wrote a little notification script.
+Because it's Friday, I was bitten by a filled-up volume on my VPS again, because [Prometheus](https://prometheus.io/) somehow is randomly crashing my VPS, and because I like thinkering and Python, I wrote a little notification script.
 
 Yes, it checks for available disk space on your nodes, with configuration per hostname (it's all contained in the source file).
+
+It takes paths and the amount of GB you want available as configuration under `FILESYSTEMS`.
 
 Here it is:
 
