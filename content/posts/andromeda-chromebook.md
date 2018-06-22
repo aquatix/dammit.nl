@@ -13,7 +13,7 @@ On regular machines this is not much of an issue, but Chromebooks are both nifty
 
 However, the world would not be right if some enterprising developer would not create a way of updating both `adb` and `fastboot` on ChromeOS. That's exactly what [Nathan Chance did](https://forum.xda-developers.com/hardware-hacking/chromebooks/guide-setting-adb-fastboot-x8664-t3806428). [Download his installer script](https://raw.githubusercontent.com/nathanchance/chromeos-adb-fastboot/master/install.sh) and run it from the terminal:
 
-`ctrl+alt+t` `shell` `bash ~/Downloads/install.sh` and enter your sudo password. Of course substitute the path to install.sh if you saved it somewhere else.
+<kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>t</kbd> `shell` `bash ~/Downloads/install.sh` and enter your sudo password. Of course substitute the path to install.sh if you saved it somewhere else.
 
 `source ~/.bashrc` to activate the aliases so you have a working `adb` and `fastboot`.
 
