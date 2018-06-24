@@ -106,6 +106,8 @@ MARKDOWN = {
     },
     'output_format': 'html5',
 }
+
+# Enable highlight.js
 HIGHLIGHTJS = True
 
 DISPLAY_PAGES_ON_MENU = True
@@ -115,3 +117,6 @@ PLUGIN_PATHS = ['../../others/pelican-plugins']
 PLUGINS = ['neighbors', 'summary', 'related_posts']
 
 STATIC_PATHS = ['images']
+
+# Generate JSON 'API'
+TEMPLATE_PAGES = {'recent.json': 'api/recent.json', }
