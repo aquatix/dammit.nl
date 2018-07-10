@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2018-06-20
+Modified: 2018-07-10
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -17,6 +17,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20180425</span> Glen Cook - <a href="https://www.goodreads.com/book/show/400909.Red_Iron_Nights">Red Iron Nights</a> (Garrett Files #6)</li>
     <li><span class="label">20180516</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/34541.Carpe_Jugulum">Carpe Jugulum</a> (Discworld #23, Witches #6)</li>
     <li><span class="label">20180619</span> Greg Egan - <a href="https://www.goodreads.com/book/show/156775.Quarantine">Quarantine</a> (Subjective Cosmology #1)</li>
+    <li><span class="label">20180630</span> Kristen Lepionka - <a href="https://www.goodreads.com/book/show/31450910-the-last-place-you-look">The Last Place You Look</a> (Roxane Weary #1)</li>
+    <li><span class="label">20180706</span> Sylvain Neuvel <a href="https://www.goodreads.com/book/show/25733990-sleeping-giants">Sleeping Giants</a> (Themis Files #1)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -212,7 +214,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156784.Permutation_City">Permutation City</a> (Subjective Cosmology #2)</li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
     <li><span class="label"></span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
-    <li><span class="label"></span> Sylvain Neuvel <a href="https://www.goodreads.com/book/show/25733990-sleeping-giants">Sleeping Giants</a> (Themis Files #1)</li>
     <li><span class="label"></span> Sylvain Neuvel <a href="https://www.goodreads.com/book/show/30134847-waking-gods">Waking Gods</a> (Themis Files #2)</li>
     <li><span class="label"></span> Sylvain Neuvel <a href="https://www.goodreads.com/book/show/35820656-only-human">Only Human</a> (Themis Files #3)</li>
     <li><span class="label"></span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/36373688-revenant-gun">Revenant Gun</a> (The Machineries of Empire #3)</li>
@@ -228,11 +229,11 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li>Alastair Reynolds - <a href="https://www.goodreads.com/book/show/23013875-slow-bullets">Slow Bullets</a></li>
     <li>David Walton - <a href="https://www.goodreads.com/book/show/22551892-superposition">Superposition</a></li>
     <li>the Orthogonal trilogy by Greg Egan</li>
-    <li>The Final Empire (Mistborn I)</li>
-    <li>The Well of Ascension (Mistborn II)</li>
-    <li>The Hero of Ages (Mistborn III)</li>
-    <li>The Alloy of Law (Mistborn IV)</li>
-    <li>Shadows of Self (Mistborn V)</li>
+    <li>Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68428.The_Final_Empire">The Final Empire</a> (Mistborn I)</li>
+    <li>Brandon Sanderson - <a href="">The Well of Ascension</a> (Mistborn II)</li>
+    <li>Brandon Sanderson - <a href="">The Hero of Ages</a> (Mistborn III)</li>
+    <li>Brandon Sanderson - <a href="">The Alloy of Law</a> (Mistborn IV)</li>
+    <li>Brandon Sanderson - <a href="">Shadows of Self</a> (Mistborn V)</li>
     <li>Robert Zelazni - The Chronicles of Amber</li>
     <li>Vernor Vinge - The Children of the Sky</li>
     <li>Robert Reed - Marrow</li>
