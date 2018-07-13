@@ -1,2 +1,5 @@
 Markdown
 pelican
+
+# needed by similar_posts plugin
+gensim
