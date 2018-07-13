@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2018-07-10
+Modified: 2018-07-13
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -20,6 +20,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20180630</span> Kristen Lepionka - <a href="https://www.goodreads.com/book/show/31450910-the-last-place-you-look">The Last Place You Look</a> (Roxane Weary #1)</li>
     <li><span class="label">20180706</span> Sylvain Neuvel - <a href="https://www.goodreads.com/book/show/25733990-sleeping-giants">Sleeping Giants</a> (Themis Files #1)</li>
     <li><span class="label">20180710</span> Sylvain Neuvel - <a href="https://www.goodreads.com/book/show/30134847-waking-gods">Waking Gods</a> (Themis Files #2)</li>
+    <li><span class="label">20180712</span> Sylvain Neuvel - <a href="https://www.goodreads.com/book/show/35820656-only-human">Only Human</a> (Themis Files #3)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -215,7 +216,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156784.Permutation_City">Permutation City</a> (Subjective Cosmology #2)</li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
     <li><span class="label"></span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
-    <li><span class="label"></span> Sylvain Neuvel - <a href="https://www.goodreads.com/book/show/35820656-only-human">Only Human</a> (Themis Files #3)</li>
     <li><span class="label"></span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/36373688-revenant-gun">Revenant Gun</a> (The Machineries of Empire #3)</li>
     <li><span class="label"></span> Liu Cixin - <a href="https://www.goodreads.com/book/show/25451264-death-s-end">Death's End</a> (Remembrance of Earth's Past #3)</li>
     <li>Michael Warren Lucas - <a href="https://www.goodreads.com/book/show/34684331-git-commit-murder">Git Commit Murder</a></li>
