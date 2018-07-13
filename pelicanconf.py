@@ -114,7 +114,7 @@ DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ['../../others/pelican-plugins']
-PLUGINS = ['neighbors', 'summary', 'related_posts']
+PLUGINS = ['neighbors', 'summary', 'similar_posts']
 
 STATIC_PATHS = ['images']
 
