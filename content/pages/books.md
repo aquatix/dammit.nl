@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2018-07-13
+Modified: 2018-07-25
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -21,6 +21,9 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20180706</span> Sylvain Neuvel - <a href="https://www.goodreads.com/book/show/25733990-sleeping-giants">Sleeping Giants</a> (Themis Files #1)</li>
     <li><span class="label">20180710</span> Sylvain Neuvel - <a href="https://www.goodreads.com/book/show/30134847-waking-gods">Waking Gods</a> (Themis Files #2)</li>
     <li><span class="label">20180712</span> Sylvain Neuvel - <a href="https://www.goodreads.com/book/show/35820656-only-human">Only Human</a> (Themis Files #3)</li>
+    <li><span class="label">20180722</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68428.The_Final_Empire">The Final Empire</a> (Mistborn I)</li>
+<!--    <li><span class="label">20180712</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68429.The_Well_of_Ascension">The Well of Ascension</a> (Mistborn II)</li>-->
+<!--    <li><span class="label">20180712</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/2767793-the-hero-of-ages">The Hero of Ages</a> (Mistborn III)</li>-->
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -229,11 +232,9 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li>Alastair Reynolds - <a href="https://www.goodreads.com/book/show/23013875-slow-bullets">Slow Bullets</a></li>
     <li>David Walton - <a href="https://www.goodreads.com/book/show/22551892-superposition">Superposition</a></li>
     <li>the Orthogonal trilogy by Greg Egan</li>
-    <li>Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68428.The_Final_Empire">The Final Empire</a> (Mistborn I)</li>
-    <li>Brandon Sanderson - <a href="">The Well of Ascension</a> (Mistborn II)</li>
-    <li>Brandon Sanderson - <a href="">The Hero of Ages</a> (Mistborn III)</li>
-    <li>Brandon Sanderson - <a href="">The Alloy of Law</a> (Mistborn IV)</li>
-    <li>Brandon Sanderson - <a href="">Shadows of Self</a> (Mistborn V)</li>
+    <li>Brandon Sanderson - <a href="https://www.goodreads.com/book/show/10803121-the-alloy-of-law">The Alloy of Law</a> (Mistborn IV)</li>
+    <li>Brandon Sanderson - <a href="https://www.goodreads.com/book/show/16065004-shadows-of-self">Shadows of Self</a> (Mistborn V)</li>
+    <li>Brandon Sanderson - <a href="https://www.goodreads.com/book/show/18739426-the-bands-of-mourning">The Bands of Mourning</a> (Mistborn VI)</li>
     <li>Robert Zelazni - The Chronicles of Amber</li>
     <li>Vernor Vinge - The Children of the Sky</li>
     <li>Robert Reed - Marrow</li>
