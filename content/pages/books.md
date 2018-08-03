@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2018-07-25
+Modified: 2018-08-03
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -22,7 +22,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20180710</span> Sylvain Neuvel - <a href="https://www.goodreads.com/book/show/30134847-waking-gods">Waking Gods</a> (Themis Files #2)</li>
     <li><span class="label">20180712</span> Sylvain Neuvel - <a href="https://www.goodreads.com/book/show/35820656-only-human">Only Human</a> (Themis Files #3)</li>
     <li><span class="label">20180722</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68428.The_Final_Empire">The Final Empire</a> (Mistborn I)</li>
-<!--    <li><span class="label">20180712</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68429.The_Well_of_Ascension">The Well of Ascension</a> (Mistborn II)</li>-->
+    <li><span class="label">20180730</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68429.The_Well_of_Ascension">The Well of Ascension</a> (Mistborn II)</li>
 <!--    <li><span class="label">20180712</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/2767793-the-hero-of-ages">The Hero of Ages</a> (Mistborn III)</li>-->
 </ol>
 
