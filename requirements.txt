@@ -5,9 +5,9 @@
 #    pip-compile --output-file requirements.txt requirements.in
 #
 blinker==1.4              # via pelican
-boto3==1.7.57             # via smart-open
+boto3==1.7.74             # via smart-open
 boto==2.49.0              # via smart-open
-botocore==1.10.57         # via boto3, s3transfer
+botocore==1.10.74         # via boto3, s3transfer
 bz2file==0.98             # via smart-open
 certifi==2018.4.16        # via requests
 chardet==3.0.4            # via requests
@@ -19,7 +19,7 @@ jinja2==2.10              # via pelican
 jmespath==0.9.3           # via boto3, botocore
 markdown==2.6.11
 markupsafe==1.0           # via jinja2
-numpy==1.14.5             # via gensim, scipy
+numpy==1.15.0             # via gensim, scipy
 pelican==3.7.1
 pygments==2.2.0           # via pelican
 python-dateutil==2.7.3    # via botocore, pelican
