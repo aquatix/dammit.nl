@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2018-08-03
+Modified: 2018-08-20
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -23,7 +23,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20180712</span> Sylvain Neuvel - <a href="https://www.goodreads.com/book/show/35820656-only-human">Only Human</a> (Themis Files #3)</li>
     <li><span class="label">20180722</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68428.The_Final_Empire">The Final Empire</a> (Mistborn I)</li>
     <li><span class="label">20180730</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68429.The_Well_of_Ascension">The Well of Ascension</a> (Mistborn II)</li>
-<!--    <li><span class="label">20180712</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/2767793-the-hero-of-ages">The Hero of Ages</a> (Mistborn III)</li>-->
+    <li><span class="label">20180819</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/2767793-the-hero-of-ages">The Hero of Ages</a> (Mistborn III)</li>
+<!--    <li><span class="label">20180819</span> Umberto Eco - <a href="https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose">The Name of the Rose</a></li>-->
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
