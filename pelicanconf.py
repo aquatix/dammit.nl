@@ -28,14 +28,15 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Felienne', 'http://www.felienne.com/'),
-         ('Rands in Repose', 'http://randsinrepose.com/'),
-         ('Ryan Rix', 'http://whatthefuck.computer/blog/'),
-         ('Tibo Beijen', 'https://www.tibobeijen.nl/'),
-         ('Vermyndax', 'http://galaxycow.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-        )
+LINKS = (
+    ('Felienne', 'http://www.felienne.com/'),
+    ('Rands in Repose', 'http://randsinrepose.com/'),
+    ('Ryan Rix', 'http://whatthefuck.computer/blog/'),
+    ('Tibo Beijen', 'https://www.tibobeijen.nl/'),
+    ('Vermyndax', 'http://galaxycow.com/'),
+    ('Python.org', 'http://python.org/'),
+    ('Jinja2', 'http://jinja.pocoo.org/'),
+)
 
 # Social widget
 SOCIAL = (
@@ -43,15 +44,15 @@ SOCIAL = (
      'fa fa-mastodon-square fa-fw fa-lg'),
     ('Twitter', 'https://twitter.com/michielscholten',
      'fa fa-twitter-square fa-fw fa-lg'),
-    #('LinkedIn', 'http://linkedin-url',
-    # 'fa fa-linkedin-square fa-fw fa-lg'),
-    #('BitBucket', 'http://bitbucket.org/username',
-    # 'fa fa-bitbucket-square fa-fw fa-lg'),
+    # ('LinkedIn', 'http://linkedin-url',
+    #  'fa fa-linkedin-square fa-fw fa-lg'),
+    # ('BitBucket', 'http://bitbucket.org/username',
+    #  'fa fa-bitbucket-square fa-fw fa-lg'),
     ('GitHub', 'https://github.com/aquatix',
      'fa fa-github-square fa-fw fa-lg'),
     ('Google+', 'http://plus.google.com/u/0/+MichielScholten',
      'fa fa-google-plus-square fa-fw fa-lg'),
-    )
+)
 
 # Social metadata
 OPEN_GRAPH = True
@@ -59,12 +60,12 @@ TWITTER_CARD = True
 TWITTER_USERNAME = 'michielscholten'
 
 TAGS_URL = 'tags.html'
-#GITHUB_URL = 'https://github.com/aquatix'
+# GITHUB_URL = 'https://github.com/aquatix'
 
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 # Show jumbotron page header with logo instead of plain text sitename
 CUSTOM_SITE_HEADERS = ("jumbotron_logo.html", )
@@ -77,9 +78,9 @@ CUSTOM_ARTICLE_HEADERS = (
 )
 
 # Put taglist at end of articles, and use the default sharing button implementation.
-#CUSTOM_ARTICLE_FOOTERS = ("taglist.html", "sharing.html", )
+# CUSTOM_ARTICLE_FOOTERS = ("taglist.html", "sharing.html", )
 CUSTOM_ARTICLE_FOOTERS = ("taglist.html", )
-#CUSTOM_SCRIPTS_ARTICLE = "sharing_scripts.html"
+# CUSTOM_SCRIPTS_ARTICLE = "sharing_scripts.html"
 
 # Default sidebar template. Omit this setting for single column mode without sidebar.
 SIDEBAR = "sidebar.html"
@@ -88,22 +89,23 @@ CUSTOM_SIDEBAR_MIDDLES = ("sb_links.html", )
 # Footer config
 SKIP_COLOPHON = True
 CUSTOM_FOOTER = "footer_customtext.html"
-CUSTOM_FOOTER_TEXT = "&copy; 2003 - 2018 " + AUTHOR + " under a <a href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license</a>"
+CUSTOM_FOOTER_TEXT = "&copy; 2003 - 2018 {} under a " \
+                     "<a href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/\">" \
+                     "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license</a>".format(AUTHOR)
 
 THEME = '../voidy-bootstrap'
-#STYLE_COLOUR = '#0c024d'
 STYLE_COLOUR = '#5C6448'
 
 # Extra stylesheets, for bootstrap overrides or additional styling.
-#STYLESHEET_FILES = ("voidybootstrap.css", "darkblue.css", "pygment_native.css",)
+# STYLESHEET_FILES = ("voidybootstrap.css", "darkblue.css", "pygment_native.css",)
 STYLESHEET_FILES = ("voidybootstrap.css?20170807", "olive.css?20170807",)
 
 # Extra Markdown options, https://github.com/getpelican/pelican/issues/1238#issuecomment-32821905
-#MD_EXTENSIONS = ['fenced_code', 'codehilite(css_class=highlight, linenums=True)', 'extra']
-#MD_EXTENSIONS = ['fenced_code', 'codehilite(css_class=highlight, linenums=False)', 'extra']
+# MD_EXTENSIONS = ['fenced_code', 'codehilite(css_class=highlight, linenums=True)', 'extra']
+# MD_EXTENSIONS = ['fenced_code', 'codehilite(css_class=highlight, linenums=False)', 'extra']
 MARKDOWN = {
     'extension_configs': {
-        #'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        # 'markdown.extensions.codehilite': {'css_class': 'highlight'},
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
     },
