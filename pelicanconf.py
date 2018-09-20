@@ -41,17 +41,17 @@ LINKS = (
 # Social widget
 SOCIAL = (
     ('Mastodon', 'https://mastodon.social/@diginaut',
-     'fab fa-mastodon-square fa-fw fa-lg'),
+     'fab fa-mastodon fa-fw fa-lg'),
     ('Twitter', 'https://twitter.com/michielscholten',
-     'fab fa-twitter-square fa-fw fa-lg'),
+     'fab fa-twitter fa-fw fa-lg'),
     # ('LinkedIn', 'http://linkedin-url',
     #  'fab fa-linkedin fa-fw fa-lg'),
     # ('BitBucket', 'http://bitbucket.org/username',
     #  'fab fa-bitbucket-square fa-fw fa-lg'),
     ('GitHub', 'https://github.com/aquatix',
-     'fab fa-github-square fa-fw fa-lg'),
+     'fab fa-github fa-fw fa-lg'),
     ('Google+', 'http://plus.google.com/u/0/+MichielScholten',
-     'fab fa-google-plus-square fa-fw fa-lg'),
+     'fab fa-google-plus fa-fw fa-lg'),
 )
 
 # Social metadata
