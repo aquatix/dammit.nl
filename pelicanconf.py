@@ -62,10 +62,12 @@ TWITTER_USERNAME = 'michielscholten'
 TAGS_URL = 'tags.html'
 # GITHUB_URL = 'https://github.com/aquatix'
 
+SITE_SUMMARY = 'Weblog/rantbox of Michiel Scholten, software developer, photography enthousiast and all around nerd. Expect howtos, ramblings and random findings'
+
 # The default metadata you want to use for all articles and pages.
 DEFAULT_METADATA = {
-    'description': 'Weblog/rantbox of Michiel Scholten, software developer, photography enthousiast and all around nerd. Expect howtos, ramblings and random findings',
-    'status': 'draft'
+    # 'description': 'Weblog/rantbox of Michiel Scholten, software developer, photography enthousiast and all around nerd. Expect howtos, ramblings and random findings',
+    # 'status': 'draft'
 }
 
 # Uncomment following line if you want document-relative URLs when developing
