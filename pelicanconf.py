@@ -34,7 +34,8 @@ LINKS = (
     ('Ryan Rix', 'http://whatthefuck.computer/blog/'),
     ('Tibo Beijen', 'https://www.tibobeijen.nl/'),
     ('Vermyndax', 'http://galaxycow.com/'),
-    ('Python.org', 'http://python.org/'),
+    ('Pixls.us FLOSS photography', 'https://pixls.us/'),
+    ('Python.org', 'https://python.org/'),
     ('Jinja2', 'http://jinja.pocoo.org/'),
 )
 
