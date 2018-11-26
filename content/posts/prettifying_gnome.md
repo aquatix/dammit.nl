@@ -9,7 +9,7 @@ Image:
 
 This little howto has been long in the making, as I wanted to do a write-up of how I themed and tweaked my Gnome(-Shell) based desktops to my liking for quite a while. My desktop environments are based on Ubuntu, but this howto can be applied to any distribution and OS that runs Gnome-Shell. The setup described here is tested on at least Gnome 3.28 and 3.30 (latest Gnome release), so for example works on Ubuntu 18.04 LTS and 18.10.
 
-On Ubuntu, I installed the 'vanilla' version of Gnome-Shell by installing the `vanilla-gnome-desktop` package and chosing the `Gnome Xorg` session in the GDM login screen. Otherwise, you get the Ubuntu tweaked version of Gnome-Shell, which might suite your tastes, but has the bar on the left side and some garish orange-based colours. I like orange, but the changes that `vanilla-gnome-desktop` does to the bootscreen and the login screens are welcome.
+On Ubuntu, I installed the 'vanilla' version of Gnome-Shell by installing the `vanilla-gnome-desktop` package and choosing the `GNOME on Xorg` session in the GDM login screen. Otherwise, you get the Ubuntu tweaked version of Gnome-Shell, which might suite your tastes, but has the bar on the left side and some garish orange-based colours. I like orange, but the changes that `vanilla-gnome-desktop` does to the bootscreen and the login screens are welcome.
 
 
 ## Get-out-of-my-way, but still provide me useful information
