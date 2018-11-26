@@ -1,13 +1,18 @@
 Title: Pretty Gnome
 Started: 2016-02-24, 2017-04-26 16:17:00, 2017-06-03, 2018-11-25
-Date: 2017-04-26 16:17:00
+Date: 2018-11-26 16:17:00
 Slug: pretty-gnome
 Authors: Michiel Scholten
 Category: howto
 Tags: linux, desktop, howto
-Status: draft
+Image:
 
-This little howto has been long in the making, as I wanted to do a write-up of how I themed and tweaked my Gnome(-Shell) based desktops to my liking for quite a while.
+This little howto has been long in the making, as I wanted to do a write-up of how I themed and tweaked my Gnome(-Shell) based desktops to my liking for quite a while. My desktop environments are based on Ubuntu, but this howto can be applied to any distribution and OS that runs Gnome-Shell. The setup described here is tested on at least Gnome 3.28 and 3.30 (latest Gnome release), so for example works on Ubuntu 18.04 LTS and 18.10.
+
+On Ubuntu, I installed the 'vanilla' version of Gnome-Shell by installing the `vanilla-gnome-desktop` package and chosing the `Gnome Xorg` session in the GDM login screen. Otherwise, you get the Ubuntu tweaked version of Gnome-Shell, which might suite your tastes, but has the bar on the left side and some garish orange-based colours. I like orange, but the changes that `vanilla-gnome-desktop` does to the bootscreen and the login screens are welcome.
+
+
+## Get-out-of-my-way, but still provide me useful information
 
 I use a bunch of Gnome-Shell extensions to provide some extra convenience and declutter the environment.
 
@@ -26,6 +31,8 @@ Some space can be saved and cleanness achieved by using the following few extens
 
 [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/): This extension moves legacy tray icons (bottom left of Gnome Shell) to the top panel. It is a fork from the original extension from ag with settings for icon opacity, saturation, padding, size and tray position, along with a few minor fixes and integration with the Skype integration extension.
 
+I have them show on the right side of the bar, and set Opacity to 255 (full opaque); icon size at 16, as the default 24 is larger than the other icons in the panel.
+
 [Darker overview](https://extensions.gnome.org/extension/1177/darker-overview/): Make overview background darker so even white text is readable on bright or colorful wallpapers. This also can remove the vignette. I set the darkness to 8, and disable the vignette.
 
 Some useful additions are:
@@ -36,12 +43,28 @@ Some useful additions are:
 
 [Caffeine](https://extensions.gnome.org/extension/517/caffeine/): Disable the screensaver and auto suspend. Useful when giving a presentation, watching a movie or when you're staring too long at your code and the screen saver kicks in.
 
+
+## Looks
+
 Theming is an essential part of user experience for my desktop environment. Both shell and GTK themes are provided by the excellent [Materia theme](https://github.com/nana-4/materia-theme). I clone the repository in a directory (for example in `~/workspace/themes`) with a `git clone https://github.com/nana-4/materia-theme.git` (you can use SSH if you have a GitHub account), and then from the `materia-theme` dir install the theme with `sudo ./install.sh`. With gnome-tweak-tool (Tweaks in the application menu), I chose the Materia-dark-compact variant, which provides a nice dark theme, and makes the widgets a bit more compact, so I can cram in more... stuff :)
 
 The icons I use with this sleek theme, are the ones from the [Papirus project](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme), which you can obtain rather easily. For example, on Ubuntu, add the PPA:
 
     sudo add-apt-repository ppa:papirus/papirus
-    sudo apt-get update
-    sudo apt-get install papirus-icon-theme
+    sudo apt update
+    sudo apt install papirus-icon-theme
+
+Use the Tweaks application again to set the Icons to Papirus-Dark.
+
+In Ubuntu 18.10, I'm happy to use the Yaru cursor theme (comes by default there), so I leave that one unchanged. On lower versions (e.g., 18.04 LTS), I can recommend installing the Breeze icons:
+
+    sudo apt install breeze-cursor-theme
+
+and set it correspondingly under Cursor in Tweaks' Appearance tab.
+
+As I spend quite some time in terminals, and tend to stick with the Gnome Terminal, I used [Gogh](https://github.com/Mayccoll/Gogh) to choose a matching pleasant colour scheme. Gogh [supports a lot of colour schemes](https://mayccoll.github.io/Gogh/), so choose one to your liking. I found Afterglow to match nicely with the Materia theme, and it has pleasant colours with enough contrast, but without blinding me (which is why I choose dark-ish themes in general).
 
 
+## More tweaks
+
+I like winding down with nightlight enabled devices, so I enabled that on Gnome too. By default the screen gets way too yellow/brown in my opinion, so I used [this howto on OMG Ubuntu](https://www.omgubuntu.co.uk/2017/07/adjust-color-temperature-gnome-night-light) to set the value to 5500, which still nicely filters the blue away, but keeps the colours usable.
