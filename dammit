@@ -48,7 +48,7 @@ if [ $ACTION == "update" ]; then
     update_dammit
 elif [ $ACTION == "drafts" ]; then
     cd ${DAMMITDIR}/content/posts
-    grep -r "Status:" . | grep -i draft | cut -d. -f1 | sort
+    grep -r "Status:" . | grep -i draft | cut -d. -f2 | cut -c 2- | sort
 elif [ "$ACTION" == 'new' ] && [ -z "$2" ]; then
     echo "[!] Please provide a slug (e.g., new-post-subject)"
     exit
