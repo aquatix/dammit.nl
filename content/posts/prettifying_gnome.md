@@ -1,10 +1,11 @@
 Title: Pretty Gnome
-Started: 2016-02-24, 2017-04-26 16:17:00, 2017-06-03, 2018-11-25
+Started: 2016-02-24, 2017-04-26 16:17:00, 2017-06-03, 2018-11-25, 2018-11-26
 Date: 2018-11-26 16:17:00
 Slug: pretty-gnome
 Authors: Michiel Scholten
 Category: howto
 Tags: linux, desktop, howto
+Status: draft
 Image:
 
 This little howto has been long in the making, as I wanted to do a write-up of how I themed and tweaked my Gnome(-Shell) based desktops to my liking for quite a while. My desktop environments are based on Ubuntu, but this howto can be applied to any distribution and OS that runs Gnome-Shell. The setup described here is tested on at least Gnome 3.28 and 3.30 (latest Gnome release), so for example works on Ubuntu 18.04 LTS and 18.10.
