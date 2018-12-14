@@ -97,6 +97,6 @@ else
     echo "    - new <slug>       Create a new post with filename <slug>"
     echo "    - edit <slug>      Continue editing <slug>, git commit after"
     echo "    - drafts           List all posts currently in draft"
-    echo "    - update           Generate update and upload to server"
+    #echo "    - update           Generate update and upload to server"
     exit
 fi
