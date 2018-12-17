@@ -37,7 +37,7 @@ vim,
 web,
 work'
 
-DAMMITDIR=$( dirname $(readlink -f "$0") )
+DAMMITDIR=$( dirname "$(readlink -f $0)" )
 ACTION=$1
 
 if [ -z "$ACTION" ]; then
