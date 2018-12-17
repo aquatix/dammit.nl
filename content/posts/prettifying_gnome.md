@@ -26,7 +26,7 @@ Information at a glance I get from the [OpenWeather](https://extensions.gnome.or
 
 Some space can be saved and cleanness achieved by using the following few extensions:
 
-[Remove dropdown arrows](https://extensions.gnome.org/extension/800/remove-dropdown-arrows/): Removes the dropdown arrows which were introduced in Gnome 3.10 from the App Menu, System Menu, Input Menu, Access Menu, Places Menu, Applications Menu and any other extension that wants to add dropdown arrows.
+[Remove drop-down arrows](https://extensions.gnome.org/extension/800/remove-dropdown-arrows/): Removes the drop-down arrows which were introduced in Gnome 3.10 from the App Menu, System Menu, Input Menu, Access Menu, Places Menu, Applications Menu and any other extension that wants to add drop-down arrows.
 
 [No Title Bar](https://extensions.gnome.org/extension/1267/no-title-bar/): removes the title bar, moves the window title and buttons to the top panel.
 
