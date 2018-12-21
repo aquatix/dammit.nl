@@ -38,4 +38,6 @@ It breaks us free of the shackles of the social walled gardens, and we can still
 
 Try it! I for me will for sure.
 
+Oh by the way, I've been doing this exact thing for [fifteen years now](https://dammit.nl/20031221-my-very-own-rantbox.html); congrats dammIT!
+
 <!-- [The Builder's High](http://randsinrepose.com/archives/the-builders-high/) by Rand -->
