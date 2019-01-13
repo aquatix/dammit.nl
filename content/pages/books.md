@@ -1,13 +1,23 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2018-09-10
+Modified: 2019-01-13
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
 <p>Books I've read in the past. I might have written something about them, meaning the entries here will have a [review] link to a corresponding weblog posting. Otherwise, I try to link them to their page on Goodreads. The date denotes the day I <em>started</em> reading. Generally, the date of the next book is when I finished the last :)</p>
 
 <p>You can <a href="https://www.goodreads.com/review/list/17198769-michiel-scholten">find me on Goodreads</a> too. Maybe become book friends? :)</p>
+
+<h2 id="2019">2019</h2>
+
+<ol>
+    <li><span class="label">20180910</span> Umberto Eco - <a href="https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose">The Name of the Rose</a></li>
+    <li><span class="label">20190101</span> <span class="label">comic</span> Roger Leloup - <a href="https://www.goodreads.com/book/show/1768025.L_Orgue_du_diable">Het Helse Orgel</a> (Yoko Tsuno #2)</li>
+    <li><span class="label">20190101</span> <span class="label">comic</span> Roger Leloup - <a href=""https://www.goodreads.com/book/show/1768022.La_forge_de_Vulcain>Vulcanus' Smidse</a> (Yoko Tsuno #3)</li>
+    <li><span class="label">20190101</span> <span class="label">comic</span> Roger Leloup - <a href="https://www.goodreads.com/book/show/1768021.Aventures_lectroniques">Avonturen met Electronica</a> (Yoko Tsuno #4)</li>
+    <li><span class="label">20190111</span> Neil Gaiman - <a href="https://www.goodreads.com/book/show/37903770-norse-mythology">Norse Mythology</a></li>
+</ol>
 
 <h2 id="2018">2018</h2>
 
