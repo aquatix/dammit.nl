@@ -19,6 +19,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20190111</span> Neil Gaiman - <a href="https://www.goodreads.com/book/show/37903770-norse-mythology">Norse Mythology</a></li>
 </ol>
 
+<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
+
 <h2 id="2018">2018</h2>
 
 <ol>
@@ -37,8 +39,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20180819</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/2767793-the-hero-of-ages">The Hero of Ages</a> (Mistborn III)</li>
     <li><span class="label">20180910</span> Umberto Eco - <a href="https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose">The Name of the Rose</a></li>
 </ol>
-
-<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
 <h2 id="2017">2017</h2>
 
