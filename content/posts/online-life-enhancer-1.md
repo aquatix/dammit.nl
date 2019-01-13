@@ -12,11 +12,11 @@ Today I want to talk to you about the web and how it sometimes sucks. At least, 
 
 Take for example YouTube, where overlays can ruin the end of a clip, you keep fiddling with the quality controls or the zoom levels, and so on.
 
-Enter this online life enhancer: [Enhancer for YouTube&tm;](https://www.mrfdev.com/enhancer-for-youtube). This extension for - at the time of this writing - four browsers (Firefox, Chrome, Opera, and Edge) makes the YouTube experience a lot better.
+Enter this online life enhancer: [Enhancer for YouTube&trade;](https://www.mrfdev.com/enhancer-for-youtube). This extension for - at the time of this writing - four browsers (Firefox, Chrome, Opera, and Edge) makes the YouTube experience a lot better.
 
 Like mentioned, it has support to remove overlays (which can be annoyingly in the way), remove ads (with an option to whitelist your favourite channels), it has playback speed control, quality selection, volume level control, auto-pause, preloading settings, pinned and detached player stuff (for example when scrolling through the comments and such), looping, cinema mode (one of my favourite functions), custom themes and much more.
 
-And as I like to "darkmode all the things", after enabling the dark version of YouTube by clicking my avatar and choosing "Dark theme: On" in the menu, I tweaked the colours of *Enhancer for YouTube&tm;* too:
+And as I like to "darkmode all the things", after enabling the dark version of YouTube by clicking my avatar and choosing "Dark theme: On" in the menu, I tweaked the colours of *Enhancer for YouTube&trade;* too:
 
 - Click the gear icon in its toolbar when viewing a clip
 - At the top of its options tab that now opens, there's four colour pickers for the Toolbar
