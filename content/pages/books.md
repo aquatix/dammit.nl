@@ -25,6 +25,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20180128</span> Liu Cixin - <a href="https://www.goodreads.com/book/show/23168817-the-dark-forest">The Dark Forest</a> (Remembrance of Earth's Past #2)</li>
     <li><span class="label">20180314</span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/30691976-raven-stratagem">Raven Stratagem</a> (The Machineries of Empire #2)</li>
     <li><span class="label">20180425</span> Glen Cook - <a href="https://www.goodreads.com/book/show/400909.Red_Iron_Nights">Red Iron Nights</a> (Garrett Files #6)</li>
+    <li><span class="label">20180504</span> <span class="label">comic</span> Roger Leloup - <a href="https://www.goodreads.com/book/show/9738851-trio-in-het-onbekende">Trio in het onbekende</a> (Yoko Tsuno #1)</li>
     <li><span class="label">20180516</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/34541.Carpe_Jugulum">Carpe Jugulum</a> (Discworld #23, Witches #6)</li>
     <li><span class="label">20180619</span> Greg Egan - <a href="https://www.goodreads.com/book/show/156775.Quarantine">Quarantine</a> (Subjective Cosmology #1)</li>
     <li><span class="label">20180630</span> Kristen Lepionka - <a href="https://www.goodreads.com/book/show/31450910-the-last-place-you-look">The Last Place You Look</a> (Roxane Weary #1)</li>
