@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2019-01-13
+Modified: 2019-01-27
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -17,6 +17,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20190101</span> <span class="label">comic</span> Roger Leloup - <a href=""https://www.goodreads.com/book/show/1768022.La_forge_de_Vulcain>Vulcanus' Smidse</a> (Yoko Tsuno #3)</li>
     <li><span class="label">20190101</span> <span class="label">comic</span> Roger Leloup - <a href="https://www.goodreads.com/book/show/1768021.Aventures_lectroniques">Avonturen met Electronica</a> (Yoko Tsuno #4)</li>
     <li><span class="label">20190111</span> Neil Gaiman - <a href="https://www.goodreads.com/book/show/37903770-norse-mythology">Norse Mythology</a></li>
+    <li><span class="label">20190119</span> Preston &amp; Child - <a href="https://www.goodreads.com/book/show/7122034-fever-dream">Fever Dream</a> (Pendergast #10, Helen #1)</li>
+    <li><span class="label">20190126</span> Preston &amp; Child - <a href="https://www.goodreads.com/book/show/show/40884817-cold-vengeance">Cold Vengeance</a> (Pendergast #11, Helen #2)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
