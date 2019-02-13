@@ -20,6 +20,7 @@ This will return a string that is based on the latest tag it could find, the amo
 Now, you would like to use that in your Python program:
 
     import os
+    import subprocess
 
     # Make sure the working directory is our project
     cwd = os.path.dirname(os.path.realpath(__file__))
