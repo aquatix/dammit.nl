@@ -1,5 +1,5 @@
 Title: Pretty Gnome
-Started: 2016-02-24, 2017-04-26 16:17:00, 2017-06-03, 2018-11-25, 2018-11-26
+Started: 2016-02-24, 2017-04-26 16:17:00, 2017-06-03, 2018-11-25, 2018-11-26, 2019-02-26
 Date: 2018-11-26 16:17:00
 Slug: pretty-gnome
 Authors: Michiel Scholten
@@ -64,6 +64,8 @@ In Ubuntu 18.10, I'm happy to use the Yaru cursor theme (comes by default there)
 and set it correspondingly under Cursor in Tweaks' Appearance tab.
 
 As I spend quite some time in terminals, and tend to stick with the Gnome Terminal, I used [Gogh](https://github.com/Mayccoll/Gogh) to choose a matching pleasant colour scheme. Gogh [supports a lot of colour schemes](https://mayccoll.github.io/Gogh/), so choose one to your liking. I found Afterglow to match nicely with the Materia theme, and it has pleasant colours with enough contrast, but without blinding me (which is why I choose dark-ish themes in general).
+
+Firefox works nicely with the Materia theme, but some websites do no style inputs correctly, so you can encounter dark inputs with dark text, which, well, is not optimal. To counter this, use the [Text Contrast for Dark Themes](https://addons.mozilla.org/en-GB/firefox/addon/text-contrast-for-dark-themes/) addon.
 
 
 ## More tweaks
