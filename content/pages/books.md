@@ -233,7 +233,11 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 <h2 id="queue">Queue (no particular order)</h2>
 <ul>
     <li><span class="label"></span> Liu Cixin - <a href="https://www.goodreads.com/book/show/25451264-death-s-end">Death's End</a> (Remembrance of Earth's Past #3)</li>
-    <li><span class="label"></span> Stephen Barker - <a href="https://www.goodreads.com/book/show/6575201-xeelee">Xeelee, an omnibus</a> (Xeelee Sequence #1-#4)</li>
+    <li><span class="label"></span> Stephen Barker - <a href="https://www.goodreads.com/book/show/63960.Vacuum_Diagrams__Xeelee_Sequence___5_">Vacuum Diagrams</a> (Xeelee Sequence #5)</li>
+    <li><span class="label"></span> Stephen Barker - <a href="https://www.goodreads.com/book/show/66795.Timelike_Infinity">Timelike Infinity</a> (Xeelee Sequence #2)</li>
+    <li><span class="label"></span> Stephen Barker - <a href="https://www.goodreads.com/book/show/66788.Ring">Ring</a> (Xeelee Sequence #4)</li>
+    <li><span class="label"></span> Stephen Barker - <a href="https://www.goodreads.com/book/show/100680.Raft">Raft</a> (Xeelee Sequence #1)</li>
+    <li><span class="label"></span> Stephen Barker - <a href="https://www.goodreads.com/book/show/100681.Flux">Flux</a> (Xeelee Sequence #3)</li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156784.Permutation_City">Permutation City</a> (Subjective Cosmology #2)</li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
     <li><span class="label"></span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
