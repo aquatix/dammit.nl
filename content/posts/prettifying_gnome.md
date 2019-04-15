@@ -67,6 +67,8 @@ As I spend quite some time in terminals, and tend to stick with the Gnome Termin
 
 Firefox works nicely with the Materia theme, but some websites do no style inputs correctly, so you can encounter dark inputs with dark text, which, well, is not optimal. To counter this, use the [Text Contrast for Dark Themes](https://addons.mozilla.org/en-GB/firefox/addon/text-contrast-for-dark-themes/) addon.
 
+To have your QT5 (KDE) apps look decent, install the qt5ct (QT5 Configuration Tool): `apt install qt5ct`. Open it, choose the gtk2 style in Appearance, select the fonts and icon them you like, and maybe add some GUI effects in the Interface tab.
+
 
 ## More tweaks
 
