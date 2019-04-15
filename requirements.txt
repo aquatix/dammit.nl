@@ -13,7 +13,7 @@ certifi==2019.3.9         # via requests
 chardet==3.0.4            # via requests
 docutils==0.14            # via botocore, pelican
 feedgenerator==1.9        # via pelican
-gensim==3.7.1
+gensim==3.7.2
 idna==2.8                 # via requests
 jinja2==2.10.1            # via pelican
 jmespath==0.9.4           # via boto3, botocore
