@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2019-02-16
+Modified: 2019-04-15
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -21,6 +21,9 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20190126</span> Preston &amp; Child - <a href="https://www.goodreads.com/book/show/show/40884817-cold-vengeance">Cold Vengeance</a> (Pendergast #11, Helen #2)</li>
     <li><span class="label">20190206</span> Preston &amp; Child - <a href="https://www.goodreads.com/book/show/show/14889780-two-graves">Two Graves</a> (Pendergast #12, Helen #3)</li>
     <li><span class="label">20190216</span> Jim Butcher - <a href="https://www.goodreads.com/book/show/47212.Storm_Front">Storm Front</a> (Dresden Files #1)</li>
+    <li><span class="label">20190306</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/10803121-the-alloy-of-law">The Alloy of Law</a> (Mistborn IV)</li>
+    <li><span class="label">20190320</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/16065004-shadows-of-self">Shadows of Self</a> (Mistborn V)</li>
+    <li><span class="label">20190404</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/18739426-the-bands-of-mourning">The Bands of Mourning</a> (Mistborn VI)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -253,9 +256,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li>Alastair Reynolds - <a href="https://www.goodreads.com/book/show/23013875-slow-bullets">Slow Bullets</a></li>
     <li>David Walton - <a href="https://www.goodreads.com/book/show/22551892-superposition">Superposition</a></li>
     <li>the Orthogonal trilogy by Greg Egan</li>
-    <li>Brandon Sanderson - <a href="https://www.goodreads.com/book/show/10803121-the-alloy-of-law">The Alloy of Law</a> (Mistborn IV)</li>
-    <li>Brandon Sanderson - <a href="https://www.goodreads.com/book/show/16065004-shadows-of-self">Shadows of Self</a> (Mistborn V)</li>
-    <li>Brandon Sanderson - <a href="https://www.goodreads.com/book/show/18739426-the-bands-of-mourning">The Bands of Mourning</a> (Mistborn VI)</li>
     <li>Robert Zelazni - The Chronicles of Amber</li>
     <li>Vernor Vinge - The Children of the Sky</li>
     <li>Robert Reed - Marrow</li>
