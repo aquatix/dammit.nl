@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2019-05-15
+Modified: 2019-06-15
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -26,6 +26,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20190404</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/18739426-the-bands-of-mourning">The Bands of Mourning</a> (Mistborn VI)</li>
     <li><span class="label">20190421</span> Stephen Barker - <a href="https://www.goodreads.com/book/show/100680.Raft">Raft</a> (Xeelee Sequence #1)</li>
     <li><span class="label">20190428</span> Stephen Barker - <a href="https://www.goodreads.com/book/show/66795.Timelike_Infinity">Timelike Infinity</a> (Xeelee Sequence #2)</li>
+    <li><span class="label">20190604</span> Stephen Barker - <a href="https://www.goodreads.com/book/show/100681.Flux">Flux</a> (Xeelee Sequence #3)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -239,9 +240,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 <ul>
     <li><span class="label"></span> Liu Cixin - <a href="https://www.goodreads.com/book/show/25451264-death-s-end">Death's End</a> (Remembrance of Earth's Past #3)</li>
     <li><span class="label"></span> Stephen Barker - <a href="https://www.goodreads.com/book/show/63960.Vacuum_Diagrams__Xeelee_Sequence___5_">Vacuum Diagrams</a> (Xeelee Sequence #5)</li>
-    <li><span class="label"></span> Stephen Barker - <a href="https://www.goodreads.com/book/show/66795.Timelike_Infinity">Timelike Infinity</a> (Xeelee Sequence #2)</li>
     <li><span class="label"></span> Stephen Barker - <a href="https://www.goodreads.com/book/show/66788.Ring">Ring</a> (Xeelee Sequence #4)</li>
-    <li><span class="label"></span> Stephen Barker - <a href="https://www.goodreads.com/book/show/100681.Flux">Flux</a> (Xeelee Sequence #3)</li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156784.Permutation_City">Permutation City</a> (Subjective Cosmology #2)</li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
     <li><span class="label"></span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
