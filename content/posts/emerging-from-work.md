@@ -1,7 +1,7 @@
-Title: Emerged in work
+Title: Emerging from work
 Started: 2019-07-14 10:17:52
 Date: 2019-07-14 10:17:52
-Slug: emerged-in-work
+Slug: emerging-from-work
 Location: Home
 Authors: Michiel Scholten
 Category: thoughts
