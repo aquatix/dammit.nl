@@ -96,7 +96,7 @@ CUSTOM_SIDEBAR_MIDDLES = ("sb_links.html", )
 # Footer config
 SKIP_COLOPHON = True
 CUSTOM_FOOTER = "footer_customtext.html"
-CUSTOM_FOOTER_TEXT = "&copy; 2003 - 2018 {} under a " \
+CUSTOM_FOOTER_TEXT = "&copy; 2003 - 2019 {} under a " \
                      "<a href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/\">" \
                      "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license</a>".format(AUTHOR)
 
@@ -105,7 +105,7 @@ STYLE_COLOUR = '#5C6448'
 
 # Extra stylesheets, for bootstrap overrides or additional styling.
 # STYLESHEET_FILES = ("voidybootstrap.css", "darkblue.css", "pygment_native.css",)
-STYLESHEET_FILES = ("voidybootstrap.css?20170807", "olive.css?20170807",)
+STYLESHEET_FILES = ("voidybootstrap.css?20170807", "olive.css?20190714",)
 
 # Extra Markdown options, https://github.com/getpelican/pelican/issues/1238#issuecomment-32821905
 # MD_EXTENSIONS = ['fenced_code', 'codehilite(css_class=highlight, linenums=True)', 'extra']
