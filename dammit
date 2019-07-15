@@ -78,7 +78,17 @@ elif [ $ACTION == "new" ]; then
     echo "Status: draft" >> ${BLOGPOSTFILE}
     echo "" >> ${BLOGPOSTFILE}
     vim ${BLOGPOSTFILE}
-    echo "Do not forget to add it to version control!"
+
+    read -p "Do you want to add it to version control now and commit? (y|N) " -n 1 -r
+    echo  # Ensure line break after answer
+    if [[ $REPLY =~ ^[Yy]$ ]]
+    then
+        cd ${DAMMITDIR}/content/posts
+        git add "${BLOGPOSTFILE}"
+        git commit "${BLOGPOSTFILE}"
+    else
+        echo "Do not forget to add it to version control later!"
+    fi
 
 elif [ $ACTION == "edit" ]; then
     SLUG=$2
