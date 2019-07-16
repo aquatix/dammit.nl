@@ -8,7 +8,7 @@ Category: howto
 Tags: dev, notifications, tech, web, work
 Status: published
 
-To be able to receive [Sentry](https://sentry.io/) notifications on Telegram (without using the plugin which only works in the self-hosted Sentry server), one can use webhooks. As I have [webhaak]({filename}../webhaak-all-the-things.md) to <strike>ducttape together</strike> webhook all the things, I created a script to send messages to our dev chat, filtering away some that are not relevant.
+To be able to receive [Sentry](https://sentry.io/) notifications on Telegram (without using the plugin which only works in the self-hosted Sentry server), one can use webhooks. As I have [webhaak]({filename}webhaak-all-the-things.md) to <strike>ducttape together</strike> webhook all the things, I created a script to send messages to our dev chat, filtering away some that are not relevant.
 
 ```
 #!/bin/bash
