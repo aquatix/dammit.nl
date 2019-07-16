@@ -1,15 +1,15 @@
-Title: 
+Title: Receive Sentry messages as Telegram notifications
 Started: 2019-07-16 15:35:43
-Date: 2019-07-16 15:35:43
+Date: 2019-07-16 17:51:43
 Slug: sentry-to-telegram
 Location: Work
 Authors: Michiel Scholten
 Category: howto
 Tags: dev, notifications, tech, web, work
-Status: draft
+Status: published
 
-To be able to receive [Sentry](https://sentry.io/) notifications on Telegram (without using the plugin which only works in the self-hosted Sentry server), one can use webhooks. As I have [webhaak](webhaak) to webhook all the things, I created a script to send messages to our dev chat, filtering away some that are not relevant.
-``````
+To be able to receive [Sentry](https://sentry.io/) notifications on Telegram (without using the plugin which only works in the self-hosted Sentry server), one can use webhooks. As I have [webhaak]({filename}../webhaak-all-the-things) to ~ducttape together~ webhook all the things, I created a script to send messages to our dev chat, filtering away some that are not relevant.
+
 ```
 #!/bin/bash
 set -e
@@ -34,9 +34,10 @@ then
     exit
 fi
 
+# Make the URL a bit more neat
 URL=${URL//?referrer=webhooks_plugin/}
 
-
+# The message to send
 REPORT="[${PROJECTNAME}] ${MESSAGE}
 
 in ${CULPRIT}
