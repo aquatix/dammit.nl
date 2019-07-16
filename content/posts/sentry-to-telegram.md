@@ -61,3 +61,14 @@ curl -X "POST" "https://api.telegram.org/bot${KEY}/sendMessage" \
      --data-urlencode "disable_web_page_preview=true" \
      --data-urlencode "parse_mode=markdown"
 ```
+
+This script is called from webhaak, with a config like the following:
+
+```
+        sentry:
+            triggerkey: 7c6bd635948eea920fc15df87400a45b056c9779f4305bf0
+            notify: false
+            command: /srv/scripts/sentry_to_telegram.sh "PROJECT_NAME" "CULPRIT" "URL" "TITLE"
+```
+
+You can see it in context in this [webhaak example config](https://github.com/aquatix/webhaak/blob/master/example_config/examples.yaml). The `notify: false` takes care no PushOver notification is sent every time the webhook is called.
