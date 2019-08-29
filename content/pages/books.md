@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2019-06-15
+Modified: 2019-08-29
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -14,7 +14,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 <ol>
     <li><span class="label">20180910</span> Umberto Eco - <a href="https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose">The Name of the Rose</a></li>
     <li><span class="label">20190101</span> <span class="label">comic</span> Roger Leloup - <a href="https://www.goodreads.com/book/show/1768025.L_Orgue_du_diable">Het Helse Orgel</a> (Yoko Tsuno #2)</li>
-    <li><span class="label">20190101</span> <span class="label">comic</span> Roger Leloup - <a href=""https://www.goodreads.com/book/show/1768022.La_forge_de_Vulcain>Vulcanus' Smidse</a> (Yoko Tsuno #3)</li>
+    <li><span class="label">20190101</span> <span class="label">comic</span> Roger Leloup - <a href="https://www.goodreads.com/book/show/1768022.La_forge_de_Vulcain">Vulcanus' Smidse</a> (Yoko Tsuno #3)</li>
     <li><span class="label">20190101</span> <span class="label">comic</span> Roger Leloup - <a href="https://www.goodreads.com/book/show/1768021.Aventures_lectroniques">Avonturen met Electronica</a> (Yoko Tsuno #4)</li>
     <li><span class="label">20190111</span> Neil Gaiman - <a href="https://www.goodreads.com/book/show/37903770-norse-mythology">Norse Mythology</a></li>
     <li><span class="label">20190119</span> Preston &amp; Child - <a href="https://www.goodreads.com/book/show/7122034-fever-dream">Fever Dream</a> (Pendergast #10, Helen #1)</li>
@@ -27,6 +27,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20190421</span> Stephen Barker - <a href="https://www.goodreads.com/book/show/100680.Raft">Raft</a> (Xeelee Sequence #1)</li>
     <li><span class="label">20190428</span> Stephen Barker - <a href="https://www.goodreads.com/book/show/66795.Timelike_Infinity">Timelike Infinity</a> (Xeelee Sequence #2)</li>
     <li><span class="label">20190604</span> Stephen Barker - <a href="https://www.goodreads.com/book/show/100681.Flux">Flux</a> (Xeelee Sequence #3)</li>
+    <li><span class="label">20190816</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/34498.The_Truth">The Truth</a> (Discworld #25)</li>
+    <li><span class="label">20190819</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/48002.Thief_of_Time">Thief of Time</a> (Discworld #26)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
