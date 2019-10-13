@@ -5,31 +5,31 @@
 #    pip-compile requirements.in
 #
 blinker==1.4              # via pelican
-boto3==1.9.210            # via smart-open
+boto3==1.9.248            # via smart-open
 boto==2.49.0              # via smart-open
-botocore==1.12.210        # via boto3, s3transfer
-certifi==2019.6.16        # via requests
+botocore==1.12.248        # via boto3, s3transfer
+certifi==2019.9.11        # via requests
 chardet==3.0.4            # via requests
 docutils==0.15.2          # via botocore, pelican
 feedgenerator==1.9        # via pelican
-gensim==3.8.0
+gensim==3.8.1
 idna==2.8                 # via requests
-jinja2==2.10.1            # via pelican
+jinja2==2.10.3            # via pelican
 jmespath==0.9.4           # via boto3, botocore
 markdown==3.1.1
 markupsafe==1.1.1         # via jinja2
-numpy==1.17.0             # via gensim, scipy
-pelican==4.1.0
+numpy==1.17.2             # via gensim, scipy
+pelican==4.1.3
 pygments==2.4.2           # via pelican
 python-dateutil==2.8.0    # via botocore, pelican
-pytz==2019.2              # via feedgenerator, pelican
+pytz==2019.3              # via feedgenerator, pelican
 requests==2.22.0          # via smart-open
 s3transfer==0.2.1         # via boto3
 scipy==1.3.1              # via gensim
 six==1.12.0               # via feedgenerator, gensim, pelican, python-dateutil
 smart-open==1.8.4         # via gensim
 unidecode==1.1.1          # via pelican
-urllib3==1.25.3           # via botocore, requests
+urllib3==1.25.6           # via botocore, requests
 
 # The following packages are considered to be unsafe in a requirements file:
-# setuptools==41.1.0        # via markdown
+# setuptools==41.4.0        # via markdown
