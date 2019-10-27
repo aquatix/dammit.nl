@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2019-08-31
+Modified: 2019-10-27
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -30,6 +30,9 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20190816</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/34498.The_Truth">The Truth</a> (Discworld #25)</li>
     <li><span class="label">20190819</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/48002.Thief_of_Time">Thief of Time</a> (Discworld #26)</li>
     <li><span class="label">20190831</span> Agatha Christie - <a href="https://www.goodreads.com/book/show/310226.Destination_Unknown">Destination Unknown</a></li>
+    <li><span class="label">20190903</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/7937744-surface-detail">Surface Detail</a> (Culture #9)</li>
+    <li><span class="label">20191012</span> Neal Stephenson - <a href="https://www.goodreads.com/book/show/35429993-fall-or-dodge-in-hell">Fall, or Dodge in Hell</a></li>
+    <li><span class="label">201910</span> <span class="label">comic</span> Roger Leloup - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #19 - #26)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
