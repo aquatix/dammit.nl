@@ -33,6 +33,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20190903</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/7937744-surface-detail">Surface Detail</a> (Culture #9)</li>
     <li><span class="label">20191012</span> Neal Stephenson - <a href="https://www.goodreads.com/book/show/35429993-fall-or-dodge-in-hell">Fall, or Dodge in Hell</a></li>
     <li><span class="label">201910</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #19 - #26)</li>
+    <li><span class="label">20191027</span> <span class="label">comic</span> Warren Ellis - <a href=""https://www.goodreads.com/search?q=warren+ellis+planetary>Planetary</a> (issues #1 - #3)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
