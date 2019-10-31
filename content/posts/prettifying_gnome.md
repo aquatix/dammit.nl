@@ -1,5 +1,5 @@
 Title: Pretty Gnome
-Started: 2016-02-24, 2017-04-26 16:17:00, 2017-06-03, 2018-11-25, 2018-11-26, 2019-02-26
+Started: 2016-02-24, 2017-04-26 16:17:00, 2017-06-03, 2018-11-25, 2018-11-26, 2019-02-26, 2019-08-06
 Date: 2018-11-26 16:17:00
 Slug: pretty-gnome
 Authors: Michiel Scholten
@@ -8,7 +8,7 @@ Tags: linux, desktop, howto
 Status: draft
 Image:
 
-This little howto has been long in the making, as I wanted to do a write-up of how I themed and tweaked my Gnome(-Shell) based desktops to my liking for quite a while. My desktop environments are based on Ubuntu, but this howto can be applied to any distribution and OS that runs Gnome-Shell. The setup described here is tested on at least Gnome 3.28 and 3.30 (latest Gnome release), so for example works on Ubuntu 18.04 LTS and 18.10.
+This little howto has been long in the making, as I wanted to do a write-up of how I themed and tweaked my Gnome(-Shell) based desktops to my liking for quite a while. My desktop environments are based on Ubuntu, but this howto can be applied to any distribution and OS that runs Gnome-Shell. The setup described here is tested on at least Gnome 3.28, 3.30 and 3.32 (latest Gnome release), so for example works on Ubuntu 18.04 LTS and 19.04.
 
 On Ubuntu, I installed the 'vanilla' version of Gnome-Shell by installing the `vanilla-gnome-desktop` package and choosing the `GNOME on Xorg` session in the GDM login screen. Otherwise, you get the Ubuntu tweaked version of Gnome-Shell, which might suite your tastes, but has the bar on the left side and some garish orange-based colours. I like orange, but the changes that `vanilla-gnome-desktop` does to the bootscreen and the login screens are welcome.
 
