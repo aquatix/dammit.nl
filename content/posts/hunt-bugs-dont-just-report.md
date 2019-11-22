@@ -10,9 +10,9 @@ Status: published
 
 Today I came across the forum post [Don’t report bugs, contribute to bugs hunting](https://discuss.pixls.us/t/dont-report-bugs-contribute-to-bugs-hunting/14911) about more directly helping (open source) developers help you. Developers really try to write working solutions and like Aurélien Pierre notes:
 
-    We are the developers. That means we can guarantee you that the software works on our computers. If that doesn’t help you fix your bug, imagine we feel exactly the same when fuzzy, incomplete bug reports are posted.
+> We are the developers. That means we can guarantee you that the software works on our computers. If that doesn’t help you fix your bug, imagine we feel exactly the same when fuzzy, incomplete bug reports are posted.
 
-    Bug fixing is an experimental and scientific process in which you try to understand what behaves the same and what behaves differently between a working environment and a faulty one, or between a working use case and a faulty one, to get an intuition about the causes of the misbehaviour.
+> Bug fixing is an experimental and scientific process in which you try to understand what behaves the same and what behaves differently between a working environment and a faulty one, or between a working use case and a faulty one, to get an intuition about the causes of the misbehaviour.
 
 Bug reports are welcome, they help make software better. However, developers are not magicians or psychics, so having a clear picture about the problem a user experiences is really important in getting it fixed (or even reproduced). Especially when they are already dividing their time between their day job, family, friends, functionality for the project, and other projects, helping them help you is key in getting your issue addressed.
 
