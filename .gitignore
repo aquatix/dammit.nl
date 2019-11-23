@@ -2,4 +2,5 @@ output
 *.pid
 *.pyc
 *.swp
+*.swo
 tags
