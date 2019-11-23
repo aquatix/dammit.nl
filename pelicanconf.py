@@ -46,6 +46,7 @@ LINKS = [
 
 ICONS = [
     ('github', 'https://github.com/aquatix/dammit.nl'),
+    ('feed', '/feeds/all.atom.xml'),
 ]
 
 # Social widget
