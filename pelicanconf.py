@@ -3,9 +3,9 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Michiel Scholten'
-#SITENAME = 'dammIT'
-SITENAME = '<img src="/images/dammit.svg" alt="dammIT" />'
-#SITEIMAGE = '/images/dammit.svg'
+SITENAME = 'dammIT'
+#SITENAME = '<img src="/images/dammit.svg" alt="dammIT" />'
+SITEIMAGE = '/images/dammit_field_transparent.svg'
 SITEURL = ''  # Set in publishconf.py
 
 # Sub-title that goes underneath site name in jumbotron.
@@ -39,6 +39,10 @@ LINKS_disabled = (
     ('Python.org', 'https://python.org/'),
     ('Jinja2', 'http://jinja.pocoo.org/'),
 )
+
+LINKS = [
+    ('archives', '/archives.html'),
+]
 
 ICONS = [
     ('github', 'https://github.com/aquatix/dammit.nl'),
@@ -109,10 +113,10 @@ THEME = '../pelican-alchemy/alchemy'
 BOOTSTRAP_CSS = 'https://bootswatch.com/4/lux/bootstrap.min.css'
 THEME_CSS_OVERRIDES = [
     '/css/dammit_bootstrap.css',
-    '//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.8/build/styles/darcula.min.css',
+    '//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.16.2/build/styles/darcula.min.css',
 ]
 THEME_JS_OVERRIDES = [
-    'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.8/build/highlight.min.js',
+    '//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.16.2/build/highlight.min.js',
     '/js/dammit.js',
 ]
 
@@ -132,7 +136,7 @@ MARKDOWN = {
 HIGHLIGHTJS = True
 
 DISPLAY_PAGES_ON_MENU = True
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 20
 
 PLUGIN_PATHS = ['../../others/pelican-plugins', '../pelican-plugins']
 PLUGINS = ['neighbors', 'summary', 'similar_posts']
