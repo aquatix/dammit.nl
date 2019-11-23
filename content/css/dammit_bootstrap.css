@@ -1,0 +1,33 @@
+body
+{
+    background-color: #333;
+    color: #ccc;
+}
+
+a, a:hover, a:active,
+h1, h2, h3, h4, h5, h6,
+pre
+{
+    color: #ccc;
+}
+
+code
+{
+    color: #FF9800;
+}
+
+pre
+{
+    background-color: #666;
+    padding: .5em;
+    border-radius: .25em;
+}
+
+li .label
+{
+    background-color: #ccc;
+    color: #333;
+    font-size: .75em;
+    padding: .2em .6em;
+    border-radius: .25em;
+}

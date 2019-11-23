@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Michiel Scholten'
-SITENAME = u'dammIT'
-SITELOGO = u'<img src="/images/dammit.svg" alt="dammIT" />'
+AUTHOR = 'Michiel Scholten'
+#SITENAME = 'dammIT'
+SITENAME = '<img src="/images/dammit.svg" alt="dammIT" />'
+#SITEIMAGE = '/images/dammit.svg'
 SITEURL = ''  # Set in publishconf.py
 
 # Sub-title that goes underneath site name in jumbotron.
@@ -28,7 +29,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (
+LINKS_disabled = (
     ('Felienne', 'http://www.felienne.com/'),
     ('Rands in Repose', 'http://randsinrepose.com/'),
     ('Ryan Rix', 'http://whatthefuck.computer/blog/'),
@@ -38,6 +39,10 @@ LINKS = (
     ('Python.org', 'https://python.org/'),
     ('Jinja2', 'http://jinja.pocoo.org/'),
 )
+
+ICONS = [
+    ('github', 'https://github.com/aquatix/dammit.nl'),
+]
 
 # Social widget
 SOCIAL = (
@@ -100,12 +105,9 @@ CUSTOM_FOOTER_TEXT = "&copy; 2003 - 2019 {} under a " \
                      "<a href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/\">" \
                      "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license</a>".format(AUTHOR)
 
-THEME = '../voidy-bootstrap'
-STYLE_COLOUR = '#5C6448'
-
-# Extra stylesheets, for bootstrap overrides or additional styling.
-# STYLESHEET_FILES = ("voidybootstrap.css", "darkblue.css", "pygment_native.css",)
-STYLESHEET_FILES = ("voidybootstrap.css?20170807", "olive.css?20190714",)
+THEME = '../pelican-alchemy/alchemy'
+BOOTSTRAP_CSS = 'https://bootswatch.com/4/lux/bootstrap.min.css'
+THEME_CSS_OVERRIDES = ['/css/dammit_bootstrap.css']
 
 # Extra Markdown options, https://github.com/getpelican/pelican/issues/1238#issuecomment-32821905
 # MD_EXTENSIONS = ['fenced_code', 'codehilite(css_class=highlight, linenums=True)', 'extra']
@@ -128,7 +130,10 @@ DEFAULT_PAGINATION = 10
 PLUGIN_PATHS = ['../../others/pelican-plugins', '../pelican-plugins']
 PLUGINS = ['neighbors', 'summary', 'similar_posts']
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'css']
+
+DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'sitemap']
+SITEMAP_SAVE_AS = 'sitemap.xml'
 
 # Generate JSON 'API'
-TEMPLATE_PAGES = {'recent.json': 'api/recent.json', }
+#TEMPLATE_PAGES = {'recent.json': 'api/recent.json', }
