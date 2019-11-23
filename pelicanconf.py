@@ -107,7 +107,14 @@ CUSTOM_FOOTER_TEXT = "&copy; 2003 - 2019 {} under a " \
 
 THEME = '../pelican-alchemy/alchemy'
 BOOTSTRAP_CSS = 'https://bootswatch.com/4/lux/bootstrap.min.css'
-THEME_CSS_OVERRIDES = ['/css/dammit_bootstrap.css']
+THEME_CSS_OVERRIDES = [
+    '/css/dammit_bootstrap.css',
+    '//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.8/build/styles/darcula.min.css',
+]
+THEME_JS_OVERRIDES = [
+    'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.8/build/highlight.min.js',
+    '/js/dammit.js',
+]
 
 # Extra Markdown options, https://github.com/getpelican/pelican/issues/1238#issuecomment-32821905
 # MD_EXTENSIONS = ['fenced_code', 'codehilite(css_class=highlight, linenums=True)', 'extra']
@@ -130,7 +137,7 @@ DEFAULT_PAGINATION = 10
 PLUGIN_PATHS = ['../../others/pelican-plugins', '../pelican-plugins']
 PLUGINS = ['neighbors', 'summary', 'similar_posts']
 
-STATIC_PATHS = ['images', 'css']
+STATIC_PATHS = ['images', 'css', 'js']
 
 DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'sitemap']
 SITEMAP_SAVE_AS = 'sitemap.xml'
