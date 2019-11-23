@@ -9,6 +9,16 @@ body
     border-bottom: 0;
 }
 
+.article-image
+{
+    margin-bottom: 1em;
+}
+
+.teaser .article-image
+{
+    margin-top: 1em;
+}
+
 a, a:hover, a:active,
 h1, h2, h3, h4, h5, h6,
 pre
