@@ -16,7 +16,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
 
 # Ignore swap files and blogmarks digests
 IGNORE_FILES = ['.#*', '.*.swp', '*blogmarks-for*']
@@ -40,6 +40,7 @@ LINKS_disabled = (
     ('Jinja2', 'http://jinja.pocoo.org/'),
 )
 
+# Add 'archives' to the top navigation
 LINKS = [
     ('archives', '/archives.html'),
 ]
@@ -94,24 +95,10 @@ CUSTOM_ARTICLE_HEADERS = (
     "article_header_info.html",
 )
 
-# Put taglist at end of articles, and use the default sharing button implementation.
-# CUSTOM_ARTICLE_FOOTERS = ("taglist.html", "sharing.html", )
-CUSTOM_ARTICLE_FOOTERS = ("taglist.html", )
-# CUSTOM_SCRIPTS_ARTICLE = "sharing_scripts.html"
-
-# Default sidebar template. Omit this setting for single column mode without sidebar.
-SIDEBAR = "sidebar.html"
-CUSTOM_SIDEBAR_MIDDLES = ("sb_links.html", )
-
-# Footer config
-SKIP_COLOPHON = True
-CUSTOM_FOOTER = "footer_customtext.html"
-CUSTOM_FOOTER_TEXT = "&copy; 2003 - 2019 {} under a " \
-                     "<a href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/\">" \
-                     "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license</a>".format(AUTHOR)
-
 THEME = '../pelican-alchemy/alchemy'
 BOOTSTRAP_CSS = 'https://bootswatch.com/4/lux/bootstrap.min.css'
+
+# Enable highlight.js
 THEME_CSS_OVERRIDES = [
     '/css/dammit_bootstrap.css',
     'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.16.2/build/styles/darcula.min.css',
@@ -133,14 +120,11 @@ MARKDOWN = {
     'output_format': 'html5',
 }
 
-# Enable highlight.js
-HIGHLIGHTJS = True
-
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = 20
 
 PLUGIN_PATHS = ['../../others/pelican-plugins', '../pelican-plugins']
-PLUGINS = ['neighbors', 'summary', 'similar_posts']
+PLUGINS = ['summary']
 
 STATIC_PATHS = ['images', 'css', 'js']
 
