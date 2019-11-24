@@ -61,6 +61,11 @@ hr
     background-color: #999;
 }
 
+p img
+{
+    max-width: 100%;
+}
+
 /* Book labels and such */
 li .label
 {
