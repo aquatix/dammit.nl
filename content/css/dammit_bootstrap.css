@@ -21,9 +21,10 @@ body
 
 a, a:hover, a:active,
 h1, h2, h3, h4, h5, h6,
-pre
+pre,
+#isso-thread > h4
 {
-    color: #ccc;
+    color: #ccc !important;
 }
 
 code
@@ -50,10 +51,13 @@ hr
     border: 0;
 }
 
-.page-link
+.page-link,
+#isso-thread .textarea.placeholder,
+#isso-thread .textarea,
+.isso-postbox > .form-wrapper > .auth-section .input-wrapper input
 {
-    background-color: #666;
-    color: #ccc;
+    background-color: #666 !important;
+    color: #ccc !important;
 }
 
 .page-link:hover
