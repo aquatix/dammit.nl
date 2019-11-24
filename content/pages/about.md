@@ -1,14 +1,14 @@
 Title: About
 Authors: Michiel Scholten
 Date: 2005-10-02
-Modified: 2018-03-02
+Modified: 2019-11-23
 Summary: About the dammIT weblog, who am I, why do I write
 
 
 By day, a simple software engineer. By night, also a software engineer.
 
 <h2>Forever beta</h2>
-<p>Ok, I've convinced myself I need to have a weblog^Wrantbox too. So what you are looking at is a site being the place to put my frustrations on :) Poluting the web since 2003-12-20!</p>
+<p>Ok, I've convinced myself I need to have a weblog^Wrantbox too. So what you are looking at is a site being the place to put my frustrations on :) Polluting the web since 2003-12-20!</p>
 
 
 <h2>"dammIT" ?</h2>
@@ -19,7 +19,7 @@ By day, a simple software engineer. By night, also a software engineer.
 <p>Yeah, why? Well basically to have some place to write down my frustrations. But also for thinking out loud (which I hope will happen more often than me being frustrated), and sharing some <a href="/m">niceties</a> I found on the web with anybody who cares reading this weblog. So, since the <a href="{filename}../posts/20031220-darn-trains.md">20th of December of the year 2003</a> you can read about me. Oh rejoice :)</p>
 
 <h3>Whoami</h3>
-<p>I'm a (backend/full stack) developer with a big media company in the Netherlands. You can find <a href="https://diginaut.net">more information about me on diginaut.net</a>.</p>
+<p>I'm the lead developer of a company specialising in long-term archiving of digital data, and building solutions to make the information available for the public. Before that I was a (backend/full stack) developer with a big media company in the Netherlands. You can find <a href="https://diginaut.net">more information about me on diginaut.net</a>.</p>
 
 <p>/me has been a student <a href="http://www.cs.vu.nl/">Computer Science</a> at the <a href="http://www.vu.nl/">Vrije Universiteit</a> in Amsterdam and working with the Royal Dutch Navy, where I did my Master research project too. <a href="https://aquariusoft.org/">aquariusoft.org</a> is home to my projects. You can also find links to other sites, like <a href="https://shuttereye.org/">my gallery</a> there. Even <a href="https://github.com/aquatix">more projects can be found on my GitHub</a>.</p>
 
@@ -41,7 +41,7 @@ By day, a simple software engineer. By night, also a software engineer.
 
 
 <h3>Rights stuff</h3>
-<p>Contents are &copy; 2003-2018 <i>dammit at aquariusoft.org</i>, but are licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>, except for quotes and art from others, which are property of the respective creators of course.</p>
+<p>Contents are &copy; 2003-2019 <i>dammit at aquariusoft.org</i>, but are licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>, except for quotes and art from others, which are property of the respective creators of course.</p>
 <p>Powered by Blood, Sweat, Wine and the occasional Whisky&trade;</p>
 
 
@@ -50,17 +50,10 @@ By day, a simple software engineer. By night, also a software engineer.
 
 
 <h2>Plugs</h2>
-<!--
-<div id="whitebox">
-	<a href="http://counter.li.org/"><img src="images/317356.gif" alt="Counted at Li.org" title="Counted as Linux user #317356"/></a>
-	<a href="http://www.morphix.org/"><img src="images/morphix_logo.gif" alt="Morphix logo" title="Official Morphix fan"/></a>
-</div>
--->
 
 <div class="embeddedobject">
 
 <div style="width: 49%; float: left">
-<div class="content-image"><div><a href="https://linuxcounter.net/user/317356.html"><img title="Counted as Linux user #317356" src="https://linuxcounter.net/cert/317356.png" alt="Counted at LinuxCounter.net" /></a></div></div>
 <div class="content-image"><div><a href="https://soleus.nu/"><img src="/images/content/soleus.png" alt="Soleus VPS Community logo" title="Soleus VPS Community" /></a></div></div>
 <div class="content-image"><div><a title="Developers for Firefox"
    rel="nofollow"
@@ -73,12 +66,8 @@ By day, a simple software engineer. By night, also a software engineer.
 </a></div></div>
 </div>
 <div style="width: 49%; float: left;">
-<div class="content-image"><div><a href="http://morphix.org/"><img title="Official Morphix fan" src="/images/logos/morphix_logo.gif" alt="Morphix logo" /></a></div></div>
-</div>
 <div class="content-image"><div><a href="http://steamcommunity.com/id/aquariusoft"><img title="My Steam Profile and status" src="https://badges.steamprofile.com/profile/default/steam/76561198018623366.png" alt="My Steam Status" /></a></div></div>
 <br style="clear: both;" />
 
 </div>
-
-
 

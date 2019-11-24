@@ -1,0 +1,86 @@
+body
+{
+    background-color: #333;
+    color: #ccc;
+}
+
+.header
+{
+    border-bottom: 0;
+}
+
+.article-image
+{
+    margin-bottom: 1em;
+}
+
+.teaser .article-image
+{
+    margin-top: 1em;
+}
+
+a, a:hover, a:active,
+h1, h2, h3, h4, h5, h6,
+pre,
+#isso-thread > h4
+{
+    color: #ccc !important;
+}
+
+code
+{
+    color: #FF9800;
+}
+
+/*
+pre
+{
+    background-color: #666;
+    padding: .5em;
+    border-radius: .25em;
+}
+*/
+
+.text-muted
+{
+    color: #999 !important;
+}
+
+hr
+{
+    border: 0;
+}
+
+.page-link,
+#isso-thread .textarea.placeholder,
+#isso-thread .textarea,
+.isso-postbox > .form-wrapper > .auth-section .input-wrapper input
+{
+    background-color: #666 !important;
+    color: #ccc !important;
+}
+
+.page-link:hover
+{
+    background-color: #999;
+}
+
+p img
+{
+    max-width: 100%;
+}
+
+/* Book labels and such */
+li .label
+{
+    background-color: #ccc;
+    color: #333;
+    font-size: .75em;
+    padding: .2em .6em;
+    border-radius: .25em;
+}
+
+.footer
+{
+    border-top: 0;
+}
