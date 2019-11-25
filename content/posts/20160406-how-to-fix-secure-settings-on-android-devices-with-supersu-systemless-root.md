@@ -17,7 +17,7 @@ As some older apps hardcode the complete path of this binary in their checks, an
 
 On my quest of a fix for this problem, I [found this post on XDA](http://forum.xda-developers.com/showpost.php?p=66190182&postcount=2707) where a [comment on Reddit](https://www.reddit.com/r/tasker/comments/3uf5bn/secure_settings_doesnt_recognize_root_even_though/cxtvflb) was referenced, stating the following fix, running the commands from a command line (terminal) on your machine, having `adb` installed:
 
-<pre><code class="bash">
+```
 adb shell
 su
 mount -o remount,rw /system
@@ -25,7 +25,7 @@ touch /sbin/su /system/bin/su /system/xbin/su
 mount -o remount,ro /system
 exit
 reboot
-</code></pre>
+```
 
 [source](https://www.reddit.com/r/tasker/comments/3uf5bn/secure_settings_doesnt_recognize_root_even_though/cxtvflb)
 
