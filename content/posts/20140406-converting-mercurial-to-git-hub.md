@@ -3,7 +3,8 @@ Date: 2014-04-06 18:15:21
 Slug: 20140406-converting-mercurial-to-git-hub
 Location: Home
 Authors: Michiel Scholten
-Tags: rant
+Category: howto
+Tags: tech, opensource, howto, dev
 
 I'm a fan of version control systems, as they allow me to thinker with my files (both source code and text files with notes and such) to my heart's delight without having to worry about thing getting lost. I can change and update programs, websites and such and can see what the previous versions looked like in the logs.
 

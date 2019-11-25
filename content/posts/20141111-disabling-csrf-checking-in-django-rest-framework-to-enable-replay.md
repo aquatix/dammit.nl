@@ -3,7 +3,8 @@ Date: 2014-11-11 13:38:26
 Slug: 20141111-disabling-csrf-checking-in-django-rest-framework-to-enable-replay
 Location: Work
 Authors: Michiel Scholten
-Tags: rant
+Category: howto
+Tags: howto, python, tech, web, dev
 
 You have this interesting project, written in [Django](https://www.djangoproject.com/). Maybe even in the excellent [Django Rest Framework](http://www.django-rest-framework.org/). You want to run some tests on it to know how it will cope with load under stress. Or you just want to repeat a bunch of steps from the outside a lot of times.
 

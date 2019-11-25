@@ -6,6 +6,7 @@ Location: Home
 Authors: Michiel Scholten
 Category: howto
 Tags: dev, howto, vim, work
+Image: http://dammit.nl/images/content/20140301_vimrc.png
 
 vim, the final editor. Well, for some people at least. People like me, we like to type their files, code and more inside of dark-coloured windows, mainly terminals and do not really care if those files are local on their laptop, on the server at their feet or on some virtual node on a cluster in a data center around the globe which they don't even really know the location of.
 

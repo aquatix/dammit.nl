@@ -3,7 +3,8 @@ Date: 2014-10-07 20:52:26
 Slug: 20141007-update-repos-keep-up-to-date-with-your-projects
 Location: Home
 Authors: Michiel Scholten
-Tags: rant
+Category: projects
+Tags: opensource, howto, tech, linux
 
 While I was standardising [my dotfiles](https://github.com/aquatix/dotfiles) I wanted to have an easy and quick way to update my projects so repositories weren't out of date when I wanted to use them (for example when being offline on the train), and I didn't want to go through them by hand every time. Same thing with new projects: I just wanted them to appear on my machines without having to think about cloning them everywhere.
 
