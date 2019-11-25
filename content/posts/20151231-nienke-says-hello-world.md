@@ -4,7 +4,7 @@ Slug: 20151231-nienke-says-hello-world
 Location: Home
 Authors: Michiel Scholten
 Category: family
-Tags: family
+Tags: family, kids, life
 Image: https://familiescholten.net/wp-content/uploads/2015/12/wp-1451289526624-768x1027.jpg
 
 In the night of Sunday to Monday, at 4:17, Nienke rushed into this

@@ -3,7 +3,8 @@ Date: 2015-04-20 12:42:11
 Slug: 20150420-meeting-budgets-an-idea-to-keep-meetings-useful
 Location: Work
 Authors: Michiel Scholten
-Tags: rant
+Category: thoughts
+Tags: rant, work, dev, life, communication, tech
 
 You need meetings. No really, you do. Your team has to line up, get and stay on target and decisions have to be made. The same goes with your stakeholders.
 
