@@ -57,6 +57,7 @@ hr
 }
 
 .page-link,
+li .label,
 #isso-thread .textarea.placeholder,
 #isso-thread .textarea,
 .isso-postbox > .form-wrapper > .auth-section .input-wrapper input
@@ -78,11 +79,9 @@ p img
 /* Book labels and such */
 li .label
 {
-    background-color: #ccc;
-    color: #333;
-    font-size: .75em;
-    padding: .2em .6em;
-    border-radius: .25em;
+    font-size: .6rem;
+    padding: .1rem .25rem;
+    border-radius: .25rem;
 }
 
 .footer
