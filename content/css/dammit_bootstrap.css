@@ -88,7 +88,7 @@ li .label
 /* isso commenting overrides for this theme */
 #isso-thread
 {
-    margin-top: 3rem;
+    margin-top: 3rem !important;
 }
 
 #isso-thread .textarea,
