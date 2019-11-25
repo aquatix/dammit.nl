@@ -11,6 +11,7 @@ Tags: howto, opensource, desktop, tech
 <p>The contents of a ~/.ssh/config look something like:</p>
 
 
+```
 Host homeserv
     HostName home.mydomain.net
     Port 22
@@ -29,6 +30,7 @@ Host dev
     HostName dev.corp.net
     Port 22
     User mscholten
+```
 
 
 <p>Of course you can add as many 'Host' configs as you like.</p>
