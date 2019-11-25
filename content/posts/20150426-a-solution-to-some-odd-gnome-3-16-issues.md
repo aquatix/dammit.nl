@@ -4,7 +4,7 @@ Slug: 20150426-a-solution-to-some-odd-gnome-3-16-issues
 Location: Home
 Authors: Michiel Scholten
 Category: howto
-Tags: tech, desktop
+Tags: tech, desktop, linux
 
 I'm running [Ubuntu Gnome](http://ubuntugnome.org/) 15.04 with the ppa's to bring me Gnome 3.16 ([gnome3-team](https://launchpad.net/~gnome3-team/+archive/ubuntu/gnome3) and [gnome3-staging](https://launchpad.net/~gnome3-team/+archive/ubuntu/gnome3-staging)). After a bit of fiddling (removing some old extensions and packages), I got it to show me GDM. After getting into the desktop, there were some odd issues though. These issues also showed up on my laptop with Arch Linux installed, so apparently it wasn't Ubuntu specific.
 

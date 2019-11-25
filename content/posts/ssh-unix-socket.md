@@ -5,7 +5,7 @@ Slug: ssh-unix-socket
 Location: Home office
 Authors: Michiel Scholten
 Category: howto
-Tags: howto, linux, tech
+Tags: howto, linux, tech, linux
 
 In my `~/.ssh/config` file, I have been using a socket file for every host that I connect to, so TCP sessions can be re-used for faster connecting to a host I already am connected to. I had several iterations of the exact filename for this, as with longer hostnames, the filename becomes too long.
 

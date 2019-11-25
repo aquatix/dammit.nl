@@ -4,7 +4,7 @@ Slug: 20150407-acer-c720p-chromebook-my-new-hacktop
 Location: Home
 Authors: Michiel Scholten
 Category: gadgets
-Tags: tech, desktop
+Tags: tech, desktop, linux, dev
 
 After [Chromebook: for fun and profit? @ 2014-10-05]({filename}20141005-chromebook-for-fun-and-profit.md) I got myself an Acer C720p for cheap. It's new, just cheap, as that's how Chromebooks go :) It has a new-fangled touchscreen, which I actually tend to use while on Chrome OS. I hadn't thought I would do so (hey, it's a laptop, why would I smudge the screen?), but it's actually quite convenient when scrolling, pointing, selecting and such. I guess I use it more than on my full-fledged 15.6" laptop as the screen is a lot smaller (tablet-sized basically) and the distance to the screen is smaller, the device being quite small itself and lending for convenient lap-computing.
 

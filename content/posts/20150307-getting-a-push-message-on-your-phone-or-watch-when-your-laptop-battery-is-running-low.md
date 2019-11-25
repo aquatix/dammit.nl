@@ -3,7 +3,7 @@ Date: 2015-03-07 14:43:30
 Slug: 20150307-getting-a-push-message-on-your-phone-or-watch-when-your-laptop-battery-is-running-low
 Location: Home
 Authors: Michiel Scholten
-Tags: howto, mobile, notifications
+Tags: howto, mobile, notifications, linux
 Category: howto
 related_posts: 20161121-get-a-push-notification-when-your-laptop-is-low-on-battery, 20150919-i-made-a-thing-to-make-your-phone-go-pling-when-your-train-goes-whatever
 
