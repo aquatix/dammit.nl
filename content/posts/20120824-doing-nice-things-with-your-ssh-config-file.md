@@ -3,31 +3,33 @@ Date: 2012-08-24 15:43:24
 Slug: 20120824-doing-nice-things-with-your-ssh-config-file
 Location: Home
 Authors: Michiel Scholten
-Tags: rant
+Category: howto
+Tags: howto, opensource, desktop, tech
 
-<p>If you are running a unix-like machine, like a Linux workstation, or BSD or Apple Mac, you might be acquainted with the ~/.ssh directory. SSH stores known hosts in their, as well as your public and private SSH keys and more important stuff. 
+<p>If you are running a unix-like machine, like a Linux workstation, or BSD or Apple Mac, you might be acquainted with the ~/.ssh directory. SSH stores known hosts in their, as well as your public and private SSH keys and more important stuff.</p>
 
 <p>The contents of a ~/.ssh/config look something like:</p>
-<pre>
+
+
 Host homeserv
-	HostName home.mydomain.net
-	Port 22
-	User michiel
+    HostName home.mydomain.net
+    Port 22
+    User michiel
 
-	# Routers, so I config them from on the road
-	LocalForward localhost:8001	192.168.1.1:80
-	LocalForward localhost:8002	192.168.1.2:80
+    # Routers, so I config them from on the road
+    LocalForward localhost:8001	192.168.1.1:80
+    LocalForward localhost:8002	192.168.1.2:80
 
-	LocalForward localhost:
+    LocalForward localhost:
 
-	# SickBeard
-	LocalForward localhost:8081	localhost:8081
+    # SickBeard
+    LocalForward localhost:8081	localhost:8081
 
 Host dev
-	HostName dev.corp.net
-	Port 22
-	User mscholten
-</pre>
+    HostName dev.corp.net
+    Port 22
+    User mscholten
+
 
 <p>Of course you can add as many 'Host' configs as you like.</p>
 
