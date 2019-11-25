@@ -84,6 +84,27 @@ li .label
     border-radius: .25rem;
 }
 
+/* isso commenting overrides for this theme */
+#isso-thread .textarea,
+.isso-postbox > .form-wrapper > .auth-section .input-wrapper input,
+.isso-postbox > .form-wrapper > .auth-section .post-action > input
+{
+    border: 0 !important;
+    border-radius: .25rem !important;
+}
+
+.isso-postbox > .form-wrapper > .auth-section .input-wrapper input
+{
+    margin-right: .3rem;
+}
+
+/* Buttons */
+.isso-postbox > .form-wrapper > .auth-section .post-action > input
+{
+    color: #333;
+    background-color: #CCC;
+}
+
 .footer
 {
     border-top: 0;
