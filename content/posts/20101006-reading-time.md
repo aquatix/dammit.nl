@@ -3,7 +3,8 @@ Date: 2010-10-06 10:39:32
 Slug: 20101006-reading-time
 Location: Work
 Authors: Michiel Scholten
-Tags: rant
+Category: reading
+Tags: books, life
 
 <p>Now I'm done with my studies, I have some more time when I'm not distracted by the Internet. This time I spent mostly catching up with some great TV series, movies and of course my beloved books. I thought I'd mention some books I read in the last year (so also while finishing my studies). I might have missed one or two, but here goes.</p>
 

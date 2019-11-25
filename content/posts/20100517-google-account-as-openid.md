@@ -3,7 +3,8 @@ Date: 2010-05-17 14:19:49
 Slug: 20100517-google-account-as-openid
 Location: Work
 Authors: Michiel Scholten
-Tags: rant
+Category: howto
+Tags: howto, tech, web
 
 <p>If you want to log in using your Google account as OpenID (as Google is a provider), make sure you are logged in with that account and then use this url as ID on the site you're visiting:</p>
 

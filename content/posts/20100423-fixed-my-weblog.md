@@ -3,7 +3,8 @@ Date: 2010-04-23 12:08:49
 Slug: 20100423-fixed-my-weblog
 Location: Home
 Authors: Michiel Scholten
-Tags: rant
+Category: projects
+Tags: rant, meta, tech, dev
 
 <p>Soooo, it appears there was some small programming error which broke sessions in my self-written weblog software. This kinda blocked me from posting here. Combined with a rather busy life and me <a href="http://twitter.com/michielscholten">twittering small blurps</a> instead of writing larger posts this led to dammIT be really neglected.</p>
 

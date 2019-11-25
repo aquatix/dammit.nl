@@ -3,7 +3,8 @@ Date: 2011-05-30 11:34:24
 Slug: 20110530-applying-thunderbird-s-column-settings-to-all-your-folders
 Location: Work
 Authors: Michiel Scholten
-Tags: rant
+Category: howto
+Tags: howto, opensource, tech
 
 <p>I grew increasingly tired changing the column settings of the folders of my IMAP account in Thunderbird; I don't need the 'Read', 'Junk' and 'Thread icon' columns for example, but would like to have the 'Size' listed. However, I needed to change that for all of my dozens of mail folders...</p>
 
