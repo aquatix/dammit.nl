@@ -86,6 +86,11 @@ li .label
 }
 
 /* isso commenting overrides for this theme */
+#isso-thread
+{
+    margin-top: 3rem;
+}
+
 #isso-thread .textarea,
 .isso-postbox > .form-wrapper > .auth-section .input-wrapper input,
 .isso-postbox > .form-wrapper > .auth-section .post-action > input,
