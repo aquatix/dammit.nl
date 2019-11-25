@@ -27,6 +27,11 @@ pre,
     color: #ccc !important;
 }
 
+pre
+{
+    border-radius: .25rem;
+}
+
 code
 {
     color: #FF9800;
