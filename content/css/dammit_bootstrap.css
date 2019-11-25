@@ -74,6 +74,7 @@ li .label,
 p img
 {
     max-width: 100%;
+    border-radius: .25rem;
 }
 
 /* Book labels and such */
