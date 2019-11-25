@@ -88,10 +88,12 @@ li .label
 /* isso commenting overrides for this theme */
 #isso-thread .textarea,
 .isso-postbox > .form-wrapper > .auth-section .input-wrapper input,
-.isso-postbox > .form-wrapper > .auth-section .post-action > input
+.isso-postbox > .form-wrapper > .auth-section .post-action > input,
+.isso-postbox > .form-wrapper .preview
 {
     border: 0 !important;
     border-radius: .25rem !important;
+    box-shadow: 0 !important;
 }
 
 .isso-postbox > .form-wrapper > .auth-section .input-wrapper input
@@ -104,6 +106,12 @@ li .label
 {
     color: #333;
     background-color: #CCC;
+    padding: .3rem 10px;
+}
+
+.isso-postbox > .form-wrapper .preview
+{
+    background: repeating-linear-gradient( -45deg, #333, #333 10px, #444 10px, #444 20px );
 }
 
 .footer
