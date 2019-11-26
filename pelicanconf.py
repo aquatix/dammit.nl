@@ -66,15 +66,7 @@ SOCIAL = (
      'fab fa-google-plus fa-fw fa-lg'),
 )
 
-# Social metadata
-OPEN_GRAPH = True
-TWITTER_CARD = True
-TWITTER_USERNAME = 'michielscholten'
-
-TAGS_URL = 'tags.html'
-# GITHUB_URL = 'https://github.com/aquatix'
-
-SITE_SUMMARY = 'Weblog/rantbox of Michiel Scholten, software developer, photography enthousiast and all around nerd. Expect howtos, ramblings and random findings'
+DESCRIPTION = 'Weblog/rantbox of Michiel Scholten, software developer, photography enthousiast and all around nerd. Expect howtos, ramblings and random findings'
 
 # The default metadata you want to use for all articles and pages.
 DEFAULT_METADATA = {
@@ -84,16 +76,6 @@ DEFAULT_METADATA = {
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
-
-# Show jumbotron page header with logo instead of plain text sitename
-CUSTOM_SITE_HEADERS = ("jumbotron_logo.html", )
-
-CUSTOM_ARTICLE_HEADERS = (
-    "article_header_navigation.html",
-    "article_header_date.html",
-    "article_header_title.html",
-    "article_header_info.html",
-)
 
 THEME = '../pelican-alchemy/alchemy'
 BOOTSTRAP_CSS = 'https://bootswatch.com/4/lux/bootstrap.min.css'
@@ -132,4 +114,7 @@ DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'sitem
 SITEMAP_SAVE_AS = 'sitemap.xml'
 
 # Generate JSON 'API'
-#TEMPLATE_PAGES = {'recent.json': 'api/recent.json', }
+# THEME_TEMPLATES_OVERRIDES = [
+#     '',
+# ]
+# TEMPLATE_PAGES = {'recent.json': 'api/recent.json', }
