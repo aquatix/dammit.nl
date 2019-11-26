@@ -1,7 +1,7 @@
 Title: About
 Authors: Michiel Scholten
 Date: 2005-10-02
-Modified: 2019-11-23
+Modified: 2019-11-26
 Summary: About the dammIT weblog, who am I, why do I write
 
 
@@ -12,11 +12,11 @@ By day, a simple software engineer. By night, also a software engineer.
 
 
 <h2>"dammIT" ?</h2>
-<p>"Damn it" is an often heard phrase when working with computers. Well, at least, I use it a lot when I myself or the software I use do stupid things ;) <acronym title="Information Technology">IT</acronym> speaks for itself; my hobby, study and work is all about computers and related stuff: mostly <acronym title="Operating System">OS</acronym>'es, various software and web development. So, "dammIT" kinda wraps up my life. (Well, not quite, I seem to have a real life too, including my lovely girlfriend^H^H^H^H^H^H^H^H^H^H<a href="http://inekemichiel.nl">wife</a>, and I'll write about all aspects in my life. Luckily, I do stupid things in the real world too.)</p>
+<p>"Damn it" is an often heard phrase when working with computers. Well, at least, I use it a lot when I myself or the software I use do stupid things ;) <acronym title="Information Technology">IT</acronym> speaks for itself; my hobby, study and work is all about computers and related stuff: mostly <acronym title="Operating System">OS</acronym>'es, various software and web development. So, "dammIT" kinda wraps up my life. (Well, not quite, I seem to have a real life too, including my lovely girlfriend^H^H^H^H^H^H^H^H^H^H<a href="http://inekemichiel.nl">wife</a> (<a href="{filename}../posts/20100703-we-are-married.md">post</a>), and I'll write about all aspects in my life. Luckily, I do stupid things in the real world too.)</p>
 
 
 <h2>Why this weblog?</h2>
-<p>Yeah, why? Well basically to have some place to write down my frustrations. But also for thinking out loud (which I hope will happen more often than me being frustrated), and sharing some <a href="/m">niceties</a> I found on the web with anybody who cares reading this weblog. So, since the <a href="{filename}../posts/20031220-darn-trains.md">20th of December of the year 2003</a> you can read about me. Oh rejoice :)</p>
+<p>Yeah, why? Well basically to have some place to write down my frustrations. But also for thinking out loud (which I hope will happen more often than me being frustrated), writing up <a href="/tag/howto.html">howto's</a> for itches I figured out how to scratch, and sharing some <a href="/tag/digimarks.html">niceties</a> (previously I had blogmarks, they will be resurrected in a digimarks way) I found on the web with anybody who cares reading this weblog. So, since the <a href="{filename}../posts/20031220-darn-trains.md">20th of December of the year 2003</a> you can read about me. Oh rejoice :)</p>
 
 <h3>Whoami</h3>
 <p>I'm the lead developer of a company specialising in long-term archiving of digital data, and building solutions to make the information available for the public. Before that I was a (backend/full stack) developer with a big media company in the Netherlands. You can find <a href="https://diginaut.net">more information about me on diginaut.net</a>.</p>
@@ -28,11 +28,11 @@ By day, a simple software engineer. By night, also a software engineer.
 
 
 <h2>This weblog</h2>
-<p>I started this website before software like Wordpress became usable (or even existed) and also because I liked to write such a content management system. Maybe I'll find versions of the code from the time period between 2003 and 2006, but I started version control in 2006 so the <a href="https://github.com/aquatix/dammit">dammIT sourcecode</a> that <a href="">I published on Github for everyone to see</a> starts its history there.</p>
+<p>I started this website before software like Wordpress became usable (or even existed) and also because I liked to write such a content management system. Maybe I'll find versions of the code from the time period between 2003 and 2006, but I started version control in 2006 so the <a href="https://github.com/aquatix/dammit">old dammIT sourcecode</a> that <a href="https://github.com/aquatix/dammit/commit/348c185f40fac8988ffd5b9b20fc1106766bbe68">I published on Github for everyone to see</a> starts its history there. Currently, the site is generated from the newer <a href="https://github.com/aquatix/dammit.nl">dammIT sourcecode repository</a>.</p>
 
 <p>In <a href="{filename}../posts/20100913-a-new-domain.md">September 2010 it moved to its own domain</a> and it has been here ever since.</p>
 
-<p>As of <a href="{filename}../posts/moved-to-pelican.md">April 2017</a> the codebase has been switched to use <a href="http://docs.getpelican.com/">Pelican</a>, a static site generator, as I have been tired of PHP for a while. <a href="https://github.com/aquatix/dammit.nl">The content now lives in this GitHub repository</a>. The theme is <a href="https://github.com/aquatix/voidy-bootstrap">a fork</a> of <a href="https://github.com/robulouski/voidy-bootstrap">voidy-bootstrap</a> with some enhancements like the green/olive theme, neighbour articles navigation and <a href="https://posativ.org/isso/">isso</a> commenting support.</p>
+<p>As of <a href="{filename}../posts/moved-to-pelican.md">April 2017</a> the codebase has been switched to use <a href="http://docs.getpelican.com/">Pelican</a>, a static site generator, as I have been tired of PHP for a while. <a href="https://github.com/aquatix/dammit.nl">The content now lives in this GitHub repository</a>. The theme is <a href="https://github.com/aquatix/pelican-alchemy">a (temporary) fork</a> of <a href="https://github.com/nairobilug/pelican-alchemy">python-alchemy</a> with some enhancements like the featured images, and <a href="https://posativ.org/isso/">isso</a> commenting support.</p>
 
 <h3>Bugs, issues, features?</h3>
 <p>As the <a href="https://github.com/aquatix/voidy-bootstrap">theme source is open</a> and I like to hear your suggestions, you <a href="https://github.com/aquatix/voidy-bootstrap/issues">can file tickets</a> with your findings. If you happen to use my code, I'm even more interested in your opinion.</p>
@@ -41,7 +41,7 @@ By day, a simple software engineer. By night, also a software engineer.
 
 
 <h3>Rights stuff</h3>
-<p>Contents are &copy; 2003-2019 <i>dammit at aquariusoft.org</i>, but are licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>, except for quotes and art from others, which are property of the respective creators of course.</p>
+<p>Contents are &copy; 2003-2019 <i>dammit at aquariusoft.org</i>, but are licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>, except for quotes and art from others, which are property of the respective creators of course.</p>
 <p>Powered by Blood, Sweat, Wine and the occasional Whisky&trade;</p>
 
 
@@ -51,23 +51,21 @@ By day, a simple software engineer. By night, also a software engineer.
 
 <h2>Plugs</h2>
 
-<div class="embeddedobject">
-
 <div style="width: 49%; float: left">
-<div class="content-image"><div><a href="https://soleus.nu/"><img src="/images/content/soleus.png" alt="Soleus VPS Community logo" title="Soleus VPS Community" /></a></div></div>
-<div class="content-image"><div><a title="Developers for Firefox"
-   rel="nofollow"
-   href="https://www.mozilla.org/firefox/this-browser-comes-highly-recommended/?utm_source=devs-for.firefox.com&utm_medium=referral&utm_campaign=devs-for-firefox&utm_content=Developers_For_Firefox_Light">
-  <img style="border:0 none;"
-       alt="Developers for Firefox"
-       srcset="//code.cdn.mozilla.net/for-firefox/badges/assets/Developers_For_Firefox_Light.png,
-               //code.cdn.mozilla.net/for-firefox/badges/assets/Developers_For_Firefox_Light-2x.png 2x"
-       src="//code.cdn.mozilla.net/for-firefox/badges/assets/Developers_For_Firefox_Light.png">
-</a></div></div>
+    <a href="https://soleus.nu/"><img src="/images/content/soleus.png" alt="Soleus VPS Community logo" title="Soleus VPS Community" /></a>
+    <br />
+    <a title="Developers for Firefox"
+       rel="nofollow"
+       href="https://www.mozilla.org/firefox/this-browser-comes-highly-recommended/?utm_source=devs-for.firefox.com&utm_medium=referral&utm_campaign=devs-for-firefox&utm_content=Developers_For_Firefox_Light">
+        <img style="border:0 none;"
+           alt="Developers for Firefox"
+           srcset="//code.cdn.mozilla.net/for-firefox/badges/assets/Developers_For_Firefox_Light.png,
+                   //code.cdn.mozilla.net/for-firefox/badges/assets/Developers_For_Firefox_Light-2x.png 2x"
+           src="//code.cdn.mozilla.net/for-firefox/badges/assets/Developers_For_Firefox_Light.png">
+    </a>
 </div>
 <div style="width: 49%; float: left;">
-<div class="content-image"><div><a href="http://steamcommunity.com/id/aquariusoft"><img title="My Steam Profile and status" src="https://badges.steamprofile.com/profile/default/steam/76561198018623366.png" alt="My Steam Status" /></a></div></div>
-<br style="clear: both;" />
-
+    <a href="http://steamcommunity.com/id/aquariusoft"><img title="My Steam Profile and status" src="https://badges.steamprofile.com/profile/default/steam/76561198018623366.png" alt="My Steam Status" /></a>
 </div>
 
+<br style="clear: both;" />
