@@ -114,7 +114,7 @@ DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'sitem
 SITEMAP_SAVE_AS = 'sitemap.xml'
 
 # Generate JSON 'API'
-# THEME_TEMPLATES_OVERRIDES = [
-#     '',
-# ]
-# TEMPLATE_PAGES = {'recent.json': 'api/recent.json', }
+THEME_TEMPLATES_OVERRIDES = [
+    'templates',
+]
+TEMPLATE_PAGES = {'recent.json': 'api/recent.json', }

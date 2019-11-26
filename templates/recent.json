@@ -1,0 +1,13 @@
+{
+  "recent": [
+      {% set recent = articles if not all_articles else all_articles %}
+      {% for a in recent %}
+        {% if loop.index <= 6 %}
+          { "url": "{{ SITEURL }}/{{ a.url }}",
+            "title": "{{ a.title }}"
+          } {% if not loop.last and loop.index < 6 %},
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+  ]
+}
