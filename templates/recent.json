@@ -4,7 +4,8 @@
       {% for a in recent %}
         {% if loop.index <= 6 %}
           { "url": "{{ SITEURL }}/{{ a.url }}",
-            "title": "{{ a.title }}"
+            "title": "{{ a.title }}",
+            "published": "{{ a.date }}"
           } {% if not loop.last and loop.index < 6 %},
           {% endif %}
         {% endif %}
