@@ -123,8 +123,8 @@ MARKDOWN = {
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = 20
 
-PLUGIN_PATHS = ['../../others/pelican-plugins', '../pelican-plugins']
-PLUGINS = ['summary']
+#PLUGIN_PATHS = ['../../others/pelican-plugins', '../pelican-plugins']
+#PLUGINS = ['summary']
 
 STATIC_PATHS = ['images', 'css', 'js']
 
