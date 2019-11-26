@@ -9,7 +9,7 @@ Tags: rant
 <p>Actually started implementing this box. First "rant": my changelog to this site for this day:</p>
 <ul>
 	<li>Started implementing my rantbox</li>
-	<li>Deleted not-needed pages [some of it's information will be back at the <a href="/">aquariusoft.org website</a>].</li>
+	<li>Deleted not-needed pages [some of it's information will be back at the <a href="https://aquariusoft.org">aquariusoft.org website</a>].</li>
 	<li>Validated the pagetemplate against the <a href="http://validator.w3.org/">W3 validator</a>, so it seems to be valid xhtml now [instead of html4.0 transitional which the old site was in]</li>
 	<li>Removed news related to the old site</li>
 	<li>Cleaned up the codebase</li>
