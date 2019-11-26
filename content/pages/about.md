@@ -21,7 +21,7 @@ By day, a simple software engineer. By night, also a software engineer.
 <h3>Whoami</h3>
 <p>I'm the lead developer of a company specialising in long-term archiving of digital data, and building solutions to make the information available for the public. Before that I was a (backend/full stack) developer with a big media company in the Netherlands. You can find <a href="https://diginaut.net">more information about me on diginaut.net</a>.</p>
 
-<p>/me has been a student <a href="http://www.cs.vu.nl/">Computer Science</a> at the <a href="http://www.vu.nl/">Vrije Universiteit</a> in Amsterdam and working with the Royal Dutch Navy, where I did my Master research project too. <a href="https://aquariusoft.org/">aquariusoft.org</a> is home to my projects. You can also find links to other sites, like <a href="https://shuttereye.org/">my gallery</a> there. Even <a href="https://github.com/aquatix">more projects can be found on my GitHub</a>.</p>
+<p>/me has been a student <a href="http://www.cs.vu.nl/">Computer Science</a> at the <a href="http://www.vu.nl/">Vrije Universiteit</a> in Amsterdam, have worked with the Royal Dutch Navy, where I did my Master research project too, then moved to one of the biggest media companies of the Netherlands and am currently leading the developers of a small company carving out a new market. <a href="https://aquariusoft.org/">aquariusoft.org</a> is home to my projects. You can also find links to other sites, like <a href="https://shuttereye.org/">my gallery</a> there. Even <a href="https://github.com/aquatix">more projects can be found on my GitHub</a>.</p>
 
 <h3>You seem to be a Dutchie. Why do you pretend to write English?</h3>
 <p>Mainly because of the exercise I get through it. I like reading other weblogs, preferably in a language I understand, which boils down to Dutch and English. As most content I consume nowadays is in English, I choose to write in that language too. And now I get a reader or three extra ;)</p>
@@ -35,7 +35,7 @@ By day, a simple software engineer. By night, also a software engineer.
 <p>As of <a href="{filename}../posts/moved-to-pelican.md">April 2017</a> the codebase has been switched to use <a href="http://docs.getpelican.com/">Pelican</a>, a static site generator, as I have been tired of PHP for a while. <a href="https://github.com/aquatix/dammit.nl">The content now lives in this GitHub repository</a>. The theme is <a href="https://github.com/aquatix/pelican-alchemy">a (temporary) fork</a> of <a href="https://github.com/nairobilug/pelican-alchemy">python-alchemy</a> with some enhancements like the featured images, and <a href="https://posativ.org/isso/">isso</a> commenting support.</p>
 
 <h3>Bugs, issues, features?</h3>
-<p>As the <a href="https://github.com/aquatix/voidy-bootstrap">theme source is open</a> and I like to hear your suggestions, you <a href="https://github.com/aquatix/voidy-bootstrap/issues">can file tickets</a> with your findings. If you happen to use my code, I'm even more interested in your opinion.</p>
+<p>As the <a href="https://github.com/aquatix/pelican-alchemy">theme source is open</a> and I like to hear your suggestions, you <a href="https://github.com/aquatix/dammit.nl/issues">can file tickets</a> with your findings. If you happen to use my code, I'm even more interested in your opinion.</p>
 
 <p>If you find strange things or dead links in my posts that you are able to fix, <a href="https://github.com/aquatix/dammit.nl">you can file a pull request</a> for the content too :)</p>
 
