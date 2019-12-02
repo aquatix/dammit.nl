@@ -1,5 +1,5 @@
 Title: Wallpapers with Gimp mosaic
-Started: 2019-12-01 19:52:53
+Started: 2019-12-01 19:52:53, 2019-12-02
 Date: 2019-12-01 19:52:53
 Slug: gimp-mosaic
 Location: Home
@@ -7,7 +7,7 @@ Authors: Michiel Scholten
 Category: photo
 conferences, family, gadgets, howto, photo, posts (fallback), projects, reading, study, thoughts, trips
 Tags: howto, opensource, photography
-Image: 
+Image: https://shuttereye.org/images/d9/d9d994e81a6c2db8_2000-2000.jpg
 Status: draft
 
 I like taking pictures, and having some of the nicer ones as a background to my daily computer umwelt is a nice extension of this.
@@ -27,3 +27,5 @@ Open the image in Gimp, then go to menu `Filters > Distort > Mosaic`
 - Random seed 0
 
 Of course, play around with the settings to your own liking.
+
+[![Heath](https://shuttereye.org/images/c2/c268e8d226aacc51_2000-2000.jpg)](https://shuttereye.org/wallpapers/IMG_0396_mosaic-hexagons-less-deep-lighter-less-colour-variance-20px.jpg/view/)
