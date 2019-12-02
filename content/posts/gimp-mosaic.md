@@ -30,3 +30,5 @@ Of course, play around with the settings to your own liking.
 [Gallery of wallpapers of pictures I made](https://shuttereye.org/wallpapers/)
 
 [![Heath](https://shuttereye.org/images/c2/c268e8d226aacc51_2000-2000.jpg)](https://shuttereye.org/wallpapers/IMG_0396_mosaic-hexagons-less-deep-lighter-less-colour-variance-20px.jpg/view/)
+
+[![Winter light](https://shuttereye.org/images/bd/bd7931b1fdfcf41c_2000-2000.jpg)](https://shuttereye.org/wallpapers/IMG_20191120_084011-tile15.jpg/view/)
