@@ -13,7 +13,7 @@ study,
 thoughts,
 trips'
 
-TAGS=$'backups
+TAGS=$'backups,
 books,
 communication,
 conference,
