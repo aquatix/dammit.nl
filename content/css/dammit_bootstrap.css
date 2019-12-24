@@ -12,6 +12,7 @@ body
 .article-image
 {
     margin-bottom: 1em;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
 }
 
 .teaser .article-image
@@ -98,7 +99,7 @@ li .label
 {
     border: 0 !important;
     border-radius: .25rem !important;
-    box-shadow: 0 !important;
+    box-shadow: none !important;
 }
 
 .isso-postbox > .form-wrapper > .auth-section .input-wrapper input
