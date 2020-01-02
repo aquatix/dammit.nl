@@ -1,13 +1,21 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2019-12-29
+Modified: 2020-01-02
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
 <p>Books I've read in the past. I might have written something about them, meaning the entries here will have a [review] link to a corresponding weblog posting. Otherwise, I try to link them to their page on Goodreads. The date denotes the day I <em>started</em> reading. Generally, the date of the next book is when I finished the last :)</p>
 
 <p>You can <a href="https://www.goodreads.com/review/list/17198769-michiel-scholten">find me on Goodreads</a> too. Maybe become book friends? :)</p>
+
+<h2 id="2020">2020</h2>
+<ol>
+    <li><span class="label">20191012</span> Neal Stephenson - <a href="https://www.goodreads.com/book/show/35429993-fall-or-dodge-in-hell">Fall, or Dodge in Hell</a></li>
+    <li><span class="label">20200101</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #27 - #32)</li>
+</ol>
+
+<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
 <h2 id="2019">2019</h2>
 
@@ -38,8 +46,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20191228</span> <span class="label">comic</span> Roger Leloup - <a href="https://www.goodreads.com/book/show/9738857-de-drie-zonnen-van-vinea">De drie Zonnen van Vinea</a> (Yoko Tsuno #5)</li>
     <li><span class="label">20191228</span> <span class="label">comic</span> Warren Ellis & John Cassaday - <a href="https://www.goodreads.com/book/show/209966.Planetary_Volume_1">Planetary, Volume 1: All Over the World and Other Stories</a></li>
 </ol>
-
-<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
 <h2 id="2018">2018</h2>
 
