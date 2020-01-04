@@ -13,6 +13,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 <ol>
     <li><span class="label">20191012</span> Neal Stephenson - <a href="https://www.goodreads.com/book/show/35429993-fall-or-dodge-in-hell">Fall, or Dodge in Hell</a></li>
     <li><span class="label">20200101</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #27 - #32)</li>
+    <li><span class="label">20200102</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issue #33)</li>
+    <li><span class="label">20200103</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #34 - #36)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
