@@ -1,12 +1,13 @@
 Title: Holiday vim tweaking
 Started: 2020-01-04 10:38:21
 Date: 2020-01-04 10:38:21
+Updated: 2020-01-05 10:50:00
 Slug: holiday-vim-tweaking
 Location: Home
 Authors: Michiel Scholten
 Category: projects
 Tags: dev, linux, tech, vim
-Image: https://shuttereye.org/galleries/various/screenshots/20200104_vimrc.png
+Image: https://shuttereye.org/galleries/various/screenshots/20200104_vimrc_terminal.png
 Status: published
 
 Some people binge-watch series when taking some time off, some read books, some enjoy comics, some take time off from computers for a bit, and some spend some hours cleaning up their vim configuration file.
