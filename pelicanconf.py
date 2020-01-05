@@ -49,8 +49,9 @@ LINKS = [
 ]
 
 ICONS = [
-    ('github', 'https://github.com/aquatix/dammit.nl'),
-    ('feed', '/feeds/all.atom.xml'),
+    ('fab fa-github', 'https://github.com/aquatix/dammit.nl'),
+    ('fas fa-rss', '/feeds/all.atom.xml'),
+    ('fab fa-mastodon', 'https://mastodon.social/@diginaut'),
 ]
 
 # Social widget
