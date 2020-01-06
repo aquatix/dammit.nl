@@ -59,6 +59,7 @@ hr
 
 .page-link,
 li .label,
+.link-button a,
 #isso-thread .textarea.placeholder,
 #isso-thread .textarea,
 .isso-postbox > .form-wrapper > .auth-section .input-wrapper input
@@ -67,9 +68,21 @@ li .label,
     color: #ccc !important;
 }
 
-.page-link:hover
+.page-link:hover,
+.link-button a:hover
 {
-    background-color: #999;
+    background-color: #999 !important;
+}
+
+.link-button
+{
+    margin-top: 1.5rem;
+}
+
+.link-button a
+{
+    text-decoration: none !important;
+    padding: .5rem;
 }
 
 .content img
