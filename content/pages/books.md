@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2020-01-02
+Modified: 2020-01-07
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -15,6 +15,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20200101</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #27 - #32)</li>
     <li><span class="label">20200102</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issue #33)</li>
     <li><span class="label">20200103</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #34 - #36)</li>
+    <li><span class="label">20200107</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #37 - #40)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
