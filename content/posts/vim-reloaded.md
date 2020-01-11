@@ -1,15 +1,16 @@
 Title: vim reloaded
-Started: 2014-11-28, 2015-01-24, 2017-04-26 15:48:00, 2017-05-19, 2018-01-05, 2019-11-26
-Date: 2017-04-26 15:48:00
+Started: 2014-11-28, 2015-01-24, 2017-04-26 15:48:00, 2017-05-19, 2018-01-05, 2019-11-26, 2020-01-11
+Date: 2020-01-12 15:48:00
 Slug: vim-reloaded
 Location: Home
 Authors: Michiel Scholten
 Category: howto
 Tags: linux, desktop, howto, vim
+Image:
 Status: draft
 
 
-An update about what I do with vim, making it more powerful and taking away some of the envy I have for the excellent IDE's out there (for example PyCharm and the rest of the IntelliJ family by JetBrains - try it, it's awesome).
+An update about what I do with vim, making it more powerful and taking away some of the envy I have for the excellent IDE's out there (for example PyCharm and the rest of the IntelliJ family by JetBrains - try it, it's awesome). Also, it makes vim look a lot better in the progress.
 
 
 I will be talking about my vim configuration as [it is currently in my dotfiles repository](https://github.com/aquatix/dotfiles/blob/49354e122a3b0bd902bd60123cd30307b79f0eb2/.vimrc). You can always find [the latest version here](https://github.com/aquatix/dotfiles/blob/master/.vimrc) and maybe have some inspiration from [the rest of my dotfiles](https://github.com/aquatix/dotfiles).
@@ -31,7 +32,7 @@ to arrive at the above.
 
 ## Vundle as plugin manager
 
-There are various plugin managers, and I settled on [Vundle](https://github.com/VundleVim/Vundle.vim), like [I mentioned in 2014]({filename}../posts/20140301-making-vim-even-more-cool.md). This still serves me well.
+There are various plugin managers, and I settled on [Vundle](https://github.com/VundleVim/Vundle.vim), like [I mentioned in 2014]({filename}../posts/20140301-making-vim-even-more-cool.md) for a long time. This served me well, but recently I switched to [vim-plug](https://github.com/junegunn/vim-plug). Both accomplish the same thing (with slightly different syntax), but vim-plug downloads and updates the plugins in parallel, which is a lot faster. It also makes loading vim a tad faster, which is always good. A fun extra feature is that after a `:PlugUpdate` of all plugins, you can press `D` and get a neat overview of all the updates in your plugins, which can be rather handy to see what's new and changed.
 
 
 ## fzf
@@ -117,3 +118,5 @@ Two other good checkers are flake8 and bandit. Flake8 does a lot of similar thin
 ## Further reading
 
 Another good read is [Vim After 15 Years](https://statico.github.io/vim3.html), in which Ian Langworth describes his own setup. We have some similarities, and of course some differences.
+
+I do not do much LaTeX writing at the moment, but if you do, you should check out the [vimtex plugin](https://github.com/lervag/vimtex).
