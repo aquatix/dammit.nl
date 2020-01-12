@@ -202,7 +202,7 @@ Two other good checkers are flake8 and bandit. Flake8 does a lot of similar thin
 
 Another interesting plugin in this context is [python-mode](https://github.com/python-mode/python-mode). I do not use this myself, but it integrates a lot of the above linters and other very useful Python development stuff. It conflicted a bit with ale and my linters, so I disabled it again (also, it was at places redundant with config I already had and was happy with).
 
-[vim-tagbar](https://github.com/majutsushi/tagbar) and the keybinding <kbd>ctrl</kdb> + <kbd>]</kbd> (with its reverse <kbd>ctrl</kbd> + <kbd>o</kbd>) make navigating through tags inside your code possible. This is done through the magic of [ctags](https://github.com/universal-ctags/ctags), and I use the [vim-rooter](https://github.com/airblade/vim-rooter) plugin to make sure ctags and other lookups, like the one from `fzf` mentioned above, work from the root of a project. It looks for version repository hints and such.
+[vim-tagbar](https://github.com/majutsushi/tagbar) and the keybinding <kbd>ctrl</kbd> + <kbd>]</kbd> (with its reverse <kbd>ctrl</kbd> + <kbd>o</kbd>) make navigating through tags inside your code possible. This is done through the magic of [ctags](https://github.com/universal-ctags/ctags), and I use the [vim-rooter](https://github.com/airblade/vim-rooter) plugin to make sure ctags and other lookups, like the one from `fzf` mentioned above, work from the root of a project. It looks for version repository hints and such.
 
 
 ### ctags is missing
@@ -214,7 +214,7 @@ You need exuberant-ctags installed, otherwise there will be an error. You can do
 
 When writing text, having some checks on your spelling can be useful, especially when you are getting tired, writing long pieces and/or not even using your native tongue. I can toggle through various languages using <kbd>F7</kbd> and vim will highlight misspelled words accordingly.
 
-To move to a misspelled word, use <kbd>]s</kbd> and <kbd>[s</kdb>. The <kbd>]s</kbd> command will move the cursor to the next misspelled word, the <kbd>[s</kbd> command will move the cursor back through the buffer to previous misspelled words.
+To move to a misspelled word, use <kbd>]s</kbd> and <kbd>[s</kbd>. The <kbd>]s</kbd> command will move the cursor to the next misspelled word, the <kbd>[s</kbd> command will move the cursor back through the buffer to previous misspelled words.
 
 Once the cursor is on the word, use <kbd>z=</kbd>, and Vim will suggest a list of alternatives that it thinks may be correct. With the numbers, you can then quicly replace the word with that suggestion. If you like to add the word to your local dictionary instead, use <kbd>zg</kbd> for 'good'. It will add it to the relevant word lists in `~/.vim/spell/`.
 
@@ -269,3 +269,5 @@ I do not do much LaTeX writing at the moment, but if you do, you should check ou
 This weblog has a [vim tag]({tag}vim), which binds my vim musings together.
 
 Also, I did not talk about all the plugins in [my .vimrc](https://github.com/aquatix/dotfiles/blob/master/.vimrc), so make sure to browse through it, and check out the various highlight plugins and other hidden gems.
+
+You might also have noted a bar completely at the bottom in the screenshots in this article. This is from [tmux](https://github.com/tmux/tmux/wiki), which I can highly recommend if you are doing any work in terminals. I think another article highlighting some useful features and tweaks for this terminal multiplexer will follow soonish(tm).
