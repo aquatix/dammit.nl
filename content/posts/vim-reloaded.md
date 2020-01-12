@@ -71,6 +71,18 @@ if &term == "xterm" || &term == "xterm-256color" || &term == "screen-bce" || &te
     let g:airline_powerline_fonts = 1
 endif
 
+" This is what sets vim to use 24-bit colors. It will also work for any version of neovim
+" newer than 0.1.4.
+if exists('+termguicolors')
+  let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
+  let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
+  set termguicolors
+endif
+
+" Toggle paste and autoindent mode (enable paste so no indention weirdness
+" happens when pasting into the current file)
+set pastetoggle=<F10>
+
 " Web Development/Filetype icons
 " Needs a font like found at
 " https://github.com/ryanoasis/nerd-fonts
@@ -78,6 +90,12 @@ Plug 'ryanoasis/vim-devicons'
 " Set guifont when using gvim:
 "set guifont=Droid\ Sans\ Mono\ for\ Powerline\ Plus\ Nerd\ File\ Types\ 11
 
+" reload file when changes happen in other editors
+set autoread
+
+" hide buffers instead of closing them (so no saving is needed and undo and
+" marks are preserved)
+set hidden
 ```
 
 To help with reading code, [indentLine](https://github.com/Yggdroot/indentLine) and [rainbow brackets](https://github.com/luochen1990/rainbow) is used:
@@ -200,9 +218,11 @@ Two other good checkers are flake8 and bandit. Flake8 does a lot of similar thin
     pip install flake8
     pip install bandit
 
+To have this all play nice with virtualenvs and such, I wrote an [ftplugin file for Python](https://github.com/aquatix/dotfiles/blob/master/.vim/after/ftplugin/python.vim).
+
 Another interesting plugin in this context is [python-mode](https://github.com/python-mode/python-mode). I do not use this myself, but it integrates a lot of the above linters and other very useful Python development stuff. It conflicted a bit with ale and my linters, so I disabled it again (also, it was at places redundant with config I already had and was happy with).
 
-[vim-tagbar](https://github.com/majutsushi/tagbar) and the keybinding <kbd>ctrl</kbd> + <kbd>]</kbd> (with its reverse <kbd>ctrl</kbd> + <kbd>o</kbd>) make navigating through tags inside your code possible. This is done through the magic of [ctags](https://github.com/universal-ctags/ctags), and I use the [vim-rooter](https://github.com/airblade/vim-rooter) plugin to make sure ctags and other lookups, like the one from `fzf` mentioned above, work from the root of a project. It looks for version repository hints and such.
+[vim-tagbar](https://github.com/majutsushi/tagbar) and the keybinding <kbd>ctrl</kbd> + <kbd>]</kbd> (with its reverse <kbd>ctrl</kbd> + <kbd>o</kbd> for 'jump to definition' and 'jump back') make navigating through tags inside your code possible. This is done through the magic of [ctags](https://github.com/universal-ctags/ctags), and I use the [vim-rooter](https://github.com/airblade/vim-rooter) plugin to make sure ctags and other lookups, like the one from `fzf` mentioned above, work from the root of a project. It looks for version repository hints and such.
 
 
 ### ctags is missing
@@ -257,6 +277,35 @@ endif
 " the spelling correction quickly.
 " https://castel.dev/post/lecture-notes-1/
 inoremap <C-l> <c-g>u<Esc>[s1z=`]a<c-g>u
+```
+
+## Distraction-free writing
+
+Speaking of writing longer pieces, you might want to do so in a less distracting environment. Numerous text editors have popped up, providing a window or fullscreen writing canvas with basically just your text. With vim, you do not need a separate editor, as it has you covered. Well, with some help from [goyo](https://github.com/junegunn/goyo.vim), [limelight](https://github.com/junegunn/limelight.vim), and [vim-pencil](https://github.com/reedes/vim-pencil), which take care of removing all unnecessary chrome, removing unnecessary highlighting (focussing on the current paragraph), and things like soft returns respectively:
+
+```
+" Distraction-free writing, start with <Leader>V (\V or ,V in this config)
+Plug 'junegunn/goyo.vim'
+let g:goyo_width = 120
+
+" Help focus on text by dimming other parts a bit
+Plug 'junegunn/limelight.vim'
+let g:limelight_conceal_ctermfg = 'Grey69'
+let g:limelight_conceal_ctermfg = 145
+" Color name (:help gui-colors) or RGB color
+let g:limelight_conceal_guifg = '#b0b0b0'
+
+" Helps with writing prose (better line breaks, agnostic on soft line wraps vs
+" hard line breaks etc)
+Plug 'reedes/vim-pencil'
+" Disable automatic formatting, as this automatically merges lines devided by
+" 1 hard enter only, which can be annoying
+let g:pencil#autoformat = 0
+" Do not insert hard line breaks in the middle of a sentence
+let g:pencil#wrapModeDefault = 'soft'  " default is 'hard'
+
+" Toggle Gogo with Limelight and Pencil together with ,V
+nmap <leader>V :Goyo <bar> :Limelight!! <bar> :TogglePencil <CR>
 ```
 
 
