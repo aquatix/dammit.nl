@@ -35,13 +35,82 @@ to arrive at the above.
 There are various plugin managers, and I settled on [Vundle](https://github.com/VundleVim/Vundle.vim), like [I mentioned in 2014]({filename}../posts/20140301-making-vim-even-more-cool.md) for a long time. This served me well, but recently I switched to [vim-plug](https://github.com/junegunn/vim-plug). Both accomplish the same thing (with slightly different syntax), but vim-plug downloads and updates the plugins in parallel, which is a lot faster. It also makes loading vim a tad faster, which is always good. A fun extra feature is that after a `:PlugUpdate` of all plugins, you can press `D` and get a neat overview of all the updates in your plugins, which can be rather handy to see what's new and changed.
 
 
+## Theming
+
+After having used Zenburn for many years, I went to [falcon]() for a bit, and lately settled on [vim-hybrid-material](https://github.com/kristijanhusak/vim-hybrid-material) in the 'reverse' variant, which has nicer gray accents. [vim-airline](https://github.com/vim-airline/vim-airline) integrates nicely, and provides an informative bar at the bottom. It can also show a tab bar at the top with open buffers and/or tabs, but I can see those already with a press of <kbd>;</kbd> and I prefer having the extra line available for code.
+
+Additionally, to make airline and nerdtree (see below) look even better, I use [vim-devicons](https://github.com/ryanoasis/vim-devicons) for icons. My terminals all use the [Hack font]() in the [Nerd fonts](https://www.nerdfonts.com/) [variant](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack), which ensures that the glyphs used are available in the monospaced font of the 'GUI'.
+
+
+```
+" Nice colour scheme
+Plug 'kristijanhusak/vim-hybrid-material'
+
+" Nice statusbar, alternative for powerline. Get powerline font for best
+" looking result
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+let g:airline_theme = "hybrid"
+" Disable showing current function in airline
+let g:airline#extensions#tagbar#enabled = 0
+" Better showing of open buffers (open files), integrates with airline
+" Plug 'bling/vim-bufferline'
+" Plug 'alisnic/vim-bufferline'
+
+" Ensure 256 colour support if the terminal supports it
+if &term == "xterm" || &term == "xterm-256color" || &term == "screen-bce" || &term == "screen-256color" || &term == "screen" || &term == "tmux-256color-italic"
+
+    set background=dark
+    let g:enable_bold_font = 1
+    let g:enable_italic_font = 1
+    let g:hybrid_transparent_background = 1
+    colorscheme hybrid_reverse
+
+    " create a bar for airline
+    set laststatus=2
+    let g:airline_powerline_fonts = 1
+endif
+
+" Web Development/Filetype icons
+" Needs a font like found at
+" https://github.com/ryanoasis/nerd-fonts
+Plug 'ryanoasis/vim-devicons'
+" Set guifont when using gvim:
+"set guifont=Droid\ Sans\ Mono\ for\ Powerline\ Plus\ Nerd\ File\ Types\ 11
+
+```
+
+To help with reading code, [indentLine](https://github.com/Yggdroot/indentLine) and [rainbow brackets](https://github.com/luochen1990/rainbow) is used:
+
+[image]
+
+```
+" Show indentation marks, enables conceallevel 2, so for example hides quotes
+" in json files
+Plug 'Yggdroot/indentLine'
+let g:indentLine_char = '┊'
+"let g:indentLine_setConceal = 0
+let g:indentLine_conceallevel = 1
+
+" Colour-match brackets
+Plug 'luochen1990/rainbow'
+let g:rainbow_active = 1 "set to 0 if you want to enable it later via :RainbowToggle
+" Do not use rainbow parentheses in these file types:
+let g:rainbow_conf = {
+\  'separately': {
+\    'todo': 0
+\  },
+\}
+```
+
+
 ## fzf
 
 I bound looking through buffers to <kbd>;</kbd>, as I use buffers quite a lot. This way I can quickly switch to another file I have open.
 
 Find more tricks to do with fzf and vim in this article: [Fuzzy finding with FZF.vim](http://tilvim.com/2016/01/06/fzf.html).
 
-Quickly opening files is done through <kbd>leader</kbd>+<kbd>o</kbd>, and looking through the content of files is bound to <kbd>leader</kbd>+<kbd>f</kbd>. This file search leverages the awesome grepping powers of [ripgrep]():
+Quickly opening files is done through <kbd>leader</kbd>+<kbd>o</kbd>, and looking through the content of files is bound to <kbd>leader</kbd>+<kbd>f</kbd>. This file search leverages the awesome grepping powers of [ripgrep](https://github.com/BurntSushi/ripgrep):
 
 ```
 " Find term where term is the string you want to search, this will open up a
@@ -91,16 +160,33 @@ let g:ctrlp_switch_buffer = 0
 [![vim with ctrl+p quick lookup](https://shuttereye.org/images/88/88a1a1a18185a8d0_2000-2000.png)](https://shuttereye.org/various/screenshots/20170519_vim_ctrlp.png/view/)
 
 
-## ctags is missing
+## nerdtree
 
-You need exuberant-ctags installed, otherwise there will be an error. You can do this with `sudo apt install exuberant-ctags` or `brew install ctags`.
+Yet another way of navigating through files is [nerdtree](), which provides a tree view with directories and files, like in a file manager.
+
+```
+" Quick file system tree, mapped to Ctrl+n for quick toggle
+Plug 'preservim/nerdtree'
+Plug 'Xuyuanp/nerdtree-git-plugin'
+map <C-n> :NERDTreeToggle<CR>
+let NERDTreeIgnore = ['\.pyc$', 'tags']
+" close vim if the only window left open is a NERDTree
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
+Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
+```
+
+## Auto-completion
+
+I keep returning to [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe). I tried [deoplete](https://github.com/Shougo/deoplete.nvim) and some others, but somehow YCM works best for me and my fingers. [jedi-vim](https://github.com/davidhalter/jedi-vim) provides the magic for Python (together with ctags as mentioned below).
+
+The daemon running in the background (ycmd) to do the work for YouCompleteMe needs to be compiled, which basically is running a Python script in `~/.vim/plugged/YouCompleteMe/`: `python3 install.py`.
 
 
-## Sanity checking of your projects
+## Sanity checking of your projects (code quality etc)
 
 [Syntastic](https://github.com/scrooloose/syntastic) is fantastic. Sorry, I had to say it that way :) It uses all kinds of tools to check your code for errors, code conventions and more. For Python, you can do PEP-8 checking and such, for example.
 
-However, I since moved on to [ale](https://github.com/dense-analysis/ale), which is even better. It's asynchronous and just has great support for a lot of linters and checkers, like pylint, flake-8, and bandit for Python.
+However, I since moved on to [ale](https://github.com/dense-analysis/ale), which is even better. It's asynchronous and just has great support for a lot of linters and checkers, like pylint, flake-8, and bandit (security checking) for Python.
 
 My choice for Python and Django is to use pylint and the [pylint-django plugin](https://github.com/landscapeio/pylint-django):
 
@@ -114,9 +200,72 @@ Two other good checkers are flake8 and bandit. Flake8 does a lot of similar thin
     pip install flake8
     pip install bandit
 
+Another interesting plugin in this context is [python-mode](https://github.com/python-mode/python-mode). I do not use this myself, but it integrates a lot of the above linters and other very useful Python development stuff. It conflicted a bit with ale and my linters, so I disabled it again (also, it was at places redundant with config I already had and was happy with).
+
+[vim-tagbar](https://github.com/majutsushi/tagbar) and the keybinding <kbd>ctrl</kdb> + <kbd>]</kbd> (with its reverse <kbd>ctrl</kbd> + <kbd>o</kbd>) make navigating through tags inside your code possible. This is done through the magic of [ctags](https://github.com/universal-ctags/ctags), and I use the [vim-rooter](https://github.com/airblade/vim-rooter) plugin to make sure ctags and other lookups, like the one from `fzf` mentioned above, work from the root of a project. It looks for version repository hints and such.
+
+
+### ctags is missing
+
+You need exuberant-ctags installed, otherwise there will be an error. You can do this with `sudo apt install exuberant-ctags` or `brew install ctags`.
+
+
+## Spell checking
+
+When writing text, having some checks on your spelling can be useful, especially when you are getting tired, writing long pieces and/or not even using your native tongue. I can toggle through various languages using <kbd>F7</kbd> and vim will highlight misspelled words accordingly.
+
+To move to a misspelled word, use <kbd>]s</kbd> and <kbd>[s</kdb>. The <kbd>]s</kbd> command will move the cursor to the next misspelled word, the <kbd>[s</kbd> command will move the cursor back through the buffer to previous misspelled words.
+
+Once the cursor is on the word, use <kbd>z=</kbd>, and Vim will suggest a list of alternatives that it thinks may be correct. With the numbers, you can then quicly replace the word with that suggestion. If you like to add the word to your local dictionary instead, use <kbd>zg</kbd> for 'good'. It will add it to the relevant word lists in `~/.vim/spell/`.
+
+I found a neat trick to quickly try to fix misspellings with <kbd>ctrl</kbd> + <kbd>l</kbd> on [this blogpost](https://castel.dev/post/lecture-notes-1/). The author has a lot more gems in that article and on others on his site.
+
+```
+" Spell Check (http://vim.wikia.com/wiki/Toggle_spellcheck_with_function_keys)
+" Loop through various languages to select the one to spellcheck with
+let b:myLang=0
+let g:myLangList=["nospell","nl","en_gb","en_us"]
+function! ToggleSpell()
+  if !exists( "b:myLang" )
+    let b:myLang=0
+  endif
+  let b:myLang=b:myLang+1
+  if b:myLang>=len(g:myLangList) | let b:myLang=0 | endif
+  if b:myLang==0
+    setlocal nospell
+  else
+    execute "setlocal spell spelllang=".get(g:myLangList, b:myLang)
+  endif
+  echo "spell checking language:" g:myLangList[b:myLang]
+endfunction
+
+" Map <F7> to toggle the language with
+nmap <silent> <F7> :call ToggleSpell()<CR>
+
+" In case the spelling language was set by other means than ToggleSpell() (a filetype autocommand say):
+if !exists( "b:myLang" )
+  if &spell
+    let b:myLang=index(g:myLangList, &spelllang)
+  else
+    let b:myLang=0
+  endif
+endif
+
+" Correct previous spelling error with Ctrl+l. jumps to the previous
+" spelling mistake [s, then picks the first suggestion 1z=, and then
+" jumps back `]a. The <c-g>u in the middle make it possible to undo
+" the spelling correction quickly.
+" https://castel.dev/post/lecture-notes-1/
+inoremap <C-l> <c-g>u<Esc>[s1z=`]a<c-g>u
+```
+
 
 ## Further reading
 
 Another good read is [Vim After 15 Years](https://statico.github.io/vim3.html), in which Ian Langworth describes his own setup. We have some similarities, and of course some differences.
 
 I do not do much LaTeX writing at the moment, but if you do, you should check out the [vimtex plugin](https://github.com/lervag/vimtex).
+
+This weblog has a [vim tag]({tag}vim), which binds my vim musings together.
+
+Also, I did not talk about all the plugins in [my .vimrc](https://github.com/aquatix/dotfiles/blob/master/.vimrc), so make sure to browse through it, and check out the various highlight plugins and other hidden gems.
