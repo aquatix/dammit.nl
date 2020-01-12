@@ -47,6 +47,13 @@ pre
 }
 */
 
+kbd
+{
+    border-radius: .25rem;
+    color: #FF9800;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+
 .text-muted
 {
     color: #999 !important;
