@@ -1,23 +1,23 @@
 Title: vim reloaded
-Started: 2014-11-28, 2015-01-24, 2017-04-26 15:48:00, 2017-05-19, 2018-01-05, 2019-11-26, 2020-01-11
-Date: 2020-01-12 15:48:00
+Started: 2014-11-28, 2015-01-24, 2017-04-26 15:48:00, 2017-05-19, 2018-01-05, 2019-11-26, 2020-01-11, 2020-01-12, 2020-01-15
+Date: 2020-01-15 12:56:00
 Slug: vim-reloaded
 Location: Home
 Authors: Michiel Scholten
 Category: howto
 Tags: linux, desktop, howto, vim
-Image:
-Status: draft
+Image: https://shuttereye.org/galleries/various/screenshots/20200115_vim_logo_asciiart.png
+Status: published
 
 
 An update about what I do with vim, making it more powerful and taking away some of the envy I have for the excellent IDE's out there (for example PyCharm and the rest of the IntelliJ family by JetBrains - try it, it's awesome). Also, it makes vim look a lot better in the progress.
 
 
-I will be talking about my vim configuration as [it is currently in my dotfiles repository](https://github.com/aquatix/dotfiles/blob/49354e122a3b0bd902bd60123cd30307b79f0eb2/.vimrc). You can always find [the latest version here](https://github.com/aquatix/dotfiles/blob/master/.vimrc) and maybe have some inspiration from [the rest of my dotfiles](https://github.com/aquatix/dotfiles).
+I will be talking about my vim configuration as [it is currently in my dotfiles repository](https://github.com/aquatix/dotfiles/blob/b8a69a86ec39d1585399523ad75256a1413001f0/.vimrc). You can always find [the latest version here](https://github.com/aquatix/dotfiles/blob/master/.vimrc) and maybe have some inspiration from [the rest of my dotfiles](https://github.com/aquatix/dotfiles).
 
 To get an impression how things currently look, take a look at this example:
 
-[todo]
+[![Current vim as python IDE](https://shuttereye.org/galleries/various/screenshots/20200113_vim_nerdtree_tagbar.png)](https://shuttereye.org/various/screenshots/20200113_vim_nerdtree_tagbar.png/view/)
 
 In the years since the [first time I showed my vim setup]({filename}../posts/20140301-making-vim-even-more-cool.md), I went through:
 
@@ -32,14 +32,18 @@ to arrive at the above.
 
 ## Vundle as plugin manager
 
-There are various plugin managers, and I settled on [Vundle](https://github.com/VundleVim/Vundle.vim), like [I mentioned in 2014]({filename}../posts/20140301-making-vim-even-more-cool.md) for a long time. This served me well, but recently I switched to [vim-plug](https://github.com/junegunn/vim-plug). Both accomplish the same thing (with slightly different syntax), but vim-plug downloads and updates the plugins in parallel, which is a lot faster. It also makes loading vim a tad faster, which is always good. A fun extra feature is that after a `:PlugUpdate` of all plugins, you can press `D` and get a neat overview of all the updates in your plugins, which can be rather handy to see what's new and changed.
+There are various plugin managers, and I settled on [Vundle](https://github.com/VundleVim/Vundle.vim), like [I mentioned in 2014]({filename}../posts/20140301-making-vim-even-more-cool.md) for a long time. This served me well, but recently I switched to [vim-plug](https://github.com/junegunn/vim-plug). Both accomplish the same thing (with slightly different syntax), but vim-plug downloads and updates the plugins in parallel, which is a lot faster. It also makes loading vim a tad faster, which is always good. A fun extra feature is that after a `:PlugUpdate` of all plugins, you can press <kbd>D</kbd> and get a neat overview of all the updates in your plugins, which can be rather handy to see what's new and changed.
+
+[![vim-plug after an update](https://shuttereye.org/galleries/various/screenshots/20200114_vim-plug_updates.png)](https://shuttereye.org/various/screenshots/20200114_vim-plug_updates.png/view/)
+
+You can even revert updates with <kbd>X</kbd>.
 
 
 ## Theming
 
 After having used Zenburn for many years, I went to [falcon]() for a bit, and lately settled on [vim-hybrid-material](https://github.com/kristijanhusak/vim-hybrid-material) in the 'reverse' variant, which has nicer gray accents. [vim-airline](https://github.com/vim-airline/vim-airline) integrates nicely, and provides an informative bar at the bottom. It can also show a tab bar at the top with open buffers and/or tabs, but I can see those already with a press of <kbd>;</kbd> and I prefer having the extra line available for code.
 
-Additionally, to make airline and nerdtree (see below) look even better, I use [vim-devicons](https://github.com/ryanoasis/vim-devicons) for icons. My terminals all use the [Hack font]() in the [Nerd fonts](https://www.nerdfonts.com/) [variant](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack), which ensures that the glyphs used are available in the monospaced font of the 'GUI'.
+Additionally, to make airline and nerdtree (see below) look even better, I use [vim-devicons](https://github.com/ryanoasis/vim-devicons) for icons. My terminals all use the [Hack font](https://github.com/source-foundry/Hack) in the [Nerd fonts](https://www.nerdfonts.com/) [variant](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack), which ensures that the glyphs used are available in the monospaced font of the 'GUI'. [vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight) makes the icons show up in different colours, depending on the file formats.
 
 
 ```
@@ -100,7 +104,7 @@ set hidden
 
 To help with reading code, [indentLine](https://github.com/Yggdroot/indentLine) and [rainbow brackets](https://github.com/luochen1990/rainbow) is used:
 
-[image]
+[![vim with matching rainbow brackets and indentLine for indentation guides](https://shuttereye.org/galleries/various/screenshots/20200115_vim_rainbow-brackets_indentline.png)](https://shuttereye.org/various/screenshots/20200115_vim_rainbow-brackets_indentline.png/view/)
 
 ```
 " Show indentation marks, enables conceallevel 2, so for example hides quotes
@@ -154,6 +158,8 @@ nmap <Leader>l :Lines<CR>
 
 ```
 
+[![vim with fzf quick lookup](https://shuttereye.org/galleries/various/screenshots/20200115_vim_fzf.png)](https://shuttereye.org/various/screenshots/20200115_vim_fzf.png/view/)
+
 
 ## ctrl+p
 
@@ -175,12 +181,12 @@ let g:ctrlp_dotfiles = 0
 let g:ctrlp_switch_buffer = 0
 ```
 
-[![vim with ctrl+p quick lookup](https://shuttereye.org/images/88/88a1a1a18185a8d0_2000-2000.png)](https://shuttereye.org/various/screenshots/20170519_vim_ctrlp.png/view/)
+[![vim with ctrl+p quick lookup](https://shuttereye.org/galleries/various/screenshots/20200115_vim_ctrl-p.png)](https://shuttereye.org/various/screenshots/20200115_vim_ctrl-p.png/view/)
 
 
 ## nerdtree
 
-Yet another way of navigating through files is [nerdtree](), which provides a tree view with directories and files, like in a file manager.
+Yet another way of navigating through files is [nerdtree](https://github.com/preservim/nerdtree), which provides a tree view with directories and files, like in a file manager. [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) provides Git status information about the files being listed.
 
 ```
 " Quick file system tree, mapped to Ctrl+n for quick toggle
@@ -197,7 +203,13 @@ Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 
 I keep returning to [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe). I tried [deoplete](https://github.com/Shougo/deoplete.nvim) and some others, but somehow YCM works best for me and my fingers. [jedi-vim](https://github.com/davidhalter/jedi-vim) provides the magic for Python (together with ctags as mentioned below).
 
+In text, this can even suggest words for you, which makes typing even faster.
+
 The daemon running in the background (ycmd) to do the work for YouCompleteMe needs to be compiled, which basically is running a Python script in `~/.vim/plugged/YouCompleteMe/`: `python3 install.py`.
+
+[![vim with auto complete from YCM](https://shuttereye.org/galleries/various/screenshots/20200115_vim_autocomplete.png)](https://shuttereye.org/various/screenshots/20200115_vim_autocomplete.png/view/)
+
+The `_3` in the margin here means that three lines have been removed.
 
 
 ## Sanity checking of your projects (code quality etc)
@@ -205,6 +217,8 @@ The daemon running in the background (ycmd) to do the work for YouCompleteMe nee
 [Syntastic](https://github.com/scrooloose/syntastic) is fantastic. Sorry, I had to say it that way :) It uses all kinds of tools to check your code for errors, code conventions and more. For Python, you can do PEP-8 checking and such, for example.
 
 However, I since moved on to [ale](https://github.com/dense-analysis/ale), which is even better. It's asynchronous and just has great support for a lot of linters and checkers, like pylint, flake-8, and bandit (security checking) for Python.
+
+You can see the hints in the above screenshot (red x's); these are errors, which get shown in the message bar at the bottom if you navigate the cursor to that line. Warnings get shown too, with different glyphs and colours, all to your liking.
 
 My choice for Python and Django is to use pylint and the [pylint-django plugin](https://github.com/landscapeio/pylint-django):
 
@@ -279,6 +293,11 @@ endif
 inoremap <C-l> <c-g>u<Esc>[s1z=`]a<c-g>u
 ```
 
+[![vim editing dammIT](https://shuttereye.org/galleries/various/screenshots/20200115_vim_editing_dammit.png)](https://shuttereye.org/various/screenshots/20200115_vim_editing_dammit.png/view/)
+
+The red and underlined words here are marked by the spell checker.
+
+
 ## Distraction-free writing
 
 Speaking of writing longer pieces, you might want to do so in a less distracting environment. Numerous text editors have popped up, providing a window or fullscreen writing canvas with basically just your text. With vim, you do not need a separate editor, as it has you covered. Well, with some help from [goyo](https://github.com/junegunn/goyo.vim), [limelight](https://github.com/junegunn/limelight.vim), and [vim-pencil](https://github.com/reedes/vim-pencil), which take care of removing all unnecessary chrome, removing unnecessary highlighting (focussing on the current paragraph), and things like soft returns respectively:
@@ -308,6 +327,8 @@ let g:pencil#wrapModeDefault = 'soft'  " default is 'hard'
 nmap <leader>V :Goyo <bar> :Limelight!! <bar> :TogglePencil <CR>
 ```
 
+[![vim in distraction free mode with ,V](https://shuttereye.org/galleries/various/screenshots/20200115_vim_distraction_free.png)](https://shuttereye.org/various/screenshots/20200115_vim_distraction_free.png/view/)
+
 
 ## Further reading
 
@@ -320,3 +341,5 @@ This weblog has a [vim tag]({tag}vim), which binds my vim musings together.
 Also, I did not talk about all the plugins in [my .vimrc](https://github.com/aquatix/dotfiles/blob/master/.vimrc), so make sure to browse through it, and check out the various highlight plugins and other hidden gems.
 
 You might also have noted a bar completely at the bottom in the screenshots in this article. This is from [tmux](https://github.com/tmux/tmux/wiki), which I can highly recommend if you are doing any work in terminals. I think another article highlighting some useful features and tweaks for this terminal multiplexer will follow soonish(tm).
+
+[romainl](https://github.com/romainl) has [some interesting](https://gist.github.com/romainl/4b9f139d2a8694612b924322de1025ce) [links](https://www.reddit.com/r/vim/comments/7iy03o/you_aint_gonna_need_it_your_replacement_for/dr2qo4k/?st=jc832ora) to do all kinds of nifty vim stuff without plugins, or with at least as possible.
