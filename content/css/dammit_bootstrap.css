@@ -28,6 +28,12 @@ pre,
     color: #ccc !important;
 }
 
+h2
+{
+    margin-top: 1.75rem;
+    margin-top: 2.50rem;
+}
+
 pre
 {
     border-radius: .25rem;
@@ -96,6 +102,7 @@ li .label,
 {
     max-width: 100%;
     border-radius: .25rem;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
 }
 
 .content blockquote
