@@ -1,6 +1,7 @@
 Title: vim reloaded
 Started: 2014-11-28, 2015-01-24, 2017-04-26 15:48:00, 2017-05-19, 2018-01-05, 2019-11-26, 2020-01-11, 2020-01-12, 2020-01-15
 Date: 2020-01-15 12:56:00
+Modified: 2020-01-25 14:16:00
 Slug: vim-reloaded
 Location: Home
 Authors: Michiel Scholten
@@ -141,6 +142,15 @@ Quickly opening files is done through <kbd>leader</kbd>+<kbd>o</kbd>, and lookin
 " https://medium.com/@crashybang/supercharge-vim-with-fzf-and-ripgrep-d4661fc853d2
 command! -bang -nargs=* Find call fzf#vim#grep('rg --column --line-number --no-heading --fixed-strings --ignore-case --hidden --follow --color "always" '.shellescape(<q-args>).'| tr -d "\017"', 1, <bang>0)
 
+" Search contents of files with ripgrep
+" https://sidneyliebrand.io/blog/how-fzf-and-ripgrep-improved-my-workflow
+command! -bang -nargs=* Rg
+  \ call fzf#vim#grep(
+  \   'rg --column --line-number --hidden --smart-case --no-heading --color=always '.shellescape(<q-args>), 1,
+  \   <bang>0 ? fzf#vim#with_preview({'options': '--delimiter : --nth 4..'}, 'up:60%')
+  \           : fzf#vim#with_preview({'options': '--delimiter : --nth 4..'}, 'right:50%:hidden', '?'),
+  \   <bang>0)
+
 " Files command with preview window
 command! -bang -nargs=? -complete=dir FilesPreview
   \ call fzf#vim#files(<q-args>, fzf#vim#with_preview(), <bang>0)
@@ -153,7 +163,8 @@ nmap <Leader>o :Files<CR>
 nmap <Leader>O :FilesPreview<CR>
 nmap <Leader>t :Tags<CR>
 nmap <Leader>c :Commits<CR>
-nmap <Leader>f :Find<CR>
+" nmap <Leader>f :Find<CR>
+nmap <Leader>f :Rg<CR>
 nmap <Leader>l :Lines<CR>
 
 ```
@@ -343,3 +354,8 @@ Also, I did not talk about all the plugins in [my .vimrc](https://github.com/aqu
 You might also have noted a bar completely at the bottom in the screenshots in this article. This is from [tmux](https://github.com/tmux/tmux/wiki), which I can highly recommend if you are doing any work in terminals. I think another article highlighting some useful features and tweaks for this terminal multiplexer will follow soonish(tm).
 
 [romainl](https://github.com/romainl) has [some interesting](https://gist.github.com/romainl/4b9f139d2a8694612b924322de1025ce) [links](https://www.reddit.com/r/vim/comments/7iy03o/you_aint_gonna_need_it_your_replacement_for/dr2qo4k/?st=jc832ora) to do all kinds of nifty vim stuff without plugins, or with at least as possible.
+
+
+## Changes
+
+On 2020-01-25, I added a `:Rg` command for fuzzy finding text inside files; this is a better version of the `:Find` that's already in the snippet, as the `:Find` variant also searches the text in the filenames, which is already done with `:Files` <kbd>leader</kbd>+<kbd>o</kbd>).
