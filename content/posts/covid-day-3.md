@@ -14,7 +14,7 @@ Meanwhile, social and commercial life is shutting down piece by piece.
 
 Sure feels surreal.
 
-For me, today was day number three of working from home, day five of 'my' Corona/COVID-19 count. I started counting the day my company decided to do everything remotely. Days before we already started doing more and more remotely (even more than some of my team already did by default), and today I even did a workshop over video conference software for a client, together with a colleague. It even went rather smoothly :)
+For me, today was day number three of working from home, day five of 'my' Corona/COVID-19 count. I started counting the day my company decided to do everything remotely (this coincided with the day that The Netherlands started to take things seriously, and people started raiding the supermarkets for toilet paper because, well, no reasons at all really). Days before we already started doing more and more remotely (even more than some of my team already did by default), and today I even did a workshop over video conference software for a client, together with a colleague. It even went rather smoothly :)
 
 So, while everyone is adjusting to a life being based more around our homes than our offices, we are also adjusting to new daily rhythms, juggling work tasks, suddenly home schooling our kids, with teachers scrambling to provide materials, methods, and structure for kids and parents to apply at home.
 
