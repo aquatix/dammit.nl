@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2020-03-19
+Modified: 2020-04-02
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -18,6 +18,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20200107</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #37 - #40)</li>
     <li><span class="label">20200301</span> E.H. Bradley - Destinies Beyond the Mythos - Ahyoka's Story</li>
     <li><span class="label">20200314</span> Sönke Ahrens - How to take smart notes</li>
+    <li><span class="label">20200402</span> <a href="https://www.goodreads.com/book/show/37835151-open-and-shut">Alastair Reynolds - Open and Shut</a> (Prefect Dreyfus Emergency #1.5)</li>
+    <li><span class="label">20200402</span> <a href="https://www.goodreads.com/book/show/35601772-elysium-fire">Alastair Reynolds - Elysium Fire</a> (Prefect Dreyfus Emergency #2)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
