@@ -1,12 +1,12 @@
 Title: COVID-19: day 22, on which I got ourselves a printer
 Started: 2020-04-04 20:34:03
 Date: 2020-04-04 20:34:03
-Slug: got-myself-a-printer
+Slug: covid-22-got-a-printer
 Location: Home (duh)
 Authors: Michiel Scholten
 Category: family
 Tags: desktop, family, gadgets, kids, life, meta, photography
-Status: publish
+Status: published
 
 As my corona-counter ticks day 22, and our kids have been home schooled for three weeks now, we decided to invest in some device to convert electrons into glyphs on paper.
 
