@@ -5,7 +5,6 @@ Slug: got-myself-a-printer
 Location: Home (duh)
 Authors: Michiel Scholten
 Category: family
-conferences, family, gadgets, howto, photo, posts (fallback), projects, reading, study, thoughts, trips
 Tags: desktop, family, gadgets, kids, life, meta, photography
 Status: publish
 
