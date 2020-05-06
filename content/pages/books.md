@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2020-04-21
+Modified: 2020-05-06
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -21,6 +21,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20200402</span> <a href="https://www.goodreads.com/book/show/37835151-open-and-shut">Alastair Reynolds - Open and Shut</a> (Prefect Dreyfus Emergency #1.5)</li>
     <li><span class="label">20200402</span> <a href="https://www.goodreads.com/book/show/35601772-elysium-fire">Alastair Reynolds - Elysium Fire</a> (Prefect Dreyfus Emergency #2)</li>
     <li><span class="label">20200416</span> <a href="https://www.goodreads.com/book/show/28962452-revenger">Alastair Reynolds - Revenger</a> (Revenger #1)</li>
+    <li><span class="label">20200503</span> Stephen Barker - <a href="https://www.goodreads.com/book/show/66788.Ring">Ring</a> (Xeelee Sequence #4)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
