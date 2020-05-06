@@ -82,7 +82,8 @@ DEFAULT_METADATA = {
 # RELATIVE_URLS = True
 
 THEME = '../pelican-alchemy/alchemy'
-BOOTSTRAP_CSS = 'https://bootswatch.com/4/lux/bootstrap.min.css'
+# BOOTSTRAP_CSS = 'https://bootswatch.com/4/lux/bootstrap.min.css'
+BOOTSTRAP_CSS = 'https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css'
 
 # Enable highlight.js
 THEME_CSS_OVERRIDES = [
