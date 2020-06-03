@@ -5,7 +5,7 @@ Slug: covid-day-82-office
 Location: Work
 Authors: Michiel Scholten
 Category: thoughts
-Tags: life, meta, work
+Tags: covid-19, life, meta, work
 Status: published
 
 This week, me and my colleagues started using the office again. It's a bit awkward, but also good to see each other in the real again. We keep the amount of people in the space low, so not everybody is here at the same time.

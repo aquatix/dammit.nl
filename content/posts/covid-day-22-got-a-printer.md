@@ -5,7 +5,7 @@ Slug: covid-22-got-a-printer
 Location: Home (duh)
 Authors: Michiel Scholten
 Category: family
-Tags: desktop, family, gadgets, kids, life, meta, photography
+Tags: covid-19, desktop, family, gadgets, kids, life, meta, photography
 Status: published
 
 As my corona-counter ticks day 22, and our kids have been home schooled for three weeks now, we decided to invest in some device to convert electrons into glyphs on paper.

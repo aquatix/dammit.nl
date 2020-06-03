@@ -5,7 +5,7 @@ Slug: covid-day-3
 Location: Home
 Authors: Michiel Scholten
 Category: thoughts
-Tags: communication, dev, health, kids, life, meta, tech, work
+Tags: communication, covid-19, dev, health, kids, life, meta, tech, work
 Status: published
 
 We live in interesting times. Countries are in a situation they have not been for multiple decades, if at all. Lots of people will not even remember the last time a situation like this happened. Our prime minister had a historic speech on television (a good one, in my opinion), the first time since the oil crisis in 1973(!) that a Dutch prime minister even did such a speech.
