@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2020-06-23
+Modified: 2020-06-30
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -23,6 +23,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20200416</span> <a href="https://www.goodreads.com/book/show/28962452-revenger">Alastair Reynolds - Revenger</a> (Revenger #1)</li>
     <li><span class="label">20200503</span> Stephen Barker - <a href="https://www.goodreads.com/book/show/66788.Ring">Ring</a> (Xeelee Sequence #4)</li>
     <li><span class="label">20200619</span> Glen Cook - <a href="https://www.goodreads.com/book/show/101041.Deadly_Quicksilver_Lies">Deadly Quicksilver Lies </a> (Garrett Files #7)</li>
+    <li><span class="label">20200629</span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/36373688-revenant-gun">Revenant Gun</a> (The Machineries of Empire #3)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -269,7 +270,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156784.Permutation_City">Permutation City</a> (Subjective Cosmology #2)</li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
     <li><span class="label"></span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
-    <li><span class="label"></span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/36373688-revenant-gun">Revenant Gun</a> (The Machineries of Empire #3)</li>
     <li>Michael Warren Lucas - <a href="https://www.goodreads.com/book/show/34684331-git-commit-murder">Git Commit Murder</a></li>
     <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21805681-unlocked">Unlocked: An Oral History of Haden's Syndrome</a> (Lock In #0.5)</li>
     <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21418013-lock-in">Lock in</a> (Lock In #1)</li>
