@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2020-06-30
+Modified: 2020-07-06
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -146,7 +146,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 <ol>
     <li><span class="label">20130119</span> John Scalzi - Redshirts</li>
-    <li><span class="label">20130128</span> Hannu Rajaniemi - The Fractal Prince (Quantum Thief II)</li>
+    <li><span class="label">20130128</span> Hannu Rajaniemi - The Fractal Prince (Jean le Flambeur #2)</li>
     <li><span class="label">20130214</span> Jonas Jonasson - The hundred-year-old man who climbed out of the window and disappeared</li>
     <li><span class="label">20130311</span> Vernor Vinge - True Names</li>
     <li><span class="label">20130314</span> Cory Doctorow - Makers</li>
@@ -193,7 +193,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20121020</span> Dean Koontz - Dead and Alive (Frankenstein III)</li>
     <li><span class="label">20121026</span> Dean Koontz - Lost Souls (Frankenstein IV)</li>
     <li><span class="label">20121106</span> Dean Koontz - The Dead Town (Frankenstein V)</li>
-    <li><span class="label">20121119</span> Hannu Rajaniemi - The Quantum Thief</li>
+    <li><span class="label">20121119</span> Hannu Rajaniemi - The Quantum Thief (Jean le Flambeur #1)</li>
     <li><span class="label">20121127</span> John Scalzi - How I proposed to my wife: An alien sex story</li>
     <li><span class="label">20121128</span> Haruki Murakami - 1Q84</li>
 </ol>
@@ -284,12 +284,9 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li>Robert Zelazni - The Chronicles of Amber</li>
     <li>Vernor Vinge - The Children of the Sky</li>
     <li>Robert Reed - Marrow</li>
-
     <li>Mark Z. Danielewski - Only Revolutions</li>
-
     <li>Michael Lewis - The Big Short</li>
     <li>Rob Ziegler - Seed</li>
-
     <li>Jean M. Auel - The Shelters of Stone (Earth's Children V)</li>
     <li>Jean M. Auel - The Land of Painted Caves (Earth's Children VI)</li>
     <li>Frank Herbert - Destination: Void</li>
