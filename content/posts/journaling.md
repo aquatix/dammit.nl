@@ -1,6 +1,6 @@
 Title: Journaling
 Started: 2020-07-17 10:01:55
-Date: 2020-07-17 10:01:55
+Date: 2020-07-17 11:53:00
 Slug: journaling
 Location: Home (duh)
 Authors: Michiel Scholten
@@ -39,6 +39,7 @@ I copied this little helper here wholesale, for fun and maybe to inspire someone
 
     cd "${LOGDIR}" || exit
 
+    # Convenience so scriptname can be used to do the git pushing and pulling
     if [ "${1}" == "push" ]; then
         git push
         exit
