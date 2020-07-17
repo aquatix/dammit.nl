@@ -6,7 +6,7 @@ Slug: 5-minute-journal
 Location: Home
 Authors: Michiel Scholten
 Category: life
-Tags: life
+Tags: journal, life
 Status: published
 Summary: I'm keeping a journal, was helped with this method and it makes me feel better about my life
 
