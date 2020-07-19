@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2020-07-06
+Modified: 2020-07-19
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -24,6 +24,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20200503</span> Stephen Barker - <a href="https://www.goodreads.com/book/show/66788.Ring">Ring</a> (Xeelee Sequence #4)</li>
     <li><span class="label">20200619</span> Glen Cook - <a href="https://www.goodreads.com/book/show/101041.Deadly_Quicksilver_Lies">Deadly Quicksilver Lies </a> (Garrett Files #7)</li>
     <li><span class="label">20200629</span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/36373688-revenant-gun">Revenant Gun</a> (The Machineries of Empire #3)</li>
+    <li><span class="label">20200719</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68427.Elantris">Elantris</a> (Elantris #1)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
