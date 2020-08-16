@@ -1,7 +1,7 @@
 Title: About
 Authors: Michiel Scholten
 Date: 2005-10-02
-Modified: 2020-01-02
+Modified: 2020-08-16
 Summary: About the dammIT weblog, who am I, why do I write
 
 
@@ -43,6 +43,10 @@ By day, a simple software engineer. By night, also a software engineer.
 <h3>Rights stuff</h3>
 <p>Contents are &copy; 2003-2020 <i>dammit at aquariusoft.org</i>, but are licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>, except for quotes and art from others, which are property of the respective creators of course.</p>
 <p>Powered by Blood, Sweat, Wine and the occasional Whisky&trade;</p>
+
+
+<h2>Feeds</h2>
+<p>This website uses <a href="https://en.wikipedia.org/wiki/Atom_(Web_standard)">Atom feeds</a> for easy <a href="https://en.wikipedia.org/wiki/History_of_web_syndication_technology">syndication</a> so you can follow the posts easily in a reader of your own choice. Want to know how to get stared with those feeds? <a href="https://aboutfeeds.com/">About Feeds</a> is an excellent place to start.
 
 
 <h2>Contact</h2>
