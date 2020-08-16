@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2020-07-19
+Modified: 2020-08-16
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -25,6 +25,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20200619</span> Glen Cook - <a href="https://www.goodreads.com/book/show/101041.Deadly_Quicksilver_Lies">Deadly Quicksilver Lies </a> (Garrett Files #7)</li>
     <li><span class="label">20200629</span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/36373688-revenant-gun">Revenant Gun</a> (The Machineries of Empire #3)</li>
     <li><span class="label">20200719</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68427.Elantris">Elantris</a> (Elantris #1)</li>
+    <li><span class="label">20200816</span> Peter Hamilton - <a href="https://www.goodreads.com/book/show/45252.Pandora_s_Star">Pandora's Star</a> (The Commonwealth Saga I)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -277,7 +278,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li>Ursula K. Le Guin - <a href="https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea">A Wizard of Earthsea (Earthsea Cycle #1)</a></li>
     <li>David Mitchell - <a href="https://www.goodreads.com/book/show/49628.Cloud_Atlas">Cloud Atlas</a></li>
     <li>Peter Hamilton - <a href="https://www.goodreads.com/book/show/45248.Misspent_Youth">Misspent Youth</a> (Commonwealth Universe)</li>
-    <li>Peter Hamilton - <a href="https://www.goodreads.com/book/show/45252.Pandora_s_Star">Pandora's Star</a> (The Commonwealth Saga I)</li>
     <li>Peter Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II)</li>
     <li>Alastair Reynolds - <a href="https://www.goodreads.com/book/show/23013875-slow-bullets">Slow Bullets</a></li>
     <li>David Walton - <a href="https://www.goodreads.com/book/show/22551892-superposition">Superposition</a></li>
