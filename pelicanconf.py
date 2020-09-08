@@ -109,7 +109,8 @@ MARKDOWN = {
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = 20
 
-#PLUGIN_PATHS = ['../../others/pelican-plugins', '../pelican-plugins']
+# YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
+
 #PLUGINS = ['summary']
 
 STATIC_PATHS = ['images', 'css', 'js']
