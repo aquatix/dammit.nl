@@ -8,10 +8,10 @@ blinker==1.4              # via pelican
 docutils==0.16            # via pelican
 feedgenerator==1.9.1      # via pelican
 jinja2==2.11.2            # via pelican
-markdown==3.2.2           # via -r requirements.in
+markdown==3.3.3           # via -r requirements.in
 markupsafe==1.1.1         # via jinja2
 pelican==4.5.0            # via -r requirements.in
-pygments==2.7.1           # via pelican
+pygments==2.7.2           # via pelican
 python-dateutil==2.8.1    # via pelican
 pytz==2020.1              # via feedgenerator, pelican
 six==1.15.0               # via feedgenerator, python-dateutil
