@@ -14,3 +14,5 @@ Status: published
 The various levels really made me think, as a lot of people in my direct environment are already in the top 5%, which is of course completely out of whack with the levels of most of the population. Even the definition of this 'high computer-related abilities' level is interesting, as in my mind, the skills listed were already pretty basic, albeit above the 'really easy' stuff.
 
 If you want to target a broad consumer audience, it's safest to assume that users' skills are those specified for level 1. (But, remember that 14% of adults have even poorer skills, even disregarding the many who can't use a computer at all.)
+
+I do not normally tell people what to go read, but will do so now anyway: just read this article if you are in the industry. If you are even remotely connected to creating or designing or even thinking about software, sites, systems that other people will use, eat this food for thought.
