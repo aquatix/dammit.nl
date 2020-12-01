@@ -5,7 +5,6 @@ Slug: link-shirobon-warp
 Location: Home, obvisouly
 Authors: Michiel Scholten
 Category: reactions
-conferences, family, gadgets, howto, photo, posts (fallback), projects, reading, study, thoughts, trips
 Tags: energy, music
 Link: https://shirobon.bandcamp.com/album/warp
 Status: published
