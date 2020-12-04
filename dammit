@@ -88,12 +88,12 @@ elif [ $ACTION == "new" ]; then
     echo "Slug: ${SLUG}" >> ${BLOGPOSTFILE}
     echo "Location: " >> ${BLOGPOSTFILE}
     echo "Authors: Michiel Scholten" >> ${BLOGPOSTFILE}
+    echo "Status: draft" >> ${BLOGPOSTFILE}
     echo "Category: " >> ${BLOGPOSTFILE}
     echo ${CATEGORIES} >> ${BLOGPOSTFILE}
     echo "Tags: " >> ${BLOGPOSTFILE}
     echo ${TAGS} >> ${BLOGPOSTFILE}
     echo "Image: " >> ${BLOGPOSTFILE}
-    echo "Status: draft" >> ${BLOGPOSTFILE}
     echo "" >> ${BLOGPOSTFILE}
     vim ${BLOGPOSTFILE}
 
