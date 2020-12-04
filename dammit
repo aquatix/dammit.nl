@@ -94,6 +94,7 @@ elif [ $ACTION == "new" ]; then
     echo "Tags: " >> ${BLOGPOSTFILE}
     echo ${TAGS} >> ${BLOGPOSTFILE}
     echo "Image: " >> ${BLOGPOSTFILE}
+    echo "Link: " >> ${BLOGPOSTFILE}
     echo "" >> ${BLOGPOSTFILE}
     vim ${BLOGPOSTFILE}
 
