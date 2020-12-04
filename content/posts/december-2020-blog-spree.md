@@ -8,7 +8,7 @@ Category: thoughts
 Tags: energy, health, journal, life, meta
 Status: published
 
-Today I had a conversation with an internet friend of mine (on Riot^H^H^H^HElement), and they confessed hating to blog. To me, that was interesting, as apparently they felt a pressure to write, but would very much prefer not to.
+Today I had a conversation with an internet friend of mine (on Riot^H^H^H^H[Element](https://element.io/)), and they confessed hating to blog. To me, that was interesting, as apparently they felt a pressure to write, but would very much prefer not to.
 
 Which I think is totally sane. Well, the not wanting to part, that is.
 
