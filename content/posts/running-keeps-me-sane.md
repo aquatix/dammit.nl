@@ -14,7 +14,7 @@ Years back, I found out that running (jogging) is not as bad as I thought it wou
 
 This year, going out on my runs would have helped quite a bit. Instead, I was busy with other things; from work, to spending more time with other hobbies, to not really wanting to go out in the rain (or heat of summer). Mostly valid reasons, but it does not stimulate my body all that well.
 
-My right knee was wonky, and my right foot felt sympathetic, which did not help motivating me to go running either. After some help from a physiotherapist, I had a schema to start running again, and I did, until I didn't. Which was a couple of months ago. Today, I decided that I had enough of the aches in my back and shoulders, my fluffy, fuzzy, foggy head, and went out into the cold wind for some light interval training. It was glorious. I did not push hard (as that would not be particularly helpful to my knee and foot), but exercised and laughed at the icy wind.
+My right knee was wonky, and my right foot felt sympathetic, which did not help motivating me to go running either. After some help from a physiotherapist I had a schema to start running again, and I did, until I didn't. Which was a couple of months ago. Today, I decided that I had enough of the aches in my back and shoulders, my fluffy, fuzzy, foggy head, and went out into the cold wind for some light interval training. It was glorious. I did not push hard (as that would not be particularly helpful to my knee and foot), but exercised and laughed at the icy wind.
 
 Good stuff.
 
