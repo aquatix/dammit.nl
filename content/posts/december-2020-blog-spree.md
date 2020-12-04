@@ -1,6 +1,6 @@
 Title: December 2020 blog spree
 Started: 2020-12-02 21:00:58
-Date: 2020-12-03 21:00:58
+Date: 2020-12-02 21:00:58
 Slug: december-2020-blog-spree
 Location: Home
 Authors: Michiel Scholten
