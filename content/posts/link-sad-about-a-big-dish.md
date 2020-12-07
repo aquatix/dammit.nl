@@ -10,7 +10,7 @@ Tags: communication, link, space, tech
 Image: https://dammit.nl/images/content/arecibo_telescope/arecibo_telescope.jpg
 Link: https://www.youtube.com/watch?v=59WQIRvezzI
 
-Almost a week ago, the massive [Arecibo Telescope](https://en.wikipedia.org/wiki/Arecibo_Observatory) collapsed. It used to be an impressive dish lying flat in the lush green forests of Puerto Rico.
+Almost a week ago, the massive [Arecibo Telescope](https://en.wikipedia.org/wiki/Arecibo_Telescope) (part of the [Arecibo Observatory](https://en.wikipedia.org/wiki/Arecibo_Observatory)) collapsed. It used to be an impressive dish lying flat in the lush green forests of Puerto Rico.
 
 The construction already was deemed dangerous and was planned to be demolished, but the event still came as a shock, especially because it's such an iconic apparatus.
 
