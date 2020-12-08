@@ -4,7 +4,7 @@ Date: 2020-12-01 20:59:31
 Slug: link-shirobon-warp
 Location: Home, obvisouly
 Authors: Michiel Scholten
-Category: reactions
+Category: responses
 Tags: energy, music
 Link: https://shirobon.bandcamp.com/album/warp
 Status: published

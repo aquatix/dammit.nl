@@ -5,7 +5,7 @@ Slug: link-sad-about-a-big-dish
 Location: Home
 Authors: Michiel Scholten
 Status: published
-Category: reactions
+Category: responses
 Tags: communication, link, space, tech
 Image: https://dammit.nl/images/content/arecibo_telescope/arecibo_telescope.jpg
 Link: https://www.youtube.com/watch?v=59WQIRvezzI
