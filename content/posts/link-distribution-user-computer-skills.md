@@ -5,7 +5,7 @@ Slug: link-distribution-user-computer-skills
 Location: Home
 Authors: Michiel Scholten
 Category: thoughts
-Tags: communication, dev, tech, web
+Tags: communication, dev, link, tech, web
 Link: https://www.nngroup.com/articles/computer-skill-levels/
 Status: published
 

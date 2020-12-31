@@ -6,7 +6,7 @@ Location: Home
 Authors: Michiel Scholten
 Status: published
 Category: responses
-Tags: energy, music, video
+Tags: energy, link, music, video
 Link: https://www.youtube.com/channel/UCcXhhVwCT6_WqjkEniejRJQ
 
 There's this Martin Molin guy that is a wonderful nerdy musician. He build the original [Marble Machine](https://www.youtube.com/watch?v=IvUU8joBb1Q) and has been building a [Marble Machine X](https://www.youtube.com/watch?v=ZI2Q5cFqx9k) ever since.
