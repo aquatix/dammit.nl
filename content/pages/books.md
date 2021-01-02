@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2020-08-16
+Modified: 2021-01-02
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -26,6 +26,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20200629</span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/36373688-revenant-gun">Revenant Gun</a> (The Machineries of Empire #3)</li>
     <li><span class="label">20200719</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68427.Elantris">Elantris</a> (Elantris #1)</li>
     <li><span class="label">20200816</span> Peter Hamilton - <a href="https://www.goodreads.com/book/show/45252.Pandora_s_Star">Pandora's Star</a> (The Commonwealth Saga I)</li>
+    <li><span class="label">20201225</span> Peter Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
