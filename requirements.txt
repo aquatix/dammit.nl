@@ -13,6 +13,6 @@ markupsafe==1.1.1         # via jinja2
 pelican==4.5.3            # via -r requirements.in
 pygments==2.6.1           # via pelican
 python-dateutil==2.8.1    # via pelican
-pytz==2020.4              # via feedgenerator, pelican
+pytz==2020.5              # via feedgenerator, pelican
 six==1.15.0               # via feedgenerator, python-dateutil
-unidecode==1.1.1          # via pelican
+unidecode==1.1.2          # via pelican
