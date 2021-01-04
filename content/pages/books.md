@@ -9,6 +9,13 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 <p>You can <a href="https://www.goodreads.com/review/list/17198769-michiel-scholten">find me on Goodreads</a> too. Maybe become book friends? :)</p>
 
+<h2 id="2021">2021</h2>
+<ol>
+    <li><span class="label">20201225</span> Peter Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II)</li>
+</ol>
+
+<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
+
 <h2 id="2020">2020</h2>
 <ol>
     <li><span class="label">20191012</span> Neal Stephenson - <a href="https://www.goodreads.com/book/show/35429993-fall-or-dodge-in-hell">Fall, or Dodge in Hell</a></li>
@@ -28,8 +35,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20200816</span> Peter Hamilton - <a href="https://www.goodreads.com/book/show/45252.Pandora_s_Star">Pandora's Star</a> (The Commonwealth Saga I)</li>
     <li><span class="label">20201225</span> Peter Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II)</li>
 </ol>
-
-<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
 <h2 id="2019">2019</h2>
 
