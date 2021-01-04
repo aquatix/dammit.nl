@@ -10,6 +10,7 @@ If you like X, you might like Y.
 
 <ul>
     <li><a href="https://www.felienne.com/">Felienne</a></li>
+    <li><a href="https://maya.land/">maya.land</a></li>
     <li><a href="https://randsinrepose.com/">Rands in Repose</a></li>
     <li><a href="https://whatthefuck.computer/blog/">Ryan Rix</a></li>
     <li><a href="https://www.tibobeijen.nl/">Tibo Beijen</a></li>
