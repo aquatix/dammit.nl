@@ -9,7 +9,7 @@ Category: responses
 Tags: communication, tech, web
 Link: https://archive.org/details/gov.ntis.ava20958vnb2.01
 
-Great archive footage from the famous year 2000, about how to deal with hackers, crackers, phone phreaks. Also, great trip down memory lane with the hardware tour in the virtual tour.
+Great archive footage from the famous year 2000, about how to deal with hackers, crackers, phone phreaks. Also, great trip down memory lane with the hardware tour in the virtual tour, seen in the first part, from about 34:30 on.
 
 > This program examines the investigation and supervision of defendants and offenders who may have used computers or connected devices in the commission of a crime. It highlights emerging cyber crime trends in the federal system and describes cyber-specific cyber-techniques and their cyber-implications. 
 
