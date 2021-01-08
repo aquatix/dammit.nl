@@ -1,7 +1,7 @@
 Title: About
 Authors: Michiel Scholten
 Date: 2005-10-02
-Modified: 2020-08-16
+Modified: 2021-01-08
 Summary: About the dammIT weblog, who am I, why do I write
 
 
@@ -41,7 +41,7 @@ By day, a simple software engineer. By night, also a software engineer.
 
 
 <h3>Rights stuff</h3>
-<p>Contents are &copy; 2003-2020 <i>dammit at aquariusoft.org</i>, but are licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>, except for quotes and art from others, which are property of the respective creators of course.</p>
+<p>Contents are &copy; 2003-2021 <i>dammit at aquariusoft.org</i>, but are licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>, except for quotes and art from others, which are property of the respective creators of course.</p>
 <p>Powered by Blood, Sweat, Wine and the occasional Whisky&trade;</p>
 
 
