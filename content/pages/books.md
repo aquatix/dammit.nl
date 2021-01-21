@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2021-01-02
+Modified: 2021-01-21
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -303,6 +303,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li>Michael J. Sullivan - Heir of Novron (Wintertide and Percepliquis)</li>
     <li>Joe Haldeman - The Forever War </li>
     <li>Philip K. Dick - Ubik</li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Clifford Stoll - <a href="https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg">The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage</a></li>
 </ul>
 
 <p><a href="https://www.goodreads.com/review/list/17198769-michiel-scholten?shelf=to-read">More on my Goodreads profile</a>. Suggestions? Please <a href="{filename}../posts/20110607-books.md">leave a comment</a>!</p>
