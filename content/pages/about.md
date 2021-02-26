@@ -5,6 +5,9 @@ Modified: 2021-01-08
 Summary: About the dammIT weblog, who am I, why do I write
 
 
+![Keyboard](https://shuttereye.org/images/c4/c44361343913968c_2000-2000.jpg)
+
+
 By day, a simple software engineer. By night, also a software engineer.
 
 <h2>Forever beta</h2>
