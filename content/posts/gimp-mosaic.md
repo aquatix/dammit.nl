@@ -9,6 +9,8 @@ Tags: howto, opensource, photography
 Image: https://shuttereye.org/images/d9/d9d994e81a6c2db8_2000-2000.jpg
 Status: published
 
+![Photo of heathland with a mosaic effect applied with Gimp](https://shuttereye.org/images/d9/d9d994e81a6c2db8_2000-2000.jpg)
+
 I like taking pictures, and having some of the nicer ones as a background to my daily computer shenanigans is a nice extension of this.
 
 Lately, I've been playing around a bit with having pictures show up differently (more abstractly, with less details so they distract less, like those nice clean material designs), and in Gimp I found a way that pleased me, resulting in the images shown here.

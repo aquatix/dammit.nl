@@ -8,6 +8,8 @@ Category: gadgets
 Tags: gadgets, tech
 Image: https://shuttereye.org/images/33/33ec8c9cc9f97336_2000-2000.jpg
 
+![Sony ereader in case with light](https://shuttereye.org/images/33/33ec8c9cc9f97336_2000-2000.jpg)
+
 As an enthusiast for technological things in general, and gadgets in particular, I like to use (and own) shiny devices. Be it a fast (and slightly big) smartphone with the latest OS, or a laptop with a lot of muscle and a 4K (touch)screen, I really can find a use for them :)
 
 However, I'm not a person to throw out older devices so easily. I even still have my first cellphone, and most of those from then to my current one. Just recently, I gave away a lot of old motherboards and other perfectly usable, but outdated computer hardware and peripherals to an acquaintance, which will use them again.

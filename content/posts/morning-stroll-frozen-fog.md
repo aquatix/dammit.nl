@@ -9,6 +9,8 @@ Category: photo
 Tags: energy, health, life, photography
 Image: https://shuttereye.org/images/e2/e26263c3c345c191_2000-2000.jpg
 
+[![Trees in the fog](https://shuttereye.org/images/e2/e26263c3c345c191_2000-2000.jpg)](https://shuttereye.org/nature/morning_stroll/IMG_0858.jpg/view/)
+
 This morning I took a stroll through a park nearby in the kind of weather that is on my little list of favourites: foggy (and cold). The cold part became a hindrance when my fingers started freezing taking pictures, but it sure was refreshing.
 
 [![Swan eating in freezing water](https://shuttereye.org/images/ec/ec0ca8f66464240c_2000-2000.jpg)](https://shuttereye.org/nature/morning_stroll/IMG_0900.jpg/view/)

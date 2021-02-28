@@ -7,6 +7,8 @@ Category: projects
 Tags: digimarks, web
 Image: https://shuttereye.org/images/c0/c046a48b34b6aeb6_2000-2000.png
 
+![digimarks bookmark tool screenshot](https://shuttereye.org/images/c0/c046a48b34b6aeb6_2000-2000.png)
+
 A while back I started scratching an itch that I had and that wasn't relieved by some existing software or services I could find: a central place to keep track of interesting places on the web I wanted to follow up on, without having them saved as read-later in Pocket (which is an excellent tool, but I'd like to keep it for articles only).
 
 One of the requirements was that I should be able to easily add some URL from my phone, so I can remember it for when I have more time or a bigger screen to research something or watch a video. Also, it needed to be cross-browser, preferably environment agnostic. That ruled out the various bookmark syncing systems of the respective browsers, also because I tend to use Firefox on the desktop and Chrome or [Flyperlink](https://play.google.com/store/apps/details?id=com.flyperinc.flyperlink&hl=en) on my mobile devices.

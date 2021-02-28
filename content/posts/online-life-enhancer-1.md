@@ -8,6 +8,8 @@ Category: howto
 Tags: desktop, tech, web
 Image: https://shuttereye.org/images/8d/8dcc8c2c0c2c2c0c_2000-2000.png
 
+![Screenshot of YouTube with the Enhancer for YouTube addon](https://shuttereye.org/images/8d/8dcc8c2c0c2c2c0c_2000-2000.png)
+
 Today I want to talk to you about the web and how it sometimes sucks. At least, the experience can suck a bit, especially when it is not open enough so you can set things to your own hands.
 
 Take for example YouTube, where overlays can ruin the end of a clip, you keep fiddling with the quality controls or the zoom levels, and so on.

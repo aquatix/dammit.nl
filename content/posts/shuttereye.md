@@ -9,6 +9,8 @@ Category: projects
 Tags: photography, web
 Image: https://shuttereye.org/images/4c/4c4949c909f37369_2000-2000.png
 
+![Screenshot of Shuttereye gallery](https://shuttereye.org/images/4c/4c4949c909f37369_2000-2000.png)
+
 I mentioned in [a recent post]({filename}20170119-goodbye-2016.md) that I was working on a new gallery, based on [some project I started in december](https://github.com/aquatix/imagine-gallery). This project grew out of an increasing dissatisfaction with other gallery software (gallery2 has been out of my system for quite a while, zenphoto keeps bugging out on me, is full of security holes and is written in php and other products didn't even go beyond trial state as they just did not meet my expectations). Also, I would really like to host most of my images on my own platform. I really like Flickr and especially its social character, but it's a walled garden, and someone else's ground.
 
 Enter [shuttereye.org](https://shuttereye.org/), a place where I'm hosting images I'm proud of, albums of things that ['just' happened in our lives](https://shuttereye.org/festivities/kingsday_2017/), old images from galleries [long gone](https://shuttereye.org/various/screenshots/) and [places](https://shuttereye.org/vacations/southernafrica/biggersummary/) [we visited](https://shuttereye.org/goingout/2017_velsertunnel/).

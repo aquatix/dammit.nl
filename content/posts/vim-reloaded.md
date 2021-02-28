@@ -10,6 +10,7 @@ Tags: linux, desktop, howto, vim
 Image: https://shuttereye.org/galleries/various/screenshots/20200115_vim_logo_asciiart.png
 Status: published
 
+![Screenshot of vim with its logo in ascii art](https://shuttereye.org/galleries/various/screenshots/20200115_vim_logo_asciiart.png)
 
 An update about what I do with vim, making it more powerful and taking away some of the envy I have for the excellent IDE's out there (for example PyCharm and the rest of the IntelliJ family by JetBrains - try it, it's awesome). Also, it makes vim look a lot better in the progress.
 

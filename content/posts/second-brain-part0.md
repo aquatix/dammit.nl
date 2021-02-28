@@ -9,6 +9,8 @@ Tags: dev, digimarks, gadgets, secondbrain, sync, tech, vim
 Image: https://shuttereye.org/galleries/various/dammit/building_a_second_brain_logo.png
 Status: published
 
+![Building a Second Brain logo](https://shuttereye.org/galleries/various/dammit/building_a_second_brain_logo.png)
+
 I have been thinking lately about how I organise my thoughts, notes, files, todo's, incoming messages, and much more. This was partly fed by [Ryan Rix](https://rix.si/) and his quest for the ultimate way of organising data, be it [org-mode](https://orgmode.org/) or a variant, [TiddlyWiki](https://tiddlywiki.com/), or something entirely self-built.
 
 I have quite a bunch of tools that help me in my daily (digital|analogue) life. Currently I use:

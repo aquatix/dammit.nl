@@ -8,6 +8,8 @@ Category: projects
 Tags: rant, meta
 Image: https://shuttereye.org/images/07/07270d3381807064_2000-2000.jpg
 
+![Pelicans in tree in Botswana](https://shuttereye.org/images/07/07270d3381807064_2000-2000.jpg)
+
 This weblog has always been a self-built affair.
 
 It [started off in 2003]({filename}20031221-my-very-own-rantbox.md) as a PHP website, and continued in that form for over thirteen years. I open sourced it a while ago (in March of 2014), with a colleague promptly finding a [security issue](https://github.com/aquatix/dammit/commit/348c185f40fac8988ffd5b9b20fc1106766bbe68) in the admin code. Frankly, I hadn't look at that code for almost a decade, so that's not good in any regard.

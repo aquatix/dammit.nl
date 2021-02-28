@@ -10,6 +10,8 @@ Tags: dev, linux, tech, vim
 Image: https://shuttereye.org/galleries/various/screenshots/20200104_vimrc_terminal.png
 Status: published
 
+![~/.vimrc in terminal, themed](https://shuttereye.org/galleries/various/screenshots/20200104_vimrc_terminal.png)
+
 Some people binge-watch series when taking some time off, some read books, some enjoy comics, some take time off from computers for a bit, and some spend some hours cleaning up their vim configuration file.
 
 This holiday, I did all of the above.

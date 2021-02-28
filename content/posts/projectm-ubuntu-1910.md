@@ -9,6 +9,8 @@ Tags: desktop, howto, linux, music, tech, ubuntu
 Image: https://shuttereye.org/images/7d/7d6c6c3e91998d1c_2000-2000.jpg
 Status: published
 
+![projectM on external monitor next to laptop](https://shuttereye.org/images/7d/7d6c6c3e91998d1c_2000-2000.jpg)
+
 Lately, I was thinking back to the time when I had my 15" CRT monitor (and later my whopping 19" flat CRT) tuned to the beats that Winamp was playing for me. It was a famous plugin called [Milkdrop](https://en.wikipedia.org/wiki/MilkDrop), and it provided nicely psychedelic looking visuals based on the audio and beats that Winamp was playing at that moment. I often had it just running during music playback while doing homework, reading or otherwise just chilling in my room.
 
 I knew about [projectM](https://github.com/projectM-visualizer/projectm), which is an opensource re-implementation of all of this, with support for the original presets and visualisations. It both provides libraries to include in a music application, as some stand-alone binaries that plug into PulseAudio or Jack. The fun part of the latter is that you can use whatever audio source you want (including Youtube and such), run projectM and have it all work seamlessly together. Count me in!

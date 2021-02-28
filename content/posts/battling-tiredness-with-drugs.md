@@ -9,6 +9,8 @@ Tags: health, kids, life, meta, tech, work
 Image: https://shuttereye.org/images/23/239339461b0b0d9c_2000-2000.jpg
 Status: published
 
+![Headphones, keyboard, and mug](https://shuttereye.org/images/23/239339461b0b0d9c_2000-2000.jpg)
+
 It might be the time of the year, with its short days and long, dark nights, it might be kids causing us to pull our hair out, taking their emotional toll and sipping energy, and work is also a big energy sink (thankfully mostly a gratifying one), but I have trouble staying alert or even awake at times.
 
 I find myself battling fatigue and motivational dips with drugs. Nothing altogether serious though, as they are perfectly socially acceptable: I turn to trusty old caffeine (both coffee and some fine teas) and [audeine]({filename}20051025-running-on-audeine.md), which might work even better, as the right music helps tune out the blues, distracting noises, and bring in the good vibes, rhythm, and focus through aligned alpha waves. I made that last part up, but it could as well be true.

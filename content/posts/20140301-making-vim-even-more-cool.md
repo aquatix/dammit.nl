@@ -8,9 +8,11 @@ Category: howto
 Tags: dev, howto, vim, work
 Image: http://dammit.nl/images/content/20140301_vimrc.png
 
+![Screenshot of vim with this article](http://dammit.nl/images/content/20140301_vimrc.png)
+
 vim, the final editor. Well, for some people at least. People like me, we like to type their files, code and more inside of dark-coloured windows, mainly terminals and do not really care if those files are local on their laptop, on the server at their feet or on some virtual node on a cluster in a data center around the globe which they don't even really know the location of.
 
-A lot of people think it's weird and a little bit daunting and steer clear from it. Others just miss functionality from their favourite IDE. 
+A lot of people think it's weird and a little bit daunting and steer clear from it. Others just miss functionality from their favourite IDE.
 
 vim has a lot of functionality already built in, which is worth exploring in itself. Apart from that, it is extensible, something people take advantage of by creating extensions with nifty extra things.
 
@@ -73,7 +75,7 @@ This all results in this ~/.vimrc
 
 	" create a bar for airline
 	set laststatus=2
-	let g:airline_powerline_fonts = 1 
+	let g:airline_powerline_fonts = 1
 
 which makes vim look like this:
 

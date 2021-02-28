@@ -6,7 +6,6 @@ Location: Home
 Authors: Michiel Scholten
 Category: thoughts
 Tags: ethics, life, meta, tech
-Image: 
 
 Lately I've been making some changes in how I interact with social media, and also how I consume its news and blurps. I [started using Mastodon](https://mastodon.social/@diginaut) and basically moved my interest there (I tend to double post to both Mastodon and Twitter, as Twitter is still where most of my followers are and the interaction happens between more people). I stopped reading my Twitter lists, as I found I mostly used them as news feeds, so I now use a [real news feed](https://www.inoreader.com/) for doing just that. Try it, RSS is still awesome :)
 

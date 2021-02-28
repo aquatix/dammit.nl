@@ -10,6 +10,8 @@ Tags: desktop, energy, gadgets, link, tech
 Image: https://dammit.nl/images/content/ultrawide_copper_1.jpg
 Link: https://uri.cat/projects/modern-retro-terminal/
 
+![Retro-futuristic ultrawide computer terminal](https://dammit.nl/images/content/ultrawide_copper_1.jpg)
+
 3D printed, retro-futuristic looking computer terminals. Not all as practical as the other, but inspiring and great looking at the least.
 
 I now kind of want an ultrawidescreen terminal on our table now.

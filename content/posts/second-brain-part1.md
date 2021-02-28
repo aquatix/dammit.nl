@@ -10,6 +10,8 @@ Tags: dev, digimarks, gadgets, hosting, secondbrain, sync, tech, vim
 Image: https://shuttereye.org/images/0b/0b1313131b1b230e_2000-2000.jpeg
 Status: published
 
+![Sketch of empty cube](https://shuttereye.org/images/0b/0b1313131b1b230e_2000-2000.jpeg)
+
 After [the bootstrap post of this series]({filename}./second-brain-part0.md), I investigated quite some tools, and started building my initial framework of tools, just to play with the idea.
 
 Like mentioned, I used the `mdnav` vim plugin to make jumping between note files frictionless. I added some more patches to it, so it now also understands \[\[wikilinks\]\], which is useful in my opinion, as they are even shorter than regular markdown links, and the Python markdown library understands them too.

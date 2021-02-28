@@ -9,9 +9,7 @@ Category: conferences
 Tags: python, europython, trip, conference
 Image: https://shuttereye.org/images/0f/0f1332a16d8f3130_2000-2000.jpg
 
-<!--
 [![IMG_20170711_182348](https://shuttereye.org/images/0f/0f1332a16d8f3130_2000-2000.jpg)](https://shuttereye.org/goingout/2017_europython/IMG_20170711_182348.jpg/view/)
--->
 
 Photos of the whole [EuroPython 2017](https://ep2017.europython.eu/en/) conference are available at [the EuroPython 2017 flickr group](https://www.flickr.com/groups/3845891@N22/), the [EuroPython 2017 website](https://ep2017.europython.eu/en/europython/photos/), and [my photo gallery](https://shuttereye.org/goingout/2017_europython/).
 

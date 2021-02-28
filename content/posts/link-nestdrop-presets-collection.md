@@ -10,6 +10,8 @@ Tags: desktop, energy, link, music, opensource
 Image: https://dammit.nl/images/content/nestdrop_presets_collage.jpg
 Link: https://thefulldomeblog.com/2020/02/21/nestdrop-presets-collection-cream-of-the-crop/
 
+![Nestdrop milkdrop/projectM preset collection](https://dammit.nl/images/content/nestdrop_presets_collage.jpg)
+
 After [my piece on projectM]({filename}projectm-ubuntu-1910.md) last year, I installed it on several computers, not really thinking about extra `.milk` preset files (which contain the animations). Today, after some short searching thinking there might be more out there, I found this little gem of a collection:
 
 > Presets Collection – Cream of the Crop

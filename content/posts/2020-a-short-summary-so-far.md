@@ -10,6 +10,8 @@ Link: https://imgur.com/gallery/HYHIzQy
 Image: https://shuttereye.org/images/8b/8b1b1b1b1b191999_2000-2000.png
 Status: published
 
+![Photo comic of two guys having a conversation in a car, about 2020](https://shuttereye.org/images/8b/8b1b1b1b1b191999_2000-2000.png)
+
 The abridged version of 2020 as we're nearing the end of the first half of it. What a time to be alive.
 
 Be sure to load the rest of the images when you're nearing the end.

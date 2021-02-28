@@ -7,6 +7,8 @@ Category: family
 Tags: family, kids, life
 Image: https://familiescholten.net/wp-content/uploads/2015/12/wp-1451289526624-768x1027.jpg
 
+![Picture of our cutest daughter](https://familiescholten.net/wp-content/uploads/2015/12/wp-1451289526624-768x1027.jpg)
+
 In the night of Sunday to Monday, at 4:17, Nienke rushed into this
 world. Where Daan took his time being delivered, I was barely awake
 (Ineke woke me at 4:01) when Nienke saw her first lamplight.

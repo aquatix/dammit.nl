@@ -9,6 +9,8 @@ Tags: journal, life, opensource, secondbrain
 Image: https://shuttereye.org/images/64/6461b596b6373733_2000-2000.jpg
 Status: published
 
+![Tablet with stylus, notes, plants, and a cup of tea](https://shuttereye.org/images/64/6461b596b6373733_2000-2000.jpg)
+
 It is [no secret that I keep a journal]({filename}5-minute-journal.md) (it might not be very well known too, but it is private anyway). It is not a fancy hard copy journal that some talented people fill with really neat doodles and such, but rather a boring collection of Markdown-formatted text files, put into version control (a private Git repository), because of course it is.
 
 This journal serves as a second memory storage, to look back at what happened on a certain date, as the 5-minute-journal that keeps me grounded on the important things in life, and as a place to quickly jot down some thoughts that occurred to me.
