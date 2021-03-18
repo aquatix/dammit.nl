@@ -18,3 +18,5 @@ I get a sense of incompetence of the company as a whole, and some individuals, o
 So many smart people, so much - even internal - research outcomes that point to the destructive ways the Facebook ecosystem manipulates the information people get and thus the way they think, and so much unwillingness in actually tackling those problems.
 
 Also, the only goal Mark Zuckerberg has, is growth. No matter what.
+
+[Thanks Maya for the find](https://maya.land/responses/2021/03/16/facebook-is-worse-than-even-us-antis-thought.html).
