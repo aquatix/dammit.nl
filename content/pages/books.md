@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2021-01-21
+Modified: 2021-03-18
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -307,3 +307,9 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 </ul>
 
 <p><a href="https://www.goodreads.com/review/list/17198769-michiel-scholten?shelf=to-read">More on my Goodreads profile</a>. Suggestions? Please <a href="{filename}../posts/20110607-books.md">leave a comment</a>!</p>
+
+
+<h2 id="inspiration">Inspiration</h2>
+<ul>
+    <li><a href="https://en.wikipedia.org/wiki/James_Patterson_bibliography">James Patterson bibliography</a></li>
+</ul>
