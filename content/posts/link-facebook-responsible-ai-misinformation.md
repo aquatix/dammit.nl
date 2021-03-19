@@ -7,6 +7,7 @@ Authors: Michiel Scholten
 Status: published
 Category: responses
 Tags: communication, ethics, life, social, tech, web
+Image: https://shuttereye.org/galleries/various/dammit/facebook_surveillance.jpg
 Link: https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/
 
 > When I described the Responsible AI team’s work to other experts on AI ethics and human rights, they noted the incongruity between the problems it was tackling and those, like misinformation, for which Facebook is most notorious. “This seems to be so oddly removed from Facebook as a product—the things Facebook builds and the questions about impact on the world that Facebook faces,” said Rumman Chowdhury, whose startup, Parity, advises firms on the responsible use of AI, and was acquired by Twitter after our interview. I had shown Chowdhury the Quiñonero team’s documentation detailing its work. “I find it surprising that we’re going to talk about inclusivity, fairness, equity, and not talk about the very real issues happening today,” she said.
