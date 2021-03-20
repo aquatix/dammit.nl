@@ -4,11 +4,11 @@ Date: 2021-03-20 08:48:45
 Slug: link-presenting-presenting
 Location: Home
 Authors: Michiel Scholten
-Status: draft
-Category: 
-conferences, family, gadgets, howto, photo, posts (fallback), projects, reading, responses, study, thoughts, trips
-Tags: 
-backups, books, communication, conference, copyright, covid-19, desktop, dev, digimarks, energy, ethics, europython, family, fosdem, gadgets, gaming, health, hosting, howto, journal, kids, life, link, linux, meta, mobile, music, networking, notifications, opensource, photography, python, rant (fallback), science, secondbrain, space, sync, tech, trip, ubuntu, vim, web, work
-Image: 
+Status: published
+Category: responses
+Tags: communication, conference, howto, link, work
 Link: https://medium.com/@chethaase/presenting-presenting-17233fa13aa5
 
+Tips and thoughts on preparing and giving engaging presentations.
+
+As a person who does not give presentations often (lots of reasons), the points and pointers in this article look really helpful.
