@@ -18,7 +18,7 @@ markupsafe==1.1.1
     # via jinja2
 pelican==4.5.4
     # via -r requirements.in
-pygments==2.6.1
+pygments==2.7.4
     # via pelican
 python-dateutil==2.8.1
     # via pelican
