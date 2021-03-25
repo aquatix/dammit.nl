@@ -16,13 +16,13 @@ markdown==3.3.4
     # via -r requirements.in
 markupsafe==1.1.1
     # via jinja2
-pelican==4.5.4
+pelican==4.6.0
     # via -r requirements.in
-pygments==2.6.1
+pygments==2.8.1
     # via pelican
 python-dateutil==2.8.1
     # via pelican
-pytz==2020.5
+pytz==2021.1
     # via
     #   feedgenerator
     #   pelican
