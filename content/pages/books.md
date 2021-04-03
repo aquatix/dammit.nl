@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2021-03-18
+Modified: 2021-04-03
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -11,7 +11,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 <h2 id="2021">2021</h2>
 <ol>
-    <li><span class="label">20201225</span> Peter Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II)</li>
+    <li><span class="label">20201225</span> Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II)</li>
+    <li><span class="label">20210403</span> Glen Cook - <a href="https://www.goodreads.com/book/show/29829.Petty_Pewter_Gods">Petty Pewter Gods </a> (Garrett Files #8)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -32,8 +33,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20200619</span> Glen Cook - <a href="https://www.goodreads.com/book/show/101041.Deadly_Quicksilver_Lies">Deadly Quicksilver Lies </a> (Garrett Files #7)</li>
     <li><span class="label">20200629</span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/36373688-revenant-gun">Revenant Gun</a> (The Machineries of Empire #3)</li>
     <li><span class="label">20200719</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68427.Elantris">Elantris</a> (Elantris #1)</li>
-    <li><span class="label">20200816</span> Peter Hamilton - <a href="https://www.goodreads.com/book/show/45252.Pandora_s_Star">Pandora's Star</a> (The Commonwealth Saga I)</li>
-    <li><span class="label">20201225</span> Peter Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II)</li>
+    <li><span class="label">20200816</span> Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/45252.Pandora_s_Star">Pandora's Star</a> (The Commonwealth Saga I)</li>
+    <li><span class="label">20201225</span> Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II)</li>
 </ol>
 
 <h2 id="2019">2019</h2>
