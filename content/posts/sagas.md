@@ -1,6 +1,7 @@
 Title: Sagas
 Started: 2021-04-03 20:45:53
 Date: 2021-04-03 20:45:53
+Modified: 2021-04-07 13:24:00
 Slug: sagas
 Location: Home
 Authors: Michiel Scholten
@@ -22,3 +23,7 @@ That second book only took me three months or so (and I started reading the firs
 > There's full-flung mil-SF, political intrigue SF, murder-mystery and spy SF, revolutionary thriller SF, media-scoop SF, as well as hardcore alien Hard-SF with Big Dumb Objects galore, miniature wormhole attacks, rejuvenation, memory cores so you can get a new body, as well as a LOT of nova'd stars. Big-ass scale.
 
 Having finally finished it still feels a bit odd, and I can highly recommend it. Peter F. Hamilton did some great worldbuilding here.
+
+Both long story arches keep echoing through my mind, I keep coming back to some details and rehashing parts, and will likely do so for a while yet.
+
+My [books page]({filename}../pages/books.md) has more info about what I am reading or have been reading in the past.
