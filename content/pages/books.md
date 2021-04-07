@@ -12,7 +12,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 <h2 id="2021">2021</h2>
 <ol>
     <li><span class="label">20201225</span> Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II)</li>
-    <li><span class="label">20210403</span> Glen Cook - <a href="https://www.goodreads.com/book/show/29829.Petty_Pewter_Gods">Petty Pewter Gods </a> (Garrett Files #8)</li>
+    <li><span class="label">20210403</span> Glen Cook - <a href="https://www.goodreads.com/book/show/29829.Petty_Pewter_Gods">Petty Pewter Gods</a> (Garrett Files #8)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -30,7 +30,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20200402</span> <a href="https://www.goodreads.com/book/show/35601772-elysium-fire">Alastair Reynolds - Elysium Fire</a> (Prefect Dreyfus Emergency #2)</li>
     <li><span class="label">20200416</span> <a href="https://www.goodreads.com/book/show/28962452-revenger">Alastair Reynolds - Revenger</a> (Revenger #1)</li>
     <li><span class="label">20200503</span> Stephen Barker - <a href="https://www.goodreads.com/book/show/66788.Ring">Ring</a> (Xeelee Sequence #4)</li>
-    <li><span class="label">20200619</span> Glen Cook - <a href="https://www.goodreads.com/book/show/101041.Deadly_Quicksilver_Lies">Deadly Quicksilver Lies </a> (Garrett Files #7)</li>
+    <li><span class="label">20200619</span> Glen Cook - <a href="https://www.goodreads.com/book/show/101041.Deadly_Quicksilver_Lies">Deadly Quicksilver Lies</a> (Garrett Files #7)</li>
     <li><span class="label">20200629</span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/36373688-revenant-gun">Revenant Gun</a> (The Machineries of Empire #3)</li>
     <li><span class="label">20200719</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/68427.Elantris">Elantris</a> (Elantris #1)</li>
     <li><span class="label">20200816</span> Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/45252.Pandora_s_Star">Pandora's Star</a> (The Commonwealth Saga I)</li>
@@ -132,7 +132,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20150901</span> Daniel Kahneman - <a href="https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow">Thinking, Fast and Slow</a></li>
     <li><span class="label">201510??</span> Orson Scott Card - <a href="https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead">Speaker for the Dead</a> (The Ender Quintet #3)</li>
     <li><span class="label">20151103</span> Greg Egan - <a href="https://www.goodreads.com/book/show/156783.Axiomatic">Axiomatic</a></li>
-    <li><span class="label">20151125</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/9343347-diamond-dogs-turquoise-days">Diamond Dogs, Turquoise Days </a></li>
+    <li><span class="label">20151125</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/9343347-diamond-dogs-turquoise-days">Diamond Dogs, Turquoise Days</a></li>
 </ol>
 
 <h2 id="2014">2014</h2>
@@ -148,7 +148,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20140924</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/89185.Chasm_City">Chasm City</a></li>
     <li><span class="label">20141014</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/47990.Jingo">Jingo</a> (Discworld #21)</li>
     <li><span class="label">20141103</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/47994.The_Last_Continent">The Last Continent</a> (Discworld #22)</li>
-    <li><span class="label">20141124</span> Douglas R. Hofstadter - <a href="https://www.goodreads.com/book/show/24113.G_del_Escher_Bach">G&ouml;del, Escher, Bach: An Eternal Golden Braid </a></li>
+    <li><span class="label">20141124</span> Douglas R. Hofstadter - <a href="https://www.goodreads.com/book/show/24113.G_del_Escher_Bach">G&ouml;del, Escher, Bach: An Eternal Golden Braid</a></li>
 </ol>
 
 <h2 id="2013">2013</h2>
