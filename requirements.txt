@@ -8,7 +8,7 @@ blinker==1.4
     # via pelican
 docutils==0.17.1
     # via pelican
-feedgenerator==1.9.1
+feedgenerator==2.0.0
     # via pelican
 jinja2==3.0.1
     # via pelican
@@ -18,17 +18,15 @@ markupsafe==2.0.1
     # via jinja2
 pelican==4.6.0
     # via -r requirements.in
-pygments==2.9.0
+pygments==2.10.0
     # via pelican
-python-dateutil==2.8.1
+python-dateutil==2.8.2
     # via pelican
 pytz==2021.1
     # via
     #   feedgenerator
     #   pelican
 six==1.16.0
-    # via
-    #   feedgenerator
-    #   python-dateutil
-unidecode==1.2.0
+    # via python-dateutil
+unidecode==1.3.2
     # via pelican
