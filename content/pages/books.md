@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2021-05-06
+Modified: 2021-09-28
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -14,6 +14,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20201225</span> Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II)</li>
     <li><span class="label">20210403</span> Glen Cook - <a href="https://www.goodreads.com/book/show/29829.Petty_Pewter_Gods">Petty Pewter Gods</a> (Garrett Files #8)</li>
     <li><span class="label">20210415</span> Stephen King - <a href="https://www.goodreads.com/book/show/18775247-mr-mercedes">Mr. Mercedes</a> (Bill Hodges Trilogy #1)</li>
+    <li><span class="label">20210927</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #43 - #46)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
