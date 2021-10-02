@@ -17,6 +17,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20210610</span> Stephen King - <a href="https://www.goodreads.com/book/show/6320534-under-the-dome">Under the Dome</a></li>
     <li><span class="label">20210927</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #43 - #46)</li>
     <li><span class="label">20210928</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #47 - #53)</li>
+    <li><span class="label">20210930</span> <span class="label">comic</span> Warren Ellis & John Cassaday - <a href="https://www.goodreads.com/book/show/209968.Planetary_Volume_2">Planetary, Volume 2: The Fourth Man</a> (Planetary 7-12)</li>
+    <li><span class="label">20210930</span> <span class="label">comic</span> Warren Ellis & John Cassaday - <a href="https://www.goodreads.com/book/show/43743.Planetary_Volume_3">Planetary, Volume 3: Leavin the 20th Century</a> (Planetary 13-18)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -68,7 +70,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20191027</span> <span class="label">comic</span> Warren Ellis & John Cassaday - <a href="https://www.goodreads.com/search?q=warren+ellis+planetary">Planetary</a> (issues #1 - #3)</li>
     <li><span class="label">20191228</span> <span class="label">comic</span> Roger Leloup - <a href="https://www.goodreads.com/book/show/6670903-seinen-voor-de-eeuwigheid">Seinen voor de Eeuwigheid</a> (Yoko Tsuno #4)</li>
     <li><span class="label">20191228</span> <span class="label">comic</span> Roger Leloup - <a href="https://www.goodreads.com/book/show/9738857-de-drie-zonnen-van-vinea">De drie Zonnen van Vinea</a> (Yoko Tsuno #5)</li>
-    <li><span class="label">20191228</span> <span class="label">comic</span> Warren Ellis & John Cassaday - <a href="https://www.goodreads.com/book/show/209966.Planetary_Volume_1">Planetary, Volume 1: All Over the World and Other Stories</a></li>
+    <li><span class="label">20191228</span> <span class="label">comic</span> Warren Ellis & John Cassaday - <a href="https://www.goodreads.com/book/show/209966.Planetary_Volume_1">Planetary, Volume 1: All Over the World and Other Stories</a> (Planetary 1-6)</li>
 </ol>
 
 <h2 id="2018">2018</h2>
