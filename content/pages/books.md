@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2021-09-28
+Modified: 2021-10-21
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -19,6 +19,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20210928</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #47 - #53)</li>
     <li><span class="label">20210930</span> <span class="label">comic</span> Warren Ellis & John Cassaday - <a href="https://www.goodreads.com/book/show/209968.Planetary_Volume_2">Planetary, Volume 2: The Fourth Man</a> (Planetary 7-12)</li>
     <li><span class="label">20210930</span> <span class="label">comic</span> Warren Ellis & John Cassaday - <a href="https://www.goodreads.com/book/show/43743.Planetary_Volume_3">Planetary, Volume 3: Leavin the 20th Century</a> (Planetary 13-18)</li>
+    <li><span class="label">20211021</span> <span class="label">comic</span> Warren Ellis & John Cassaday - <a href="hhttps://www.goodreads.com/book/show/5210326-planetary-volume-4">Planetary, Volume 4: Spacetime Archaeology</a> (Planetary 19-27)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
