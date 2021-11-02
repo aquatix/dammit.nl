@@ -6,7 +6,6 @@ Location: Home, far from motels
 Authors: Michiel Scholten
 Status: published
 Category: responses
-conferences, family, gadgets, howto, photo, posts (fallback), projects, reading, responses, study, thoughts, trips
 Tags: link
 Link: http://www.newyorker.com/magazine/2016/04/11/gay-talese-the-voyeurs-motel
 
