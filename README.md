@@ -11,6 +11,11 @@ Create a virtualenv, activate it and install the build requirements:
 
     pip install -r requirements.txt
 
+or better yet, use pip-tools which generated this file from `requirements.in`:
+
+    pip install --upgrade pip-tools
+    pip-sync requirements.txt
+
 
 ## Building
 
