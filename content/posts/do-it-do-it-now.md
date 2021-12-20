@@ -30,3 +30,13 @@ About your brain being scattered... I know the feeling. I think that's part of t
 Anyway, that's my ramble about a subject I'm also not all that good in as well, so take it as you like.
 
 Back to work, I guess ^_^
+
+## Addendum @ 2021-12-20 15:23
+
+A long long time ago I read [N.A.D.D.](https://randsinrepose.com/archives/nadd/) and it opened my eyes. Together with me realising I can barely focus on a book anymore - something I used to be able to do for weeks on stretch - I think it's a sign of our times that attention spans are crumbling.
+
+Still, I've found that it's not impossible to actually get some work done on a hobby. It generally takes a higher level itch for me to get started, but doing those tiny tasks to fix/do one thing at a time, having disabled most of notifications and other things in my peripheral view actually gets me a solid 15 minutes of hacking at a time! ;)
+
+If it's the quiet that makes your brain start wandering, maybe put up some headphones and music that gets you humming. Music for me generally is a good way of at least getting a few parts of my brain aligned to focus on a task.
+
+Meditating is not for me, it's too much of a rest :P (Maybe I really should allow myself to defocus more, I'm too wired into my gadgets that I often do not give my family enough attention). A thing that I *do* do, is taking a morning walk through the park. Having some fresh air in my face and seeing some fractal shapes in nature somehow quiets my mind a bit and helps me through the day.
