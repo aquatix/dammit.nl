@@ -31,6 +31,7 @@ Anyway, that's my ramble about a subject I'm also not all that good in as well, 
 
 Back to work, I guess ^_^
 
+
 ## Addendum @ 2021-12-20 15:23
 
 A long long time ago I read [N.A.D.D.](https://randsinrepose.com/archives/nadd/) and it opened my eyes. Together with me realising I can barely focus on a book anymore - something I used to be able to do for weeks on stretch - I think it's a sign of our times that attention spans are crumbling.
@@ -40,3 +41,23 @@ Still, I've found that it's not impossible to actually get some work done on a h
 If it's the quiet that makes your brain start wandering, maybe put up some headphones and music that gets you humming. Music for me generally is a good way of at least getting a few parts of my brain aligned to focus on a task.
 
 Meditating is not for me, it's too much of a rest :P (Maybe I really should allow myself to defocus more, I'm too wired into my gadgets that I often do not give my family enough attention). A thing that I *do* do, is taking a morning walk through the park. Having some fresh air in my face and seeing some fractal shapes in nature somehow quiets my mind a bit and helps me through the day.
+
+
+## Addendum @ 16:06
+
+Multitasking does not exist. I'm terrible at it (hah, contradiction). I have to keep continuous notes to even get through the day. Maybe that helps, making a small text todo file.
+
+Context switching is killing indeed, it's also a thing I try to soften by closing myself off with music.
+
+The franticness one can encounter is being antsy to get going, I think? I know the feeling, and it aligns with the "just get the fsck started", because otherwise the nervous energy just spirals out of control and my mind is incapable of focusing on anything anymore.
+
+I discovered [Obsidian](https://obsidian.md/) a while ago and it's great, some kind of personal wiki and brain dump. Not only helps me put some notes about a topic into one place, but also do braindumps of other thoughts so I can forgot about them for a bit and think about the subject at hand.
+
+
+
+Don't beat yourself up about not connecting (yet?) with the thing you want to learn. First: do you *really* want to learn it? If yes, maybe try doing something stupid and simple in it. Something that you go into with a "why do I even bother?", but it helps you get familiar with that strange syntax, and you actually get something accomplished, even though it's something to throw away right away (something else I can't do).
+
+
+If, on the other hand, you suspect that maybe Swift is not a thing you want to learn after all, spend that nervous energy on something else that has been playing through your mind. Maybe in a few months you discover more appetite for it again, or you discover something new that captivates you a lot more.
+
+Indeed, I think the last 30 years have not been good on our attention spans. Enabling DND and focus modes really is a good thing, and convincing yourself that FOMO is really not needed might help here. Hard, but ever since I just stopped cold turkey with Twitter, my favourite news app and some other sources, I actually have some braincycles left to function. Turns out, I don't miss all that many things. What I mean is, you will feel guilty anyway; choose what weighs more: feeling guilty about missing some tweets, or feeling guilty about not spending another evening tinkering with $hobby?
