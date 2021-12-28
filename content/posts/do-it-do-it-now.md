@@ -23,7 +23,7 @@ I have no idea if there's really any coaching on it, apart from the 'getting thi
 
 The next problem was basically overthinking the project, getting lost in a lot of details about *how* to do things instead of doing it.
 
-I suffer the same, and sometimes an idea is marinading for months in the back of my mind until I sit down and act on it. I might do some research in the meanwhile, filling in some gaps of knowledge.
+I suffer the same, and sometimes an idea is marinating for months in the back of my mind until I sit down and act on it. I might do some research in the meanwhile, filling in some gaps of knowledge.
 
 About your brain being scattered... I know the feeling. I think that's part of the "just start" thing here, do not think too much, and when you start doing the little tasks setting up the environment, try not to sidetrack yourself and hopefully some kind of positive feedback loops start hooking you for a bit.
 
