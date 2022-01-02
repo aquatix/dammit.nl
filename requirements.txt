@@ -38,7 +38,7 @@ pytz==2021.3
     # via
     #   feedgenerator
     #   pelican
-rich==10.16.1
+rich==10.16.2
     # via pelican
 six==1.16.0
     # via python-dateutil
