@@ -1,13 +1,21 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2021-10-21
+Modified: 2022-01-04
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
 <p>Books I've read in the past. I might have written something about them, meaning the entries here will have a [review] link to a corresponding weblog posting. Otherwise, I try to link them to their page on Goodreads. The date denotes the day I <em>started</em> reading. Generally, the date of the next book is when I finished the last :)</p>
 
 <p>You can <a href="https://www.goodreads.com/review/list/17198769-michiel-scholten">find me on Goodreads</a> too. Maybe become book friends? :)</p>
+
+<h2 id="2021">2021</h2>
+<ol>
+    <li><span class="label">20210610</span> Stephen King - <a href="https://www.goodreads.com/book/show/6320534-under-the-dome">Under the Dome</a></li>
+    <li><span class="label">20220104</span> Greg Egan - <a href="https://www.goodreads.com/book/show/156784.Permutation_City">Permutation City</a> (Subjective Cosmology #2)</li>
+</ol>
+
+<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
 <h2 id="2021">2021</h2>
 <ol>
@@ -21,8 +29,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20210930</span> <span class="label">comic</span> Warren Ellis & John Cassaday - <a href="https://www.goodreads.com/book/show/43743.Planetary_Volume_3">Planetary, Volume 3: Leavin the 20th Century</a> (Planetary 13-18)</li>
     <li><span class="label">20211021</span> <span class="label">comic</span> Warren Ellis & John Cassaday - <a href="hhttps://www.goodreads.com/book/show/5210326-planetary-volume-4">Planetary, Volume 4: Spacetime Archaeology</a> (Planetary 19-27)</li>
 </ol>
-
-<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
 <h2 id="2020">2020</h2>
 <ol>
