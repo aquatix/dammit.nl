@@ -19,7 +19,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 <h2 id="2021">2021</h2>
 <ol>
-    <li><span class="label">20201225</span> Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II)</li>
+    <li><span class="label">20201225</span> Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II) [<a href="/sagas.html">post: Sagas</a>]</li>
     <li><span class="label">20210403</span> Glen Cook - <a href="https://www.goodreads.com/book/show/29829.Petty_Pewter_Gods">Petty Pewter Gods</a> (Garrett Files #8)</li>
     <li><span class="label">20210415</span> Stephen King - <a href="https://www.goodreads.com/book/show/18775247-mr-mercedes">Mr. Mercedes</a> (Bill Hodges Trilogy #1)</li>
     <li><span class="label">20210610</span> Stephen King - <a href="https://www.goodreads.com/book/show/6320534-under-the-dome">Under the Dome</a></li>
