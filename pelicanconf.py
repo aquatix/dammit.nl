@@ -52,6 +52,7 @@ ICONS = [
     ('fab fa-github', 'https://github.com/aquatix/dammit.nl'),
     ('fas fa-rss', '/feeds/all.atom.xml'),
     ('fab fa-mastodon', 'https://mastodon.social/@diginaut'),
+    ('fab fa-coffee', 'https://ko-fi.com/aquatix'),
 ]
 
 # Social widget
