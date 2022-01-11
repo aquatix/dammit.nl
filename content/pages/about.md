@@ -59,7 +59,10 @@ By day, a simple software engineer. By night, also a software engineer.
 <h2>Plugs</h2>
 
 <div style="width: 49%; float: left">
-    <a href="https://soleus.nu/"><img src="/images/content/soleus.png" alt="Soleus VPS Community logo" title="Soleus VPS Community" /></a>
+    <a href="https://soleus.nu/"><img src="/images/content/soleus.png" alt="Soleus VPS Community logo" title="Soleus VPS Community" />
+    <br />
+    Soleus hosting/VPS community</a>
+    <br />
     <br />
     <a title="Developers for Firefox"
        rel="nofollow"
@@ -72,7 +75,11 @@ By day, a simple software engineer. By night, also a software engineer.
     </a>
 </div>
 <div style="width: 49%; float: left;">
+    <p><a href="https://ko-fi.com/aquatix"> <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="aquatix" /></a></p>
+    <!--
+    <br />
     <a href="http://steamcommunity.com/id/aquariusoft"><img title="My Steam Profile and status" src="https://badges.steamprofile.com/profile/default/steam/76561198018623366.png" alt="My Steam Status" /></a>
+    -->
 </div>
 
 <br style="clear: both;" />
