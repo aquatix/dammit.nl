@@ -14,7 +14,7 @@ docutils==0.18.1
     # via pelican
 feedgenerator==2.0.0
     # via pelican
-importlib-metadata==4.10.0
+importlib-metadata==4.10.1
     # via markdown
 jinja2==3.0.3
     # via pelican
@@ -38,7 +38,7 @@ pytz==2021.3
     # via
     #   feedgenerator
     #   pelican
-rich==11.0.0
+rich==11.1.0
     # via pelican
 six==1.16.0
     # via python-dateutil
