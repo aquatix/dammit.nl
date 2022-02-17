@@ -9,7 +9,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 <p>You can <a href="https://www.goodreads.com/review/list/17198769-michiel-scholten">find me on Goodreads</a> too. Maybe become book friends? :)</p>
 
-<h2 id="2021">2021</h2>
+<h2 id="2022">2022</h2>
 <ol>
     <li><span class="label">20210610</span> Stephen King - <a href="https://www.goodreads.com/book/show/6320534-under-the-dome">Under the Dome</a></li>
     <li><span class="label">20220104</span> Greg Egan - <a href="https://www.goodreads.com/book/show/156784.Permutation_City">Permutation City</a> (Subjective Cosmology #2)</li>
