@@ -1,7 +1,7 @@
 Title: Links
 Authors: Michiel Scholten
 Date: 2019-11-23
-Modified: 2019-11-26
+Modified: 2022-02-19
 Summary: List of interesting weblogs, projects, and communities
 
 If you like X, you might like Y.
@@ -15,9 +15,10 @@ If you like X, you might like Y.
     <li><a href="https://whatthefuck.computer/blog/">Ryan Rix</a></li>
     <li><a href="https://www.tibobeijen.nl/">Tibo Beijen</a></li>
     <li><a href="https://galaxycow.com/">Vermyndax</a></li>
+    <li><a href="https://marijn.uk/">Marijn</a> (The Satyrs’ Forest / The Garden)</li>
     <li><a href="https://pixls.us/">Pixls.us FLOSS photography</a></li>
     <li><a href="https://python.org/">Python.org</a></li>
-    <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+    <li><a href="https://jinja.palletsprojects.com/">Jinja2</a></li>
 </ul>
 
 
@@ -25,8 +26,6 @@ If you like X, you might like Y.
 
 <ul>
     <li><a href="https://shuttereye.org/">My gallery</a></li>
-    <li><a href="https://diginaut.net/">diginaut: my profile, basically</a></li>
+    <li><a href="https://diginaut.net/">diginaut: my profile, basically</a> - find more of my presences</li>
     <li><a href="https://github.com/aquatix">GitHub profile</a></li>
 </ul>
-
-Find more on diginaut.net
