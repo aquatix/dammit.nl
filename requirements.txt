@@ -14,13 +14,13 @@ docutils==0.18.1
     # via pelican
 feedgenerator==2.0.0
     # via pelican
-importlib-metadata==4.11.1
+importlib-metadata==4.11.2
     # via markdown
 jinja2==3.0.3
     # via pelican
 markdown==3.3.6
     # via -r requirements.in
-markupsafe==2.0.1
+markupsafe==2.1.0
     # via jinja2
 pelican==4.7.2
     # via
@@ -42,7 +42,7 @@ rich==11.2.0
     # via pelican
 six==1.16.0
     # via python-dateutil
-unidecode==1.3.2
+unidecode==1.3.3
     # via pelican
 zipp==3.7.0
     # via importlib-metadata
