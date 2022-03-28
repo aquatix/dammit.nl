@@ -7,7 +7,6 @@ Authors: Michiel Scholten
 Status: published
 Category: responses
 Tags: backups, gadgets, life, photography, hosting, sync, tech
-Image: 
 Link: https://www.wired.com/story/cloud-computing-space-data-storage-habits/
 
 > The belief that we could save endlessly online turned us all into information hoarders. What society needs instead is better systems for preserving public knowledge.
