@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2022-02-17
+Modified: 2022-05-01
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -15,6 +15,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20220104</span> Greg Egan - <a href="https://www.goodreads.com/book/show/156784.Permutation_City">Permutation City</a> (Subjective Cosmology #2)</li>
     <li><span class="label">20220203</span> Joe Abercrombie - <a href="https://www.goodreads.com/book/show/944073.The_Blade_Itself">The Blade Itself</a> (The First Law #1)</li>
     <li><span class="label">20220216</span> Joe Abercrombie - <a href="https://www.goodreads.com/book/show/902715.Before_They_Are_Hanged">Before They Are Hanged</a> (The First Law #2)</li>
+    <li><span class="label">20220316</span> Joe Abercrombie - <a href="https://www.goodreads.com/book/show/944076.Last_Argument_of_Kings">Last Argument of Kings</a> (The First Law #3)</li>
+    <li><span class="label">20220501</span> Agatha Christie - <a href="https://www.goodreads.com/book/show/52843028-the-mysterious-affair-at-styles">The Mysterious Affair at Styles</a> (Hercule Poirot #1)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
