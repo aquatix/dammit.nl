@@ -14,7 +14,7 @@ feedgenerator==2.0.0
     # via pelican
 jinja2==3.1.2
     # via pelican
-markdown==3.3.6
+markdown==3.3.7
     # via -r requirements.in
 markupsafe==2.1.1
     # via jinja2
@@ -34,7 +34,7 @@ pytz==2022.1
     # via
     #   feedgenerator
     #   pelican
-rich==12.3.0
+rich==12.4.1
     # via pelican
 six==1.16.0
     # via python-dateutil
