@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2022-06-06
+Modified: 2022-06-20
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -20,6 +20,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20220503</span> Charles Stross - <a href="https://www.goodreads.com/book/show/101869.The_Atrocity_Archives">The Atrocity Archives</a> (Laundry Files #1)</li>
     <li><span class="label">20220516</span> Charles Stross - <a href="https://www.goodreads.com/book/show/14150.The_Jennifer_Morgue">The Jennifer Morgue</a> (Laundry Files #2)</li>
     <li><span class="label">20220602</span> Arthur C. Clarke - <a href="https://www.goodreads.com/book/show/29356850-a-meeting-with-medusa"> A Meeting with Medusa</a> (The Collected Stories of Arthur C. Clarke #4)</li>
+    <li><span class="label">20220620</span> <span class="label">comic</span> Morris & Goscinny - Lucky Luke: De Postkoets</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
