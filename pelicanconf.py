@@ -89,10 +89,10 @@ BOOTSTRAP_CSS = 'https://bootswatch.com/4/lux/bootstrap.min.css'
 THEME_CSS_OVERRIDES = [
     '/css/dammit_bootstrap.css?20200719',
     #'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.2.0/build/styles/base16/3024.min.css',
-    'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/styles/devibeans.min.css',
+    'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/devibeans.min.css',
 ]
 THEME_JS_OVERRIDES = [
-    'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/highlight.min.js',
+    'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/highlight.min.js',
     '/js/dammit.js',
 ]
 
