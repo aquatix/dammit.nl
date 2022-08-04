@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2022-07-25
+Modified: 2022-08-04
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -23,6 +23,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20220620</span> <span class="label">comic</span> Morris & Goscinny - Lucky Luke: De Postkoets</li>
     <li><span class="label">20220712</span> Charles Stross - <a href="https://www.goodreads.com/book/show/7149287-the-fuller-memorandum">The Fuller Memorandum</a> (Laundry Files #3)</li>
     <li><span class="label">20220724</span> Charles Stross - <a href="https://www.goodreads.com/book/show/12393566-the-apocalypse-codex">The Apocalypse Codex</a> (Laundry Files #4)</li>
+    <li><span class="label">20220804</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #54 - #60)</li>
+    <li><span class="label">20220804</span> <span class="label">comic</span> Christopher Reda & Alonso Molina Gonzales - Planetary Expansion (chapter 1)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
