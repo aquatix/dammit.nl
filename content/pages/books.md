@@ -25,6 +25,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20220724</span> Charles Stross - <a href="https://www.goodreads.com/book/show/12393566-the-apocalypse-codex">The Apocalypse Codex</a> (Laundry Files #4)</li>
     <li><span class="label">20220804</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #54 - #60)</li>
     <li><span class="label">20220804</span> <span class="label">comic</span> Christopher Reda & Alonso Molina Gonzales - Planetary Expansion (chapter 1)</li>
+    <li><span class="label">20220813</span> Glen Cook - <a href="https://www.goodreads.com/book/show/395568.Faded_Steel_Heat">Faded Steel Heat</a> (Garrett Files #9)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
