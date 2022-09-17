@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2022-08-04
+Modified: 2022-09-17
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -26,6 +26,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20220804</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #54 - #60)</li>
     <li><span class="label">20220804</span> <span class="label">comic</span> Christopher Reda & Alonso Molina Gonzales - Planetary Expansion (chapter 1)</li>
     <li><span class="label">20220813</span> Glen Cook - <a href="https://www.goodreads.com/book/show/395568.Faded_Steel_Heat">Faded Steel Heat</a> (Garrett Files #9)</li>
+    <li><span class="label">20220916</span> Liu Cixin - <a href="https://www.goodreads.com/book/show/25451264-death-s-end">Death's End</a> (Remembrance of Earth's Past #3)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -300,7 +301,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 <h2 id="queue">Queue (no particular order)</h2>
 <ul>
-    <li><span class="label"></span> Liu Cixin - <a href="https://www.goodreads.com/book/show/25451264-death-s-end">Death's End</a> (Remembrance of Earth's Past #3)</li>
+    <li><span class="label"></span> Andy Weir - <a href="https://www.goodreads.com/book/show/54493401-project-hail-mary">Project Hail Mary</a></li>
     <li><span class="label"></span> Stephen Barker - <a href="https://www.goodreads.com/book/show/63960.Vacuum_Diagrams__Xeelee_Sequence___5_">Vacuum Diagrams</a> (Xeelee Sequence #5)</li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156784.Permutation_City">Permutation City</a> (Subjective Cosmology #2)</li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
