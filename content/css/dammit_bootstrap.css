@@ -34,8 +34,10 @@ h2
     margin-top: 2.50rem;
 }
 
-pre
+pre,
+.admonition
 {
+    border: 0;
     border-radius: .25rem;
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
 }
@@ -59,6 +61,19 @@ kbd
     border-radius: .25rem;
     color: #FF9800;
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+.admonition {
+    padding: 0;
+}
+
+.admonition .admonition-title {
+    text-align: left;
+    background: #000;
+}
+
+.admonition p {
+    padding: .25rem .5rem;
 }
 
 .text-muted
