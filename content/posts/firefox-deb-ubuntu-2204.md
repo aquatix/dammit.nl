@@ -43,7 +43,9 @@ Now you can install the right Firefox package:
 sudo apt install firefox
 ```
 
-Note that this PPA does not provide localised (translated) versions, so installing for example `firefox-locale-nl` will install the snap again. If you prefer a translation or another edition of Firefox, you can use the alternative install method discussed next.
+!!! warning
+
+    Note that this PPA does not provide localised (translated) versions, so installing for example `firefox-locale-nl` will install the snap again. If you prefer a translation or another edition of Firefox, you can use the alternative install method discussed next.
 
 
 ## Or use the version provided by Mozilla.org
