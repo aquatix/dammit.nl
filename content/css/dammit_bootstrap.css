@@ -144,21 +144,38 @@ li .label,
     color: #ccc !important;
 }
 
+/* Navigation to next/previous (listing) pages */
 .page-link:hover,
 .link-button a:hover
 {
     background-color: #999 !important;
 }
 
+.page-item:first-child .page-link
+{
+    border-radius: .25rem 0 0 .25rem;
+}
+.page-item:last-child .page-link
+{
+    border-radius: 0 .25rem .25rem 0;
+}
+.page-item
+{
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* Button linking to an external resource */
 .link-button
 {
-    margin-top: 1.5rem;
+    margin-top: 2rem;
 }
 
 .link-button a
 {
     text-decoration: none !important;
-    padding: .5rem;
+    padding: .75rem;
+    border-radius: .25rem;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
 }
 
 .content img
