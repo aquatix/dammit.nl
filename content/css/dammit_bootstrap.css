@@ -187,18 +187,22 @@ li .label,
 
 .content blockquote
 {
-    border-left: 3px solid #666;
-    padding-left: 16px;
+    background-color: var(--primary);
+    background-color: #222;
+    padding: .75rem .75rem .75rem 3rem;
+    border-radius: .25rem;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
 }
 
 .content blockquote::before
 {
     content: "\201C";
-    color: #666;
+    color: #444;
     font-weight: 700;
     font-size: 64px;
     line-height: .25;
     position: relative;
+    margin-left: -2.5rem;
     top: .25em;
 }
 
