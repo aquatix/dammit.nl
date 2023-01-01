@@ -9,6 +9,13 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 <p>You can <a href="https://www.goodreads.com/review/list/17198769-michiel-scholten">find me on Goodreads</a> too. Maybe become book friends? :)</p>
 
+<h2 id="2023">2023</h2>
+<ol>
+    <li><span class="label">20220916</span> Liu Cixin - <a href="https://www.goodreads.com/book/show/25451264-death-s-end">Death's End</a> (Remembrance of Earth's Past #3)</li>
+</ol>
+
+<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
+
 <h2 id="2022">2022</h2>
 <ol>
     <li><span class="label">20210610</span> Stephen King - <a href="https://www.goodreads.com/book/show/6320534-under-the-dome">Under the Dome</a></li>
@@ -28,8 +35,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20220813</span> Glen Cook - <a href="https://www.goodreads.com/book/show/395568.Faded_Steel_Heat">Faded Steel Heat</a> (Garrett Files #9)</li>
     <li><span class="label">20220916</span> Liu Cixin - <a href="https://www.goodreads.com/book/show/25451264-death-s-end">Death's End</a> (Remembrance of Earth's Past #3)</li>
 </ol>
-
-<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
 <h2 id="2021">2021</h2>
 <ol>
@@ -303,7 +308,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 <ul>
     <li><span class="label"></span> Andy Weir - <a href="https://www.goodreads.com/book/show/54493401-project-hail-mary">Project Hail Mary</a></li>
     <li><span class="label"></span> Stephen Barker - <a href="https://www.goodreads.com/book/show/63960.Vacuum_Diagrams__Xeelee_Sequence___5_">Vacuum Diagrams</a> (Xeelee Sequence #5)</li>
-    <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156784.Permutation_City">Permutation City</a> (Subjective Cosmology #2)</li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
     <li><span class="label"></span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
     <li>Michael Warren Lucas - <a href="https://www.goodreads.com/book/show/34684331-git-commit-murder">Git Commit Murder</a></li>
@@ -311,8 +315,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21418013-lock-in">Lock in</a> (Lock In #1)</li>
     <li>Ursula K. Le Guin - <a href="https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea">A Wizard of Earthsea (Earthsea Cycle #1)</a></li>
     <li>David Mitchell - <a href="https://www.goodreads.com/book/show/49628.Cloud_Atlas">Cloud Atlas</a></li>
-    <li>Peter Hamilton - <a href="https://www.goodreads.com/book/show/45248.Misspent_Youth">Misspent Youth</a> (Commonwealth Universe)</li>
-    <li>Peter Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II)</li>
     <li>Alastair Reynolds - <a href="https://www.goodreads.com/book/show/23013875-slow-bullets">Slow Bullets</a></li>
     <li>David Walton - <a href="https://www.goodreads.com/book/show/22551892-superposition">Superposition</a></li>
     <li>the Orthogonal trilogy by Greg Egan</li>
