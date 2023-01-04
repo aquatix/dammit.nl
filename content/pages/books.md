@@ -11,7 +11,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 <h2 id="2023">2023</h2>
 <ol>
-    <li><span class="label">20220916</span> Liu Cixin - <a href="https://www.goodreads.com/book/show/25451264-death-s-end">Death's End</a> (Remembrance of Earth's Past #3)</li>
+    <li><span class="label">20230104</span> Andy Weir - <a href="https://www.goodreads.com/book/show/54493401-project-hail-mary">Project Hail Mary</a></li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
