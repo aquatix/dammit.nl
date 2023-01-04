@@ -306,8 +306,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 <h2 id="queue">Queue (no particular order)</h2>
 <ul>
-    <li><span class="label"></span> Andy Weir - <a href="https://www.goodreads.com/book/show/54493401-project-hail-mary">Project Hail Mary</a></li>
-    <li><span class="label"></span> Stephen Barker - <a href="https://www.goodreads.com/book/show/63960.Vacuum_Diagrams__Xeelee_Sequence___5_">Vacuum Diagrams</a> (Xeelee Sequence #5)</li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
     <li><span class="label"></span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
     <li>Michael Warren Lucas - <a href="https://www.goodreads.com/book/show/34684331-git-commit-murder">Git Commit Murder</a></li>
@@ -323,7 +321,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li>Robert Reed - Marrow</li>
     <li>Mark Z. Danielewski - Only Revolutions</li>
     <li>Michael Lewis - The Big Short</li>
-    <li>Rob Ziegler - Seed</li>
     <li>Jean M. Auel - The Shelters of Stone (Earth's Children V)</li>
     <li>Jean M. Auel - The Land of Painted Caves (Earth's Children VI)</li>
     <li>Frank Herbert - Destination: Void</li>
