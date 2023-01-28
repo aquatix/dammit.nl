@@ -28,4 +28,4 @@ They have stagnated, act really shitty to their employees and I have been done w
 
 Anyway.
 
-Go read the article.
+Apart from me needing to stop posting rambling posts late at night, just go read the article :)
