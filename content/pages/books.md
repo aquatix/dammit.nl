@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2022-09-17
+Modified: 2023-01-30
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -12,6 +12,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 <h2 id="2023">2023</h2>
 <ol>
     <li><span class="label">20230104</span> Andy Weir - <a href="https://www.goodreads.com/book/show/54493401-project-hail-mary">Project Hail Mary</a></li>
+    <li><span class="label">20230129</span> <span class="label">autism</span> Bianca Toeps - <a href="https://www.goodreads.com/book/show/43372969-maar-je-ziet-er-helemaal-niet-autistisch-uit">Maar je ziet er helemaal niet autistisch uit</a></li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
