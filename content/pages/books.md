@@ -13,6 +13,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 <ol>
     <li><span class="label">20230104</span> Andy Weir - <a href="https://www.goodreads.com/book/show/54493401-project-hail-mary">Project Hail Mary</a></li>
     <li><span class="label">20230129</span> <span class="label">autism</span> Bianca Toeps - <a href="https://www.goodreads.com/book/show/43372969-maar-je-ziet-er-helemaal-niet-autistisch-uit">Maar je ziet er helemaal niet autistisch uit</a></li>
+    <li><span class="label">20230204</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/34503.The_Last_Hero">The Last Hero</a> (Discworld #27)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
