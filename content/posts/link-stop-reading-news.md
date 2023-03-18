@@ -14,7 +14,7 @@ Link: https://fs.blog/stop-reading-news/
 
 So why keep yourself submerged in it? The rate in which information/tidbits are fired into our brains has increased a lot over the years, and we barely have time to form thoughts about them ourselves; probably the person writing the article we just read isn't that well-informed on the subject themselves either.
 
-Myself, I quit cold-turkey years ago when I realised I could just keep reading news factlets continuously. I prefer reading a good book instead, or watching a TV series, spending time actually paying attention to my dear ones or being submerged in a game instead. There's barely enough time for that as it is, so not spending time on news helps tremendously. Important stuff will percolate through anyway.
+Myself, I quit cold-turkey years ago when I realised I could just keep reading news factlets continuously. I prefer reading a good book instead, or watching a TV series, spending time actually paying attention to my dear ones or being submerged in a game instead. There's barely enough time for that as it is, so not spending time on news helps tremendously. Important stuff will percolate through anyway. It surely was healthy for my (state of) mind.
 
 Anyway, good read, food for thought.
 
