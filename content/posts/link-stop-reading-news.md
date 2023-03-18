@@ -18,4 +18,4 @@ Myself, I quit cold-turkey years ago when I realised I could just keep reading n
 
 Anyway, good read, food for thought.
 
-![[Frozen rose-like forms on a rock](https://shuttereye.org/images/64/6476062c8c5145e6_2000-2000.jpeg)](https://shuttereye.org/photolog/1000026627-01.jpeg/view/)
+[![Frozen rose-like forms on a rock](https://shuttereye.org/images/64/6476062c8c5145e6_2000-2000.jpeg)](https://shuttereye.org/photolog/1000026627-01.jpeg/view/)
