@@ -17,6 +17,8 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 TAG_FEED_ATOM = 'feeds/tag_{slug}.atom.xml'
 
+FEED_MAX_ITEMS = 20
+
 DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
