@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2023-02-16
+Modified: 2023-06-02
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -16,6 +16,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20230204</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/34503.The_Last_Hero">The Last Hero</a> (Discworld #27, Rincewind #7)</li>
     <li><span class="label">20230212</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/34534.The_Amazing_Maurice_and_His_Educated_Rodents">The Amazing Maurice and His Educated Rodents</a> (Discworld #28)</li>
     <li><span class="label">20230216</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/7235533-the-way-of-kings">The Way of Kings</a> (The Stormlight Archive #1)</li>
+    <li><span class="label">20230602</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/17332218-words-of-radiance">Words of Radiance</a> (The Stormlight Archive #2)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
