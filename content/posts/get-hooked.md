@@ -27,6 +27,8 @@ Thanks.
 
 `webhaak` is something that should not be missing from your toolkit. It slices, it dices, it takes an incoming URL call and executes the commands you configured it to do on that trigger; it updates Git checkouts, performs checks, builds whatever you want it to build [^1], all done asynchronously because that is fashionable and also because it is not good design to perform bigger tasks in the view of a web application, so it uses [a queueing backend](https://python-rq.org/) that is actually easy to install and maintain, with a worker that does all that hard work for you. Whenever it is done, it notifies you if you want. Support for PushOver and Telegram, all those developer friendly notification channels! Or just have it fire a webhook instead, it is what it is good at, those webhooks.
 
+Did you know the very weblog you are watching this message on is automatically built via `webhook`? Now you do!
+
 This product is 100% Python [^2] because why not? Of course, it is also [pushed to PyPI](https://pypi.org/project/webhaak/), so you can install it with a simple `pip install webhaak`!
 
 "Mike, it errors on download!"
