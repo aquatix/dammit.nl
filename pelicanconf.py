@@ -83,11 +83,11 @@ DEFAULT_METADATA = {
 # RELATIVE_URLS = True
 
 THEME = '../pelican-alchemy/alchemy'
-BOOTSTRAP_CSS = 'https://bootswatch.com/4/lux/bootstrap.min.css'
+BOOTSTRAP_CSS = 'https://bootswatch.com/5/lux/bootstrap.min.css'
 
 # Enable highlight.js
 THEME_CSS_OVERRIDES = [
-    '/css/dammit_bootstrap.css?20221110',
+    '/css/dammit_bootstrap.css?20230709',
     #'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.2.0/build/styles/base16/3024.min.css',
     'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/styles/devibeans.min.css',
 ]
