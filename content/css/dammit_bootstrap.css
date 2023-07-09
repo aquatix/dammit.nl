@@ -143,6 +143,12 @@ li .label,
 {
     background-color: #666 !important;
     color: #ccc !important;
+    opacity: 1;
+}
+
+#isso-thread .textarea.placeholder
+{
+    display: block;
 }
 
 /* Navigation to next/previous (listing) pages */
