@@ -1,7 +1,7 @@
 Title: About
 Authors: Michiel Scholten
 Date: 2005-10-02
-Modified: 2021-01-08
+Modified: 2023-08-21
 Summary: About the dammIT weblog, who am I, why do I write
 
 
@@ -19,7 +19,7 @@ By day, a simple software engineer. By night, also a software engineer.
 
 
 <h2>Why this weblog?</h2>
-<p>Yeah, why? Well basically to have some place to write down my frustrations. But also for thinking out loud (which I hope will happen more often than me being frustrated), writing up <a href="/tag/howto.html">howto's</a> for itches I figured out how to scratch, and sharing some <a href="/tag/digimarks.html">niceties</a> (previously I had blogmarks, they will be resurrected in a digimarks way) I found on the web with anybody who cares reading this weblog. So, since the <a href="{filename}../posts/20031220-darn-trains.md">20th of December of the year 2003</a> you can read about me. Oh rejoice :)</p>
+<p>Yeah, why? Well basically to have some place to write down my frustrations. But also for thinking out loud (which I hope will happen more often than me being frustrated), writing up <a href="/tag/howto.html">howto's</a> for itches I figured out how to scratch, and sharing some <a href="/tag/digimarks.html">niceties</a> (previously I had blogmarks, they will be resurrected in a [digimarks](https://github.com/aquatix/digimarks/) way) I found on the web with anybody who cares reading this weblog. So, since the <a href="{filename}../posts/20031220-darn-trains.md">20th of December of the year 2003</a> you can read about me. Oh rejoice :)</p>
 
 <h3>Whoami</h3>
 <p>I'm the lead developer of a company specialising in long-term archiving of digital data, and building solutions to make the information available for the public. Before that I was a (backend/full stack) developer with a big media company in the Netherlands. You can find <a href="https://diginaut.net">more information about me on diginaut.net</a>.</p>
@@ -44,7 +44,7 @@ By day, a simple software engineer. By night, also a software engineer.
 
 
 <h3>Rights stuff</h3>
-<p>Contents are &copy; 2003-2021 <i>dammit at aquariusoft.org</i>, but are licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">Creative Commons License</a>, except for quotes and art from others, which are property of the respective creators of course.</p>
+<p>Contents are &copy; 2003-2023 <i>dammit at aquariusoft.org</i>, but are licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License</a>, except for quotes and art from others, which are property of the respective creators of course.</p>
 <p>Powered by Blood, Sweat, Wine and the occasional Whisky&trade;</p>
 
 
