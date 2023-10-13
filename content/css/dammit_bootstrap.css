@@ -87,7 +87,7 @@ kbd
 .admonition.error .admonition-title
 {
     color: #FFF;
-    background-color: var(--red);
+    background-color: crimson;
 }
 
 .admonition.important .admonition-title,
@@ -110,7 +110,7 @@ kbd
 .admonition.danger,
 .admonition.error
 {
-    border: 1px solid var(--red);
+    border: 1px solid crimson;
 }
 
 .admonition.important,
