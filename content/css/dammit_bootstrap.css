@@ -1,3 +1,15 @@
+@font-face {
+    font-family: 'MonaspaceArgon';
+    src: url('https://dammit.nl/images/fonts/MonaspaceArgonVarVF[wght,wdth,slnt].woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+body
+{
+    font-family: 'MonaspaceArgon', sans-serif;
+}
+
 body
 {
     background-color: #333;
