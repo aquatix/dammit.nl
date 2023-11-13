@@ -5,6 +5,34 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'MonaspaceKrypton';
+    src: url('https://dammit.nl/images/fonts/MonaspaceKryptonVarVF[wght,wdth,slnt].woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MonaspaceNeon';
+    src: url('https://dammit.nl/images/fonts/MonaspaceNeonVarVF[wght,wdth,slnt].woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MonaspaceRadon';
+    src: url('https://dammit.nl/images/fonts/MonaspaceRadonVarVF[wght,wdth,slnt].woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MonaspaceXenon';
+    src: url('https://dammit.nl/images/fonts/MonaspaceXenonVarVF[wght,wdth,slnt].woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+}
+
 body
 {
     font-family: 'MonaspaceArgon', sans-serif;
@@ -39,6 +67,7 @@ pre,
 {
     color: #ccc !important;
     text-decoration: none;
+    font-face: 'MonaspaceKrypton', sans-serif;
 }
 
 h2
