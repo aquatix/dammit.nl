@@ -187,6 +187,7 @@ li .label,
     background-color: #666 !important;
     color: #ccc !important;
     opacity: 1;
+    font-family: 'MonaspaceXenon', monospace;
 }
 
 #isso-thread .textarea.placeholder
