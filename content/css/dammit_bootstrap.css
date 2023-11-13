@@ -36,6 +36,8 @@
 body
 {
     font-family: 'MonaspaceArgon', sans-serif;
+    /* Make it slightly less huge */
+    font-size: 0.9rem;
 }
 
 body

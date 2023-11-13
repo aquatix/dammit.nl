@@ -87,7 +87,7 @@ BOOTSTRAP_CSS = 'https://bootswatch.com/5/lux/bootstrap.min.css'
 
 # Enable highlight.js
 THEME_CSS_OVERRIDES = [
-    '/css/dammit_bootstrap.css?20231113a',
+    '/css/dammit_bootstrap.css?20231113b',
     #'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.2.0/build/styles/base16/3024.min.css',
     'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/devibeans.min.css',
 ]
