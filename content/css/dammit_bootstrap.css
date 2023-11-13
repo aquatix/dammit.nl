@@ -260,7 +260,7 @@ li .label,
 /* Book labels and such */
 li .label
 {
-    font-size: .6rem;
+    font-size: .75rem;
     padding: .1rem .25rem;
     border-radius: .25rem;
 }
