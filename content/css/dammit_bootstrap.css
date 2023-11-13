@@ -67,7 +67,7 @@ pre,
 {
     color: #ccc !important;
     text-decoration: none;
-    font-face: 'MonaspaceKrypton', sans-serif !important;
+    font-family: 'MonaspaceKrypton', sans-serif;
 }
 
 h2
@@ -91,7 +91,7 @@ pre
 code
 {
     color: #FF9800;
-    font-face: 'MonaspaceNeon', monospace !important;
+    font-family: 'MonaspaceNeon', monospace;
 }
 
 /*
@@ -113,7 +113,7 @@ kbd
 .admonition {
     padding: 0;
     background-color: inherit !important;
-    font-face: 'MonaspaceRadon', sans-serif !important;
+    font-family: 'MonaspaceRadon', sans-serif;
 }
 
 .admonition .admonition-title {
