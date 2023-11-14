@@ -15,6 +15,8 @@ As some of you might know, GitHub with their GitHubNext team recently released [
 
 As I was a tad tired of the font family used on dammIT an idea grew, and when [Xe](https://xeiaso.net/) challenged me to do it, I implemented it.
 
-Behold, using all five Monaspace families, from Argon as main body typeface, Krypton for headings, Neon for [codeblocks](https://dammit.nl/vim-reloaded.html), Radon for [admonitions](https://dammit.nl/admonitions.html) and Xeon for, errr, ah yes, commenting fields!
+Behold, using all five Monaspace families, from Argon as main body typeface, Krypton for headings, Neon for [codeblocks]({filename}../posts/vim-reloaded.md), Radon for [admonitions]({filename}../posts/admonitions.md) and Xeon for, errr, ah yes, commenting fields!
+
+Another example where it all comes together is [this post on Firefox]({filename}../posts/firefox-deb-ubuntu-2204.md).
 
 Enjoy the mon~~o~~aspaced dammIT HQ.
