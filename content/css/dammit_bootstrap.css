@@ -199,6 +199,7 @@ hr
 }
 
 textarea,
+input[type=email],
 input[type=text],
 #isso-thread .textarea.placeholder,
 #isso-thread .textarea
