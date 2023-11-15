@@ -1,7 +1,7 @@
 Title: Links
 Authors: Michiel Scholten
 Date: 2019-11-23
-Modified: 2023-11-14
+Modified: 2023-11-15
 Summary: List of interesting weblogs, projects, and communities
 
 If you like X, you might like Y.
@@ -15,11 +15,10 @@ If you like X, you might like Y.
     <li><a href="https://xeiaso.net/blog/">Xe Iaso</a></li>
     <li><a href="https://www.tibobeijen.nl/">Tibo Beijen</a></li>
     <li><a href="https://galaxycow.com/">Vermyndax</a></li>
-    <li><a href="https://marijn.uk/">Marijn</a> (The Satyrs’ Forest / The Garden)</li>
+    <li><a href="https://satyrs.eu/">The Satyrs’ Forest</a> (The Garden / Marijn)</li>
+    <li><a href="https://www.kickscondor.com/">Kicks Condor</a></li>
     <li><a href="https://randsinrepose.com/">Rands in Repose</a></li>
     <li><a href="https://pixls.us/">Pixls.us FLOSS photography</a></li>
-    <li><a href="https://python.org/">Python.org</a></li>
-    <li><a href="https://jinja.palletsprojects.com/">Jinja2</a></li>
 </ul>
 
 
