@@ -35,7 +35,7 @@
 
 body
 {
-    font-family: 'MonaspaceArgon', sans-serif;
+    font-family: 'MonaspaceArgon', monospace;
     /* Make it slightly less huge */
     font-size: 0.9rem;
 }
@@ -69,7 +69,7 @@ pre,
 {
     color: #ccc !important;
     text-decoration: none;
-    font-family: 'MonaspaceKrypton', sans-serif;
+    font-family: 'MonaspaceKrypton', monospace;
 }
 
 h2
@@ -115,7 +115,7 @@ kbd
 .admonition {
     padding: 0;
     background-color: inherit !important;
-    font-family: 'MonaspaceRadon', sans-serif;
+    font-family: 'MonaspaceRadon', monospace;
 }
 
 .admonition .admonition-title {
