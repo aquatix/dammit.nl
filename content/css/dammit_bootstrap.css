@@ -112,13 +112,32 @@ kbd
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
 }
 
-.admonition {
+.table-striped>tbody>tr:nth-child(odd)>td,
+.table-striped>tbody>tr:nth-child(odd)>th
+{
+    background-color: #666;
+}
+
+.table-striped>tbody>tr:nth-child(even)>td,
+.table-striped>tbody>tr:nth-child(even)>th
+{
+    background-color: transparent;
+}
+
+.table-striped>tbody>tr>td
+{
+    color: #FF9800;
+}
+
+.admonition
+{
     padding: 0;
     background-color: inherit !important;
     font-family: 'MonaspaceRadon', monospace;
 }
 
-.admonition .admonition-title {
+.admonition .admonition-title
+{
     /* Icons are at the bottom of this stylesheet */
     text-align: left;
     padding: 0.1em 0 0.1em 0.5em;
