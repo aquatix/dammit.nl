@@ -198,6 +198,11 @@ hr
     border: 0;
 }
 
+.pagination
+{
+    --bs-pagination-border-color: transparent;
+}
+
 textarea,
 input[type=email],
 input[type=text],
