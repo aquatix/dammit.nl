@@ -97,6 +97,10 @@ THEME_JS_OVERRIDES = [
     '/js/dammit.js',
 ]
 
+
+# No need for pygments syntax highlighting styling
+NO_PYGMENTS = True
+
 # Extra Markdown options, https://github.com/getpelican/pelican/issues/1238#issuecomment-32821905
 # MD_EXTENSIONS = ['fenced_code', 'codehilite(css_class=highlight, linenums=True)', 'extra']
 # MD_EXTENSIONS = ['fenced_code', 'codehilite(css_class=highlight, linenums=False)', 'extra']
