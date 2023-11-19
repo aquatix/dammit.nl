@@ -17,6 +17,10 @@ I was curious as to what I would have duplicated, as I tend to not repeat myself
 
 Anyway, that was amusing, as _of course_ it duplicates stuff, it's the feed with all recent-ish content on my weblog after all. Apparently Google's crawler isn't all too aware about what this 'page' is about though, and a quick look at the headers in the 'Network' tab of my browser showed me that of course it was served as an item with mimetype `application/xml`, which could mean anything. As Atom has its own mimetype - `application/atom+xml` - I decided that it would a good idea to have the various Atom feeds be served with that mimetype, whether it would solve this particular 'issue' or not.
 
+!!! hint
+
+    For example all the [categories](https://dammit.nl/categories.html) have their own feed (e.g., [howto](https://dammit.nl/feeds/howto.atom.xml)), as do [the tags](https://dammit.nl/tags.html).
+
 As all the Atom feeds on dammIT are of the format `NAME.atom.xml` it is easy enough to match the files and have nginx use a different mimetype than for regular `.xml` files, like so:
 
 ```
@@ -69,3 +73,5 @@ location ~* \.atom\.xml$ {
 ```
 
 So that's how it ended up looking.
+
+As of writing, validating the page indexing issue is still pending, so I'm curious if it even fixes the original problem to begin with :)
