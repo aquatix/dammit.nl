@@ -112,6 +112,11 @@ kbd
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
 }
 
+.table-striped>tbody
+{
+    border-color: transparent;
+}
+
 .table-striped>tbody>tr:nth-child(odd)>td,
 .table-striped>tbody>tr:nth-child(odd)>th
 {
