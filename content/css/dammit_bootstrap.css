@@ -40,15 +40,11 @@
 
 body
 {
+    background-color: #333;
+    color: #ccc;
     font-family: 'MonaspaceArgon', monospace;
     /* Make it slightly less huge */
     font-size: 0.9rem;
-}
-
-body
-{
-    background-color: #333;
-    color: #ccc;
 }
 
 .header
@@ -208,11 +204,6 @@ hr
     border: 0;
 }
 
-.pagination
-{
-    --bs-pagination-border-color: transparent;
-}
-
 textarea,
 input[type=email],
 input[type=text],
@@ -240,6 +231,11 @@ li .label,
 }
 
 /* Navigation to next/previous (listing) pages */
+.pagination
+{
+    --bs-pagination-border-color: transparent;
+}
+
 .page-link:hover,
 .link-button a:hover
 {
@@ -259,7 +255,7 @@ li .label,
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
 }
 
-/* Button linking to an external resource */
+/* Button linking to an external resource, e.g., in response posts */
 .link-button
 {
     margin-top: 2rem;
@@ -273,6 +269,7 @@ li .label,
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
 }
 
+/* Prettify content a bit */
 .content img
 {
     max-width: 100%;
