@@ -1,36 +1,41 @@
 @font-face {
     font-family: 'MonaspaceArgon';
-    src: url('https://dammit.nl/images/fonts/MonaspaceArgonVarVF[wght,wdth,slnt].woff2') format('woff2'),
+    src: local('Monaspace Argon'), url('https://dammit.nl/images/fonts/MonaspaceArgonVarVF[wght,wdth,slnt].woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MonaspaceKrypton';
-    src: url('https://dammit.nl/images/fonts/MonaspaceKryptonVarVF[wght,wdth,slnt].woff2') format('woff2'),
+    src: local('Monaspace Krypton'), url('https://dammit.nl/images/fonts/MonaspaceKryptonVarVF[wght,wdth,slnt].woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MonaspaceNeon';
-    src: url('https://dammit.nl/images/fonts/MonaspaceNeonVarVF[wght,wdth,slnt].woff2') format('woff2'),
+    src: local('Monaspace Neon'), url('https://dammit.nl/images/fonts/MonaspaceNeonVarVF[wght,wdth,slnt].woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MonaspaceRadon';
-    src: url('https://dammit.nl/images/fonts/MonaspaceRadonVarVF[wght,wdth,slnt].woff2') format('woff2'),
+    src: local('Monaspace Radon'), url('https://dammit.nl/images/fonts/MonaspaceRadonVarVF[wght,wdth,slnt].woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MonaspaceXenon';
-    src: url('https://dammit.nl/images/fonts/MonaspaceXenonVarVF[wght,wdth,slnt].woff2') format('woff2'),
+    src: local('Monaspace Xenon'), url('https://dammit.nl/images/fonts/MonaspaceXenonVarVF[wght,wdth,slnt].woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 body
