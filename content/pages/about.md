@@ -1,7 +1,7 @@
 Title: About
 Authors: Michiel Scholten
 Date: 2005-10-02
-Modified: 2023-08-21
+Modified: 2023-11-22
 Summary: About the dammIT weblog, who am I, why do I write
 
 
@@ -35,10 +35,10 @@ By day, a simple software engineer. By night, also a software engineer.
 
 <p>In <a href="{filename}../posts/20100913-a-new-domain.md">September 2010 it moved to its own domain</a> and it has been here ever since.</p>
 
-<p>As of <a href="{filename}../posts/moved-to-pelican.md">April 2017</a> the codebase has been switched to use <a href="http://docs.getpelican.com/">Pelican</a>, a static site generator, as I have been tired of PHP for a while. <a href="https://github.com/aquatix/dammit.nl">The content now lives in this GitHub repository</a>. The theme is <a href="https://github.com/aquatix/pelican-alchemy">a (temporary) fork</a> of <a href="https://github.com/nairobilug/pelican-alchemy">python-alchemy</a> with some enhancements like the featured images, and <a href="https://posativ.org/isso/">isso</a> commenting support.</p>
+<p>As of <a href="{filename}../posts/moved-to-pelican.md">April 2017</a> the codebase has been switched to use <a href="http://docs.getpelican.com/">Pelican</a>, a static site generator, as I have been tired of PHP for a while. <a href="https://github.com/aquatix/dammit.nl">The content now lives in this GitHub repository</a>. The theme is <a href="https://github.com/aquatix/pelican-alchemy">a (not-so-temporary) fork</a> of <a href="https://github.com/nairobilug/pelican-alchemy">python-alchemy</a> with some enhancements like the featured images, and <a href="https://posativ.org/isso/">isso</a> commenting support.</p>
 
 <h3>Bugs, issues, features?</h3>
-<p>As the <a href="https://github.com/aquatix/pelican-alchemy">theme source is open</a> and I like to hear your suggestions, you <a href="https://github.com/aquatix/dammit.nl/issues">can file tickets</a> with your findings. If you happen to use my code, I'm even more interested in your opinion.</p>
+<p>As the <a href="https://github.com/aquatix/pelican-alchemy/tree/dammit">theme source is open</a> and I like to hear your suggestions, you <a href="https://github.com/aquatix/dammit.nl/issues">can file tickets</a> with your findings. If you happen to use my code, I'm even more interested in your opinion.</p>
 
 <p>If you find strange things or dead links in my posts that you are able to fix, <a href="https://github.com/aquatix/dammit.nl">you can file a pull request</a> for the content too :)</p>
 
