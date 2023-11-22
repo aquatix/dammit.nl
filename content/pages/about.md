@@ -2,7 +2,7 @@ Title: About
 Authors: Michiel Scholten
 Date: 2005-10-02
 Modified: 2023-11-22
-Summary: About the dammIT weblog, who am I, why do I write
+Summary: About the dammIT weblog, who I am, and why I do write
 
 
 ![Keyboard](https://shuttereye.org/images/c4/c44361343913968c_2000-2000.jpg)
@@ -31,7 +31,7 @@ By day, a simple software engineer. By night, also a software engineer.
 
 
 <h2>This weblog</h2>
-<p>I started this website before software like Wordpress became usable (or even existed) and also because I liked to write such a content management system. Maybe I'll find versions of the code from the time period between 2003 and 2006, but I started version control in 2006 so the <a href="https://github.com/aquatix/dammit">old dammIT sourcecode</a> that <a href="https://github.com/aquatix/dammit/commit/348c185f40fac8988ffd5b9b20fc1106766bbe68">I published on Github for everyone to see</a> starts its history there. Currently, the site is generated from the newer <a href="https://github.com/aquatix/dammit.nl">dammIT sourcecode repository</a>.</p>
+<p>I started this website before software like WordPress became usable (or even existed) and also because I liked to write such a content management system. Maybe I'll find versions of the code from the time period between 2003 and 2006, but I started version control in 2006 so the <a href="https://github.com/aquatix/dammit">old dammIT source code</a> that <a href="https://github.com/aquatix/dammit/commit/348c185f40fac8988ffd5b9b20fc1106766bbe68">I published on GitHub for everyone to see</a> starts its history there. Currently, the site is generated from the newer <a href="https://github.com/aquatix/dammit.nl">dammIT source code repository</a>.</p>
 
 <p>In <a href="{filename}../posts/20100913-a-new-domain.md">September 2010 it moved to its own domain</a> and it has been here ever since.</p>
 
