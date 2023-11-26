@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6,
 pre,
 #isso-thread > h4
 {
-    color: #ccc !important;
+    color: #ccc;
     text-decoration: none;
     font-family: 'MonaspaceKrypton', monospace;
 }
@@ -82,6 +82,12 @@ pre,
 .fa-solid, a:hover.fa-solid
 {
     font-family: 'Font Awesome 6 Free';
+}
+
+
+a:hover, a:active
+{
+    color: #999;
 }
 
 h2
@@ -231,8 +237,8 @@ li .label,
 #isso-thread .textarea,
 .isso-postbox > .form-wrapper > .auth-section .input-wrapper input
 {
-    background-color: #666 !important;
-    color: #ccc !important;
+    background-color: #666;
+    color: #ccc;
     opacity: 1;
 }
 
@@ -250,7 +256,8 @@ li .label,
 .page-link:hover,
 .link-button a:hover
 {
-    background-color: #999 !important;
+    background-color: #999;
+    color: #000;
 }
 
 .page-item:first-child .page-link
@@ -278,6 +285,13 @@ li .label,
     padding: .75rem;
     border-radius: .25rem;
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* Post link navigation blocks */
+.post-nav .post-link:hover
+{
+    background-color: #444;
+    color: #eee;
 }
 
 /* Prettify content a bit */
