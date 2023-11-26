@@ -73,6 +73,17 @@ pre,
     font-family: 'MonaspaceKrypton', monospace;
 }
 
+/* FontAwesome icons */
+.fa-brands, a:hover.fa-brands
+{
+    font-family: 'Font Awesome 6 Brands';
+}
+
+.fa-solid, a:hover.fa-solid
+{
+    font-family: 'Font Awesome 6 Free';
+}
+
 h2
 {
     margin-top: 1.75rem;

@@ -45,10 +45,10 @@ LINKS = [
 ]
 
 ICONS = [
-    ('fab fa-github', 'https://github.com/aquatix/dammit.nl', 'Source of this weblog'),
-    ('fas fa-rss', '/feeds/all.atom.xml', 'Atom feed to follow me with'),
-    ('fab fa-mastodon', 'https://mastodon.social/@diginaut', 'Mastodon profile'),
-    ('fas fa-coffee', 'https://ko-fi.com/aquatix', 'Donate me some Ko-fi'),
+    ('fa-brands fa-github', 'https://github.com/aquatix/dammit.nl', 'Source of this weblog'),
+    ('fa-solid fa-rss', '/feeds/all.atom.xml', 'Atom feed to follow me with'),
+    ('fa-brands fa-mastodon', 'https://mastodon.social/@diginaut', 'Mastodon profile'),
+    ('fa-solid fa-mug-saucer', 'https://ko-fi.com/aquatix', 'Donate me some Ko-fi'),
 ]
 
 # Social widget
