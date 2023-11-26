@@ -292,6 +292,13 @@ li .label,
 {
     background-color: #444;
     color: #eee;
+    border-radius: .25rem;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+.post-nav p, .post-nav .article-image
+{
+    margin-bottom: 0;
 }
 
 /* Prettify content a bit */
