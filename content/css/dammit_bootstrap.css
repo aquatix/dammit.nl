@@ -230,16 +230,20 @@ input[type=text],
     font-family: 'MonaspaceXenon', monospace;
 }
 
-.page-link,
 li .label,
-.link-button a,
 #isso-thread .textarea.placeholder,
 #isso-thread .textarea,
 .isso-postbox > .form-wrapper > .auth-section .input-wrapper input
 {
-    background-color: #666;
-    color: #ccc;
+    background-color: #666 !important;
+    color: #ccc !important;
     opacity: 1;
+}
+
+/* Make sure to override the in-line styling of isso */
+#isso-thread > h4
+{
+    color: #ccc !important;
 }
 
 #isso-thread .textarea.placeholder
@@ -251,6 +255,14 @@ li .label,
 .pagination
 {
     --bs-pagination-border-color: transparent;
+}
+
+.page-link,
+.link-button a
+{
+    background-color: #666;
+    color: #ccc;
+    opacity: 1;
 }
 
 .page-link:hover,
