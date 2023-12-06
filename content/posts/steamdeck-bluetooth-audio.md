@@ -19,6 +19,6 @@ It courageously has a jackplug for headphones (the USB-C cable pictured at the r
 
 But Mike, you say, how in the Light did you do accomplish that magical feat?!
 
-Press the Steam button to the left of the screen, choose Power and 'Switch to Desktop'. Find the Bluetooth settings next to the clock or in the settings, and check the 'Show all devices' option to ensure it also shows phones and similar devices. Pair, then try playing something from your other device. Neat ey? Now tap the shortcut on the desktop to go back to gaming mode and enjoy your enhanced audio experience.
+Press the <kbd>Steam</kbd> button to the left of the screen, choose <kbd>Power</kbd> and '<kbd>Switch to Desktop</kbd>'. Find the Bluetooth settings next to the clock or in the settings, and check the 'Show all devices' option to ensure it also shows phones and similar devices. Pair, then try playing something from your other device. Neat ey? Now tap the shortcut on the desktop to go back to gaming mode and enjoy your enhanced audio experience.
 
 I use Arch btw.
