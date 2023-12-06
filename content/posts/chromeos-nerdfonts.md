@@ -1,6 +1,6 @@
 Title: NerdFonts on ChromeOS
 Started: 2023-12-06 13:24:02
-Date: 2023-12-06 14:24:02
+Date: 2023-12-06 16:40:02
 Slug: chromeos-nerdfonts
 Location: Home
 Authors: Michiel Scholten
