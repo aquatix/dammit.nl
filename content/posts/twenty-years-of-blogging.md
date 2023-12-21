@@ -1,6 +1,6 @@
 Title: Twenty years of blogging
 Started: 2023-12-21 17:51:40
-Date: 2023-12-21 17:51:40
+Date: 2023-12-21 20:23:40
 Slug: twenty-years-of-blogging
 Location: Home
 Authors: Michiel Scholten
