@@ -1,6 +1,7 @@
 Title: Twenty years of blogging
 Started: 2023-12-21 17:51:40
 Date: 2023-12-21 20:23:40
+Modified: 2023-12-21 22:10:40
 Slug: twenty-years-of-blogging
 Location: Home
 Authors: Michiel Scholten
@@ -20,6 +21,8 @@ I wanted to exercise my English writing skills, and thought it fun to have an ec
 In [the 2017 post where I described moving the weblog to Pelican]({filename}moved-to-pelican.md), I already wrote a small timeline and reasons not to use things like Wordpress (did barely exist when I started). It has always been my toy, my venting place, and my online documentation system, especially later on, when I started writing howto articles; mainly to condense what I had to research and fix recently, for future reference by myself and hopefully a few others.
 
 I love having my own place here; it has always been independent from whatever platform-du-jour, has never been involved in ads, and has been a welcoming refuge for my thoughts. I certainly plan to keep it around for many years, and maybe have a few visitors enjoying my work :)
+
+Twenty years I have been tending my own garden. I am really curious to how it will look in twenty years time.
 
 
 For fun, here are some early posts in 2004, not much changed personally :D ([Screenshot from the Internet Archive](https://web.archive.org/web/20040205135520/http://aquariusoft.org:80/~mbscholt/) with bigger font and slightly other list-styling than the original, so that's why the navigation looks cramped)
