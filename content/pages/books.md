@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2023-06-02
+Modified: 2024-02-13
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -63,9 +63,9 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20200107</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #37 - #40)</li>
     <li><span class="label">20200301</span> E.H. Bradley - Destinies Beyond the Mythos - Ahyoka's Story</li>
     <li><span class="label">20200314</span> Sönke Ahrens - How to take smart notes</li>
-    <li><span class="label">20200402</span> <a href="https://www.goodreads.com/book/show/37835151-open-and-shut">Alastair Reynolds - Open and Shut</a> (Prefect Dreyfus Emergency #1.5)</li>
-    <li><span class="label">20200402</span> <a href="https://www.goodreads.com/book/show/35601772-elysium-fire">Alastair Reynolds - Elysium Fire</a> (Prefect Dreyfus Emergency #2)</li>
-    <li><span class="label">20200416</span> <a href="https://www.goodreads.com/book/show/28962452-revenger">Alastair Reynolds - Revenger</a> (Revenger #1)</li>
+    <li><span class="label">20200402</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/37835151-open-and-shut">Open and Shut</a> (Prefect Dreyfus Emergency #1.5)</li>
+    <li><span class="label">20200402</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/35601772-elysium-fire">Elysium Fire</a> (Prefect Dreyfus Emergency #2)</li>
+    <li><span class="label">20200416</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/28962452-revenger">Revenger</a> (Revenger #1)</li>
     <li><span class="label">20200503</span> Stephen Barker - <a href="https://www.goodreads.com/book/show/66788.Ring">Ring</a> (Xeelee Sequence #4)</li>
     <li><span class="label">20200619</span> Glen Cook - <a href="https://www.goodreads.com/book/show/101041.Deadly_Quicksilver_Lies">Deadly Quicksilver Lies</a> (Garrett Files #7)</li>
     <li><span class="label">20200629</span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/36373688-revenant-gun">Revenant Gun</a> (The Machineries of Empire #3)</li>
@@ -291,7 +291,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li>Clive Cussler - Sea Hunters</li>
     <li>Cory Doctorow - Little Brother</li>
     <li>Cory Doctorow - I, Robot</li>
-
+<!-- something else? -->
     <li>Arthur Conan Doyle - The Adventures of Sherlock Holmes</li>
     <li>Arthur Conan Doyle - A Study in Scarlet</li>
     <li>Paolo Bacigalupi - The Windup Girl</li>
@@ -301,7 +301,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li>Terry Pratchett - Men at Arms</li>
     <li>Terry Pratchett - Soul Music</li>
     <li>William Gibson - Spook Country</li>
-
+<!-- something else? -->
     <li>Vernor Vinge - Rainbows End</li>
     <li>Joseph Heller - Catch-22</li>
 </ol>
@@ -336,6 +336,9 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li>Joe Haldeman - The Forever War </li>
     <li>Philip K. Dick - Ubik</li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Clifford Stoll - <a href="https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg">The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage</a></li>
+    <li>Martha Wells - <a href="www.goodreads.com/series/191900-the-murderbot-diaries">The Murderbot Diaries</a></li>
+    <li>Alastair Reynolds - <span class="label"></span> <a href="https://www.goodreads.com/book/show/75593499">Machine Vendetta</a> (Prefect Dreyfus Emergency #3)</li>
+    <li>Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/866136.The_Dreaming_Void">The Dreaming Void</a> (Void #1)</li>
 </ul>
 
 <p><a href="https://www.goodreads.com/review/list/17198769-michiel-scholten?shelf=to-read">More on my Goodreads profile</a>. Suggestions? Please <a href="{filename}../posts/20110607-books.md">leave a comment</a>!</p>
