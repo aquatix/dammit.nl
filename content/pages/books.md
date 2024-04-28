@@ -9,6 +9,14 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 <p>You can <a href="https://www.goodreads.com/review/list/17198769-michiel-scholten">find me on Goodreads</a> too. Maybe become book friends? :)</p>
 
+<h2 id="2024">2024</h2>
+<ol>
+    <li><span class="label">20230602</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/17332218-words-of-radiance">Words of Radiance</a> (The Stormlight Archive #2)</li>
+    <li><span class="label">20240425</span> Mark Tuitert - <a href="https://www.goodreads.com/book/show/58531861-drive">Drive: Train je stoïcijnse mindset</a></li>
+</ol>
+
+<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
+
 <h2 id="2023">2023</h2>
 <ol>
     <li><span class="label">20230104</span> Andy Weir - <a href="https://www.goodreads.com/book/show/54493401-project-hail-mary">Project Hail Mary</a></li>
@@ -18,8 +26,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20230216</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/7235533-the-way-of-kings">The Way of Kings</a> (The Stormlight Archive #1)</li>
     <li><span class="label">20230602</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/17332218-words-of-radiance">Words of Radiance</a> (The Stormlight Archive #2)</li>
 </ol>
-
-<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
 <h2 id="2022">2022</h2>
 <ol>
