@@ -2,6 +2,7 @@ Title: vim reloaded
 Started: 2014-11-28, 2015-01-24, 2017-04-26 15:48:00, 2017-05-19, 2018-01-05, 2019-11-26, 2020-01-11, 2020-01-12, 2020-01-15
 Date: 2020-01-15 12:56:00
 Modified: 2020-01-25 14:16:00
+Modified-history: 2020-01-25 14:16:00, 2024-05-01 11:15
 Slug: vim-reloaded
 Location: Home
 Authors: Michiel Scholten
@@ -360,3 +361,5 @@ You might also have noted a bar completely at the bottom in the screenshots in t
 ## Changes
 
 On 2020-01-25, I added a `:Rg` command for fuzzy finding text inside files; this is a better version of the `:Find` that's already in the snippet, as the `:Find` variant also searches the text in the filenames, which is already done with `:Files` <kbd>leader</kbd>+<kbd>o</kbd>).
+
+On 2021-01-08, I wrote a small howto on [YouCompleteMe requiring a rather new vim]({filename}../posts/vim-youcompleteme-requirement.md), about how to use an older snapshot of YCM for vim versions 8.1 and below.
