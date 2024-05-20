@@ -8,7 +8,7 @@ SITEURL = ''  # Set in publishconf.py
 SITEIMAGE_AS_TITLE = True
 
 # Sub-title that goes underneath site name in jumbotron.
-SITESUBTITLE = 'A rantbox'
+SITESUBTITLE = 'A rantbox by Michiel Scholten'
 SITETAG = 'dammIT'
 
 PATH = 'content'
