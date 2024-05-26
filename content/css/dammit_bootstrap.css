@@ -52,6 +52,11 @@ body
     border-bottom: 0;
 }
 
+article header
+{
+    padding-bottom: 1em;
+}
+
 .article-image
 {
     margin-bottom: 1em;
