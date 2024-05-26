@@ -31,9 +31,9 @@ To provide some insight into the conundrum I'm trying to solve for myself:
 - also, I have my wife to spend time with
 - ideally, I'll start going to bed at 22:00-22:30
 
-In this later-on-the-evening-time, I will be doing administration for our household, the hosting association that I'm board member of; I'll be chatting with people online, reading the interwebs, listening to music, oh and maybe play something? Watch something? Code a bit? Read something?
+In this later-on-the-evening-time, I will be doing administration for our household, the hosting association that I'm board member of; I'll be chatting with people online, reading the interwebs, listening to music, doing... *stuff*; oh and maybe play something? Watch something? Code a bit? Read something?
 
-Especially the reading was a growing concern, as I have a pretty big list of great books to read, and the actual [reading has been slowing down]({filename}../pages/books.md). As I love reading, I am actually a bit baffled by how my oldest hobby is on the decline so much.
+Especially the reading was a growing concern, as I have a pretty big list of great books to read, and the actual [reading has been slowing down]({filename}../pages/books.md). As I love reading, I am actually a bit baffled by how my oldest and dearest hobby is on the decline so much.
 
 I resolved to do something about it.
 
