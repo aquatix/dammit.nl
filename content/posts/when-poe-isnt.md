@@ -1,6 +1,7 @@
 Title: When Power-over-Ethernet isn't
 Started: 2024-07-14 21:40:53
 Date: 2024-07-14 23:04:53
+Updated: 2024-07-15 09:10:11
 Slug: when-poe-isnt
 Location: Home
 Authors: Michiel Scholten
@@ -37,6 +38,6 @@ Which means... PoE != PoE. Which should not have been surprising to me, but not 
 
 However, the camera really wants this 48V on an active connection, with 'active' meaning the devices negotiate for the exact power delivered, similar to how USB does its thing.
 
-After raging for a bit - I really should have done some more due diligence - I decided to get a PoE injector that also does 802.3af. These devices have two UTP ports - 1 in, 1 out - and takes care of the power delivery part. When it arrives early next week, I'll finally know if the camera survived the nonvoluntary 24V, or if it works at all. Hopefully it's smart enough :)
+After raging for a bit - I really should have done some more [due diligence](https://en.wikipedia.org/wiki/Power_over_Ethernet) - I decided to get a PoE injector that also does 802.3af. These devices have two UTP ports - 1 in, 1 out - and takes care of the power delivery part. When it arrives early next week, I'll finally know if the camera survived the nonvoluntary 24V, or if it works at all. Hopefully it's smart enough :)
 
 Then comes the interesting part: replacing the 2-wired cable running through the ceiling and walls by a cat5e cable. Let's hope that will not catch a snag.
