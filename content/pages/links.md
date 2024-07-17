@@ -1,7 +1,7 @@
 Title: Links
 Authors: Michiel Scholten
 Date: 2019-11-23
-Modified: 2023-11-15
+Modified: 2024-07-17
 Summary: List of interesting weblogs, projects, and communities
 
 If you like X, you might like Y.
@@ -28,4 +28,5 @@ If you like X, you might like Y.
     <li><a href="https://shuttereye.org/">My gallery</a></li>
     <li><a href="https://diginaut.net/">diginaut: my profile, basically</a> - find more of my presences</li>
     <li><a href="https://github.com/aquatix">GitHub profile</a></li>
+    <li><a href="https://mastodon.social/@diginaut">Mastodon profile</a></li>
 </ul>
