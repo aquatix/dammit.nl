@@ -5,7 +5,7 @@
     font-style: normal;
     font-display: swap;
 }
-
+/*
 @font-face {
     font-family: 'MonaspaceKrypton';
     src: local('Monaspace Krypton'), url('https://dammit.nl/images/fonts/MonaspaceKryptonVarVF[wght,wdth,slnt].woff2') format('woff2'),
@@ -37,6 +37,7 @@
     font-style: normal;
     font-display: swap;
 }
+*/
 
 /* latin */
 @font-face {
@@ -62,7 +63,8 @@ body
 {
     background-color: #333;
     color: #ccc;
-    font-family: 'MonaspaceArgon', monospace;
+/*    font-family: 'MonaspaceArgon', monospace;*/
+    font-family: 'Literata', serif;
     /* Make it slightly less huge */
     font-size: 0.9rem;
 }
@@ -70,11 +72,13 @@ body
 .header
 {
     border-bottom: 0;
+    font-family: 'MonaspaceArgon', monospace;
 }
 
 article header
 {
     padding-bottom: 1em;
+    font-family: 'MonaspaceArgon', monospace;
 }
 
 .article-image
@@ -95,7 +99,7 @@ pre,
 {
     color: #ccc;
     text-decoration: none;
-    font-family: 'MonaspaceKrypton', monospace;
+/*    font-family: 'MonaspaceKrypton', monospace;*/
 }
 
 /* FontAwesome icons */
@@ -136,7 +140,7 @@ pre
 code
 {
     color: #FF9800;
-    font-family: 'MonaspaceNeon', monospace;
+    font-family: 'MonaspaceArgon', monospace;
 }
 
 /*
@@ -181,7 +185,8 @@ kbd
 {
     padding: 0;
     background-color: inherit !important;
-    font-family: 'MonaspaceRadon', monospace;
+/*    font-family: 'MonaspaceRadon', monospace;*/
+    font-style: italic;
 }
 
 .admonition .admonition-title
@@ -236,6 +241,10 @@ kbd
     padding: .25rem .5rem;
 }
 
+.admonition code {
+    font-style: normal;
+}
+
 .text-muted
 {
     color: #999 !important;
@@ -252,7 +261,7 @@ input[type=text],
 #isso-thread .textarea.placeholder,
 #isso-thread .textarea
 {
-    font-family: 'MonaspaceXenon', monospace;
+/*    font-family: 'MonaspaceXenon', monospace;*/
 }
 
 li .label,
@@ -325,6 +334,11 @@ li .label,
 }
 
 /* Post link navigation blocks */
+.post-nav .post-link
+{
+    font-family: 'Literata', serif;
+}
+
 .post-nav .post-link:hover
 {
     background-color: #444;
@@ -336,12 +350,13 @@ li .label,
 .post-nav p, .post-nav .article-image
 {
     margin-bottom: 0;
+    font-size: 1.1rem;
 }
 
 
 .content {
     font-family: 'Literata', serif;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 }
 
 /* Prettify content a bit */
