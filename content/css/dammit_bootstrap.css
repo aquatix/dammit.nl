@@ -1,3 +1,6 @@
+/* dammIT styling */
+
+/* https://github.com/githubnext/monaspace */
 @font-face {
     font-family: 'MonaspaceArgon';
     src: local('Monaspace Argon'), url('https://dammit.nl/images/fonts/MonaspaceArgonVarVF[wght,wdth,slnt].woff2') format('woff2'),
@@ -6,24 +9,21 @@
     font-display: swap;
 }
 
-/* latin */
+/* https://github.com/googlefonts/literata */
 @font-face {
-  font-family: 'Literata';
-  font-style: italic;
-  font-weight: 200 900;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/literata/v35/or3nQ6P12-iJxAIgLYT1Frcdmg.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-family: 'Literata';
+    src: url('https://dammit.nl/images/fonts/Literata-Italic[opsz,wght].woff2') format('woff2'),
+    font-weight: 200 900;
+    font-style: italic;
+    font-display: swap;
 }
 
-/* latin */
 @font-face {
-  font-family: 'Literata';
-  font-style: normal;
-  font-weight: 200 900;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/literata/v35/or3hQ6P12-iJxAIgLYTwJrU.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-family: 'Literata';
+    src: url('https://dammit.nl/images/fonts/Literata[opsz,wght].woff2') format('woff2'),
+    font-weight: 200 900;
+    font-style: normal;
+    font-display: swap;
 }
 
 body
@@ -219,7 +219,7 @@ hr
     border: 0;
 }
 
-/(
+/*
 textarea,
 input[type=email],
 input[type=text],
@@ -320,7 +320,8 @@ li .label,
 }
 
 
-.content {
+.content
+{
     font-family: 'Literata', serif;
     font-size: 1.2rem;
 }
