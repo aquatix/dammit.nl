@@ -320,7 +320,8 @@ li .label,
 }
 
 
-.content
+.content,
+.main .container dl.row
 {
     font-family: 'Literata', serif;
     font-size: 1.2rem;
@@ -358,7 +359,8 @@ li .label,
 /* Book labels and such */
 li .label
 {
-    font-size: .75rem;
+    font-family: 'MonaspaceArgon', monospace;
+    font-size: 0.9rem;
     padding: .1rem .25rem;
     border-radius: .25rem;
 }
