@@ -407,6 +407,11 @@ li .label
     padding-right: .3rem;
 }
 
+.isso-comment-header, .isso-comment-footer
+{
+    font-family: 'MonaspaceArgon', monospace;
+}
+
 #isso-thread .textarea,
 .isso-postbox > .form-wrapper > .auth-section .input-wrapper input,
 .isso-postbox > .form-wrapper > .auth-section .post-action > input,
