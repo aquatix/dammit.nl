@@ -47,6 +47,12 @@ article header
     font-family: 'MonaspaceArgon', monospace;
 }
 
+article.teaser header
+{
+    /* The metadata header in the overview pages needs less whitespace */
+    padding-bottom: 0;
+}
+
 .article-image
 {
     margin-bottom: 1em;
