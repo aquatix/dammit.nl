@@ -390,6 +390,11 @@ li .label
     font-family: 'MonaspaceArgon', monospace;
 }
 
+#isso-thread div.text-wrapper > div.text
+{
+    font-size: 1.1rem;
+}
+
 #isso-thread .textarea,
 .isso-postbox > .form-wrapper > .auth-section .input-wrapper input,
 .isso-postbox > .form-wrapper > .auth-section .post-action > input,
@@ -398,6 +403,7 @@ li .label
     border: 0 !important;
     border-radius: .25rem !important;
     box-shadow: none !important;
+    font-size: 1.1rem;
 }
 
 .isso-postbox > .form-wrapper > .auth-section .input-wrapper input
