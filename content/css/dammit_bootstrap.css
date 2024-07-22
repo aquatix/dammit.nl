@@ -112,6 +112,9 @@ code
 {
     color: #FF9800;
     font-family: 'MonaspaceArgon', monospace;
+    /* Add a tiny bit of whitespace so the text flows better inline with the other font(s) */
+    margin-left: .15rem;
+    margin-right: .15rem;
 }
 
 /*
