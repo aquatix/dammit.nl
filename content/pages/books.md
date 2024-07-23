@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2024-02-13
+Modified: 2024-07-23
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -13,6 +13,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 <ol>
     <li><span class="label">20230602</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/17332218-words-of-radiance">Words of Radiance</a> (The Stormlight Archive #2)</li>
     <li><span class="label">20240425</span> Mark Tuitert - <a href="https://www.goodreads.com/book/show/58531861-drive">Drive: Train je stoïcijnse mindset</a></li>
+    <li><span class="label">20240723</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/75593499">Machine Vendetta</a> (Prefect Dreyfus Emergency #3)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -343,7 +344,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li>Philip K. Dick - Ubik</li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Clifford Stoll - <a href="https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg">The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage</a></li>
     <li>Martha Wells - <a href="www.goodreads.com/series/191900-the-murderbot-diaries">The Murderbot Diaries</a></li>
-    <li>Alastair Reynolds - <span class="label"></span> <a href="https://www.goodreads.com/book/show/75593499">Machine Vendetta</a> (Prefect Dreyfus Emergency #3)</li>
     <li>Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/866136.The_Dreaming_Void">The Dreaming Void</a> (Void #1)</li>
 </ul>
 
