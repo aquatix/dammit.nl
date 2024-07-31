@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2024-07-23
+Modified: 2024-07-31
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -14,6 +14,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20230602</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/17332218-words-of-radiance">Words of Radiance</a> (The Stormlight Archive #2)</li>
     <li><span class="label">20240425</span> Mark Tuitert - <a href="https://www.goodreads.com/book/show/58531861-drive">Drive: Train je stoïcijnse mindset</a></li>
     <li><span class="label">20240723</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/75593499">Machine Vendetta</a> (Prefect Dreyfus Emergency #3)</li>
+    <li><span class="label">20240731</span> John Scalzi - <a href="https://www.goodreads.com/book/show/62326571-starter-villain">Starter Villain</a></li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
