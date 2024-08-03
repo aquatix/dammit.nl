@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2024-07-31
+Modified: 2024-08-03
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -15,6 +15,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20240425</span> Mark Tuitert - <a href="https://www.goodreads.com/book/show/58531861-drive">Drive: Train je stoïcijnse mindset</a></li>
     <li><span class="label">20240723</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/75593499">Machine Vendetta</a> (Prefect Dreyfus Emergency #3)</li>
     <li><span class="label">20240731</span> John Scalzi - <a href="https://www.goodreads.com/book/show/62326571-starter-villain">Starter Villain</a></li>
+    <li><span class="label">20240802</span> Charles Stross - <a href="https://www.goodreads.com/book/show/18211295-the-rhesus-chart">The Resus Chart</a> (Laundry Files #5)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -27,6 +28,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20230212</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/34534.The_Amazing_Maurice_and_His_Educated_Rodents">The Amazing Maurice and His Educated Rodents</a> (Discworld #28)</li>
     <li><span class="label">20230216</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/7235533-the-way-of-kings">The Way of Kings</a> (The Stormlight Archive #1)</li>
     <li><span class="label">20230602</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/17332218-words-of-radiance">Words of Radiance</a> (The Stormlight Archive #2)</li>
+    <li><span class="label">202300904</span> <span class="label">comic</span> Duane Swierczynski, Matt Kindt, Manuel García (Artist), et al. - <a href="https://www.goodreads.com/book/show/45442759-bloodshot-definitive-edition">Bloodshot 1-3</a></li>
 </ol>
 
 <h2 id="2022">2022</h2>
