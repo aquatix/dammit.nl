@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2024-08-03
+Modified: 2024-08-11
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -16,6 +16,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20240723</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/75593499">Machine Vendetta</a> (Prefect Dreyfus Emergency #3)</li>
     <li><span class="label">20240731</span> John Scalzi - <a href="https://www.goodreads.com/book/show/62326571-starter-villain">Starter Villain</a></li>
     <li><span class="label">20240802</span> Charles Stross - <a href="https://www.goodreads.com/book/show/18211295-the-rhesus-chart">The Resus Chart</a> (Laundry Files #5)</li>
+    <li><span class="label">20240809</span> Philip K. Dick - <a href="https://www.goodreads.com/book/show/34207748-ubik">Ubik</a></li>
+    <li>Upcoming: <span class="label">2024????</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/58727132-eversion">Eversion</a></li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -344,7 +346,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li>Michael J. Sullivan - Rise of Empire (Nyphron Rising and The Emerald Storm)</li>
     <li>Michael J. Sullivan - Heir of Novron (Wintertide and Percepliquis)</li>
     <li>Joe Haldeman - The Forever War </li>
-    <li>Philip K. Dick - Ubik</li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Clifford Stoll - <a href="https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg">The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage</a></li>
     <li>Martha Wells - <a href="www.goodreads.com/series/191900-the-murderbot-diaries">The Murderbot Diaries</a></li>
     <li>Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/866136.The_Dreaming_Void">The Dreaming Void</a> (Void #1)</li>
