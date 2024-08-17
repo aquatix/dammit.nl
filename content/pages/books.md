@@ -335,8 +335,6 @@ Some books I'd like to read next.
     <li><span class="label"></span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
     <li>David Mitchell - <a href="https://www.goodreads.com/book/show/49628.Cloud_Atlas">Cloud Atlas</a></li>
     <li>David Walton - <a href="https://www.goodreads.com/book/show/22551892-superposition">Superposition</a></li>
-    <li>Frank Herbert - <a href="https://www.goodreads.com/book/show/761449.Destination">Destination: Void</a> (The Pandora Sequence #0.5)</li>
-    <li>Frank Herbert - The Dragon under the Sea</li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
     <li>Greg Egan: the Orthogonal trilogy</li>
     <li>Jean M. Auel - The Shelters of Stone (Earth's Children V)</li>
