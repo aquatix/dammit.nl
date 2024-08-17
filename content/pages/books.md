@@ -322,33 +322,50 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 
 <h2 id="queue">Queue (no particular order)</h2>
+
+Some books I'd like to read next.
+
+<h3>Fiction</h3>
 <ul>
-    <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
-    <li><span class="label"></span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
-    <li>Michael Warren Lucas - <a href="https://www.goodreads.com/book/show/34684331-git-commit-murder">Git Commit Murder</a></li>
-    <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21805681-unlocked">Unlocked: An Oral History of Haden's Syndrome</a> (Lock In #0.5)</li>
-    <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21418013-lock-in">Lock in</a> (Lock In #1)</li>
-    <li>Ursula K. Le Guin - <a href="https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea">A Wizard of Earthsea (Earthsea Cycle #1)</a></li>
-    <li>David Mitchell - <a href="https://www.goodreads.com/book/show/49628.Cloud_Atlas">Cloud Atlas</a></li>
+    <li><span class="label">2024????</span> Martha Wells - <a href="https://www.goodreads.com/book/show/32758901-all-systems-red">All Systems Red</a> (Murderbot Diaries #1)</li>
+    <li><span class="label"></span> Martha Wells - <a href="https://www.goodreads.com/book/show/36223860-artificial-condition">Artificial Condition</a> (Murderbot Diaries #2)</li>
+    <li><span class="label"></span> Martha Wells - <a href="https://www.goodreads.com/book/show/35519101-rogue-protocol">Rogue Protocol</a> (Murderbot Diaries #3)</li>
+    <li>Martha Wells: <a href="www.goodreads.com/series/191900-the-murderbot-diaries">The Murderbot Diaries</a> serie</li>
     <li>Alastair Reynolds - <a href="https://www.goodreads.com/book/show/23013875-slow-bullets">Slow Bullets</a></li>
+    <li><span class="label"></span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
+    <li>David Mitchell - <a href="https://www.goodreads.com/book/show/49628.Cloud_Atlas">Cloud Atlas</a></li>
     <li>David Walton - <a href="https://www.goodreads.com/book/show/22551892-superposition">Superposition</a></li>
-    <li>the Orthogonal trilogy by Greg Egan</li>
-    <li>Robert Zelazni - The Chronicles of Amber</li>
-    <li>Vernor Vinge - The Children of the Sky</li>
-    <li>Robert Reed - Marrow</li>
-    <li>Mark Z. Danielewski - Only Revolutions</li>
-    <li>Michael Lewis - The Big Short</li>
+    <li>Frank Herbert - <a href="https://www.goodreads.com/book/show/761449.Destination">Destination: Void</a> (The Pandora Sequence #0.5)</li>
+    <li>Frank Herbert - The Dragon under the Sea</li>
+    <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
+    <li>Greg Egan: the Orthogonal trilogy</li>
     <li>Jean M. Auel - The Shelters of Stone (Earth's Children V)</li>
     <li>Jean M. Auel - The Land of Painted Caves (Earth's Children VI)</li>
-    <li>Frank Herbert - Destination: Void</li>
-    <li>Frank Herbert - The Dragon under the Sea</li>
+    <li>Joe Haldeman - <a href="https://www.goodreads.com/book/show/21611.The_Forever_War">The Forever War</a> (The Forever War #1)</li>
+    <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21805681-unlocked">Unlocked: An Oral History of Haden's Syndrome</a> (Lock In #0.5)</li>
+    <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21418013-lock-in">Lock in</a> (Lock In #1)</li>
+    <li>Mark Z. Danielewski - Only Revolutions</li>
+    <li>Michael Lewis - The Big Short</li>
     <li>Michael J. Sullivan - Theft of Swords (The Crown Conspiracy and Avempartha)</li>
     <li>Michael J. Sullivan - Rise of Empire (Nyphron Rising and The Emerald Storm)</li>
     <li>Michael J. Sullivan - Heir of Novron (Wintertide and Percepliquis)</li>
-    <li>Joe Haldeman - The Forever War </li>
-    <li><span class="label"></span> <span class="label">non-fiction</span> Clifford Stoll - <a href="https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg">The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage</a></li>
-    <li>Martha Wells - <a href="www.goodreads.com/series/191900-the-murderbot-diaries">The Murderbot Diaries</a></li>
+    <li>Michael Warren Lucas - <a href="https://www.goodreads.com/book/show/34684331-git-commit-murder">Git Commit Murder</a></li>
     <li>Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/866136.The_Dreaming_Void">The Dreaming Void</a> (Void #1)</li>
+    <li>Robert Reed - <a href="https://www.goodreads.com/book/show/100208.Marrow">Marrow</a> (Great Ship #1)</li>
+    <li>Robert Zelazni - The Chronicles of Amber</li>
+    <li>Ursula K. Le Guin - <a href="https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea">A Wizard of Earthsea</a> (Earthsea Cycle #1)</li>
+    <li>Vernor Vinge - <a href="https://www.goodreads.com/book/show/10170545-the-children-of-the-sky">The Children of the Sky</a> (Zones of Thought #3)</li>
+</ul>
+
+<h3>Non-Fiction</h3>
+<ul>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Clifford Stoll - <a href="https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg">The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage</a></li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Simon Singh - <a href="https://www.goodreads.com/book/show/17994.The_Code_Book">The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography</a></li>
+</ul>
+
+<h3>Graphical novels</h3>
+<ul>
+    <li>TODO</li>
 </ul>
 
 <p><a href="https://www.goodreads.com/review/list/17198769-michiel-scholten?shelf=to-read">More on my Goodreads profile</a>. Suggestions? Please <a href="{filename}../posts/20110607-books.md">leave a comment</a>!</p>
