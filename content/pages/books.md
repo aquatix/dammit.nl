@@ -321,6 +321,25 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 <p>(Might miss one or two)</p>
 
 
+<h2 id="sometimeinlife">Somewhere in the past</h2>
+
+<ul>
+    <li><span class="label">comic</span> Alan Moore & Kevin O'Neill - The League of Extraordinary Gentlemen, Volume 1</li>
+    <li><span class="label">comic</span> Alan Moore & Kevin O'Neill - The League of Extraordinary Gentlemen, Volume 2</li>
+    <li><span class="label">comic</span> Alan Moore & Kevin O'Neill - The League of Extraordinary Gentlemen, Century: 1910</li>
+    <li><span class="label">comic</span> Alan Moore & Kevin O'Neill - The League of Extraordinary Gentlemen, Black Dossier</li>
+    <li><span class="label">comic</span> Simon Stålenhag - Things From The Flood</li>
+    <li><span class="label">comic</span> Simon Stålenhag - The Electric State</li>
+    <li><span class="label">comic</span> Willy Vandersteen - Amoras 1-6</li>
+    <li>Elizabeth Kostova - De Historicus</li>
+    <li>Frank Herbert - the Dune series</li>
+    <li>Jostein Gaarder - De wereld van Sofie - Roman over de geschiedenis van de filosofie</li>
+    <li>Mark Z. Danielewski - House of Leaves</li>
+</ul>
+
+... and hundreds more.
+
+
 <h2 id="queue">Queue (no particular order)</h2>
 
 Some books I'd like to read next.
@@ -337,13 +356,14 @@ Some books I'd like to read next.
     <li>David Walton - <a href="https://www.goodreads.com/book/show/22551892-superposition">Superposition</a></li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
     <li>Greg Egan: the Orthogonal trilogy</li>
+    <li><span class="label"></span> Henk Rijks - <a href="https://www.goodreads.com/book/show/15853861-incognito">Ingognito</a></li>
     <li>Jean M. Auel - The Shelters of Stone (Earth's Children V)</li>
     <li>Jean M. Auel - The Land of Painted Caves (Earth's Children VI)</li>
     <li>Joe Haldeman - <a href="https://www.goodreads.com/book/show/21611.The_Forever_War">The Forever War</a> (The Forever War #1)</li>
     <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21805681-unlocked">Unlocked: An Oral History of Haden's Syndrome</a> (Lock In #0.5)</li>
     <li>John Scalzi - <a href="https://www.goodreads.com/book/show/21418013-lock-in">Lock in</a> (Lock In #1)</li>
     <li>Mark Z. Danielewski - Only Revolutions</li>
-    <li>Michael Lewis - The Big Short</li>
+    <li>Michael Lewis - <a href="https://www.goodreads.com/book/show/26889576-the-big-short">The Big Short</a></li>
     <li>Michael J. Sullivan - Theft of Swords (The Crown Conspiracy and Avempartha)</li>
     <li>Michael J. Sullivan - Rise of Empire (Nyphron Rising and The Emerald Storm)</li>
     <li>Michael J. Sullivan - Heir of Novron (Wintertide and Percepliquis)</li>
@@ -357,13 +377,37 @@ Some books I'd like to read next.
 
 <h3>Non-Fiction</h3>
 <ul>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Andrew Hodges, Douglas R. Hofstadter - <a href="https://www.goodreads.com/book/show/150731.Alan_Turing">Alan Turing, the enigma</a></li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Andy Hunt, Dave Thomas - <a href="https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer">The Pragmatic Programmer</a></li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Annelies Verhelst & Victor Peters - <a href="https://www.goodreads.com/book/show/13038248-schrijven-voor-het-web-en-sociale-media">Schrijven voor het web & sociale media</a></li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Bill Bryson - <a href="https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything">A Short History of Everything</a></li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Clifford Stoll - <a href="https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg">The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage</a></li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Cor Molenaar - <a href="https://www.goodreads.com/book/show/8610308-internet-overleven">Internet overleven</a>: van flowerpower tot second life</li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Eppo König - <a href="https://www.goodreads.com/book/show/6834345-hoe-sms-t-een-chinees">Hoe SMS't een Chinees?</a> (100 alledaagse mysteries)</li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Evgeny Morozov - <a href="https://www.goodreads.com/book/show/13587160-to-save-everything-click-here">To Save Everything, Click Here</a>: The Folly of Technological Solutionism</li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Gretchen McCulloch - <a href="https://www.goodreads.com/book/show/36739320-because-internet">Because Internet</a>: Understanding the New Rules of Language</li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Jon Stokes - <a href="https://www.goodreads.com/book/show/610830.Inside_the_Machine">Inside the Machine</a>: An Illustrated Introduction to Microprocessors and Computer Architecture (Ars Technica)</li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Jeffrey Wijnberg - <a href="https://www.goodreads.com/book/show/13407024-in-het-diepste-van-de-ziel-is-niets-te-zien">In het diepste van de ziel is niets te zien</a>: Provocatieve psychologie</li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Joris Wijnberg - <a href="https://www.goodreads.com/book/show/3477772-het-zijn-net-mensen">Het zijn net mensen</a>: Beelden uit het Midden-Oosten</li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Kevin D. Mitnick - <a href="https://www.goodreads.com/book/show/18160.The_Art_of_Deception">The Art of Deception</a>: Controlling the Human Element of Security</li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> NRC-next, Juliette Vasterman (Editor), Viola Lindner (Illustrator) - <a href="https://www.goodreads.com/book/show/16114465-waarom-zeggen-we-eh">Waarom zeggen we eh...?</a> (100 alledaagse mysteries)</li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Patrick Allegaert (Museum Dr. Guislain) - <a href="https://www.goodreads.com/book/show/25149006-het-gewichtige-lichaam">Het Gewichtige Lichaam</a></li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Simon Singh - <a href="https://www.goodreads.com/book/show/17994.The_Code_Book">The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography</a></li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Stephen Hawking - <a href="https://www.goodreads.com/book/show/42438420-de-antwoorden-op-de-grote-vragen">De antwoorden op de grote vragen</a></li>
 </ul>
 
 <h3>Graphical novels</h3>
 <ul>
-    <li>TODO</li>
+    <li><span class="label">comic</span> Stephen King, Peter David (Adaptor) - <a href="https://www.goodreads.com/book/show/11393078-de-jonge-jaren-van-de-scherpschutter">De Donkere Toren, De jonge jaren van de scherpschutter</a> (Stephen King's The Dark Tower #1)</li>
+    <li><span class="label">comic</span> Alan Moore, Bolland - <a href="https://www.goodreads.com/book/show/96358.Batman">Batman: The Killing Joke</a> The Deluxe Edition (Batman Post-Crisis #45)</li>
+    <li><span class="label">20171002</span> <span class="label">comic</span> Neil Gaiman - <a href="https://www.goodreads.com/book/show/23753.The_Absolute_Sandman_Volume_1">The Absolute Sandman volume I</a> (The Absolute Sandman #1)</li>
+    <li><span class="label">comic</span> Neil Gaiman - <a href="https://www.goodreads.com/book/show/1025685.The_Absolute_Sandman_Volume_2">The Absolute Sandman volume II</a> (The Absolute Sandman #2)</li>
+    <li><span class="label">comic</span> Neil Gaiman - <a href="https://www.goodreads.com/book/show/2186848.The_Absolute_Sandman_Volume_3">The Absolute Sandman volume III</a> (The Absolute Sandman #3)</li>
+    <li><span class="label">comic</span> Neil Gaiman - <a href="https://www.goodreads.com/book/show/3375878-the-absolute-sandman-volume-4">The Absolute Sandman volume IV</a> (The Absolute Sandman #4)</li>
+    <li><span class="label">comic</span> Neil Gaiman - <a href="https://www.goodreads.com/book/show/10864102-the-absolute-sandman-volume-5">The Absolute Sandman volume V</a> (The Absolute Sandman #5)</li>
+    <li><span class="label">comic</span> Neil Gaiman, Dave McKean (Illustrator) - <a href="https://www.goodreads.com/book/show/2213661.The_Graveyard_Book">The Graveyard Book</a></li>
+    <li><span class="label">comic</span> Neil Gaiman, Skottie Young (Illustrator) - <a href="https://www.goodreads.com/book/show/17349203-fortunately-the-milk">Fortunately the Milk</a></li>
+    <li><span class="label">comic</span> Neil Gaiman, Dave McKean (Illustrator) - <a href="https://www.goodreads.com/book/show/17061.Coraline">Coraline</a></li>
 </ul>
 
 <p><a href="https://www.goodreads.com/review/list/17198769-michiel-scholten?shelf=to-read">More on my Goodreads profile</a>. Suggestions? Please <a href="{filename}../posts/20110607-books.md">leave a comment</a>!</p>
