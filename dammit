@@ -112,6 +112,16 @@ elif [ $ACTION == "new" ]; then
     echo "[![Linked gallery image](https://shuttereye.org/images/70/707272f27b6b7a68_2000-2000.jpg)](https://shuttereye.org/gallery/subgallery/IMG_example.jpg/view/)" >> ${BLOGPOSTFILE}
     vim ${BLOGPOSTFILE}
 
+
+    read -p "Do you want to adjust the publication time to 'now'? (y|N) " -n 1 -r
+    echo  # Ensure line break after answer
+    if [[ $REPLY =~ ^[Yy]$ ]]
+    then
+        NOW=$( date +'%Y-%m-%d %H:%M:%S' )
+        # Replace original date property with current date/time. Save a .bak version of the original file for now (remove '.bak' to stop doing so)
+        sed -i'.bak' "s/Date: ${STARTED}/Date: ${NOW}/" ${BLOGPOSTFILE}
+    fi
+
     read -p "Do you want to add it to version control now and commit? (y|N) " -n 1 -r
     echo  # Ensure line break after answer
     if [[ $REPLY =~ ^[Yy]$ ]]
