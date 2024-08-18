@@ -14,7 +14,8 @@ study,
 thoughts,
 trips'
 
-TAGS=$'backups,
+TAGS=$'autism,
+backups,
 books,
 communication,
 conference,
@@ -95,12 +96,20 @@ elif [ $ACTION == "new" ]; then
     echo "Authors: Michiel Scholten" >> ${BLOGPOSTFILE}
     echo "Status: draft" >> ${BLOGPOSTFILE}
     echo "Category: " >> ${BLOGPOSTFILE}
-    echo ${CATEGORIES} >> ${BLOGPOSTFILE}
+    echo "Category-examples:" ${CATEGORIES} >> ${BLOGPOSTFILE}
     echo "Tags: " >> ${BLOGPOSTFILE}
-    echo ${TAGS} >> ${BLOGPOSTFILE}
+    echo "Tags-examples:" ${TAGS} >> ${BLOGPOSTFILE}
     echo "Image: " >> ${BLOGPOSTFILE}
     echo "Link: " >> ${BLOGPOSTFILE}
     echo "" >> ${BLOGPOSTFILE}
+    echo "" >> ${BLOGPOSTFILE}
+    echo "" >> ${BLOGPOSTFILE}
+    echo "--- 8< --- Cheat-sheet: --- >8 ---" >> ${BLOGPOSTFILE}
+    echo "" >> ${BLOGPOSTFILE}
+    echo "[books page]({filename}../pages/books.md)" >> ${BLOGPOSTFILE}
+    echo "[hello post]({filename}../posts/hello.md)" >> ${BLOGPOSTFILE}
+    echo "[![Linked image](https://dammit.nl/images/content/example.png)](https://dammit.nl/images/content/example.png)" >> ${BLOGPOSTFILE}
+    echo "[![Linked gallery image](https://shuttereye.org/images/70/707272f27b6b7a68_2000-2000.jpg)](https://shuttereye.org/gallery/subgallery/IMG_example.jpg/view/)" >> ${BLOGPOSTFILE}
     vim ${BLOGPOSTFILE}
 
     read -p "Do you want to add it to version control now and commit? (y|N) " -n 1 -r
