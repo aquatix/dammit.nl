@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2024-08-16
+Modified: 2024-08-21
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -18,6 +18,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20240802</span> Charles Stross - <a href="https://www.goodreads.com/book/show/18211295-the-rhesus-chart">The Resus Chart</a> (Laundry Files #5)</li>
     <li><span class="label">20240809</span> Philip K. Dick - <a href="https://www.goodreads.com/book/show/34207748-ubik">Ubik</a></li>
     <li><span class="label">20240816</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/58727132-eversion">Eversion</a></li>
+    <li><span class="label">20240820</span> Martha Wells - <a href="https://www.goodreads.com/book/show/32758901-all-systems-red">All Systems Red</a> (Murderbot Diaries #1)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -346,7 +347,6 @@ Some books I'd like to read next.
 
 <h3>Fiction</h3>
 <ul>
-    <li><span class="label">2024????</span> Martha Wells - <a href="https://www.goodreads.com/book/show/32758901-all-systems-red">All Systems Red</a> (Murderbot Diaries #1)</li>
     <li><span class="label"></span> Martha Wells - <a href="https://www.goodreads.com/book/show/36223860-artificial-condition">Artificial Condition</a> (Murderbot Diaries #2)</li>
     <li><span class="label"></span> Martha Wells - <a href="https://www.goodreads.com/book/show/35519101-rogue-protocol">Rogue Protocol</a> (Murderbot Diaries #3)</li>
     <li>Martha Wells: <a href="www.goodreads.com/series/191900-the-murderbot-diaries">The Murderbot Diaries</a> serie</li>
