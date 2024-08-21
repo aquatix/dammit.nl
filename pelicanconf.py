@@ -13,7 +13,7 @@ SITETAG = 'dammIT'
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Amsterdam'
 
 DEFAULT_LANG = 'en'
 
@@ -127,3 +127,5 @@ THEME_TEMPLATES_OVERRIDES = [
     'templates',
 ]
 TEMPLATE_PAGES = {'recent.json': 'api/recent.json', }
+
+FOOTER_NOTE = 'Since 2003'
