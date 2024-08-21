@@ -73,6 +73,14 @@ pre,
     text-decoration: none;
 }
 
+a.headerlink:link,
+a.headerlink:visited,
+a.headerlink:hover,
+a.headerlink:active
+{
+  text-decoration: none;
+}
+
 h1 a.headerlink, h2 a.headerlink, h3 a.headerlink
 {
   color: #999; /* Like text-muted */
