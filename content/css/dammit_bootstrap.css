@@ -73,6 +73,32 @@ pre,
     text-decoration: none;
 }
 
+h1 a.headerlink, h2 a.headerlink, h3 a.headerlink
+{
+  color: #999; /* Like text-muted */
+  padding-left: .5rem;
+}
+
+h1 a.headerlink
+{
+  font-size: 2.25rem;
+}
+
+h2 a.headerlink
+{
+  font-size: 1.75rem;
+}
+
+h3 a.headerlink
+{
+  font-size: 1.5rem;
+}
+
+h1 a.headerlink:hover, h2 a.headerlink:hover, h3 a.headerlink:hover
+{
+  color: #666;
+}
+
 /* FontAwesome icons */
 .fa-brands, a:hover.fa-brands
 {

@@ -9,7 +9,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 <p>You can <a href="https://www.goodreads.com/review/list/17198769-michiel-scholten">find me on Goodreads</a> too. Maybe become book friends? :)</p>
 
-<h2 id="2024">2024</h2>
+<h2 id="2024">2024 <a class="headerlink" href="#2024" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20230602</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/17332218-words-of-radiance">Words of Radiance</a> (The Stormlight Archive #2)</li>
     <li><span class="label">20240425</span> Mark Tuitert - <a href="https://www.goodreads.com/book/show/58531861-drive">Drive: Train je stoïcijnse mindset</a></li>
@@ -23,7 +23,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
-<h2 id="2023">2023</h2>
+
+<h2 id="2023">2023 <a class="headerlink" href="#2023" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20230104</span> Andy Weir - <a href="https://www.goodreads.com/book/show/54493401-project-hail-mary">Project Hail Mary</a></li>
     <li><span class="label">20230129</span> <span class="label">autism</span> Bianca Toeps - <a href="https://www.goodreads.com/book/show/43372969-maar-je-ziet-er-helemaal-niet-autistisch-uit">Maar je ziet er helemaal niet autistisch uit</a></li>
@@ -34,7 +35,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">202300904</span> <span class="label">comic</span> Duane Swierczynski, Matt Kindt, Manuel García (Artist), et al. - <a href="https://www.goodreads.com/book/show/45442759-bloodshot-definitive-edition">Bloodshot 1-3</a></li>
 </ol>
 
-<h2 id="2022">2022</h2>
+
+<h2 id="2022">2022 <a class="headerlink" href="#2022" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20210610</span> Stephen King - <a href="https://www.goodreads.com/book/show/6320534-under-the-dome">Under the Dome</a></li>
     <li><span class="label">20220104</span> Greg Egan - <a href="https://www.goodreads.com/book/show/156784.Permutation_City">Permutation City</a> (Subjective Cosmology #2)</li>
@@ -54,7 +56,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20220916</span> Liu Cixin - <a href="https://www.goodreads.com/book/show/25451264-death-s-end">Death's End</a> (Remembrance of Earth's Past #3)</li>
 </ol>
 
-<h2 id="2021">2021</h2>
+
+<h2 id="2021">2021 <a class="headerlink" href="#2021" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20201225</span> Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II) [<a href="/sagas.html">post: Sagas</a>]</li>
     <li><span class="label">20210403</span> Glen Cook - <a href="https://www.goodreads.com/book/show/29829.Petty_Pewter_Gods">Petty Pewter Gods</a> (Garrett Files #8)</li>
@@ -67,7 +70,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20211021</span> <span class="label">comic</span> Warren Ellis & John Cassaday - <a href="hhttps://www.goodreads.com/book/show/5210326-planetary-volume-4">Planetary, Volume 4: Spacetime Archaeology</a> (Planetary 19-27)</li>
 </ol>
 
-<h2 id="2020">2020</h2>
+
+<h2 id="2020">2020 <a class="headerlink" href="#2020" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20191012</span> Neal Stephenson - <a href="https://www.goodreads.com/book/show/35429993-fall-or-dodge-in-hell">Fall, or Dodge in Hell</a></li>
     <li><span class="label">20200101</span> <span class="label">comic</span> Warren Ellis - <a href="https://www.goodreads.com/series/131508-transmetropolitan-single-issues">Transmetropolitan</a> (issues #27 - #32)</li>
@@ -87,8 +91,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20201225</span> Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/45244.Judas_Unchained">Judas Unchained</a> (The Commonwealth Saga II)</li>
 </ol>
 
-<h2 id="2019">2019</h2>
 
+<h2 id="2019">2019 <a class="headerlink" href="#2019" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20180910</span> Umberto Eco - <a href="https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose">The Name of the Rose</a></li>
     <li><span class="label">20190101</span> <span class="label">comic</span> Roger Leloup - <a href="https://www.goodreads.com/book/show/1768025.L_Orgue_du_diable">Het Helse Orgel</a> (Yoko Tsuno #2)</li>
@@ -117,8 +121,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20191228</span> <span class="label">comic</span> Warren Ellis & John Cassaday - <a href="https://www.goodreads.com/book/show/209966.Planetary_Volume_1">Planetary, Volume 1: All Over the World and Other Stories</a> (Planetary 1-6)</li>
 </ol>
 
-<h2 id="2018">2018</h2>
 
+<h2 id="2018">2018 <a class="headerlink" href="#2018" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20180128</span> Liu Cixin - <a href="https://www.goodreads.com/book/show/23168817-the-dark-forest">The Dark Forest</a> (Remembrance of Earth's Past #2)</li>
     <li><span class="label">20180314</span> Yoon Ha Lee - <a href="https://www.goodreads.com/book/show/30691976-raven-stratagem">Raven Stratagem</a> (The Machineries of Empire #2)</li>
@@ -136,8 +140,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20180910</span> Umberto Eco - <a href="https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose">The Name of the Rose</a></li>
 </ol>
 
-<h2 id="2017">2017</h2>
 
+<h2 id="2017">2017 <a class="headerlink" href="#2017" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20170116</span> Nathan Hill - <a href="https://www.goodreads.com/book/show/28251002-the-nix">The Nix</a></li>
     <li><span class="label">20170228</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/886066.Matter">Matter</a> (Culture #8)</li>
@@ -149,8 +153,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20171129</span> Liu Cixin - <a href="https://www.goodreads.com/book/show/20518872-the-three-body-problem">The Three-Body Problem</a> (Remembrance of Earth's Past #1)</li>
 </ol>
 
-<h2 id="2016">2016</h2>
 
+<h2 id="2016">2016 <a class="headerlink" href="#2016" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20160112</span> Preston &amp; Child - <a href="http://www.goodreads.com/book/show/39028.The_Wheel_of_Darkness">The Wheel of Darkness</a> (Pendergast #8)</li>
     <li><span class="label">20160118</span> Preston &amp; Child - <a href="http://www.goodreads.com/book/show/2197227.Cemetery_Dance">Cemetery Dance</a> (Pendergast #9)</li>
@@ -171,8 +175,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20161014</span> Nathan Hill - <a href="https://www.goodreads.com/book/show/28251002-the-nix">The Nix</a></li>
 </ol>
 
-<h2 id="2015">2015</h2>
 
+<h2 id="2015">2015 <a class="headerlink" href="#2015" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20150515</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/89190.Redemption_Ark">Redemption Ark</a> (Revelation Space #2)</li>
     <li><span class="label">20150605</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/89184.Absolution_Gap">Absolution Gap</a> (Revelation Space #3)</li>
@@ -185,8 +189,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20151125</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/9343347-diamond-dogs-turquoise-days">Diamond Dogs, Turquoise Days</a></li>
 </ol>
 
-<h2 id="2014">2014</h2>
 
+<h2 id="2014">2014 <a class="headerlink" href="#2014" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20131213</span> Robert Jordan &amp; Brandon Sanderson - A Memory of Light (Wheel of Time series 14)</li>
     <li><span class="label">20140317</span> Neil Stephenson - Cryptonomicon</li>
@@ -201,8 +205,8 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20141124</span> Douglas R. Hofstadter - <a href="https://www.goodreads.com/book/show/24113.G_del_Escher_Bach">G&ouml;del, Escher, Bach: An Eternal Golden Braid</a></li>
 </ol>
 
-<h2 id="2013">2013</h2>
 
+<h2 id="2013">2013 <a class="headerlink" href="#2013" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20130119</span> John Scalzi - Redshirts</li>
     <li><span class="label">20130128</span> Hannu Rajaniemi - The Fractal Prince (Jean le Flambeur #2)</li>
@@ -224,8 +228,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 </ol>
 
 
-<h2 id="2012">2012</h2>
-
+<h2 id="2012">2012 <a class="headerlink" href="#2012" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20120106</span> James Gleick - The Information</li>
     <li><span class="label">20120207</span> Robert A. Heinlein - By His Bootstraps</li>
@@ -258,8 +261,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 </ol>
 
 
-<h2 id="2011">2011</h2>
-
+<h2 id="2011">2011 <a class="headerlink" href="#2011" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20110103</span> Orson Scott Card - Ender's Game</li>
     <li><span class="label">20110114</span> James Patterson - First to Die</li>
@@ -296,8 +298,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 </ol>
 
 
-<h2 id="2010">2010</h2>
-
+<h2 id="2010">2010 <a class="headerlink" href="#2010" title="Permanent link">¶</a></h2>
 <ol>
     <li>Terry Pratchett - Small Gods</li>
     <li>Terry Pratchett - Lords and Ladies</li>
@@ -322,8 +323,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 <p>(Might miss one or two)</p>
 
 
-<h2 id="sometimeinlife">Somewhere in the past</h2>
-
+<h2 id="sometimeinlife">Somewhere in the past <a class="headerlink" href="#sometimeinlife" title="Permanent link">¶</a></h2>
 <ul>
     <li><span class="label">comic</span> Alan Moore & Kevin O'Neill - The League of Extraordinary Gentlemen, Volume 1</li>
     <li><span class="label">comic</span> Alan Moore & Kevin O'Neill - The League of Extraordinary Gentlemen, Volume 2</li>
@@ -341,11 +341,11 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 ... and hundreds more.
 
 
-<h2 id="queue">Queue (no particular order)</h2>
+<h2 id="queue">Queue (no particular order) <a class="headerlink" href="#queue" title="Permanent link">¶</a></h2>
 
 Some books I'd like to read next.
 
-<h3>Fiction</h3>
+<h3 id="fiction">Fiction  <a class="headerlink" href="#fiction" title="Permanent link">¶</a></h3>
 <ul>
     <li><span class="label"></span> Martha Wells - <a href="https://www.goodreads.com/book/show/36223860-artificial-condition">Artificial Condition</a> (Murderbot Diaries #2)</li>
     <li><span class="label"></span> Martha Wells - <a href="https://www.goodreads.com/book/show/35519101-rogue-protocol">Rogue Protocol</a> (Murderbot Diaries #3)</li>
@@ -375,7 +375,7 @@ Some books I'd like to read next.
     <li>Vernor Vinge - <a href="https://www.goodreads.com/book/show/10170545-the-children-of-the-sky">The Children of the Sky</a> (Zones of Thought #3)</li>
 </ul>
 
-<h3>Non-Fiction</h3>
+<h3 id="nonfiction">Non-Fiction <a class="headerlink" href="#nonfiction" title="Permanent link">¶</a></h3>
 <ul>
     <li><span class="label"></span> <span class="label">non-fiction</span> Andrew Hodges, Douglas R. Hofstadter - <a href="https://www.goodreads.com/book/show/150731.Alan_Turing">Alan Turing, the enigma</a></li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Andy Hunt, Dave Thomas - <a href="https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer">The Pragmatic Programmer</a></li>
@@ -396,7 +396,7 @@ Some books I'd like to read next.
     <li><span class="label"></span> <span class="label">non-fiction</span> Stephen Hawking - <a href="https://www.goodreads.com/book/show/42438420-de-antwoorden-op-de-grote-vragen">De antwoorden op de grote vragen</a></li>
 </ul>
 
-<h3>Graphical novels</h3>
+<h3 id="graphical-novels">Graphical novels <a class="headerlink" href="#graphical-novels" title="Permanent link">¶</a></h3>
 <ul>
     <li><span class="label">comic</span> Stephen King, Peter David (Adaptor) - <a href="https://www.goodreads.com/book/show/11393078-de-jonge-jaren-van-de-scherpschutter">De Donkere Toren, De jonge jaren van de scherpschutter</a> (Stephen King's The Dark Tower #1)</li>
     <li><span class="label">comic</span> Alan Moore, Bolland - <a href="https://www.goodreads.com/book/show/96358.Batman">Batman: The Killing Joke</a> The Deluxe Edition (Batman Post-Crisis #45)</li>
@@ -413,7 +413,7 @@ Some books I'd like to read next.
 <p><a href="https://www.goodreads.com/review/list/17198769-michiel-scholten?shelf=to-read">More on my Goodreads profile</a>. Suggestions? Please <a href="{filename}../posts/20110607-books.md">leave a comment</a>!</p>
 
 
-<h2 id="inspiration">Inspiration</h2>
+<h2 id="inspiration">Inspiration <a class="headerlink" href="#inspiration" title="Permanent link">¶</a></h2>
 <ul>
     <li><a href="https://en.wikipedia.org/wiki/James_Patterson_bibliography">James Patterson bibliography</a></li>
 </ul>

@@ -106,6 +106,10 @@ MARKDOWN = {
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
         'markdown.extensions.admonition': {},
+        #'markdown.extensions.toc': {
+        #    'anchorlink': True,
+        #    'permalink': True,
+        #},
     },
     'output_format': 'html5',
 }
