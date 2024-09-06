@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2024-08-21
+Modified: 2024-09-06
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -19,6 +19,10 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20240809</span> Philip K. Dick - <a href="https://www.goodreads.com/book/show/34207748-ubik">Ubik</a></li>
     <li><span class="label">20240816</span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/58727132-eversion">Eversion</a></li>
     <li><span class="label">20240820</span> Martha Wells - <a href="https://www.goodreads.com/book/show/32758901-all-systems-red">All Systems Red</a> (Murderbot Diaries #1)</li>
+    <li><span class="label">20240822</span> Martha Wells - <a href="https://www.goodreads.com/book/show/36223860-artificial-condition">Artificial Condition</a> (Murderbot Diaries #2)</li>
+    <li><span class="label">20240824</span> Martha Wells - <a href="https://www.goodreads.com/book/show/35519101-rogue-protocol">Rogue Protocol</a> (Murderbot Diaries #3)</li>
+    <li><span class="label">20240825</span> Martha Wells - <a href="https://www.goodreads.com/book/show/35519109-exit-strategy">Exit Strategy</a> (Murderbot Diaries #4)</li>
+    <li><span class="label">20240904</span> Martha Wells - <a href="https://www.goodreads.com/book/show/52381770-network-effect">Network Effect</a> (Murderbot Diaries #5)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -347,8 +351,8 @@ Some books I'd like to read next.
 
 <h3 id="fiction">Fiction  <a class="headerlink" href="#fiction" title="Permanent link">¶</a></h3>
 <ul>
-    <li><span class="label"></span> Martha Wells - <a href="https://www.goodreads.com/book/show/36223860-artificial-condition">Artificial Condition</a> (Murderbot Diaries #2)</li>
-    <li><span class="label"></span> Martha Wells - <a href="https://www.goodreads.com/book/show/35519101-rogue-protocol">Rogue Protocol</a> (Murderbot Diaries #3)</li>
+    <li>Martha Wells - <a href="https://www.goodreads.com/book/show/53205854-fugitive-telemetry">Fugitive Telemetry</a> (Murderbot Diaries #6)</li>
+    <li>Martha Wells - <a href="https://www.goodreads.com/book/show/65211701-system-collapse">System Collapse</a>(Murderbot Diaries #7)</li>
     <li>Martha Wells: <a href="www.goodreads.com/series/191900-the-murderbot-diaries">The Murderbot Diaries</a> serie</li>
     <li>Alastair Reynolds - <a href="https://www.goodreads.com/book/show/23013875-slow-bullets">Slow Bullets</a></li>
     <li><span class="label"></span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
