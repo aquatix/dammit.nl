@@ -24,6 +24,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20240825</span> Martha Wells - <a href="https://www.goodreads.com/book/show/35519109-exit-strategy">Exit Strategy</a> (Murderbot Diaries #4)</li>
     <li><span class="label">20240904</span> Martha Wells - <a href="https://www.goodreads.com/book/show/52381770-network-effect">Network Effect</a> (Murderbot Diaries #5)</li>
     <li><span class="label">20240912</span> Martha Wells - <a href="https://www.goodreads.com/book/show/53205854-fugitive-telemetry">Fugitive Telemetry</a> (Murderbot Diaries #6)</li>
+    <li><span class="label">20240917</span> Martha Wells - <a href="https://www.goodreads.com/book/show/65211701-system-collapse">System Collapse</a> (Murderbot Diaries #7)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -348,12 +349,10 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 
 <h2 id="queue">Queue (no particular order) <a class="headerlink" href="#queue" title="Permanent link">¶</a></h2>
 
-Some books I'd like to read next.
+Some books I'd like to read next in no particular order (apart from alphabetical-ish).
 
 <h3 id="fiction">Fiction  <a class="headerlink" href="#fiction" title="Permanent link">¶</a></h3>
 <ul>
-    <li>Martha Wells - <a href="https://www.goodreads.com/book/show/65211701-system-collapse">System Collapse</a>(Murderbot Diaries #7)</li>
-    <li>Martha Wells: <a href="www.goodreads.com/series/191900-the-murderbot-diaries">The Murderbot Diaries</a> serie</li>
     <li>Alastair Reynolds - <a href="https://www.goodreads.com/book/show/23013875-slow-bullets">Slow Bullets</a></li>
     <li><span class="label"></span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
     <li>David Mitchell - <a href="https://www.goodreads.com/book/show/49628.Cloud_Atlas">Cloud Atlas</a></li>
