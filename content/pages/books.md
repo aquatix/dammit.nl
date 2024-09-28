@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2024-09-06
+Modified: 2024-09-28
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -25,6 +25,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20240904</span> Martha Wells - <a href="https://www.goodreads.com/book/show/52381770-network-effect">Network Effect</a> (Murderbot Diaries #5)</li>
     <li><span class="label">20240912</span> Martha Wells - <a href="https://www.goodreads.com/book/show/53205854-fugitive-telemetry">Fugitive Telemetry</a> (Murderbot Diaries #6)</li>
     <li><span class="label">20240917</span> Martha Wells - <a href="https://www.goodreads.com/book/show/65211701-system-collapse">System Collapse</a> (Murderbot Diaries #7)</li>
+    <li><span class="label">20240923</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/47989.Night_Watch">Night Watch</a> (Discworld #29, City Watch #6)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
