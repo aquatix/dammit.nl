@@ -376,6 +376,7 @@ Some books I'd like to read next in no particular order (apart from alphabetical
     <li>Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/866136.The_Dreaming_Void">The Dreaming Void</a> (Void #1)</li>
     <li>Robert Reed - <a href="https://www.goodreads.com/book/show/100208.Marrow">Marrow</a> (Great Ship #1)</li>
     <li>Robert Zelazni - The Chronicles of Amber</li>
+    <li>Ursula K. Le Guin - <a href="https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness">The Left Hand of Darkness</a> (Hainish Cycle #4)</li>
     <li>Ursula K. Le Guin - <a href="https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea">A Wizard of Earthsea</a> (Earthsea Cycle #1)</li>
     <li>Vernor Vinge - <a href="https://www.goodreads.com/book/show/10170545-the-children-of-the-sky">The Children of the Sky</a> (Zones of Thought #3)</li>
 </ul>
