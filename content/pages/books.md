@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2024-10-13
+Modified: 2024-10-26
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -27,6 +27,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20240917</span> Martha Wells - <a href="https://www.goodreads.com/book/show/65211701-system-collapse">System Collapse</a> (Murderbot Diaries #7)</li>
     <li><span class="label">20240923</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/47989.Night_Watch">Night Watch</a> (Discworld #29, City Watch #6)</li>
     <li><span class="label">20241005</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/34494.The_Wee_Free_Men">The Wee Free Men</a> (Discworld #30, Tiffany Aching #1)</li>
+    <li><span class="label">20241024</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/13497991-the-hydrogen-sonata">The Hydrogen Sonata</a> (Culture #10)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
@@ -40,7 +41,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20230212</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/34534.The_Amazing_Maurice_and_His_Educated_Rodents">The Amazing Maurice and His Educated Rodents</a> (Discworld #28)</li>
     <li><span class="label">20230216</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/7235533-the-way-of-kings">The Way of Kings</a> (The Stormlight Archive #1)</li>
     <li><span class="label">20230602</span> Brandon Sanderson - <a href="https://www.goodreads.com/book/show/17332218-words-of-radiance">Words of Radiance</a> (The Stormlight Archive #2)</li>
-    <li><span class="label">202300904</span> <span class="label">comic</span> Duane Swierczynski, Matt Kindt, Manuel García (Artist), et al. - <a href="https://www.goodreads.com/book/show/45442759-bloodshot-definitive-edition">Bloodshot 1-3</a></li>
+    <li><span class="label">20230904</span> <span class="label">comic</span> Duane Swierczynski, Matt Kindt, Manuel García (Artist), et al. - <a href="https://www.goodreads.com/book/show/45442759-bloodshot-definitive-edition">Bloodshot 1-3</a></li>
 </ol>
 
 
