@@ -1,6 +1,7 @@
 Title: RIP Omnivore
 Started: 2024-10-29 20:14:40
 Date: 2024-10-29 21:20:57
+Modified: 2024-10-29 21:27:30
 Slug: rip-omnivore
 Location: Home
 Authors: Michiel Scholten
@@ -47,6 +48,8 @@ My decoder tells me that I finally found a service that is great at what it does
 If I sound angry and sarcastic, that is because I am. But most of all I am just sad. Again. Why can't we have nice things?
 
 I guess I'll be looking into a new read-it-later service I guess, or learn how to host Omnivore myself. Or maybe even steal the browser plug-in and write something myself. But that highlighter was so convenient and well-done...
+
+Edit: ElevenReader does not even have a web application. Quite the alternative for Omnivore alright...
 
 [This Reddit user](https://www.reddit.com/r/ObsidianMD/comments/1ges9l2/comment/ludohep/) shares my sentiments:
 
