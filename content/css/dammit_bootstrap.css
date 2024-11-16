@@ -399,6 +399,11 @@ li .label,
     top: .25em;
 }
 
+.content .footnote-backref
+{
+    text-decoration: none !important;
+}
+
 /* Book labels and such */
 li .label
 {
