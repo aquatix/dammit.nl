@@ -86,10 +86,10 @@ BOOTSTRAP_CSS = 'https://cdn.jsdelivr.net/npm/bootstrap@5/dist/css/bootstrap.min
 THEME_CSS_OVERRIDES = [
     '/css/dammit_bootstrap.css?20240821a',
     #'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.2.0/build/styles/base16/3024.min.css',
-    'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/devibeans.min.css',
+    'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.10.0/build/styles/devibeans.min.css',
 ]
 THEME_JS_OVERRIDES = [
-    'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/highlight.min.js',
+    'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.10.0/build/highlight.min.js',
     '/js/dammit.js',
 ]
 
