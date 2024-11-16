@@ -67,7 +67,7 @@ SOCIAL = (
      'fab fa-google-plus fa-fw fa-lg'),
 )
 
-DESCRIPTION = 'Weblog/rantbox of Michiel Scholten, software developer, photography enthousiast and all around nerd. Expect howtos, ramblings and random findings'
+DESCRIPTION = 'Weblog/rantbox of Michiel Scholten, software developer, photography enthousiast and all around nerd. Expect howtos, ramblings, some photographs and random findings'
 
 # The default metadata you want to use for all articles and pages.
 DEFAULT_METADATA = {
@@ -84,7 +84,7 @@ BOOTSTRAP_CSS = 'https://cdn.jsdelivr.net/npm/bootstrap@5/dist/css/bootstrap.min
 
 # Enable highlight.js
 THEME_CSS_OVERRIDES = [
-    '/css/dammit_bootstrap.css?20240821a',
+    '/css/dammit_bootstrap.css?20241116a',
     #'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.2.0/build/styles/base16/3024.min.css',
     'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.10.0/build/styles/devibeans.min.css',
 ]
