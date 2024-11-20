@@ -29,4 +29,5 @@ If you like X, you might like Y.
     <li><a href="https://diginaut.net/">diginaut: my profile, basically</a> - find more of my presences</li>
     <li><a href="https://github.com/aquatix">GitHub profile</a></li>
     <li><a href="https://mastodon.social/@diginaut">Mastodon profile</a></li>
+    <li><a href="https://alfagok.diginaut.net">alfagok</a> word-guessing game, in Dutch</li>
 </ul>
