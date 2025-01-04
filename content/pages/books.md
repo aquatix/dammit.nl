@@ -1,13 +1,21 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2024-10-26
+Modified: 2025-01-04
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
 <p>Books I've read in the past. I might have written something about them, meaning the entries here will have a [review] link to a corresponding weblog posting. Otherwise, I try to link them to their page on Goodreads. The date denotes the day I <em>started</em> reading. Generally, the date of the next book is when I finished the last :)</p>
 
-<p>You can <a href="https://www.goodreads.com/review/list/17198769-michiel-scholten">find me on Goodreads</a> too. Maybe become book friends? :)</p>
+<p>You can <a style="text-decoration: line-through;" href="https://www.goodreads.com/review/list/17198769-michiel-scholten">find me on Goodreads</a> <a href="https://app.thestorygraph.com/profile/diginaut">find me on StoryGraph</a> too. Maybe become book friends? :)</p>
+
+<h2 id="2025">2025 <a class="headerlink" href="#2025" title="Permanent link">¶</a></h2>
+<ol>
+    <li><span class="label">20241024</span> Iain M. Banks - <a href="https://app.thestorygraph.com/books/f4f1b9c3-2398-4614-9e59-b173247b1c40">The Hydrogen Sonata</a> (Culture #10)</li>
+</ol>
+
+<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
+
 
 <h2 id="2024">2024 <a class="headerlink" href="#2024" title="Permanent link">¶</a></h2>
 <ol>
@@ -29,8 +37,6 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20241005</span> Terry Pratchett - <a href="https://www.goodreads.com/book/show/34494.The_Wee_Free_Men">The Wee Free Men</a> (Discworld #30, Tiffany Aching #1)</li>
     <li><span class="label">20241024</span> Iain M. Banks - <a href="https://www.goodreads.com/book/show/13497991-the-hydrogen-sonata">The Hydrogen Sonata</a> (Culture #10)</li>
 </ol>
-
-<p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
 
 
 <h2 id="2023">2023 <a class="headerlink" href="#2023" title="Permanent link">¶</a></h2>
