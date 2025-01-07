@@ -369,6 +369,9 @@ Some books I'd like to read next in no particular order (apart from alphabetical
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
     <li>Greg Egan: the Orthogonal trilogy</li>
     <li><span class="label"></span> Henk Rijks - <a href="https://www.goodreads.com/book/show/15853861-incognito">Ingognito</a></li>
+    <li>Iain Banks - <a href="https://app.thestorygraph.com/books/2a97410b-f216-4276-ae6c-2c2bea7fb5ac">The Wasp Factory</a></li>
+    <li>Iain Banks - <a href="https://app.thestorygraph.com/books/97ce971f-9132-4eb0-9cb7-4fda413ff96c">The Bridge</a></li>
+    <li>Iain Banks - <a href="https://app.thestorygraph.com/books/7edcc74a-7eb9-46c5-bda5-75ab94f34f59">Walking on Glass</a></li>
     <li>Jean M. Auel - The Shelters of Stone (Earth's Children V)</li>
     <li>Jean M. Auel - The Land of Painted Caves (Earth's Children VI)</li>
     <li>Joe Haldeman - <a href="https://www.goodreads.com/book/show/21611.The_Forever_War">The Forever War</a> (The Forever War #1)</li>
