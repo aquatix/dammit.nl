@@ -3,3 +3,6 @@ pelican[markdown]
 
 # Plugins
 pelican-neighbors
+
+# Filters for making prettier quotes, preventing a final line of text with only one word etc
+typogrify

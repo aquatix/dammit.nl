@@ -93,6 +93,8 @@ THEME_JS_OVERRIDES = [
     '/js/dammit.js',
 ]
 
+# Several typographical improvements will be incorporated into the generated HTML via the Typogrify library https://pypi.org/project/typogrify/
+TYPOGRIFY = True
 
 # No need for pygments syntax highlighting styling
 NO_PYGMENTS = True
