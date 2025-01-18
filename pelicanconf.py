@@ -42,6 +42,7 @@ LINKS_disabled = (
 # Add 'archives' to the top navigation
 LINKS = [
     ('archives', '/archives.html'),
+    #('alfagok', 'https://alfagok.diginaut.net'),
 ]
 
 ICONS = [
@@ -49,6 +50,7 @@ ICONS = [
     ('fa-solid fa-rss', '/feeds/all.atom.xml', 'Atom feed to follow me with'),
     ('fa-brands fa-mastodon', 'https://mastodon.social/@diginaut', 'Mastodon profile'),
     ('fa-solid fa-mug-saucer', 'https://ko-fi.com/aquatix', 'Donate me some Ko-fi'),
+    ('fa-solid fa-a', 'https://alfagok.diginaut.net', 'alfagok Dutch word-guessing game'),
 ]
 
 # Social widget
