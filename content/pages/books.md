@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2025-01-04
+Modified: 2025-01-26
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -12,6 +12,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
 <h2 id="2025">2025 <a class="headerlink" href="#2025" title="Permanent link">¶</a></h2>
 <ol>
     <li><span class="label">20241024</span> Iain M. Banks - <a href="https://app.thestorygraph.com/books/f4f1b9c3-2398-4614-9e59-b173247b1c40">The Hydrogen Sonata</a> (Culture #10)</li>
+    <li><span class="label">20250124</span> Pierce Brown - <a href="https://app.thestorygraph.com/books/21e63776-7c48-404a-b6ff-76f21b7685f0">Red Rising</a> (Red Rising Saga #1)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
