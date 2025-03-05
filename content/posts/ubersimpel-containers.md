@@ -13,7 +13,8 @@ Shall I tell you something nifty?
 
 You know you can create and run containers really easily on any Linux machine, no Docker, LXC or Kubernetes (gasp!) needed?
 
-[![Frozen leafs inside ice](https://shuttereye.org/images/50/50624f55a9af4b4b_2000-2000.jpg)](https://shuttereye.org/photolog/PXL_20250218_074550970.jpg/view/)
+[![Frozen leaves inside ice](https://shuttereye.org/images/50/50624f55a9af4b4b_2000-2000.jpg)](https://shuttereye.org/photolog/PXL_20250218_074550970.jpg/view/)
+*Frozen leaves inside ice*
 
 Maybe you have seen the term `chroot` before but are not sure what it is, or maybe you are and are now - hopefully - nodding along. Point is, chroot's are basically some kind of simple jails in which you can run code that has no notion of the filesystem world outside it. The essence of a container.
 
@@ -98,34 +99,35 @@ All of this to be able to revert time (and security).
 
 ## Bonus: fixing an unbootable machine
 
-When something went sideways on your machine and the bootloader does not see your operating system anymore, or something else makes it not boot, you can use a live-usb to boot a Linux from USB thumbdrive. From there, you can use `chroot` to go 'into' your installation and fix things
+When something went sideways on your machine and the bootloader does not see your operating system anymore, or something else makes it not boot, you can use a live-usb to boot a Linux from USB thumbdrive. From there, you can use `chroot` to go 'into' your installation and fix things, for example by running `grub-install` to have the GRUB bootloader write its configuration to the drive(s) again, or install or remove applications.
 
 
 ```bash
 # See what device you need, e.g., /dev/nvme0n1p2
 blkid
 
-mount /dev/sdXM /mnt/boot  # only if separate boot partition
+mount /dev/sdXM /mnt/boot  # only if a separate boot partition is used
 mount /dev/sdXN /mnt
 
 mount -t proc proc /mnt/proc
 mount -t sysfs sys /mnt/sys
 # or, if grub-install says 'warning: EFI variables cannot be set on this system':
 # mount --rbind /sys /mnt/sys
+
 mount --rbind /dev/ /mnt/dev
 # Alternatively, do those separately:
 # mount -o bind /dev /mnt/dev
 # mount -t devpts pts /mnt/dev/pts
 
+# 'Activate' the chroot jail, so you're actually 'inside your system'
 chroot /mnt
 
 # ... do stuff ...
-# For example, `update-grub`
+# For example, `update-grub` or install, remove, downgrade an application or something
 
 exit / ctrl+d
 
 # Cleanup (not really needed when you just restart right after anyway):
-
 umount /mnt/dev/pts
 umount /mnt/dev
 umount /mnt/sys
