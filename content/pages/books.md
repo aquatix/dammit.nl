@@ -385,7 +385,7 @@ Some books I'd like to read next in no particular order (apart from alphabetical
     <li>Michael J. Sullivan - Rise of Empire (Nyphron Rising and The Emerald Storm)</li>
     <li>Michael J. Sullivan - Heir of Novron (Wintertide and Percepliquis)</li>
     <li>Michael Warren Lucas - <a href="https://www.goodreads.com/book/show/34684331-git-commit-murder">Git Commit Murder</a></li>
-    <li>Peter F. Hamilton - <a href="https://www.goodreads.com/book/show/866136.The_Dreaming_Void">The Dreaming Void</a> (Void #1)</li>
+    <li>Patrick Rothfuss - <a href="https://app.thestorygraph.com/books/e94d8047-9dc1-4b8f-a367-0806319d939c">The Name of the Wind</a> (The Kingkiller Chronicle #1)</li>
     <li>Robert Reed - <a href="https://www.goodreads.com/book/show/100208.Marrow">Marrow</a> (Great Ship #1)</li>
     <li>Robert Zelazni - The Chronicles of Amber</li>
     <li>Ursula K. Le Guin - <a href="https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness">The Left Hand of Darkness</a> (Hainish Cycle #4)</li>
