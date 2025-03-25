@@ -366,6 +366,8 @@ Some books I'd like to read next in no particular order (apart from alphabetical
 <ul>
     <li>Alastair Reynolds - <a href="https://www.goodreads.com/book/show/23013875-slow-bullets">Slow Bullets</a></li>
     <li><span class="label"></span> Alastair Reynolds - <a href="https://www.goodreads.com/book/show/860926.Zima_Blue_and_Other_Stories">Zima Blue and Other Stories</a></li>
+    <li><span class="label"></span> Becky Chambers - <a href="https://app.thestorygraph.com/books/e630cc5f-0870-41cd-a76c-52a4373fa254">A Psalm for the Wild-Built </a> (Monk & Robot #1)</li>
+    <li><span class="label"></span> Becky Chambers - <a href="https://app.thestorygraph.com/books/33b2f7d2-82ee-4a0a-8519-71e1d988f378">A Prayer for the Crown-Shy </a> (Monk & Robot #2)</li>
     <li>David Mitchell - <a href="https://www.goodreads.com/book/show/49628.Cloud_Atlas">Cloud Atlas</a></li>
     <li>David Walton - <a href="https://www.goodreads.com/book/show/22551892-superposition">Superposition</a></li>
     <li><span class="label"></span> Greg Egan - <a href="https://www.goodreads.com/book/show/156781.Distress">Distress</a> (Subjective Cosmology #3)</li>
