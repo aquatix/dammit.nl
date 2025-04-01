@@ -1,6 +1,7 @@
 Title: Pretty Gnome
 Started: 2016-02-24, 2017-04-26 16:17:00, 2017-06-03, 2018-11-25, 2018-11-26, 2019-02-26, 2019-08-06, 2025-03-30, 2025-03-31
 Date: 2025-04-01 13:37:00
+Modified: 2025-04-01 22:05:00
 Slug: pretty-gnome
 Authors: Michiel Scholten
 Category: howto
@@ -231,6 +232,10 @@ cd Orchis-theme
 
 Open the Tweaks application, go to Appearance and choose 'Orchis-Orange-Dark' for Shell (probably already set through the User Themes config ;) ), and 'Orchis-Orange' for Legacy Applications (substitute your own choices here).
 
+![Settings Panel in Orchis style](https://dammit.nl/images/content/20250401_settings_gnome_panel_orchis_style.png)
+
+_The Quick Settings Panel in Orchis Dark Orange style, with the audio additions_
+
 Ah yes, icons, those can be themed too! That brings us to my long-time favourite.
 
 
@@ -383,6 +388,31 @@ If you are familiar with modern Python development, [uv](https://github.com/astr
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Yet another script that you run straight from the tubes
+```
+
+## Workspace navigation
+
+_Added @ 2025-04-01 21:25_
+
+I like being able to quickly switch between the various workspaces that Gnome creates automatically for me. You can switch to previous and next with <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>arrow left/right</kbd> or with 3-finger-swipe, but from my XFCE4 times back in the early naughties, I've been using <kbd>super</kbd>+<kbd>F-key</kbd> to immediately jump to the corresponding workspace with that number (<kbd>super</kbd> is the Windows meta key).
+
+The first four can be set through the Keyboard settings of the regular Settings app. Under 'Keyboard Shortcuts', there's 'View and Customize Shortcuts' with a section called 'Navigation' that contains those.
+
+However, I regularly use more than four workspaces, so I like to assign the whole F-key-bar to this functionality. Normally, I would use the `dconf-editor` application to go to `org.gnome.desktop.wm.keybindings` and set them all by hand, but there's a `gsettings` command-line tool that can do the same. By copy/pasting, I was able to quickly set it for all 12 F-keys:
+
+```bash
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-1 "['<Super>F1']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-2 "['<Super>F2']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-3 "['<Super>F3']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-4 "['<Super>F4']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-5 "['<Super>F5']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "['<Super>F6']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-7 "['<Super>F7']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-8 "['<Super>F8']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-9 "['<Super>F9']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-10 "['<Super>F10']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-11 "['<Super>F11']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-12 "['<Super>F12']"
 ```
 
 
