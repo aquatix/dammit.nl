@@ -5,7 +5,7 @@ Slug: pretty-gnome
 Authors: Michiel Scholten
 Category: howto
 Tags: linux, desktop, howto
-Status: draft
+Status: published
 Image: https://dammit.nl/images/content/20250331_gnomeshell_overview.png
 
 [![GNOME Shell overview](https://dammit.nl/images/content/20250331_gnomeshell_overview.png)](https://dammit.nl/images/content/20250331_gnomeshell_overview.png)
@@ -72,6 +72,41 @@ Now we got rid of that... thing, we can install the Deb package for Firefox, str
 sudo apt update
 sudo apt install firefox
 ```
+
+If you want Thunderbird, you can get it from the Mozilla Team PPA after creating a configuration file that should ensure it will not get overwritten by the Snap `.deb` again.
+
+```bash
+# Use nano or vim to create a new config file
+sudo nano /etc/apt/preferences.d/mozillateamppa
+```
+
+Now add this to 'pin' the package to the Mozilla Team version:
+
+```ini
+Package: thunderbird*
+Pin: release o=LP-PPA-mozillateam
+Pin-Priority: 1001
+```
+
+You can additionally add the following to deprioritise the Ubuntu version for extra measure:
+
+```ini
+Package: thunderbird*
+Pin: release o=Ubuntu
+Pin-Priority: -1
+```
+
+When you were using `nano` to edit this file, press <kbd>ctrl+x</kbd> to exit and <kbd>y</kbd> to save.
+
+Now install Thunderbird again:
+
+```bash
+sudo add-apt-repository ppa:mozillateam/ppa
+sudo apt update
+sudo apt install thunderbird
+```
+
+Myself, I use Evolution, BTW.
 
 
 ## Making it pretty and pretty useful
@@ -230,7 +265,7 @@ bash -c "$(wget -qO- https://git.io/vQgMr)"
 # Choose option 10, Argonaut, or another pretty set of colours that suits your fashion
 ```
 
-Right click the terminal, click Preferences. Under General, uncheck 'Enable the menu accelerator key (F10 by default)' so we can use `mc` and other applications correctly.
+Right click the terminal, click Preferences. Under General, uncheck 'Enable the menu accelerator key (<kbd>F10</kbd> by default)' so we can use `mc` and other applications correctly.
 
 There should be an Argonaut entry under the Profiles in the left bar. Select it, click its little arrow button and make it the default. In the Text tab right next to it, you can make the default size of the terminal window a bit bigger by increasing the columns and rows settings (I use 120 and 40 for example).
 
@@ -404,3 +439,5 @@ flatpak install org.gnome.Fractal
 ## Wrapping up
 
 This scope-creeped a bit from tweaking GNOME to 'how to set up my laptop/workstation', but I hope it will provide some extra inspiration for your own environment.
+
+[![Pretty GNOME Shell final result](https://dammit.nl/images/content/20250401_pretty_gnome_final_result.png)](https://dammit.nl/images/content/20250401_pretty_gnome_final_result.png)
