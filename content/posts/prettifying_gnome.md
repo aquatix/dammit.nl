@@ -294,7 +294,7 @@ _My custom Starship prompt, with Git, virtualenv support (and more)._
 
 The [tmux terminal multiplexer](https://github.com/tmux/tmux/wiki) is better than `screen`, and provides a way of tiling in your terminal, and/or having multiple windows inside of it. Apart from that, it's great for being able to detach from that session and continue later - especially handy when run on a remote computer.
 
-[My tmux config](https://github.com/aquatix/dotfiles/blob/master/.tmux.conf) has not changed for more than six years, and serves me every day in various forms and ways.
+[My tmux config](https://github.com/aquatix/dotfiles/blob/master/.tmux.conf) has not changed for more than six years, and serves me every day in various forms and ways. It *does* change the prefix to <kbd>ctrl</kbd>+<kbd>a</kbd> like in `screen` though as that has been in my muscle memory for too long.
 
 
 ![tmuxinator config for dammIT](https://dammit.nl/images/content/20250401_tmuxinator_dammit.png)
