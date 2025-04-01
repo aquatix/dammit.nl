@@ -1,6 +1,6 @@
 Title: Pretty Gnome
 Started: 2016-02-24, 2017-04-26 16:17:00, 2017-06-03, 2018-11-25, 2018-11-26, 2019-02-26, 2019-08-06, 2025-03-30, 2025-03-31
-Date: 2025-03-31 16:17:00
+Date: 2025-04-01 13:37:00
 Slug: pretty-gnome
 Authors: Michiel Scholten
 Category: howto
@@ -8,13 +8,13 @@ Tags: linux, desktop, howto
 Status: draft
 Image: https://dammit.nl/images/content/20250331_gnomeshell_overview.png
 
-[![Gnome Shell overview](https://dammit.nl/images/content/20250331_gnomeshell_overview.png)](https://dammit.nl/images/content/20250331_gnomeshell_overview.png)
+[![GNOME Shell overview](https://dammit.nl/images/content/20250331_gnomeshell_overview.png)](https://dammit.nl/images/content/20250331_gnomeshell_overview.png)
 
 This howto has been stewing for the greater part of a decade, and I finally came around to writing it as I was freshly installing Ubuntu 25.04 on my ThinkPad T480s hacktop. Most of the tweaks apply for Gnome 48 (and probably 47 still) on whatever distribution you like, but there are a few additional steps to decrustify Ubuntu.
 
 To show you how far back this draft goes, the second version started like this:
 
-> This little howto has been long in the making, as I wanted to do a write-up of how I themed and tweaked my Gnome(-Shell) based desktops to my liking for quite a while. My desktop environments are based on Ubuntu, but this howto can be applied to any distribution and OS that runs Gnome-Shell. The setup described here is tested on at least Gnome 3.28, 3.30 and 3.32 (latest Gnome release), so for example works on Ubuntu 18.04 LTS and 19.04.
+> This little howto has been long in the making, as I wanted to do a write-up of how I themed and tweaked my Gnome (Shell) based desktops to my liking for quite a while. My desktop environments are based on Ubuntu, but this howto can be applied to any distribution and OS that runs Gnome Shell. The setup described here is tested on at least Gnome 3.28, 3.30 and 3.32 (latest Gnome release), so for example works on Ubuntu 18.04 LTS and 19.04.
 
 Yeah.
 
@@ -22,16 +22,16 @@ The first version was from February 2016, before Ubuntu even switched (back) to 
 
 So anyway!
 
-On Ubuntu, I started with installing the 'vanilla' version of Gnome-Shell by installing the `ubuntu-gnome-desktop` package and choosing the `Gnome` or `GNOME on Xorg` session in the GDM login screen after you selecting my user. Otherwise, you get the Ubuntu tweaked version of Gnome-Shell, which might suite your tastes, but has the bar on the left side and some garish orange-based colours. I like orange, but the changes that `ubuntu-gnome-desktop` does to the bootscreen and the login screens are welcome, and it gives a bare-bones Gnome Shell to work with.
+On Ubuntu, I started with installing the 'vanilla' version of Gnome Shell by installing the `ubuntu-gnome-desktop` package and choosing the `GNOME` or `GNOME on Xorg` session in the GDM login screen after selecting my user. Otherwise, you get the Ubuntu tweaked version of Gnome Shell, which might suite your tastes, but has the bar on the left side and some other tweaks I do not necessarily want (and previously some garish orange-based colours). I like orange, but the changes that `ubuntu-gnome-desktop` does to the bootscreen and the login screens are welcome, and it gives a bare-bones Gnome Shell to work with.
 
 Speaking of Ubuntu, first we now really have to...
 
 
 ## Nuke snap from orbit
 
-I have feelings for Snap. They consist of me liking `.deb` files and even flatpak a lot better, and not liking the weird (resource) issues that the Snap daemon and its packages tend to bring to the table. Yes, things have grown better, no, I'm still not going to use it.
+I have feelings for Snap. They consist of me liking `.deb` files and even Flatpak a lot better, and not liking the weird (resource) issues that the Snap daemon and its packages tend to bring to the table. Yes, things have grown better; no, I'm still not going to use it.
 
-Assuming that you want to keep Firefox (I still love my little fox), follow the instructions on [the Mozilla howto](https://support.mozilla.org/en-US/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions), but do not install Firefox from there just yet.
+Assuming that you want to keep Firefox (I still love my little fox), follow the instructions on [the Mozilla howto](https://support.mozilla.org/en-US/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions) to prepare using the 'real' `.deb` version, but do not install Firefox from there just yet.
 
 After that, close Firefox, then `sudo apt remove firefox* thunderbird*` to remove the snap-based Deb packages from Ubuntu.
 
@@ -89,21 +89,22 @@ sudo apt install gnome-browser-connector
 
 Previously, I had some extensions to declutter the environment, but Gnome has been taking care of that itself and is really usable already without additions; I think it cleaned up quite nicely in recent times. Most of the extensions I will list here and which I use will actually add functionality, but in such a way that it keeps out of your way while still providing extra information or convenience.
 
-Start with the [User Themes](https://extensions.gnome.org/extension/19/user-themes/) extension, as that enables custom themes for Gnome-Shell, about which I'll speak later on.
+Let's start with the [User Themes](https://extensions.gnome.org/extension/19/user-themes/) extension, as that enables custom themes for Gnome Shell, about which I'll speak later on.
 
-Now start Extension Manager or navigate to [the Gnome Extension site](). There you find a lot of additions and tweaks for Gnome Shell to be installed with a single click.
+Now launch the Extension Manager application or navigate to [the Gnome Extension site](https://extensions.gnome.org/). There you find a lot of additions and tweaks for Gnome Shell to be installed with a single click.
 
 My suggestions:
 
-- [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) - statusbar icons for certain applicatoins
-- [Astra Monitor](https://extensions.gnome.org/extension/6682/astra-monitor/) - useful graphs showing how busy your device is (`sudo apt install nethogs iotop gir1.2-gtop-2.0`)
-- [Bluetooth Battery Meter](https://extensions.gnome.org/extension/6670/bluetooth-battery-meter/) - show battery status for your various devices straight in the Bluetooth panel, or even the top panel if you want
+- [AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/) - statusbar icons for certain applications
+- [Astra Monitor](https://extensions.gnome.org/extension/6682/astra-monitor/) - useful graphs showing how busy your device is (needs `sudo apt install nethogs iotop gir1.2-gtop-2.0` to be more effective)
+- [Bluetooth Battery Meter](https://extensions.gnome.org/extension/6670/bluetooth-battery-meter/) - show battery status for your various devices straight in the Bluetooth panel, or even the top panel if you want; also for non-Bluetooth devices like mice, through Upower
+  ![Battery indicator mouse](https://dammit.nl/images/content/20250401_battery_indicator.png)
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) (this by default blurs the top bar. If you like that, do not install the Transparent Top Bar extension; otherwise config to not blur the top panel and use that extension)
 - [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) - (automatically) keep the screen from going blank/off
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - super handy connector with your mobile phone, showing notifications, sending files to and fro, auto pausing music on incoming calls, showing battery status and lots more
 - [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/) - tweak Gnome Shell
-- [No Overview](https://extensions.gnome.org/extension/4099/no-overview/) - do not stay on zoomed-out 'overview' mode when you log into Gnome, but show the desktop
-- [OpenWeather](https://extensions.gnome.org/extension/6655/openweather/) - weather, of course
+- [No overview at start-up](https://extensions.gnome.org/extension/4099/no-overview/) - do not stay on zoomed-out 'overview' mode when you log into Gnome, but show the desktop
+- [OpenWeather Refined](https://extensions.gnome.org/extension/6655/openweather/) - weather, of course
 - [Quick Settings Audio Panel](https://extensions.gnome.org/extension/5940/quick-settings-audio-panel/) - creates a new panel (or puts the bars in the existing panel) containing volumes and media control in the quick settings
 - [Rounded Window Corners Reborn](https://extensions.gnome.org/extension/7048/rounded-window-corners-reborn/) - adjustable border radius for your windows, to add that playful effect
 - [Tiling Shell](https://extensions.gnome.org/extension/7065/tiling-shell/) - very well executed tiling window system with both great keyboard and mouse support, definable layouts and other handy quality-of-life things
@@ -128,7 +129,7 @@ Astra Monitor:
 - Memory > Header: History Graph, Show: yes, Width: 50; Realtime Bar, Show: no
 - Network > Headers: IO, IO History Graph Width: 50
 
-Blur my shell:
+Blur my Shell:
 
 - Panel: disable if you like to use the Transparent Top Bar extension instead
 
@@ -140,7 +141,7 @@ Day Progress:
 
 GSConnect:
 
-- Whatever you like to enable or disable when using it with your phone
+- Whatever you like to enable or disable when using it with your phone (use the excellent KDE Connect app)
 
 Just Perfection:
 
@@ -150,7 +151,10 @@ Just Perfection:
 
 OpenWeather Refined:
 
-- ???
+- Adjust the Units to your locale/preferences
+- Choose a Weather Provider (I use OpenWeather myself, with a free custom API key)
+- In Layout, choose the position in the panel; this can be with the clock in the middle of the bar, or for example at the right
+- Forecast: Keep Forecast Expanded, to be able to see the forecast immediately once you click on the temperature in the top bar
 
 Quick Settings Audio Panel:
 
@@ -212,9 +216,7 @@ Close the Tweaks application window and open it again to have the new theme opti
 
 Yes, we're going deeper. The terminal is in my top 3 most used applications, and I want it to look the part.
 
-used [Gogh](https://github.com/Mayccoll/Gogh) to choose a matching pleasant colour scheme. Gogh [supports a lot of colour schemes](https://mayccoll.github.io/Gogh/), so choose one to your liking. I found Afterglow to match nicely with the Materia theme, and it has pleasant colours with enough contrast, but without blinding me (which is why I choose dark-ish themes in general).
-
-I use a Gnome terminal colour theme by [Gogh](https://github.com/Gogh-Co/Gogh):
+I use a Gnome Terminal colour theme by [Gogh](https://github.com/Mayccoll/Gogh). Gogh [supports a lot of colour schemes](https://gogh-co.github.io/Gogh/), so choose one to your liking. I found Argonaut to match nicely with the overall theme, and providing enough contrast to be easily readable while also using pleasant colours. Gogh supports multiple terminal emulators, so you're not stuck with Gnome Terminal.
 
 ```bash
 # Prepare so Gogh can do its thing
@@ -230,7 +232,7 @@ bash -c "$(wget -qO- https://git.io/vQgMr)"
 
 Right click the terminal, click Preferences. Under General, uncheck 'Enable the menu accelerator key (F10 by default)' so we can use `mc` and other applications correctly.
 
-There should be an Argonaut entry under the Profiles in the left bar. Select it, click its little arrow button and make it default. In the Text tab right next to it, you can make the default size of the terminal window a bit bigger by increasing the columns and rows settings (I use 120 and 40 for example).
+There should be an Argonaut entry under the Profiles in the left bar. Select it, click its little arrow button and make it the default. In the Text tab right next to it, you can make the default size of the terminal window a bit bigger by increasing the columns and rows settings (I use 120 and 40 for example).
 
 
 !!! warning
@@ -249,13 +251,86 @@ curl -sS https://starship.rs/install.sh | sh
 
 You can use my starship config by [clone my dotfiles](https://github.com/aquatix/dotfiles) or [just getting the raw version of the toml config file](https://github.com/aquatix/dotfiles/blob/master/.config/starship.toml) and putting it in your `~/.config` directory.
 
-```
-sudo apt install direnv
+
+![Fish Starship prompt](https://dammit.nl/images/content/20250401_fish_starship.png)
+
+_My custom Starship prompt, with Git, virtualenv support (and more)._
+
+
+The [tmux terminal multiplexer](https://github.com/tmux/tmux/wiki) is better than `screen`, and provides a way of tiling in your terminal, and/or having multiple windows inside of it. Apart from that, it's great for being able to detach from that session and continue later - especially handy when run on a remote computer.
+
+[My tmux config](https://github.com/aquatix/dotfiles/blob/master/.tmux.conf) has not changed for more than six years, and serves me every day in various forms and ways.
+
+
+![tmuxinator config for dammIT](https://dammit.nl/images/content/20250401_tmuxinator_dammit.png)
+
+_tmux session started through tmuxinator, with setup for this weblog. Mind the bar at the bottom_
+
+
+Other useful tooling for (automating) CLI work are [direnv](https://direnv.net/) and [tmuxinator](https://github.com/tmuxinator/tmuxinator). `tmuxinator` helps automatically configuring `tmux` sessions, while `direnv` can load and unload environment variables depending on the current directory, so for example automatically enabling a Node and Python venv environment when you `cd` into a directory.
+
+Installing them is pretty easy:
+
+```bash
+sudo apt install direnv tmuxinator
 ```
 
-## Virtualfish
+An example tmuxinator config that sets up a little development/writing environment for my weblog:
 
-https://github.com/justinmayer/virtualfish
+```yaml
+# ~/.tmuxinator/dammit.yml
+
+name: dammit
+root: ~/workspace/projects/github/dammit.nl
+
+# Runs before everything. Use it to start daemons etc.
+on_project_start: git pull
+
+# Runs in each window and pane before window/pane specific commands. Useful for setting up interpreter versions.
+pre_window: vf activate pelican
+
+# Pass command line options to tmux. Useful for specifying a different tmux.conf.
+# tmux_options: -f ~/.tmux.mac.conf
+tmux_options: -2
+
+# Change the command to call tmux.  This can be used by derivatives/wrappers like byobu.
+# tmux_command: byobu
+
+windows:
+  - server: make devserver
+  - dammit:
+  - theme:
+      root: ~/workspace/projects/github/pelican-alchemy
+```
+
+This creates a `tmux` session with three windows, one with a running devserver, one with a prompt in the working dir ready to add a post, or edit something with for example `vim`, and one with a prompt in the theme directory.
+
+Split view:
+
+```yaml
+windows:
+  - notes:
+      #layout: layout af31,363x97,0,0{182x97,0,0,0,180x97,183,0[180x48,183,0,1,180x48,183,49,4]}
+      layout: main-vertical
+      panes:
+        - sudo -i
+        - opennotes
+  - example:
+      root: ~/workspace/projects/private/example-project
+      panes:
+        - vim tryout.py
+        - vf activate somethingelse; nvm use node
+
+# The latter window splits into two panes, opens a Python file in the one,
+# and activates a different venv and node env in the second
+```
+
+
+## Python terminal tooling
+
+For Python virtualenvs, [Virtualfish](https://github.com/justinmayer/virtualfish) is a useful helper, with functions like `vf new whatever_venv_you_want` for creating, `vf activate that_venv` for activating, and `vf upgrade an_old_venv` for updating an existing virtualenv to a new Python version.
+
+VirtualFish itself is a Python package, and to be able to install this 'system wide', or at least for your user, these days you have to specify `--break-system-packages` to convince `pip` you really want this package installed outside of a virtualenv.
 
 ```bash
 sudo apt install python3-pip
@@ -267,16 +342,21 @@ exec fish
 ```
 
 
-## uv
-
-https://github.com/astral-sh/uv/
+If you are familiar with modern Python development, [uv](https://github.com/astral-sh/uv/) will likely be on your radar. I like having it available outside of virtualenvs (so I can manage themselves), so I install it in my user home:
 
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Yet another script that you run straight from the tubes
 ```
 
 
-## AppImage applications
+## Alternative universal applications
+
+As we got rid of Snap, and not all applications are provided as a `.deb` package from a (Ubuntu or PPA) repository, we can use the universal AppImage and Flatpak formats instead.
+
+
+### AppImage applications
 
 Running the [PlexAmp AppImage](https://www.plex.tv/media-server-downloads/?cat=computer&plat=linux#plex-plexamp) or the excellent [Open Red Alert](https://www.openra.net/) or its [Combined Arms mod](https://github.com/Inq8/CAmod) can give you the following error:
 
@@ -293,7 +373,7 @@ sudo apt install libfuse2
 ```
 
 
-## Flatpak applications
+### Flatpak applications
 
 [Flathub has excellent documentation for setting up](https://flathub.org/setup), but I'll summarise here:
 
@@ -317,5 +397,10 @@ Afterwards, why not try the Gnome native Matrix client 'Fractal'?
 flatpak install fractal
 # Choose the option with app/org.gnome.Fractal/x86_64/stable
 # You can also install this directly by doing:
-flatpak install app/org.gnome.Fractal/x86_64/stable
+flatpak install org.gnome.Fractal
 ```
+
+
+## Wrapping up
+
+This scope-creeped a bit from tweaking GNOME to 'how to set up my laptop/workstation', but I hope it will provide some extra inspiration for your own environment.
