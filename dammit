@@ -104,12 +104,13 @@ elif [ $ACTION == "new" ]; then
     echo "" >> ${BLOGPOSTFILE}
     echo "" >> ${BLOGPOSTFILE}
     echo "" >> ${BLOGPOSTFILE}
-    echo "--- 8< --- Cheat-sheet: --- >8 ---" >> ${BLOGPOSTFILE}
+    echo "<!-- -- Cheat-sheet ------" >> ${BLOGPOSTFILE}
     echo "" >> ${BLOGPOSTFILE}
     echo "[books page]({filename}../pages/books.md)" >> ${BLOGPOSTFILE}
     echo "[hello post]({filename}../posts/hello.md)" >> ${BLOGPOSTFILE}
     echo "[![Linked image](https://dammit.nl/images/content/example.png)](https://dammit.nl/images/content/example.png)" >> ${BLOGPOSTFILE}
     echo "[![Linked gallery image](https://shuttereye.org/images/70/707272f27b6b7a68_2000-2000.jpg)](https://shuttereye.org/gallery/subgallery/IMG_example.jpg/view/)" >> ${BLOGPOSTFILE}
+    echo "-->" >> ${BLOGPOSTFILE}
     vim ${BLOGPOSTFILE}
 
 
