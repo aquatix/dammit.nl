@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2025-02-26
+Modified: 2025-04-08
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -400,6 +400,7 @@ Some books I'd like to read next in no particular order (apart from alphabetical
     <li><span class="label"></span> <span class="label">non-fiction</span> Andrew Hodges, Douglas R. Hofstadter - <a href="https://www.goodreads.com/book/show/150731.Alan_Turing">Alan Turing, the enigma</a></li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Andy Hunt, Dave Thomas - <a href="https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer">The Pragmatic Programmer</a></li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Annelies Verhelst & Victor Peters - <a href="https://www.goodreads.com/book/show/13038248-schrijven-voor-het-web-en-sociale-media">Schrijven voor het web & sociale media</a></li>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Benjamín Labatut - <a href="https://app.thestorygraph.com/books/482815ab-0759-46bc-8a5e-b5779bb33093">The MANIAC</a></li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Bill Bryson - <a href="https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything">A Short History of Everything</a></li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Clifford Stoll - <a href="https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg">The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage</a></li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Cor Molenaar - <a href="https://www.goodreads.com/book/show/8610308-internet-overleven">Internet overleven</a>: van flowerpower tot second life</li>
