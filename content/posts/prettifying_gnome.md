@@ -471,3 +471,12 @@ flatpak install org.gnome.Fractal
 This scope-creeped a bit from tweaking GNOME to 'how to set up my laptop/workstation', but I hope it will provide some extra inspiration for your own environment.
 
 [![Pretty GNOME Shell final result](https://dammit.nl/images/content/20250401_pretty_gnome_final_result.png)](https://dammit.nl/images/content/20250401_pretty_gnome_final_result.png)
+
+
+## Wallpaper
+
+_2025-04-11 per request_
+
+The wallpaper used in the example screenshots is sourced from the great [NASA Visions of the Future](https://www.jpl.nasa.gov/galleries/visions-of-the-future/) collection, to be exact the [The Grand Tour - JPL Travel Poster](https://www.jpl.nasa.gov/images/the-grand-tour-jpl-travel-poster/).
+
+I made this into [a 2560x1440 wallpaper](https://dammit.nl/images/content/nasa_visions_of_the_future/rocketships.png), and also made a [4K upscaled version](https://dammit.nl/images/content/nasa_visions_of_the_future/rocketships_upscayl_digital-art-4k.png) with the great [Upscayl](https://upscayl.org/) application. This one changes the details and colours a bit, which may or may not be to your liking, but at least it's sharp at 4K resolutions :) It's the one used in the screenshots.
