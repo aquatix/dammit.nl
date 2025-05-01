@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2025-04-29
+Modified: 2025-05-01
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -400,6 +400,7 @@ Some books I'd like to read next in no particular order (apart from alphabetical
 
 <h3 id="nonfiction">Non-Fiction <a class="headerlink" href="#nonfiction" title="Permanent link">¶</a></h3>
 <ul>
+    <li><span class="label"></span> <span class="label">non-fiction</span> Ada Palmer - <a href="https://app.thestorygraph.com/books/c6ddef0f-6e41-4148-b565-5ffaea77266d">Inventing the Renaissance: The Myth of a Golden Age</a></li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Andrew Hodges, Douglas R. Hofstadter - <a href="https://www.goodreads.com/book/show/150731.Alan_Turing">Alan Turing, the enigma</a></li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Andy Hunt, Dave Thomas - <a href="https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer">The Pragmatic Programmer</a></li>
     <li><span class="label"></span> <span class="label">non-fiction</span> Annelies Verhelst & Victor Peters - <a href="https://www.goodreads.com/book/show/13038248-schrijven-voor-het-web-en-sociale-media">Schrijven voor het web & sociale media</a></li>
