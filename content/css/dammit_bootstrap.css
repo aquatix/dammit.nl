@@ -359,7 +359,7 @@ li .label,
 .post-nav p, .post-nav .article-image
 {
     margin-bottom: 0;
-    font-size: 1.1rem;
+    font-size: 1.0rem;
 }
 
 
@@ -367,7 +367,7 @@ li .label,
 .main .container dl.row
 {
     font-family: 'Literata', serif;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 .content a[href]:not(:where(
