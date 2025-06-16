@@ -26,6 +26,9 @@
     font-display: swap;
 }
 
+/* Tell the browser and darkreader that this site is already 'dark' themed */
+:root { color-scheme: dark; }
+
 body
 {
     background-color: #333;
