@@ -59,7 +59,6 @@ thunderbird                128.8.1esr-1     684    latest/stable/â€¦  canonicalâ
 sudo snap remove firefox thunderbird desktop-security-center firmware-updater
 sudo snap remove prompting-client snapd-desktop-integration gtk-common-themes gnome-42-2204
 sudo snap remove snap-store bare
-sudo snap remove core22 snapd
 sudo snap remove core22
 sudo snap remove snapd
 
@@ -89,7 +88,7 @@ Pin: release o=LP-PPA-mozillateam
 Pin-Priority: 1001
 ```
 
-You can additionally add the following to deprioritise the Ubuntu version for extra measure:
+You can additionally add the following in the same file to deprioritise the Ubuntu version for extra measure:
 
 ```ini
 Package: thunderbird*
