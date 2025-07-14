@@ -21,6 +21,6 @@ _Google AI Overview Sales tool, image by HouseFresh_
 >
 > I hope you’re ready for a long read because this article is packed with examples, fresh data and way too many screenshots.
 
-Lengthy, but very good read about how AI summaries are not only very misleading, but also killing the sources they draw their information from. Aside from that, some dark-web behaviour on Reddit.
+Lengthy, but very good read by the good people from HouseFresh about how AI summaries are not only very misleading, but also killing the sources they draw their information from. Aside from that, some dark-web behaviour on Reddit.
 
 The way things are currently going, is that real reviewers will largely disappear (even more than they already have...), and even seasoned tech people like you and me will have trouble discerning whether information about products we are researching is trustworthy.
