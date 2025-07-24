@@ -1,7 +1,7 @@
 Title: Books
 Authors: Michiel Scholten
 Date: 2011-06-06
-Modified: 2025-05-01
+Modified: 2025-07-24
 Summary: List of books I've read in the past, with notes where applicable, and links to Goodreads.
 
 
@@ -17,6 +17,7 @@ Summary: List of books I've read in the past, with notes where applicable, and l
     <li><span class="label">20250429</span> <span class="label">comic</span> Christophe Arleston, Thierry Labrosse - <a href="https://www.goodreads.com/book/show/34530879-het-bloed-der-engelen">Het Bloed der Engelen</a> (Moréa #1)</li>
     <li><span class="label">20250429</span> <span class="label">comic</span> Christophe Arleston, Thierry Labrosse - <a href="https://www.goodreads.com/book/show/204264291-de-ruggengraat-van-de-draak">De ruggengraat van de Draak</a> (Moréa #2)</li>
     <li><span class="label">20250429</span> <span class="label">comic</span> Christophe Arleston, Thierry Labrosse - <a href="https://www.goodreads.com/book/show/34530952-het-vuur-van-de-tijd">Het vuur van de tijd</a> (Moréa #3)</li>
+    <li><span class="label">20250724</span> Brandon Sanderson - <a href="https://app.thestorygraph.com/books/85b30674-e613-41cb-ad4b-926db63491bf">Rhythm of War</a> (The Stormlight Archive #4)</li>
 </ol>
 
 <p><a href="#queue">My upcoming reads (queue)</a> &#8595;</p>
