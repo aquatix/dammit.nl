@@ -1,6 +1,7 @@
 Title: Übersimpel containers
 Started: 2025-03-04 21:09:40
 Date: 2025-03-04 22:41:45
+Modified: 2025-08-05 11:11:11
 Slug: ubersimpel-containers
 Location: Home
 Authors: Michiel Scholten
@@ -140,9 +141,9 @@ umount /mnt/proc
 
     Better dev and pts binding
 
-    In Ubuntu (and many other Linux distributions), PTYs are pseudo-devices identified under /dev/pts and thus a simple mount --bind won’t make it available in the target mount-point but, a recursive mount --rbind will.
+    In Ubuntu (and many other Linux distributions), PTYs are pseudo-devices identified under `/dev/pts` and thus a simple `mount --bind` won’t make it available in the target mount-point but, a recursive `mount --rbind` will.
 
-    So you can solve this by either mount binding /dev/ recursively using the option --rbind like so:
+    So you can solve this by either mount binding `/dev/` recursively using the option `--rbind` like so:
 
     ```
     sudo mount --rbind /dev/ /mnt/dev/
