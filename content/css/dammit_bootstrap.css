@@ -226,6 +226,7 @@ kbd
 }
 
 .admonition.hint .admonition-title,
+.admonition.info .admonition-title,
 .admonition.tip .admonition-title
 {
     color: #FFF;
@@ -520,6 +521,7 @@ div.attention p.admonition-title:before,
 div.important p.admonition-title:before,
 div.note p.admonition-title:before,
 div.hint p.admonition-title:before,
+div.info p.admonition-title:before,
 div.tip p.admonition-title:before {
   display: inline-block;
   font-style: normal;
@@ -552,6 +554,7 @@ div.attention p.admonition-title:before {
   vertical-align: -20%;
 }
 div.important p.admonition-title:before,
+div.info p.admonition-title:before,
 div.note p.admonition-title:before {
   height: 20px;
   width: 23px;

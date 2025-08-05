@@ -137,7 +137,7 @@ umount /mnt/proc
 
 [More reading](https://www.turnkeylinux.org/docs/chroot-to-repair-system)
 
-!!! hint
+!!! info
 
     Better dev and pts binding
 
