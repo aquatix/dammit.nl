@@ -136,4 +136,16 @@ umount /mnt/proc
 
 [More reading](https://www.turnkeylinux.org/docs/chroot-to-repair-system)
 
+!!! hint
+
+    Better dev and pts binding
+
+    In Ubuntu (and many other Linux distributions), PTYs are pseudo-devices identified under /dev/pts and thus a simple mount --bind won’t make it available in the target mount-point but, a recursive mount --rbind will.
+
+    So you can solve this by either mount binding /dev/ recursively using the option --rbind like so:
+
+    ```
+    sudo mount --rbind /dev/ /mnt/dev/
+    ```
+
 Good luck and have fun!
