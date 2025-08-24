@@ -12,10 +12,10 @@ Tags-examples: autism, backups, books, communication, conference, copyright, cov
 LImage: https://shuttereye.org/images/f0/f0f0f0f0f0f8ca74_2000-2000.jpg
 Image: https://dammit.nl/images/content/bert_hubert_night_falling_over_why2025.jpg
 
+Remember [when I wrote I was going to the WHY2025 hacker camp]({filename}../posts/why2025.md)? Because [I totally went there](https://shuttereye.org/goingout/why2025/) and it was great! I totally missed out on the opportunity to post on my weblog from there, but at least I [shared](https://mastodon.social/@diginaut/114989674567998382) a [few pics](https://mastodon.social/@diginaut/115001297734145732) on Mastodon when camping - did I mention [even the music was great there](https://mastodon.social/@diginaut/115010542850620035)?
+
 ![Night falling over WHY2025, me sitting next to my tent, working on my laptop](https://dammit.nl/images/content/bert_hubert_night_falling_over_why2025.jpg)
 <em>Night falling over WHY2025, me sitting next to my tent, working on my laptop. [Photo taken by Bert Hubert](https://mastodon.social/@bert_hubert@eupolicy.social/114989143238986636)</em>
-
-Remember [when I wrote I was going to the WHY2025 hacker camp]({filename}../posts/why2025.md)? Because [I totally went there](https://shuttereye.org/goingout/why2025/) and it was great! I totally missed out on the opportunity to post on my weblog from there, but at least I [shared](https://mastodon.social/@diginaut/114989674567998382) a [few pics](https://mastodon.social/@diginaut/115001297734145732) on Mastodon when camping - did I mention [even the music was great there](https://mastodon.social/@diginaut/115010542850620035)?
 
 One of the reasons I did not even really think about blogging while being there was that even though I brought a laptop, after using it to set up my DECT phone on the first day I only touched it to move it out of my way when I was in my tent. It was such a social and versatile experience that I did not even want to spend time behind my laptop. It also did not help that during day time it was pretty sunny and warm, so I wanted my bag to be as light as possible ;) #hydrate
 
