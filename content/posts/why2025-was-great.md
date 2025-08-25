@@ -6,10 +6,7 @@ Location: Home
 Authors: Michiel Scholten
 Status: published
 Category: conferences
-Category-examples: conferences, family, gadgets, howto, photo, posts (fallback), projects, reading, responses, study, thoughts, trips
 Tags: conference, energy, ethics, hackercamp, tech, trip
-Tags-examples: autism, backups, books, communication, conference, copyright, covid-19, desktop, dev, digimarks, energy, ethics, europython, family, fosdem, gadgets, gaming, health, hosting, howto, journal, kids, life, link, linux, meta, mobile, music, networking, notifications, opensource, photography, python, rant (fallback), reading, science, secondbrain, social, space, sync, tech, trip, ubuntu, vim, web, work
-LImage: https://shuttereye.org/images/f0/f0f0f0f0f0f8ca74_2000-2000.jpg
 Image: https://dammit.nl/images/content/bert_hubert_night_falling_over_why2025.jpg
 
 Remember [when I wrote I was going to the WHY2025 hacker camp]({filename}../posts/why2025.md)? Because [I totally went there](https://shuttereye.org/goingout/why2025/) and it was great! I totally missed out on the opportunity to post on my weblog from there, but at least I [shared](https://mastodon.social/@diginaut/114989674567998382) a [few pics](https://mastodon.social/@diginaut/115001297734145732) on Mastodon when camping - did I mention [even the music was great there](https://mastodon.social/@diginaut/115010542850620035)?
