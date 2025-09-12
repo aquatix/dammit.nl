@@ -1,14 +1,12 @@
 Title: Generating Python models from an existing database
 Started: 2025-09-12 15:12:02
 Date: 2025-09-12 16:42:19
-Slug: link-generate-python-models-from-database
+Slug: generate-python-models-from-database
 Location: Home
 Authors: Michiel Scholten
 Status: published
 Category: howto
-CategoryDISABLED: responses
 Tags: dev, digimarks, energy, howto, link, python
-LinkDISABLED: https://github.com/agronholm/sqlacodegen
 
 If you have an existing database - for example from an older application, or a dataset you downloaded - and want to use it with Python, you might want to have SQLAlchemy ORM models for it for easier querying.
 
