@@ -478,6 +478,7 @@ li .label
 {
     font-family: 'Lilex', monospace;
     font-size: 0.9rem;
+    font-style: italic;
     padding: .1rem .25rem;
     border-radius: .25rem;
 }
