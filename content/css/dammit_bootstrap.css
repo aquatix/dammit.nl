@@ -1,13 +1,38 @@
 /* dammIT styling */
 
-/* https://github.com/githubnext/monaspace */
+/* https://lilex.myrt.co/ and https://www.nerdfonts.com/ */
 @font-face {
-    font-family: 'MonaspaceArgon';
-    src: local('Monaspace Argon'), url('https://dammit.nl/images/fonts/MonaspaceArgonVarVF[wght,wdth,slnt].woff2') format('woff2'),
+    font-family: "Lilex";
+    src: url("https://cdn.aquariusoft.org/chromeos/LilexNerdFont-Medium.ttf");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: "Lilex";
+    src: url("https://cdn.aquariusoft.org/chromeos/LilexNerdFont-MediumItalic.ttf");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Lilex";
+    src: url("https://dammit.nl/images/fonts/Lilex-Medium.ttf");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Lilex";
+    src: url("https://dammit.nl/images/fonts/Lilex-MediumItalic.ttf");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
 
 /* https://github.com/googlefonts/literata */
 @font-face {
@@ -41,13 +66,13 @@ body
 .header
 {
     border-bottom: 0;
-    font-family: 'MonaspaceArgon', monospace;
+    font-family: 'Lilex', monospace;
 }
 
 article header
 {
     padding-bottom: 1em;
-    font-family: 'MonaspaceArgon', monospace;
+    font-family: 'Lilex', monospace;
 }
 
 article.teaser header
@@ -148,7 +173,7 @@ pre
 code
 {
     color: #FF9800;
-    font-family: 'MonaspaceArgon', monospace;
+    font-family: 'Lilex', monospace;
     /* Add a tiny bit of whitespace so the text flows better inline with the other font(s) */
     margin-left: .15rem;
     margin-right: .15rem;
@@ -438,6 +463,11 @@ article a:not(.dropdown-item):not(.text-decoration-none) {
     top: .25em;
 }
 
+.hljs-comment
+{
+    font-style: italic;
+}
+
 .content .footnote-backref
 {
     text-decoration: none !important;
@@ -446,7 +476,7 @@ article a:not(.dropdown-item):not(.text-decoration-none) {
 /* Book labels and such */
 li .label
 {
-    font-family: 'MonaspaceArgon', monospace;
+    font-family: 'Lilex', monospace;
     font-size: 0.9rem;
     padding: .1rem .25rem;
     border-radius: .25rem;
@@ -465,7 +495,7 @@ li .label
 
 .isso-comment-header, .isso-comment-footer
 {
-    font-family: 'MonaspaceArgon', monospace;
+    font-family: 'Lilex', monospace;
 }
 
 #isso-thread div.text-wrapper > div.text
