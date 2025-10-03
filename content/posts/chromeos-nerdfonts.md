@@ -1,7 +1,7 @@
 Title: NerdFonts on ChromeOS
 Started: 2023-12-06 13:24:02
 Date: 2023-12-06 16:40:02
-Modified: 2025-10-02 10:40:00
+Modified: 2025-10-03 10:40:00
 Slug: chromeos-nerdfonts
 Location: Home
 Authors: Michiel Scholten
@@ -125,6 +125,6 @@ term_.prefs_.set('user-css-text', '@font-face {font-family: "DejaVu Sans Mono Ne
 
 This method should work too, but might need re-applying after a reboot. It has as pre that you do not need to host a stylesheet somewhere.
 
-<div class="edit">edited at 2025-10-02 10:40</div>
+<div class="edit">edited at 2025-10-03 10:40</div>
 
 Added Lilex font as example for `font-family` for variants, changed the JetBrains example to a woff2 font.
