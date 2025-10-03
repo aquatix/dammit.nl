@@ -3,22 +3,6 @@
 /* https://lilex.myrt.co/ and https://www.nerdfonts.com/ */
 @font-face {
     font-family: "Lilex";
-    src: url("https://cdn.aquariusoft.org/chromeos/LilexNerdFont-Medium.ttf");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Lilex";
-    src: url("https://cdn.aquariusoft.org/chromeos/LilexNerdFont-MediumItalic.ttf");
-    font-weight: normal;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: "Lilex";
     src: url("https://dammit.nl/images/fonts/Lilex-Medium.ttf");
     font-weight: normal;
     font-style: normal;
