@@ -291,6 +291,13 @@ hr
     border: 0;
 }
 
+/* 'edited at yyyy-mm-dd hh:mm' remarks inside a post */
+.edit
+{
+    font-style: italic;
+    border-bottom: 1px dotted #ccc;
+}
+
 /*
 textarea,
 input[type=email],
