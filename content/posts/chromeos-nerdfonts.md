@@ -1,6 +1,7 @@
 Title: NerdFonts on ChromeOS
 Started: 2023-12-06 13:24:02
 Date: 2023-12-06 16:40:02
+Modified: 2025-10-02 10:40:00
 Slug: chromeos-nerdfonts
 Location: Home
 Authors: Michiel Scholten
@@ -29,7 +30,7 @@ Start with opening the extended terminal/SSH preferences by pasting (or typing) 
 
 @font-face {
     font-family: "JetBrains Sans Mono Nerd";
-    src: url("https://cdn.example.com/chromeos/JetBrainsMonoNerdFontMono-Regular.ttf");
+    src: url('https://cdn.example.com/chromeos/JetBrainsMonoNerdFontMono-Regular[opsz,wght].woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -40,9 +41,23 @@ Start with opening the extended terminal/SSH preferences by pasting (or typing) 
     font-weight: normal;
     font-style: normal;
 }
+
+/* Regular and italic variants for the same font have the same font-family */
+@font-face {
+    font-family: "Lilex Nerd";
+    src: url("https://cdn.example.com/chromeos/LilexNerdFont-Medium.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Lilex Nerd";
+    src: url("https://cdn.example.com/chromeos/LilexNerdFont-MediumItalic.ttf");
+    font-weight: normal;
+    font-style: italic;
+}
 ```
 
-This of course assumes you have access to a webserver to host such a file on, preferably with some of the fonts too. We'll skip over that part here for scope's sake.
+This of course assumes you have access to a webserver to host such a file on, preferably with some of the fonts too. We'll skip over that part here for scope's sake, but you can even use a Raspberry Pi Zero on your home line to serve it.
 
 In the 'Text font family' input field, type the name of the font you'd like to use, for example `'Hack Sans Mono Nerd', monospace` (this falls back to the default `monospace`).
 
@@ -109,3 +124,7 @@ term_.prefs_.set('user-css-text', '@font-face {font-family: "DejaVu Sans Mono Ne
 ```
 
 This method should work too, but might need re-applying after a reboot. It has as pre that you do not need to host a stylesheet somewhere.
+
+<div class="edit">edited at 2025-10-02 10:40</div>
+
+Added Lilex font as example for `font-family` for variants, changed the JetBrains example to a woff2 font.
