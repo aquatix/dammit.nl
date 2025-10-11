@@ -1,6 +1,7 @@
 /* Initialise highlight.js */
 hljs.highlightAll();
 
+/* Automatic copy-to-clipboard buttons, inspired by https://www.roboleary.net/2022/01/13/copy-code-to-clipboard-blog */
 /* Add copy to clipboard to all code blocks */
 let blocks = document.querySelectorAll("pre:has(code)");
 let copyButtonLabel = '<i class="fa-solid fa-copy"></i>';

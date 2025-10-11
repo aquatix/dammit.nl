@@ -163,6 +163,7 @@ code
     margin-right: .15rem;
 }
 
+/* Automatic copy-to-clipboard buttons, inspired by https://www.roboleary.net/2022/01/13/copy-code-to-clipboard-blog */
 /* header sticks to top of pre code blocks  */
 pre header
 {
