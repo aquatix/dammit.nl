@@ -163,14 +163,42 @@ code
     margin-right: .15rem;
 }
 
-/*
-pre
+/* header sticks to top of pre code blocks  */
+pre header
 {
-    background-color: #666;
-    padding: .5em;
-    border-radius: .25em;
+  position: sticky;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+
+  /* our button is placed at right side/end of header  */
+  display: flex;
+  justify-content: end;
 }
-*/
+
+/* code block */
+pre:has(code)
+{
+  position: relative;
+
+  /* add scrollbar if there is overflow */
+  overflow-y: auto;
+
+  /* trigger overflow for purpose of demo */
+  width: 200px;
+
+  background-color:black;
+  color:white;
+  padding-inline: 0.25rem;
+  padding-block-end: 1rem;
+}
+
+/* copy button */
+pre:has(code) button
+{
+   margin-block: 0.25rem 0.5rem;
+}
 
 kbd
 {
