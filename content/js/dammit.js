@@ -3,14 +3,14 @@ hljs.highlightAll();
 
 /* Add copy to clipboard to all code blocks */
 let blocks = document.querySelectorAll("pre:has(code)");
-let copyButtonLabel = "Copy Code";
+let copyButtonLabel = '<i class="fa-solid fa-copy"></i>';
 
 blocks.forEach((block) => {
     // Add a copy button to all blocks by adding it to a pre's header
     let codeHeader = document.createElement("header");
     let button = document.createElement("button");
     codeHeader.appendChild(button);
-    button.innerText = copyButtonLabel;
+    button.innerHTML = copyButtonLabel;
     block.prepend(codeHeader);
 
     // handle click event
@@ -26,9 +26,9 @@ async function copyCode(block, button) {
   await navigator.clipboard.writeText(text);
 
   // visual feedback that task is completed
-  button.innerText = "Code Copied";
+  button.innerHTML = '<i class="fa-solid fa-square-check"></i>';
 
   setTimeout(() => {
-    button.innerText = copyButtonLabel;
-  }, 700);
+    button.innerHTML = copyButtonLabel;
+  }, 1500);
 }

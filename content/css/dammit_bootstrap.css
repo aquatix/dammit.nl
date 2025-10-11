@@ -166,35 +166,46 @@ code
 /* header sticks to top of pre code blocks  */
 pre header
 {
-  position: sticky;
-  top: 0;
-  left: 0;
+    position: sticky;
+    top: 0;
+    left: 0;
 
-  width: 100%;
+    width: 100%;
 
-  /* our button is placed at right side/end of header  */
-  display: flex;
-  justify-content: end;
+    padding-bottom: 0;
+
+    /* copy button is placed at right side/end of header  */
+    display: flex;
+    justify-content: end;
 }
 
 /* code block */
 pre:has(code)
 {
-  position: relative;
+    position: relative;
 
-  /* add scrollbar if there is overflow */
-  overflow-y: auto;
+    /* add scrollbar if there is overflow */
+    overflow-y: auto;
 
-  background-color:black;
-  color:white;
-  padding-inline: 0.25rem;
-  padding-block-end: 1rem;
+    background-color: black;
+    color: white;
+    padding-inline: 0.25rem;
+    padding-block-end: 1rem;
+}
+
+pre code.hljs
+{
+    padding-top: 0 !important;
 }
 
 /* copy button */
 pre:has(code) button
 {
-   margin-block: 0.25rem 0.5rem;
+    margin-block: 0.25rem 0.5rem;
+
+    border: 1px solid #333;
+    border-radius: 0.25rem;
+    padding: 0 .5rem;
 }
 
 kbd
