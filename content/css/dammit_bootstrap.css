@@ -164,7 +164,7 @@ code
 }
 
 /* Automatic copy-to-clipboard buttons, inspired by https://www.roboleary.net/2022/01/13/copy-code-to-clipboard-blog */
-/* header sticks to top of pre code blocks  */
+/* Header sticks to top of pre code blocks  */
 pre header
 {
     position: sticky;
@@ -175,31 +175,33 @@ pre header
 
     padding-bottom: 0;
 
-    /* copy button is placed at right side/end of header  */
+    /* Copy button is placed at right side/end of header  */
     display: flex;
     justify-content: end;
 }
 
-/* code block */
+/* Code block */
 pre:has(code)
 {
     position: relative;
 
-    /* add scrollbar if there is overflow */
+    /* Add scrollbar if there is overflow */
     overflow-y: auto;
 
     background-color: black;
     color: white;
     padding-inline: 0.25rem;
+    /* Some extra whitespace at the end of the code block to make it look more balanced */
     padding-block-end: 1rem;
 }
 
+/* Needed to not have even more whitespace at the top/heading of the code block added by highlight.js */
 pre code.hljs
 {
     padding-top: 0 !important;
 }
 
-/* copy button */
+/* Copy button */
 pre:has(code) button
 {
     margin-block: 0.25rem 0.5rem;
