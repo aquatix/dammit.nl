@@ -185,9 +185,6 @@ pre:has(code)
   /* add scrollbar if there is overflow */
   overflow-y: auto;
 
-  /* trigger overflow for purpose of demo */
-  width: 200px;
-
   background-color:black;
   color:white;
   padding-inline: 0.25rem;
