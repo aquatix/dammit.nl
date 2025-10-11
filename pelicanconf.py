@@ -86,7 +86,7 @@ BOOTSTRAP_CSS = 'https://cdn.jsdelivr.net/npm/bootstrap@5/dist/css/bootstrap.min
 
 # Enable highlight.js
 THEME_CSS_OVERRIDES = [
-    '/css/dammit_bootstrap.css?20251003c',
+    '/css/dammit_bootstrap.css?20251011a',
     #'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.2.0/build/styles/base16/3024.min.css',
     'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.11.1/build/styles/devibeans.min.css',
     #'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.11.1/build/styles/srcery.min.css',
@@ -94,7 +94,7 @@ THEME_CSS_OVERRIDES = [
 ]
 THEME_JS_OVERRIDES = [
     'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.11.1/build/highlight.min.js',
-    '/js/dammit.js',
+    '/js/dammit.js?20251011a',
 ]
 
 # Several typographical improvements will be incorporated into the generated HTML via the Typogrify library https://pypi.org/project/typogrify/
