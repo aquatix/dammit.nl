@@ -114,4 +114,4 @@ pre:has(code) button
 
 It is the little details :)
 
-[![Linked image](https://dammit.nl/images/content/20251011_highlighted_code_block_copybtn.png)](https://dammit.nl/images/content/20251011_highlighted_code_block_copybtn.png)
+[![Screenshot of highlighted code block with copy button](https://dammit.nl/images/content/20251011_highlighted_code_block_copybtn.png)](https://dammit.nl/images/content/20251011_highlighted_code_block_copybtn.png)
