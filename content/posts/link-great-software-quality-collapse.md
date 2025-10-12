@@ -2,7 +2,7 @@ Title: The Great Software Quality Collapse: How We Normalized Catastrophe
 Started: 2025-10-12 10:42:13
 Date: 2025-10-12 11:32:12
 Slug: link-great-software-quality-collapse
-Location: Home
+Location: Home, couch
 Authors: Michiel Scholten
 Status: published
 Category: responses

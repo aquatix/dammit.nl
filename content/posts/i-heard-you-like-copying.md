@@ -2,7 +2,7 @@ Title: I heard you like copying
 Started: 2025-10-11 20:08:07
 Date: 2025-10-11 20:56:36
 Slug: i-heard-you-like-copying
-Location: Home
+Location: Home, kitchen table
 Authors: Michiel Scholten
 Status: published
 Category: howto

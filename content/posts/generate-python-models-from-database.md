@@ -3,7 +3,7 @@ Started: 2025-09-12 15:12:02
 Date: 2025-09-12 16:42:19
 Updated: 2025-09-12 18:03:00
 Slug: generate-python-models-from-database
-Location: Home
+Location: Home office
 Authors: Michiel Scholten
 Status: published
 Category: howto
