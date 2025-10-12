@@ -30,3 +30,5 @@ And in PyCharm it is used for some keywords too, which gives my code just a litt
 _Lilex used in PyCharm with 'digimarks' setup_
 
 I cannot get enough of those slants and almost handwritten-like characters :)
+
+Lilex also replaced Monaspice Neon on this weblog as the monospace font for not ony codeblocks, but also the navigation and the metadata texts; it immediately looked a bit cleaner and for some reason it vibes very well with Literata, so I am pretty pleased with this Li-Li duo.
