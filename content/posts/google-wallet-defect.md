@@ -1,7 +1,8 @@
 Title: Google Wallet: broken
 Started: 2025-10-02 14:37:33
-Modified: 2025-10-16
+Updated: 2025-10-16 14:23-14:40
 Date: 2025-10-16 12:48:33
+Modified: 2025-10-16 14:40:00
 Slug: google-wallet-broken
 Location: Home
 Authors: Michiel Scholten
@@ -47,16 +48,10 @@ Google’s move to break free app distribution and their hostile stance against 
 
 But where do I go?
 
-Well, at least back to <del>the middleages</del> physical cards. Also, I have [started tinkering with hardware to build a Linux PDA](https://shuttereye.org/home/tech/zyberdeck/PXL_20250919_100237353.jpg/view/), so at least something positive came out of this all I guess :)
+Well, at least back to <del>the middle ages</del> physical cards. Also, I have [started tinkering with hardware to build a Linux PDA](https://shuttereye.org/home/tech/zyberdeck/PXL_20250919_100237353.jpg/view/), so at least something positive came out of this all I guess :)
 
-If I even go further down this route, it would mean using my phone a lot less like the very useful pocket computer it is now, and - having a locked bootloader and no useful apps like termux - just use it as my agenda and photo camera. It really feels like going back in time... Let's hope this course can be averted. Please Google and other phone manufacturers, let us have the freedom to tinker with our **own** devices and use them as the powerful computers that they are.
+It reminds me of my [Planet Mobile]({filename}../posts/20140420-planet-mobile.md) post from eleven years ago. In 2014 I was already talking about the good old time of having a modular set of devices, each with their own forte, and that the current convergence - both with smart phones and tablets - was great, but that it seemed to discourage *creating*. Maybe being forced to use different form factor mobile devices will be a catalyst for mobile creativity and creation; I know that I had a lot of fun already going from discovering the [very interesting and fun looking uConsole](https://www.clockworkpi.com/uconsole) to getting myself a tiny Pi, keyboard and touchscreen and basically building/prototyping such a console myself with Lego.
+
+If I even go further down this route, it would mean using my phone a lot less like the very useful pocket computer it is now, and - having a locked bootloader and no useful apps like termux - just use it as my agenda and photo camera. It really feels like going back in time... Let's hope this course can be averted. Please Google and other phone manufacturers, let us have the freedom to tinker with our **own** devices and use them as the powerful personal computers that they are.
 
 **Bonus:** Interesting read about [bootloader locking/unlocking... AKA I want to relock my bootloader, should I?](https://www.reddit.com/r/LineageOS/comments/n7yo7u/a_discussion_about_bootloader_lockingunlocking/)
-
-<!-- -- Cheat-sheet ------
-
-[books page]({filename}../pages/books.md)
-[hello post]({filename}../posts/hello.md)
-[![Linked image](https://dammit.nl/images/content/example.png)](https://dammit.nl/images/content/example.png)
-[![Linked gallery image](https://shuttereye.org/images/70/707272f27b6b7a68_2000-2000.jpg)](https://shuttereye.org/gallery/subgallery/IMG_example.jpg/view/)
--->
