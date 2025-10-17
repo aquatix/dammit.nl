@@ -6,9 +6,7 @@ Location: Work
 Authors: Michiel Scholten
 Status: draft
 Category: thoughts
-Category-examples: conferences, family, gadgets, howto, photo, posts (fallback), projects, reading, responses, study, thoughts, trips
-Tags: design, energy, opensource, tech
-Tags-examples: autism, backups, books, communication, conference, copyright, covid-19, desktop, dev, digimarks, energy, ethics, europython, family, fosdem, gadgets, gaming, hackercamp, health, hosting, howto, journal, kids, life, link, linux, meta, mobile, music, networking, notifications, opensource, photography, python, rant (fallback), reading, science, secondbrain, social, space, sync, tech, trip, ubuntu, vim, web, work
+Tags: design, energy, fonts, opensource, tech
 Image: https://dammit.nl/images/content/20251011_vim_lilex.png
 
 I like to tinker with user interfaces and especially typefaces (fonts) have fascinated me for a long time. Not long ago, I rolled out [Literata]({filename}../posts/literata.md) on this weblog and a lot of other places where I read long-form texts (wait, it has been over a year already?!). Late 2023 I was pleasantly surprised by the [Monaspace families]({filename}../posts/monaspaced.md) for all things monospace (even the running texts of this weblog which I since changed to Literata). Having a nice monospace font is great for when you use text editors and - very important - terminal windows.

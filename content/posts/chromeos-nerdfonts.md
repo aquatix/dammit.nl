@@ -7,7 +7,7 @@ Location: Home
 Authors: Michiel Scholten
 Status: published
 Category: howto
-Tags: dev, energy, gadgets, howto, linux, mobile, opensource, web
+Tags: dev, energy, fonts, gadgets, howto, linux, mobile, opensource, web
 Image: https://shuttereye.org/images/49/4941616121616125_2000-2000.png
 
 ![ChromeOS hterm with NerdFonts-enabled vim](https://shuttereye.org/images/49/4941616121616125_2000-2000.png)

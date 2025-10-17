@@ -7,7 +7,7 @@ Location: Staircase
 Authors: Michiel Scholten
 Status: published
 Category: projects
-Tags: dev, energy, meta, web
+Tags: dev, energy, fonts, meta, web
 Image: https://dammit.nl/images/content/20240721_dammit_literata_vs_monospace_scaled.png
 
 Lately I have been reading quite a bit, and while doing so I came across the [Literata serif font](https://github.com/googlefonts/literata). I really like its style and how well it reads in both regular and italics, and decided to play around with it on my weblog.

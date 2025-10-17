@@ -6,7 +6,7 @@ Location: Home
 Authors: Michiel Scholten
 Status: published
 Category: projects
-Tags: dev, energy, meta, web
+Tags: dev, energy, fonts, meta, web
 Image: https://dammit.nl/images/content/monaspaced.png
 
 ![Monaspaced](https://dammit.nl/images/content/monaspaced.png)
