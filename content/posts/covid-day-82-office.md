@@ -12,4 +12,4 @@ This week, me and my colleagues started using the office again. It's a bit awkwa
 
 Transparent dividers have been ordered to separate the desks better (a 27" screen does not really cut it), and moving around the room sometimes is a little dance around each other.
 
-Most of my days I will still be working from home, where I have set up a pretty decent ~~nerdcave~~ home office, and which saves travel time (not that biking for about 12 minutes is such a big hassle, even a good way to wake up). Lets see where things go from here.
+Most of my days I will still be working from home, where I have set up a pretty decent <del>nerdcave</del> home office, and which saves travel time (not that biking for about 12 minutes is such a big hassle, even a good way to wake up). Lets see where things go from here.

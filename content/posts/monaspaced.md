@@ -19,4 +19,4 @@ Behold, using all five Monaspace families, from Argon as main body typeface, Kry
 
 Another example where it all comes together is [this post on Firefox]({filename}../posts/firefox-deb-ubuntu-2204.md).
 
-Enjoy the mon~~o~~aspaced dammIT HQ.
+Enjoy the mon<del>o</del>aspaced dammIT HQ.
