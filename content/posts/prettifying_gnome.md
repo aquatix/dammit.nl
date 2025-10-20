@@ -1,7 +1,7 @@
 Title: Pretty Gnome
 Started: 2016-02-24, 2017-04-26 16:17:00, 2017-06-03, 2018-11-25, 2018-11-26, 2019-02-26, 2019-08-06, 2025-03-30, 2025-03-31
 Date: 2025-04-01 13:37:00
-Modified: 2025-04-01 22:05:00
+Modified: 2025-04-01 22:05:00, 2025-10-20 16:36:00
 Slug: pretty-gnome
 Authors: Michiel Scholten
 Category: howto
@@ -64,6 +64,15 @@ sudo snap remove snapd
 
 # Now remove the snapd package
 sudo apt remove --purge snapd
+```
+
+Add a configuration file with nano or vim to prevent `snapd` from being installed again:
+
+```ini
+# sudo nano /etc/apt/preferences.d/snapd
+Package: snapd
+Pin: release a=*
+Pin-Priority: -10
 ```
 
 Now we got rid of that... thing, we can install the Deb package for Firefox, straight from the Mozilla repository we configured at the start.
@@ -479,3 +488,7 @@ _2025-04-11 per request_
 The wallpaper used in the example screenshots is sourced from the great [NASA Visions of the Future](https://www.jpl.nasa.gov/galleries/visions-of-the-future/) collection, to be exact the [The Grand Tour - JPL Travel Poster](https://www.jpl.nasa.gov/images/the-grand-tour-jpl-travel-poster/).
 
 I made this into [a 2560x1440 wallpaper](https://dammit.nl/images/content/nasa_visions_of_the_future/rocketships.png), and also made a [4K upscaled version](https://dammit.nl/images/content/nasa_visions_of_the_future/rocketships_upscayl_digital-art-4k.png) with the great [Upscayl](https://upscayl.org/) application. This one changes the details and colours a bit, which may or may not be to your liking, but at least it's sharp at 4K resolutions :) It's the one used in the screenshots.
+
+_2025-10-20 update_
+
+Added configuration file to pin `snapd` to a low priority to prevent it from getting installed again.
