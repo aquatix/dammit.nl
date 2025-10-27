@@ -12,19 +12,31 @@ Tags: energy, life
 Some fleeting and/or floating thoughts on those shortening days.
 
 > Wind soaring through trees
+>
 > Birds flying diagonally
+>
 > Raindrops pelting down
 
+::
+
 > Dark forms looming high
+>
 > Lights float in the dusk afar
+>
 > A black landscape crossed
 
 Similar in Dutch:
 
 > Vogels vliegen scheef
+>
 > Druppels op het raamkozijn
+>
 > Herfststorm blijft hangen
 
+::
+
 > Donkere vormen
+>
 > Lichten in de verte drijven
+>
 > Door een zwart landschap
